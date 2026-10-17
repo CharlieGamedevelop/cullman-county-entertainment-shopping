@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cullman County Entertainment and Shopping//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:cullman_therapeutic_recreation_halloween_party-20261024@cullman-count
+ y-entertainment-shopping
+DTSTAMP:20261017T120000Z
+DTSTART;TZID=America/Chicago:20261024T170000
+DTEND;TZID=America/Chicago:20261024T190000
+SUMMARY:Cullman Therapeutic Recreation Halloween Party
+LOCATION:Palomino RV Resort at Burrow-Hamilton Farm\, 1315 County Road 22
+ 2\, Cullman\, AL
+DESCRIPTION:A Halloween party for Therapeutic Recreation members with cos
+ tumes\, candy\, a costume contest and hot dogs grilled by Cullman police 
+ officers. The resort is ADA accessible. Please RSVP by Monday\, October 1
+ 9\; the Cullman Tribune story has the contact. Time: 5:00 PM. https://www
+ .cullmantribune.com/2026/10/17/everyone-belongs-here-cullman-therapeutic-
+ recreation-halloween-party-set-for-oct-24/
+URL:https://www.cullmantribune.com/2026/10/17/everyone-belongs-here-cullm
+ an-therapeutic-recreation-halloween-party-set-for-oct-24/
+END:VEVENT
+END:VCALENDAR

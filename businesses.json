@@ -3753,5 +3753,22 @@
    "towing service"
   ],
   "website": "https://www.perfectchoicetowing.com"
+ },
+ {
+  "category": "Finance & Insurance",
+  "name": "Listerhill Credit Union",
+  "service": "Credit union",
+  "town": "Cullman",
+  "address": "702 Industrial Dr SW, Cullman, AL 35055",
+  "phone": "(256) 383-9204",
+  "summary": "A brand new credit union branch on Industrial Drive SW in Cullman, open weekdays 9 AM to 5 PM with lending and mortgage help. Call or stop by with questions.",
+  "tags": [
+   "credit union",
+   "cullman",
+   "financial",
+   "new",
+   "loans"
+  ],
+  "website": "https://www.listerhill.com"
  }
 ]
