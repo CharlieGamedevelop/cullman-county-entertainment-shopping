@@ -3302,16 +3302,18 @@
  {
   "category": "Shopping & Retail",
   "name": "Mavens & Makers",
-  "service": "Makers market",
+  "service": "Kitchen and home store",
   "town": "Cullman",
   "address": "302 2nd Ave SE, Cullman, AL 35055",
-  "phone": "(256) 479-9866",
-  "summary": "A makers market on 2nd Ave SE in Cullman. A local shop worth a visit.",
+  "phone": "(256) 297-1097",
+  "summary": "A downtown kitchen and home store with quality cookware, knives and Alabama pantry goods. It also holds hands on cooking classes in its demonstration kitchen. Open Monday through Friday 10 AM to 5 PM and Saturday 10 AM to 4 PM.",
   "tags": [
    "cullman",
-   "makers market",
-   "specialty store"
-  ]
+   "kitchen store",
+   "cooking classes",
+   "downtown"
+  ],
+  "website": "https://www.mavensandmakers.com/"
  },
  {
   "category": "Shopping & Retail",

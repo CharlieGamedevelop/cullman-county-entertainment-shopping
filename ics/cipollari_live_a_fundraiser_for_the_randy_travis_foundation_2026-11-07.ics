@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cullman County Entertainment and Shopping//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:cipollari_live_a_fundraiser_for_the_randy_travis_foundation-20261107@
+ cullman-county-entertainment-shopping
+DTSTAMP:20261017T120000Z
+DTSTART;TZID=America/Chicago:20261107T180000
+DTEND;TZID=America/Chicago:20261107T200000
+SUMMARY:Cipollari Live: A Fundraiser for the Randy Travis Foundation
+LOCATION:Terri Pines Country Club\, 700 Pine Hill Drive\, Cullman\, AL
+DESCRIPTION:Cipollari\, a bluegrass band of six siblings from Hanceville\
+ , plays a benefit show for the Randy Travis Foundation. Tickets are free\
+ , but you need to reserve one through the link in the Cullman Tribune sto
+ ry. Time: 6:00 PM to 8:00 PM. https://www.cullmantribune.com/2026/10/16/h
+ ancevilles-cipollari-siblings-to-play-randy-travis-foundation-fundraiser-
+ nov-7-at-terri-pines/
+URL:https://www.cullmantribune.com/2026/10/16/hancevilles-cipollari-sibli
+ ngs-to-play-randy-travis-foundation-fundraiser-nov-7-at-terri-pines/
+END:VEVENT
+END:VCALENDAR

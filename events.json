@@ -289,6 +289,24 @@
   ]
  },
  {
+  "name": "Sourdough Class with Anett",
+  "start": "2026-10-29",
+  "time": "5:30 PM to 7:30 PM",
+  "venue": "Mavens & Makers, 302 2nd Avenue SE",
+  "town": "Cullman",
+  "host": "Mavens & Makers",
+  "summary": "A beginner friendly, two hour bread class presented with Danube Delights Bakery. Everyone goes home with a live sourdough starter. The class costs $100 and spots are reserved online through Mavens & Makers.",
+  "url": "https://www.cullmantribune.com/2026/10/16/after-national-dessert-day-rise-to-the-occasion-with-a-sourdough-class-at-mavens-makers/",
+  "group": "Classes and Community",
+  "cost": "$100",
+  "tags": [
+   "cooking",
+   "class",
+   "bread",
+   "downtown"
+  ]
+ },
+ {
   "name": "Southern Basics: Pies",
   "start": "2026-10-29",
   "time": "6:00 PM to 8:00 PM",
@@ -429,6 +447,24 @@
   ]
  },
  {
+  "name": "Cipollari Live: A Fundraiser for the Randy Travis Foundation",
+  "start": "2026-11-07",
+  "time": "6:00 PM to 8:00 PM",
+  "venue": "Terri Pines Country Club, 700 Pine Hill Drive",
+  "town": "Cullman",
+  "host": "Cipollari",
+  "summary": "Cipollari, a bluegrass band of six siblings from Hanceville, plays a benefit show for the Randy Travis Foundation. Tickets are free, but you need to reserve one through the link in the Cullman Tribune story.",
+  "url": "https://www.cullmantribune.com/2026/10/16/hancevilles-cipollari-siblings-to-play-randy-travis-foundation-fundraiser-nov-7-at-terri-pines/",
+  "group": "Arts, Music and Theater",
+  "cost": "Free with ticket",
+  "tags": [
+   "bluegrass",
+   "music",
+   "fundraiser",
+   "free"
+  ]
+ },
+ {
   "name": "Sportsworld Adult Old School Skate",
   "start": "2026-11-08",
   "time": "6:00 PM to 9:00 PM",
@@ -552,6 +588,38 @@
   "tags": [
    "thanksgiving",
    "community"
+  ]
+ },
+ {
+  "name": "Senior Christmas Party",
+  "start": "2026-12-18",
+  "time": "10:00 AM",
+  "venue": "The Omniplex, 1634 Field of Miracles Drive SW",
+  "town": "Cullman",
+  "host": "Cullman County Commission on Aging",
+  "summary": "The Commission on Aging hosts its Christmas party for seniors at the Omniplex. The Tourism calendar lists it as free.",
+  "url": "https://events.timely.fun/b8354ob3/event/78491656/20261218100000",
+  "group": "Classes and Community",
+  "cost": "Free",
+  "tags": [
+   "seniors",
+   "christmas",
+   "free"
+  ]
+ },
+ {
+  "name": "A Night at the Masters, Clubhouse Edition",
+  "start": "2027-04-10",
+  "venue": "Cotton Creek Venue, 417 3rd Avenue SW",
+  "town": "Cullman",
+  "host": "Flourish of Cullman",
+  "summary": "A Masters themed fundraiser for Flourish of Cullman. Check the calendar listing closer to the date for the start time.",
+  "url": "https://events.timely.fun/b8354ob3/event/78487345/20270410000000",
+  "group": "Classes and Community",
+  "tags": [
+   "fundraiser",
+   "golf",
+   "nonprofit"
   ]
  }
 ]
