@@ -1,0 +1,201 @@
+[
+ {
+  "group": "Getting Started",
+  "name": "Lion Central (Enrollment Services)",
+  "summary": "Start here with enrollment questions, records and signing up for classes.",
+  "phone": "(256) 352-8238",
+  "website": "https://www.wallacestate.edu/about-wscc/campus-directory/index.html",
+  "email": "lioncentral@wallacestate.edu"
+ },
+ {
+  "group": "Getting Started",
+  "name": "Admissions",
+  "summary": "Apply to Wallace State and send in your new student documents here. Staff can help you get started.",
+  "phone": "(256) 352-8000",
+  "website": "https://www.wallacestate.edu/register-now",
+  "email": "newstudent@wallacestate.edu"
+ },
+ {
+  "group": "Getting Started",
+  "name": "Campus Tours and Recruiting",
+  "summary": "Want to see the campus first? Book a free tour and meet the recruiting team.",
+  "phone": "(256) 352-8031",
+  "website": "https://www.wallacestate.edu/campus-information/recruiting",
+  "email": "recruiting@wallacestate.edu"
+ },
+ {
+  "group": "Getting Started",
+  "name": "Dual Enrollment",
+  "summary": "High school students can take college classes and earn credit early. The number listed here is the Career Academy contact for Hanceville, Fairview, Holly Pond and nearby schools.",
+  "phone": "(256) 352-8283",
+  "website": "https://www.wallacestate.edu/deoptions/index.html"
+ },
+ {
+  "group": "Paying for College",
+  "name": "Financial Aid",
+  "summary": "Get help with the FAFSA, grants and other aid that can lower the cost of school.",
+  "phone": "(256) 352-8182",
+  "website": "https://www.wallacestate.edu/financial-aid",
+  "email": "finaid@wallacestate.edu"
+ },
+ {
+  "group": "Paying for College",
+  "name": "Scholarships",
+  "summary": "The Future Foundation offers more than 150 scholarships for new and current students. You apply online after you enroll.",
+  "phone": "(256) 352-7842",
+  "website": "https://wsccfuturefoundation.org/scholarships/",
+  "email": "foundation@wallacestate.edu"
+ },
+ {
+  "group": "Paying for College",
+  "name": "Cashier's Office",
+  "summary": "Pay tuition and fees or ask questions about your bill.",
+  "phone": "(256) 352-8141",
+  "website": "https://www.wallacestate.edu/cashier",
+  "email": "cashier@wallacestate.edu"
+ },
+ {
+  "group": "Help in the Classroom",
+  "name": "Advising and Center for Student Success",
+  "summary": "Advisors help you pick classes, plan your path and stay on track to finish.",
+  "phone": "(256) 352-8040",
+  "website": "https://www.wallacestate.edu/advising",
+  "email": "advising@wallacestate.edu"
+ },
+ {
+  "group": "Help in the Classroom",
+  "name": "Free Tutoring Lab",
+  "summary": "Get free help with subjects like math, English, science and more.",
+  "phone": "(256) 352-7821",
+  "website": "https://www.wallacestate.edu/student-services/free-tutoring",
+  "email": "tutor@wallacestate.edu"
+ },
+ {
+  "group": "Help in the Classroom",
+  "name": "Testing Center",
+  "summary": "Take placement tests and other exams on the 4th floor of the Bailey Center. Call ahead to book a time.",
+  "phone": "(256) 352-8248",
+  "website": "https://www.wallacestate.edu/advising/placement-testing.html"
+ },
+ {
+  "group": "Help in the Classroom",
+  "name": "Library",
+  "summary": "Find books, research help and quiet study space. The library is open some evenings and Saturdays.",
+  "phone": "(256) 352-8260",
+  "website": "https://www.wallacestate.edu/library"
+ },
+ {
+  "group": "Help in the Classroom",
+  "name": "Accessibility and Disability Services",
+  "summary": "Students with disabilities can ask for classroom accommodations here. Applying for accommodations is separate from applying to the college.",
+  "phone": "(256) 352-8052",
+  "website": "https://www.wallacestate.edu/non-discrimination/125388204_ada_student_handbook_2025.pdf",
+  "email": "adaoffice@wallacestate.edu"
+ },
+ {
+  "group": "Help in the Classroom",
+  "name": "TRIO Student Support Services",
+  "summary": "This program gives extra support to students who qualify, helping them stay in school and graduate.",
+  "phone": "(256) 352-8073",
+  "website": "https://www.wallacestate.edu/student-success/student-support-services.html"
+ },
+ {
+  "group": "Careers and Training",
+  "name": "Career Services",
+  "summary": "Get help with resumes, job searches and work based learning.",
+  "phone": "(256) 352-7450",
+  "website": "https://www.wallacestate.edu/careerdevelopment"
+ },
+ {
+  "group": "Careers and Training",
+  "name": "Workforce Development",
+  "summary": "Short training programs help adults build job skills for local employers.",
+  "phone": "(256) 352-7451",
+  "website": "https://www.wallacestate.edu/careerdevelopment"
+ },
+ {
+  "group": "Careers and Training",
+  "name": "Adult Education and GED",
+  "summary": "Free help for adults who want to earn a high school equivalency diploma and build basic skills.",
+  "phone": "(256) 352-7429",
+  "website": "https://www.wallacestate.edu/programs/adult-education"
+ },
+ {
+  "group": "Health, Safety and Support",
+  "name": "Mental Health Counseling",
+  "summary": "Students can get free, private counseling in person or online. An after hours crisis line is also available at (256) 783-2014.",
+  "phone": "(256) 427-9336",
+  "website": "https://www.wallacestate.edu/student-resources/mentalhealth.html",
+  "email": "counselor@wallacestate.edu"
+ },
+ {
+  "group": "Health, Safety and Support",
+  "name": "Lions' Kitchen Food Pantry",
+  "summary": "A free food pantry for all Wallace State students, located in the Student Center.",
+  "phone": "(256) 352-8462",
+  "website": "https://www.wallacestate.edu/student-resources/lionskitchen.html"
+ },
+ {
+  "group": "Health, Safety and Support",
+  "name": "Wallace State Cares",
+  "summary": "Not sure where to start with a personal need? This team can point you to the right help.",
+  "phone": "(256) 352-8462",
+  "website": "https://www.wallacestate.edu/student-resources.html"
+ },
+ {
+  "group": "Health, Safety and Support",
+  "name": "Veterans Services",
+  "summary": "Veterans, service members and their families can get help using VA education benefits.",
+  "phone": "(256) 352-8255",
+  "website": "https://www.wallacestate.edu/about-wscc/military.html"
+ },
+ {
+  "group": "Health, Safety and Support",
+  "name": "Campus Police",
+  "summary": "An officer is always on duty to keep campus safe. For emergencies, call 911.",
+  "phone": "(256) 735-9975",
+  "website": "https://www.wallacestate.edu/campuspolice/index.html"
+ },
+ {
+  "group": "Campus Life",
+  "name": "Campus Housing",
+  "summary": "Wallace State has residence halls for men and women within walking distance of classes.",
+  "phone": "(256) 352-8156",
+  "website": "https://www.wallacestate.edu/residence-halls.html"
+ },
+ {
+  "group": "Campus Life",
+  "name": "Bookstore",
+  "summary": "Buy or rent textbooks and grab Wallace State gear.",
+  "phone": "(256) 352-8100",
+  "website": "https://wallacestate.bncollege.com"
+ },
+ {
+  "group": "Campus Life",
+  "name": "Student Engagement",
+  "summary": "Find clubs, activities and ways to make friends on campus.",
+  "phone": "(256) 352-8340",
+  "website": "https://www.wallacestate.edu/student-life"
+ },
+ {
+  "group": "Community Services",
+  "name": "Dental Clinic",
+  "summary": "Wallace State runs a dental clinic on campus. Call to ask about services and appointments.",
+  "phone": "(256) 352-8300",
+  "website": "https://wallacestate.cleancatalog.net/wscc-telephone-directory"
+ },
+ {
+  "group": "Community Services",
+  "name": "Burrow Museum",
+  "summary": "The Evelyn Burrow Museum shows porcelain, pottery, glass and bronze from its collection of more than 5,000 pieces, plus visiting art exhibits. It's open Tuesday through Friday.",
+  "phone": "(256) 352-8457",
+  "website": "https://wallacestate.cleancatalog.net/wscc-telephone-directory"
+ },
+ {
+  "group": "Community Services",
+  "name": "Burrow Center for the Fine and Performing Arts",
+  "summary": "Home to Wallace State music and performances that are often open to the community.",
+  "phone": "(256) 352-8277",
+  "website": "https://wallacestate.cleancatalog.net/wscc-telephone-directory"
+ }
+]

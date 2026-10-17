@@ -1,0 +1,719 @@
+[
+ {
+  "group": "Emergency & Public Safety",
+  "name": "Emergency: Call 911",
+  "summary": "For any emergency anywhere in Cullman County, dial 911. Cullman County E911 sends police, fire or an ambulance.",
+  "town": "Cullman",
+  "phone": "911",
+  "website": "https://cullman911.org/",
+  "source": "https://cullman911.org/emergency/"
+ },
+ {
+  "group": "Emergency & Public Safety",
+  "name": "Cullman County Sheriff's Office",
+  "summary": "The Sheriff handles law enforcement outside city limits and in towns without their own police, and runs the county jail and pistol permits.",
+  "town": "Cullman",
+  "address": "1910 Beech Avenue SE, Cullman, AL 35055",
+  "phone": "(256) 734-0342",
+  "website": "https://www.cullmansheriff.org",
+  "source": "https://www.co.cullman.al.us/contact.html"
+ },
+ {
+  "group": "Emergency & Public Safety",
+  "name": "Secret Witness Tip Line",
+  "summary": "Report a crime without giving your name. The Sheriff's Office runs this tip line.",
+  "town": "Cullman",
+  "phone": "(256) 734-0210",
+  "website": "https://www.cullmansheriff.org",
+  "source": "https://www.cullmansheriff.org"
+ },
+ {
+  "group": "Emergency & Public Safety",
+  "name": "Cullman Police Department",
+  "summary": "Cullman city police. Use this number for business calls that are not emergencies.",
+  "town": "Cullman",
+  "phone": "(256) 775-7160",
+  "website": "https://www.cullmanal.gov/Directory.aspx",
+  "source": "https://www.cullmanal.gov/Directory.aspx"
+ },
+ {
+  "group": "Emergency & Public Safety",
+  "name": "Cullman Central Dispatch",
+  "summary": "The city dispatch line for police patrol and lake patrol calls that are not emergencies.",
+  "town": "Cullman",
+  "phone": "(256) 734-1434",
+  "website": "https://www.cullmanal.gov/Directory.aspx",
+  "source": "https://www.cullmanal.gov/Directory.aspx"
+ },
+ {
+  "group": "Emergency & Public Safety",
+  "name": "Cullman Fire and Rescue",
+  "summary": "The city fire department. Call this number for non emergency questions such as inspections.",
+  "town": "Cullman",
+  "phone": "(256) 775-7186",
+  "website": "https://www.cullmanal.gov/Directory.aspx",
+  "source": "https://www.cullmanal.gov/Directory.aspx"
+ },
+ {
+  "group": "Emergency & Public Safety",
+  "name": "Cullman County Emergency Management Agency",
+  "summary": "The EMA helps the county get ready for storms and disasters and keeps the county storm shelter list.",
+  "town": "Cullman",
+  "address": "2020 Beech Avenue SE, Cullman, AL 35055",
+  "phone": "(256) 739-5410",
+  "website": "https://co.cullman.al.us/ema/index.html",
+  "source": "https://co.cullman.al.us/ema/index.html"
+ },
+ {
+  "group": "Emergency & Public Safety",
+  "name": "Cullman County Animal Control",
+  "summary": "Call about stray, lost or dangerous animals in the county.",
+  "town": "Cullman",
+  "phone": "(256) 734-5448",
+  "website": "https://www.co.cullman.al.us/contact.html",
+  "source": "https://www.co.cullman.al.us/contact.html"
+ },
+ {
+  "group": "City of Cullman",
+  "name": "Cullman City Hall",
+  "summary": "City Hall is home to the City Clerk, the Mayor and the City Council. Call the main line and they will point you in the right direction.",
+  "town": "Cullman",
+  "address": "204 2nd Avenue NE, Cullman, AL 35055",
+  "phone": "(256) 775-7109",
+  "website": "https://www.cullmanal.gov/",
+  "source": "https://www.cullmanal.gov/101/Departments"
+ },
+ {
+  "group": "City of Cullman",
+  "name": "Mayor's Office",
+  "summary": "The Mayor leads city government and works with the City Council.",
+  "town": "Cullman",
+  "address": "204 2nd Avenue NE, Cullman, AL 35055",
+  "phone": "(256) 775-7102",
+  "website": "https://www.cullmanal.gov/174/Mayor",
+  "source": "https://www.cullmanal.gov/Directory.aspx"
+ },
+ {
+  "group": "City of Cullman",
+  "name": "Cullman City Council",
+  "summary": "The council has five members, each over an area like public safety, tourism, public works, utilities and general government. Agendas are posted on the city website.",
+  "town": "Cullman",
+  "address": "204 2nd Avenue NE, Cullman, AL 35055",
+  "phone": "(256) 775-7109",
+  "website": "https://www.cullmanal.gov/171/City-Council",
+  "source": "https://www.cullmanal.gov/Directory.aspx"
+ },
+ {
+  "group": "City of Cullman",
+  "name": "City Revenue Office (Business Licenses)",
+  "summary": "Get or renew a City of Cullman business license here.",
+  "town": "Cullman",
+  "address": "204 2nd Avenue NE, Cullman, AL 35055",
+  "phone": "(256) 775-7103",
+  "website": "https://www.cullmanal.gov/Directory.aspx",
+  "source": "https://www.cullmanal.gov/Directory.aspx"
+ },
+ {
+  "group": "City of Cullman",
+  "name": "Cullman Building Inspections",
+  "summary": "Permits and inspections for building inside the city.",
+  "town": "Cullman",
+  "phone": "(256) 775-7203",
+  "website": "https://www.cullmanal.gov/Directory.aspx",
+  "source": "https://www.cullmanal.gov/Directory.aspx"
+ },
+ {
+  "group": "City of Cullman",
+  "name": "Cullman Municipal Court",
+  "summary": "Handles city tickets and misdemeanor cases.",
+  "town": "Cullman",
+  "phone": "(256) 775-7136",
+  "website": "https://www.cullmanal.gov/Directory.aspx",
+  "source": "https://www.cullmanal.gov/Directory.aspx"
+ },
+ {
+  "group": "City of Cullman",
+  "name": "Cullman Utilities Billing Office",
+  "summary": "Questions about a city water, sewer or garbage bill.",
+  "town": "Cullman",
+  "phone": "(256) 775-7107",
+  "website": "https://www.cullmanal.gov/Directory.aspx",
+  "source": "https://www.cullmanal.gov/Directory.aspx"
+ },
+ {
+  "group": "City of Cullman",
+  "name": "Cullman Water and Wastewater Office",
+  "summary": "Call about water or sewer service problems inside the city.",
+  "town": "Cullman",
+  "phone": "(256) 775-7210",
+  "website": "https://www.cullmanal.gov/Directory.aspx",
+  "source": "https://www.cullmanal.gov/Directory.aspx"
+ },
+ {
+  "group": "City of Cullman",
+  "name": "Cullman Sanitation and Recycling",
+  "summary": "Questions about city garbage pickup and recycling service.",
+  "town": "Cullman",
+  "phone": "(256) 737-7560",
+  "website": "https://www.cullmanal.gov/Directory.aspx",
+  "source": "https://www.cullmanal.gov/Directory.aspx"
+ },
+ {
+  "group": "City of Cullman",
+  "name": "Cullman Street Department",
+  "summary": "Street repairs and upkeep inside the city.",
+  "town": "Cullman",
+  "phone": "(256) 775-8441",
+  "website": "https://www.cullmanal.gov/Directory.aspx",
+  "source": "https://www.cullmanal.gov/Directory.aspx"
+ },
+ {
+  "group": "City of Cullman",
+  "name": "Cullman Nuisance Complaints",
+  "summary": "Report overgrown lots, junk and other nuisance problems inside the city.",
+  "town": "Cullman",
+  "phone": "(256) 841-6868",
+  "website": "https://www.cullmanal.gov/Directory.aspx",
+  "source": "https://www.cullmanal.gov/Directory.aspx"
+ },
+ {
+  "group": "City of Cullman",
+  "name": "Cullman Parks, Recreation and Sports Tourism",
+  "summary": "Runs city parks, ball leagues, the Wellness and Aquatic Center, the OmniPlex and big events like Oktoberfest and the Strawberry Festival.",
+  "town": "Cullman",
+  "phone": "(256) 734-9157",
+  "website": "https://www.cullmanrecreation.org/",
+  "source": "https://www.cullmanrecreation.org/"
+ },
+ {
+  "group": "Cullman County Government",
+  "name": "Cullman County Commission",
+  "summary": "The county commission oversees county roads, budget and services. The office is open weekdays from 7:30 a.m. to 4:30 p.m.",
+  "town": "Cullman",
+  "address": "500 2nd Avenue SW, Room 105, Cullman, AL 35055",
+  "phone": "(256) 775-4878",
+  "hours": "Mon to Fri 7:30 AM to 4:30 PM",
+  "website": "https://www.co.cullman.al.us/commission.html",
+  "source": "https://www.co.cullman.al.us/commission.html"
+ },
+ {
+  "group": "Cullman County Government",
+  "name": "Cullman County Courthouse",
+  "summary": "The main courthouse line can connect you to most county offices.",
+  "town": "Cullman",
+  "address": "500 2nd Avenue SW, Cullman, AL 35055",
+  "phone": "(256) 739-3530",
+  "website": "https://www.co.cullman.al.us/contact.html",
+  "source": "https://www.co.cullman.al.us/contact.html"
+ },
+ {
+  "group": "Cullman County Government",
+  "name": "Revenue Commissioner",
+  "summary": "Buy or renew a car tag, pay property taxes and look up property. Satellite offices are in Baileyton, Dodge City and Hanceville.",
+  "town": "Cullman",
+  "address": "500 2nd Avenue SW, Room 102, Cullman, AL 35055",
+  "phone": "(256) 775-4776",
+  "website": "https://www.cullmanrevenuecommissioner.com/",
+  "source": "https://www.cullmanrevenuecommissioner.com/"
+ },
+ {
+  "group": "Cullman County Government",
+  "name": "Probate Office",
+  "summary": "Marriage licenses, deeds and records, business licenses, elections and probate court. Satellite annexes are in Dodge City and Holly Pond.",
+  "town": "Cullman",
+  "address": "500 2nd Avenue SW, Room 101, Cullman, AL 35055",
+  "phone": "(256) 775-4652",
+  "hours": "Mon to Fri 8 AM to 4:30 PM",
+  "website": "https://www.cullmancourts.org/probate.html",
+  "source": "https://www.cullmancourts.org/probate.html"
+ },
+ {
+  "group": "Cullman County Government",
+  "name": "Driver License Renewal (Probate)",
+  "summary": "Renew a driver license at the courthouse. For a road test, call the state examiners office at (256) 775-4822.",
+  "town": "Cullman",
+  "address": "500 2nd Avenue SW, Cullman, AL 35055",
+  "phone": "(256) 775-4812",
+  "hours": "Mon to Fri 8 AM to 4 PM",
+  "website": "https://www.co.cullman.al.us/contact.html",
+  "source": "https://www.cullmancourts.org/probate.html"
+ },
+ {
+  "group": "Cullman County Government",
+  "name": "Sales Tax and Revenue Enforcement",
+  "summary": "Questions about county sales tax for businesses.",
+  "town": "Cullman",
+  "phone": "(256) 775-1398",
+  "website": "https://www.co.cullman.al.us/sales-tax.html",
+  "source": "https://www.co.cullman.al.us/contact.html"
+ },
+ {
+  "group": "Cullman County Government",
+  "name": "County Road Department",
+  "summary": "Road questions, permits and problems on county roads.",
+  "town": "Cullman",
+  "phone": "(256) 796-2266",
+  "website": "https://co.cullman.al.us/road-department.html",
+  "source": "https://www.co.cullman.al.us/contact.html"
+ },
+ {
+  "group": "Cullman County Government",
+  "name": "County Sanitation Department",
+  "summary": "Garbage service questions for county customers.",
+  "town": "Cullman",
+  "phone": "(256) 287-1142",
+  "website": "https://www.co.cullman.al.us/contact.html",
+  "source": "https://www.co.cullman.al.us/contact.html"
+ },
+ {
+  "group": "Cullman County Government",
+  "name": "County Water Department",
+  "summary": "Water service and billing for Cullman County water customers.",
+  "town": "Cullman",
+  "phone": "(256) 734-2900",
+  "website": "https://www.co.cullman.al.us/contact.html",
+  "source": "https://www.co.cullman.al.us/contact.html"
+ },
+ {
+  "group": "Cullman County Government",
+  "name": "Veterans Affairs Office",
+  "summary": "The county veterans service office helps veterans and families with VA benefit claims.",
+  "town": "Cullman",
+  "phone": "(256) 775-4662",
+  "website": "https://www.co.cullman.al.us/contact.html",
+  "source": "https://www.co.cullman.al.us/contact.html"
+ },
+ {
+  "group": "Cullman County Government",
+  "name": "Economic Development",
+  "summary": "The county economic development office works with new and growing businesses.",
+  "town": "Cullman",
+  "phone": "(256) 775-4696",
+  "website": "https://www.co.cullman.al.us/contact.html",
+  "source": "https://www.co.cullman.al.us/contact.html"
+ },
+ {
+  "group": "Cullman County Government",
+  "name": "Cullman County Parks and Recreation",
+  "summary": "Runs the county parks and the Agricultural Trade Center. See the parks website for locations, camping and events.",
+  "town": "Cullman",
+  "website": "http://www.cullmancountyparks.com/",
+  "source": "http://www.cullmancountyparks.com/"
+ },
+ {
+  "group": "Cullman County Government",
+  "name": "Cullman Regional Airport",
+  "summary": "The county airport (KCMD) serves private and business flights.",
+  "town": "Cullman",
+  "phone": "(256) 775-1011",
+  "website": "https://www.co.cullman.al.us/contact.html",
+  "source": "https://www.co.cullman.al.us/contact.html"
+ },
+ {
+  "group": "Courts & Records",
+  "name": "Circuit Clerk",
+  "summary": "Court records, jury duty, traffic tickets, child support, small claims and passports.",
+  "town": "Cullman",
+  "address": "500 2nd Avenue SW, Room 303, Cullman, AL 35055",
+  "phone": "(256) 775-4654",
+  "hours": "Mon to Fri 8 AM to 4:30 PM, closed noon to 1",
+  "website": "https://www.cullmancourts.org/circuit-clerk.html",
+  "source": "https://www.cullmancourts.org/circuit-clerk.html"
+ },
+ {
+  "group": "Courts & Records",
+  "name": "Cullman County Courts",
+  "summary": "The Circuit and District Courts of the 32nd Judicial Circuit cover all of Cullman County.",
+  "town": "Cullman",
+  "address": "500 2nd Avenue SW, Cullman, AL 35055",
+  "phone": "(256) 739-3530",
+  "website": "https://www.cullmancourts.org",
+  "source": "https://www.cullmancourts.org"
+ },
+ {
+  "group": "Courts & Records",
+  "name": "District Attorney's Office",
+  "summary": "The District Attorney prosecutes criminal cases in Cullman County.",
+  "town": "Cullman",
+  "phone": "(256) 736-2800",
+  "website": "https://www.co.cullman.al.us/contact.html",
+  "source": "https://www.co.cullman.al.us/contact.html"
+ },
+ {
+  "group": "Towns & Cities",
+  "name": "Town of Baileyton",
+  "summary": "Town hall for Baileyton. Call with questions about local services, meetings and permits.",
+  "town": "Baileyton",
+  "address": "95 Fire Station Road, Baileyton, AL 35019",
+  "phone": "(256) 796-6447",
+  "source": "https://www.co.cullman.al.us/about.html"
+ },
+ {
+  "group": "Towns & Cities",
+  "name": "Town of Berlin",
+  "summary": "Town hall for Berlin. Call with questions about local services, meetings and permits.",
+  "town": "Berlin",
+  "address": "461 County Road 1615, Cullman, AL 35058",
+  "phone": "(256) 736-3138",
+  "source": "https://www.co.cullman.al.us/about.html"
+ },
+ {
+  "group": "Towns & Cities",
+  "name": "Town of Colony",
+  "summary": "Town hall for Colony. Call with questions about local services, meetings and permits.",
+  "town": "Colony",
+  "address": "65 Byars Road, Hanceville, AL 35077",
+  "phone": "(256) 287-1192",
+  "source": "https://www.co.cullman.al.us/about.html"
+ },
+ {
+  "group": "Towns & Cities",
+  "name": "Town of Dodge City",
+  "summary": "Town hall for Dodge City. Call with questions about local services, meetings and permits.",
+  "town": "Dodge City",
+  "address": "130 Howard Circle, Hanceville, AL 35077",
+  "phone": "(256) 287-0364",
+  "source": "https://www.co.cullman.al.us/about.html"
+ },
+ {
+  "group": "Towns & Cities",
+  "name": "Town of Fairview",
+  "summary": "Town hall for Fairview. Call with questions about local services, meetings and permits.",
+  "town": "Fairview",
+  "address": "7525 AL Highway 69 N, Cullman, AL 35058",
+  "phone": "(256) 796-5424",
+  "source": "https://www.co.cullman.al.us/about.html"
+ },
+ {
+  "group": "Towns & Cities",
+  "name": "Town of Garden City",
+  "summary": "Town hall for Garden City. Call with questions about local services, meetings and permits.",
+  "town": "Garden City",
+  "address": "501 1st Avenue S, Garden City, AL 35070",
+  "phone": "(256) 352-5408",
+  "source": "https://www.co.cullman.al.us/about.html"
+ },
+ {
+  "group": "Towns & Cities",
+  "name": "City of Good Hope",
+  "summary": "City hall for Good Hope. Call with questions about city services, meetings and permits.",
+  "town": "Good Hope",
+  "address": "135 Municipal Drive, Cullman, AL 35057",
+  "phone": "(256) 739-3757",
+  "source": "https://www.co.cullman.al.us/about.html"
+ },
+ {
+  "group": "Towns & Cities",
+  "name": "City of Hanceville",
+  "summary": "City hall for Hanceville. Call with questions about city services, meetings and permits.",
+  "town": "Hanceville",
+  "address": "112 Main Street SE, Hanceville, AL 35077",
+  "phone": "(256) 352-9830",
+  "website": "https://www.cityofhanceville.net/",
+  "source": "https://www.co.cullman.al.us/about.html"
+ },
+ {
+  "group": "Towns & Cities",
+  "name": "Town of Holly Pond",
+  "summary": "Town hall for Holly Pond. Call with questions about local services, meetings and permits.",
+  "town": "Holly Pond",
+  "address": "10885 US Highway 278 E, Holly Pond, AL 35083",
+  "phone": "(256) 796-2124",
+  "source": "https://www.co.cullman.al.us/about.html"
+ },
+ {
+  "group": "Towns & Cities",
+  "name": "Town of South Vinemont",
+  "summary": "Town hall for South Vinemont. Call with questions about local services, meetings and permits.",
+  "town": "South Vinemont",
+  "address": "36 Patton Drive, Cullman, AL 35179",
+  "phone": "(256) 737-5411",
+  "website": "https://www.townofsouthvinemont.com/",
+  "source": "https://www.co.cullman.al.us/about.html"
+ },
+ {
+  "group": "Towns & Cities",
+  "name": "Town of West Point",
+  "summary": "Town hall for West Point. Call with questions about local services, meetings and permits.",
+  "town": "West Point",
+  "address": "3990 County Road 1141, Vinemont, AL 35179",
+  "phone": "(256) 734-0006",
+  "source": "https://www.co.cullman.al.us/about.html"
+ },
+ {
+  "group": "Schools",
+  "name": "Cullman County Schools (central office)",
+  "summary": "The county school system runs more than two dozen campuses across Cullman County.",
+  "town": "Cullman",
+  "address": "402 Arnold Street NE, Cullman, AL 35055",
+  "phone": "(256) 734-2933",
+  "website": "https://www.ccboe.org/",
+  "source": "https://www.ccboe.org/"
+ },
+ {
+  "group": "Schools",
+  "name": "Cullman City Schools (central office)",
+  "summary": "The city school system serves about 3,200 students in five schools inside Cullman.",
+  "town": "Cullman",
+  "address": "301 1st Street NE, Cullman, AL 35055",
+  "phone": "(256) 734-2233",
+  "website": "https://www.cullmancats.net/",
+  "source": "https://www.cullmancats.net/"
+ },
+ {
+  "group": "Schools",
+  "name": "Cullman High School",
+  "summary": "A Cullman City Schools campus.",
+  "town": "Cullman",
+  "address": "510 13th Street NE, Cullman, AL 35055",
+  "phone": "(256) 734-3923",
+  "website": "https://cullmanhigh.cullmancats.net",
+  "source": "https://cullmanhigh.cullmancats.net"
+ },
+ {
+  "group": "Schools",
+  "name": "Cullman Middle School",
+  "summary": "A Cullman City Schools campus.",
+  "town": "Cullman",
+  "address": "800 2nd Avenue, Cullman, AL 35055",
+  "phone": "(256) 734-7959",
+  "website": "https://cullmanmiddle.cullmancats.net",
+  "source": "https://cullmanmiddle.cullmancats.net"
+ },
+ {
+  "group": "Schools",
+  "name": "East Elementary School",
+  "summary": "A Cullman City Schools campus.",
+  "town": "Cullman",
+  "address": "608 4th Avenue SE, Cullman, AL 35055",
+  "phone": "(256) 734-2232",
+  "website": "https://eastelementary.cullmancats.net",
+  "source": "https://eastelementary.cullmancats.net"
+ },
+ {
+  "group": "Schools",
+  "name": "West Elementary School",
+  "summary": "A Cullman City Schools campus.",
+  "town": "Cullman",
+  "address": "303 Rosemont Avenue SW, Cullman, AL 35055",
+  "phone": "(256) 734-4271",
+  "website": "https://westelementary.cullmancats.net",
+  "source": "https://westelementary.cullmancats.net"
+ },
+ {
+  "group": "Schools",
+  "name": "Cullman City Primary School",
+  "summary": "A Cullman City Schools campus.",
+  "town": "Cullman",
+  "address": "900 Hoehn Drive, Cullman, AL 35055",
+  "phone": "(256) 775-0234",
+  "website": "https://primaryschool.cullmancats.net",
+  "source": "https://primaryschool.cullmancats.net"
+ },
+ {
+  "group": "Schools",
+  "name": "Cold Springs High School",
+  "summary": "A Cullman County Schools high school.",
+  "town": "Cold Springs",
+  "address": "9010 County Road 109, Bremen, AL 35033",
+  "phone": "(256) 287-1787",
+  "website": "https://www.ccboe.org/",
+  "source": "https://www.ccboe.org/"
+ },
+ {
+  "group": "Schools",
+  "name": "Fairview High School",
+  "summary": "A Cullman County Schools high school.",
+  "town": "Fairview",
+  "address": "841 Welcome Road, Cullman, AL 35055",
+  "phone": "(256) 796-5106",
+  "website": "https://www.ccboe.org/",
+  "source": "https://www.ccboe.org/"
+ },
+ {
+  "group": "Schools",
+  "name": "Good Hope High School",
+  "summary": "A Cullman County Schools high school.",
+  "town": "Good Hope",
+  "address": "210 Good Hope School Road, Cullman, AL 35057",
+  "phone": "(256) 734-3807",
+  "website": "https://www.ccboe.org/",
+  "source": "https://www.ccboe.org/"
+ },
+ {
+  "group": "Schools",
+  "name": "Hanceville High School",
+  "summary": "A Cullman County Schools high school.",
+  "town": "Hanceville",
+  "address": "801 Commercial Street SE, Hanceville, AL 35077",
+  "phone": "(256) 352-6111",
+  "website": "https://www.ccboe.org/",
+  "source": "https://www.ccboe.org/"
+ },
+ {
+  "group": "Schools",
+  "name": "Holly Pond High School",
+  "summary": "A Cullman County Schools high school.",
+  "town": "Holly Pond",
+  "address": "160 New Hope Road, Holly Pond, AL 35083",
+  "phone": "(256) 796-5169",
+  "website": "https://www.ccboe.org/",
+  "source": "https://www.ccboe.org/"
+ },
+ {
+  "group": "Schools",
+  "name": "Vinemont High School",
+  "summary": "A Cullman County Schools high school.",
+  "town": "Vinemont",
+  "address": "105 High School Road, Vinemont, AL 35179",
+  "phone": "(256) 734-0571",
+  "website": "https://www.ccboe.org/",
+  "source": "https://www.ccboe.org/"
+ },
+ {
+  "group": "Schools",
+  "name": "West Point High School",
+  "summary": "A Cullman County Schools high school.",
+  "town": "West Point",
+  "address": "4314 County Road 1141, Cullman, AL 35057",
+  "phone": "(256) 734-5375",
+  "website": "https://www.ccboe.org/",
+  "source": "https://www.ccboe.org/"
+ },
+ {
+  "group": "Schools",
+  "name": "Cullman Area Technology Academy",
+  "summary": "Career and technical classes for county high school students.",
+  "town": "Cullman",
+  "address": "17640 Highway 31 N, Cullman, AL 35058",
+  "phone": "(256) 734-7740",
+  "website": "https://www.ccboe.org/",
+  "source": "https://www.ccboe.org/"
+ },
+ {
+  "group": "Schools",
+  "name": "Harmony School",
+  "summary": "A Cullman County Schools campus for younger grades.",
+  "town": "Logan",
+  "address": "4910 County Road 940, Logan, AL 35098",
+  "phone": "(256) 747-1427",
+  "website": "https://www.ccboe.org/",
+  "source": "https://www.ccboe.org/"
+ },
+ {
+  "group": "Schools",
+  "name": "Parkside School",
+  "summary": "A Cullman County Schools campus for younger grades.",
+  "town": "Baileyton",
+  "address": "12431 AL Highway 69 N, Baileyton, AL 35019",
+  "phone": "(256) 796-5568",
+  "website": "https://www.ccboe.org/",
+  "source": "https://www.ccboe.org/"
+ },
+ {
+  "group": "Schools",
+  "name": "Holly Pond K through 8 School",
+  "summary": "A Cullman County Schools campus for younger grades.",
+  "town": "Holly Pond",
+  "address": "91 Buckner Road, Holly Pond, AL 35083",
+  "phone": "(256) 796-5898",
+  "website": "https://www.ccboe.org/",
+  "source": "https://www.ccboe.org/"
+ },
+ {
+  "group": "Schools",
+  "name": "St. Bernard Preparatory School",
+  "summary": "A private Catholic day and boarding school for grades 7 through 12 on the grounds of St. Bernard Abbey, founded in 1891.",
+  "town": "Cullman",
+  "address": "1600 St. Bernard Drive SE, Cullman, AL 35055",
+  "phone": "(256) 739-6682",
+  "website": "https://www.stbernardprep.com/",
+  "source": "https://www.stbernardprep.com/contact"
+ },
+ {
+  "group": "Schools",
+  "name": "Cullman Christian School",
+  "summary": "A private Christian school in Cullman. Its middle and high school teams compete in AHSAA Class 1A.",
+  "town": "Cullman",
+  "address": "1803 Beech Avenue SE, Cullman, AL 35055",
+  "phone": "(256) 734-0734",
+  "website": "https://www.cullmanchristian.org/",
+  "source": "https://www.cullmanchristian.org/contact"
+ },
+ {
+  "group": "Schools",
+  "name": "Wallace State Community College",
+  "summary": "A large community college in Hanceville with associate degree, health science and technical programs.",
+  "town": "Hanceville",
+  "address": "801 Main Street NW, Hanceville, AL 35077",
+  "phone": "(256) 352-8000",
+  "website": "https://www.wallacestate.edu/",
+  "source": "https://www.wallacestate.edu/about-wscc/campus-directory/index.html"
+ },
+ {
+  "group": "Libraries & Transit",
+  "name": "Cullman County Public Library",
+  "summary": "The main library has books, free computers and WiFi, printing, notary service and programs for kids. A library card is free if you live, work or go to school in the county.",
+  "town": "Cullman",
+  "address": "200 Clark Street NE, Cullman, AL 35055",
+  "phone": "(256) 734-2720",
+  "hours": "Mon to Fri 9 AM to 6 PM, Sat 9 AM to 1 PM",
+  "website": "https://www.cullmanlib.org/",
+  "source": "https://www.cullmanlib.org/"
+ },
+ {
+  "group": "Libraries & Transit",
+  "name": "Shirley Burden Public Library (Hanceville)",
+  "summary": "A branch of the Cullman County Public Library System.",
+  "town": "Hanceville",
+  "address": "201 Commercial Street, Hanceville, AL 35077",
+  "phone": "(256) 352-0685",
+  "hours": "Tue to Fri 8 to 12 and 1 to 5, Sat 9 to 1",
+  "website": "https://www.cullmanlib.org/about-us/branches",
+  "source": "https://www.cullmanlib.org/about-us/branches"
+ },
+ {
+  "group": "Libraries & Transit",
+  "name": "Guy Hunt Library (Holly Pond)",
+  "summary": "A branch of the Cullman County Public Library System.",
+  "town": "Holly Pond",
+  "address": "60 Lions Park Road, Holly Pond, AL 35083",
+  "phone": "(256) 796-5226",
+  "hours": "Tue and Thu 10 to 5, Wed and Fri 1 to 5",
+  "website": "https://www.cullmanlib.org/about-us/branches",
+  "source": "https://www.cullmanlib.org/about-us/branches"
+ },
+ {
+  "group": "Libraries & Transit",
+  "name": "Garden City Municipal Library",
+  "summary": "A branch of the Cullman County Public Library System.",
+  "town": "Garden City",
+  "address": "501 1st Avenue S, Garden City, AL 35070",
+  "phone": "(256) 352-4552",
+  "hours": "Mon to Thu 12 to 5",
+  "website": "https://www.cullmanlib.org/about-us/branches",
+  "source": "https://www.cullmanlib.org/about-us/branches"
+ },
+ {
+  "group": "Libraries & Transit",
+  "name": "Tom Bevill Library (Colony)",
+  "summary": "A branch of the Cullman County Public Library System.",
+  "town": "Colony",
+  "address": "151 Byars Road, Hanceville, AL 35077",
+  "phone": "(256) 287-1573",
+  "hours": "Mon and Thu 10 to 3, Tue and Wed 12:30 to 5:30, 2nd Sat 10 to 3",
+  "website": "https://www.cullmanlib.org/about-us/branches",
+  "source": "https://www.cullmanlib.org/about-us/branches"
+ },
+ {
+  "group": "Libraries & Transit",
+  "name": "CARTS Public Transit",
+  "summary": "Cullman Area Rural Transit System gives rides anywhere in the county by reservation. Riders 60 and older and riders with disabilities pay half fare. Call by 2:30 p.m. the business day before.",
+  "town": "Cullman",
+  "address": "1950 Beech Avenue SE, Cullman, AL 35055",
+  "phone": "(256) 734-1246",
+  "hours": "Mon to Fri 6:30 AM to 4 PM",
+  "website": "https://co.cullman.al.us/carts.html",
+  "source": "https://co.cullman.al.us/carts.html"
+ }
+]

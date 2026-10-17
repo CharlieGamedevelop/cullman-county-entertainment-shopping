@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cullman County Entertainment and Shopping//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:cullman_christkindlmarkt-20261119@cullman-county-entertainment-shoppi
+ ng
+DTSTAMP:20261017T120000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261224
+SUMMARY:Cullman Christkindlmarkt
+LOCATION:Depot Park\, downtown Cullman\, Cullman\, AL
+DESCRIPTION:A German style Christmas market downtown. It runs through Dec
+ ember 23\, is closed Thanksgiving Day and opens seven days a week startin
+ g December 10. Admission and parking are free. Time: Thu to Sat 11 AM to 
+ 9 PM\, Sun noon to 8 PM. https://events.timely.fun/b8354ob3/event/7842714
+ 3/20261119000000
+URL:https://events.timely.fun/b8354ob3/event/78427143/20261119000000
+END:VEVENT
+END:VCALENDAR

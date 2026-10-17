@@ -1,0 +1,416 @@
+[
+ {
+  "group": "Landmarks and History",
+  "name": "Ave Maria Grotto",
+  "summary": "Brother Joseph Zoettl, a Benedictine monk at St. Bernard Abbey, built more than 125 small scale scenes of famous churches and landmarks. They sit in a 4 acre garden in an old abbey quarry, and folks have been coming to see them since 1934.",
+  "tags": [
+   "grotto",
+   "miniatures",
+   "history",
+   "st. bernard"
+  ],
+  "town": "Cullman",
+  "address": "1600 St. Bernard Drive SE, Cullman, AL 35055",
+  "phone": "(256) 734-4110",
+  "website": "https://www.avemariagrotto.com",
+  "source": "https://www.avemariagrotto.com"
+ },
+ {
+  "group": "Landmarks and History",
+  "name": "Clarkson Covered Bridge",
+  "summary": "A wooden covered bridge from 1904 over Crooked Creek, inside a county park with picnic spots, walking paths and old pioneer buildings. It is free and open every day. The phone number is the county tourism office.",
+  "tags": [
+   "covered bridge",
+   "history",
+   "picnic",
+   "free"
+  ],
+  "town": "Cullman",
+  "address": "1240 County Road 1043, Cullman, AL 35057",
+  "phone": "(256) 734-0454",
+  "website": "http://www.cullmancountyparks.com/clarkson.html",
+  "source": "https://visitcullman.com/thing-to-do/clarkson-covered-bridge/"
+ },
+ {
+  "group": "Landmarks and History",
+  "name": "Cullman County Museum",
+  "summary": "Housed in a copy of Colonel John Cullmann's home, the museum covers Native American history, the German settlers who founded Cullman and early farm and town life.",
+  "tags": [
+   "museum",
+   "history",
+   "german heritage"
+  ],
+  "town": "Cullman",
+  "address": "211 2nd Avenue NE, Cullman, AL 35055",
+  "phone": "(256) 739-1258",
+  "website": "https://www.cullmancountymuseum.com",
+  "source": "https://visitcullman.com/thing-to-do/cullman-county-museum/"
+ },
+ {
+  "group": "Landmarks and History",
+  "name": "Evelyn Burrow Museum",
+  "summary": "An art museum on the Wallace State campus in Hanceville with changing exhibits and a permanent collection. A good rainy day stop.",
+  "tags": [
+   "museum",
+   "art",
+   "wallace state"
+  ],
+  "town": "Hanceville",
+  "address": "108 College Drive NW, Hanceville, AL 35077",
+  "phone": "(256) 352-8457",
+  "website": "https://www.burrowmuseum.org",
+  "source": "https://visitcullman.com/thing-to-do/evelyn-burrow-museum/"
+ },
+ {
+  "group": "Landmarks and History",
+  "name": "Shrine of the Most Blessed Sacrament",
+  "summary": "A large shrine and monastery near Hanceville, built starting in 1996 and consecrated in 1999. Visitors and pilgrims come from all over.",
+  "tags": [
+   "shrine",
+   "landmark",
+   "hanceville"
+  ],
+  "town": "Hanceville",
+  "address": "3224 County Road 548, Hanceville, AL 35077",
+  "phone": "(256) 352-6267",
+  "website": "https://www.olamshrine.com",
+  "source": "https://encyclopediaofalabama.org/article/hanceville/"
+ },
+ {
+  "group": "Landmarks and History",
+  "name": "Downtown Cullman",
+  "summary": "Walk the downtown blocks for local shops, restaurants, the Art Park and events most of the year. The tourism visitor center is at 301 2nd Avenue SW and is open weekdays from 8 to 4.",
+  "tags": [
+   "downtown",
+   "shopping",
+   "walking"
+  ],
+  "town": "Cullman",
+  "address": "301 2nd Avenue SW, Cullman, AL 35055",
+  "phone": "(256) 734-0454",
+  "website": "https://visitcullman.com/things-to-do/downtown-cullman/",
+  "source": "https://visitcullman.com/things-to-do/attractions/"
+ },
+ {
+  "group": "Parks and Outdoors",
+  "name": "Hurricane Creek Park",
+  "summary": "Trails drop down into a canyon along Hurricane Creek, with rock bluffs and the creek running through. A favorite for hikers and mountain bikers.",
+  "tags": [
+   "hiking",
+   "trails",
+   "canyon",
+   "mountain biking"
+  ],
+  "town": "Vinemont",
+  "address": "22600 US Highway 31, Vinemont, AL 35179",
+  "phone": "(256) 734-9157",
+  "website": "https://visitcullman.com/thing-to-do/hurricane-creek-park/",
+  "source": "https://visitcullman.com/thing-to-do/hurricane-creek-park/"
+ },
+ {
+  "group": "Parks and Outdoors",
+  "name": "Sportsman Lake Park",
+  "summary": "A city park with a lake for fishing, walking paths, playgrounds, picnic areas and paddle boats in season. An easy place to spend an afternoon.",
+  "tags": [
+   "park",
+   "fishing",
+   "playground",
+   "paddle boats"
+  ],
+  "town": "Cullman",
+  "address": "1544 Sportsman Lake Road NW, Cullman, AL 35055",
+  "phone": "(256) 734-3052",
+  "website": "https://visitcullman.com/thing-to-do/sportsman-lake-park/",
+  "source": "https://visitcullman.com/thing-to-do/sportsman-lake-park/"
+ },
+ {
+  "group": "Parks and Outdoors",
+  "name": "Heritage Park",
+  "summary": "More than 70 acres with ball fields, courts, a dog park, playgrounds, disc golf, a splash area and a paved 1.5 mile walking trail.",
+  "tags": [
+   "park",
+   "walking trail",
+   "dog park",
+   "ball fields"
+  ],
+  "town": "Cullman",
+  "address": "1705 Lee Avenue SW, Cullman, AL 35055",
+  "phone": "(256) 739-9931",
+  "website": "https://visitcullman.com/thing-to-do/heritage-park/",
+  "source": "https://visitcullman.com/thing-to-do/heritage-park/"
+ },
+ {
+  "group": "Parks and Outdoors",
+  "name": "Lake Catoma",
+  "summary": "A quiet lake close to town for fishing, kayaking and walks by the water.",
+  "tags": [
+   "lake",
+   "fishing",
+   "kayak"
+  ],
+  "town": "Cullman",
+  "address": "1815 3rd Street NE, Cullman, AL 35055",
+  "website": "https://visitcullman.com/thing-to-do/lake-catoma/",
+  "source": "https://visitcullman.com/thing-to-do/lake-catoma/"
+ },
+ {
+  "group": "Parks and Outdoors",
+  "name": "Larkwood Falls",
+  "summary": "A small waterfall tucked inside town. It is at its best after a good rain.",
+  "tags": [
+   "waterfall",
+   "nature",
+   "short walk"
+  ],
+  "town": "Cullman",
+  "address": "Lakewood Drive NE, Cullman, AL 35055",
+  "website": "https://visitcullman.com/thing-to-do/larkwood-falls/",
+  "source": "https://visitcullman.com/thing-to-do/larkwood-falls/"
+ },
+ {
+  "group": "Parks and Outdoors",
+  "name": "Stony Lonesome OHV Park",
+  "summary": "Wooded off road trails for ATVs, dirt bikes and side by sides, from easy rides to hard climbs.",
+  "tags": [
+   "atv",
+   "off road",
+   "trails"
+  ],
+  "town": "Bremen",
+  "address": "10075 AL Highway 69, Bremen, AL 35033",
+  "phone": "(256) 287-1133",
+  "website": "https://visitcullman.com/thing-to-do/stony-lonesome-ohv-park/",
+  "source": "https://visitcullman.com/thing-to-do/stony-lonesome-ohv-park/"
+ },
+ {
+  "group": "Lake Life",
+  "name": "Smith Lake Park",
+  "summary": "A county park on Smith Lake with swimming areas, a pool, playgrounds, mini golf, camping and boat access. It hosts big Memorial Day and Fourth of July festivals.",
+  "tags": [
+   "smith lake",
+   "camping",
+   "swimming",
+   "boating"
+  ],
+  "town": "Cullman",
+  "address": "403 County Road 386, Cullman, AL 35057",
+  "phone": "(256) 739-2916",
+  "website": "https://visitcullman.com/thing-to-do/smith-lake-park-2/",
+  "source": "https://visitcullman.com/thing-to-do/smith-lake-park-2/"
+ },
+ {
+  "group": "Lake Life",
+  "name": "Smith Lake",
+  "summary": "Smith Lake is known for its clear, deep water. Spend the day boating, fishing or swimming, then grab supper at a lakeside spot.",
+  "tags": [
+   "smith lake",
+   "boating",
+   "fishing"
+  ],
+  "town": "Cullman",
+  "website": "https://visitcullman.com/things-to-do/smith-lake/",
+  "source": "https://visitcullman.com/things-to-do/outdoor-adventure/"
+ },
+ {
+  "group": "Family Fun",
+  "name": "WildWater",
+  "summary": "A summer waterpark with slides, a wave pool and splash areas for little ones.",
+  "tags": [
+   "waterpark",
+   "summer",
+   "kids"
+  ],
+  "town": "Cullman",
+  "address": "1707 Main Avenue SW, Cullman, AL 35055",
+  "phone": "(833) 838-9453",
+  "website": "https://visitcullman.com/thing-to-do/wildwater/",
+  "source": "https://visitcullman.com/thing-to-do/wildwater/"
+ },
+ {
+  "group": "Family Fun",
+  "name": "Art Park",
+  "summary": "A downtown park along 2nd Street SW where big sculptures double as seats and shade. Nice for a break during a downtown stroll.",
+  "tags": [
+   "art",
+   "downtown",
+   "park"
+  ],
+  "town": "Cullman",
+  "address": "1031 2nd Street SW, Cullman, AL 35055",
+  "phone": "(256) 739-9157",
+  "website": "https://visitcullman.com/thing-to-do/art-park/",
+  "source": "https://visitcullman.com/thing-to-do/art-park/"
+ },
+ {
+  "group": "Festivals Through the Year",
+  "name": "Hanceville Irish Festival",
+  "summary": "Mid March. Music, food and vendors in downtown Hanceville on the Saturday before St. Patrick's Day.",
+  "tags": [
+   "festival",
+   "mid march",
+   "hanceville"
+  ],
+  "town": "Hanceville",
+  "website": "https://visitcullman.com/find-events/annual-events-festivals/",
+  "source": "https://visitcullman.com/find-events/annual-events-festivals/"
+ },
+ {
+  "group": "Festivals Through the Year",
+  "name": "Bloomin' Festival",
+  "summary": "First full weekend in April. An arts and crafts show with juried artists on the grounds of St. Bernard Abbey.",
+  "tags": [
+   "festival",
+   "first full weekend in april",
+   "cullman"
+  ],
+  "town": "Cullman",
+  "website": "https://visitcullman.com/find-events/annual-events-festivals/",
+  "source": "https://visitcullman.com/find-events/annual-events-festivals/"
+ },
+ {
+  "group": "Festivals Through the Year",
+  "name": "Alabama Strawberry Festival",
+  "summary": "Late April. Fresh strawberries, live music and vendors downtown. It was named Alabama's best music festival in the 2026 Best of Bama awards.",
+  "tags": [
+   "festival",
+   "late april",
+   "cullman"
+  ],
+  "town": "Cullman",
+  "website": "https://visitcullman.com/find-events/annual-events-festivals/",
+  "source": "https://visitcullman.com/find-events/annual-events-festivals/"
+ },
+ {
+  "group": "Festivals Through the Year",
+  "name": "Hanceville Grilled Cheese Festival",
+  "summary": "Saturday of Memorial Day weekend. A fun, casual festival built around grilled cheese, with vendors and family activities.",
+  "tags": [
+   "festival",
+   "saturday of memorial day weekend",
+   "hanceville"
+  ],
+  "town": "Hanceville",
+  "website": "https://visitcullman.com/find-events/annual-events-festivals/",
+  "source": "https://visitcullman.com/find-events/annual-events-festivals/"
+ },
+ {
+  "group": "Festivals Through the Year",
+  "name": "Sweet Tater Festival",
+  "summary": "Labor Day weekend. A longtime Fairview tradition with sweet potato treats, live music, vendors and a car show.",
+  "tags": [
+   "festival",
+   "labor day weekend",
+   "fairview"
+  ],
+  "town": "Fairview",
+  "website": "https://visitcullman.com/find-events/annual-events-festivals/",
+  "source": "https://visitcullman.com/find-events/annual-events-festivals/"
+ },
+ {
+  "group": "Festivals Through the Year",
+  "name": "Bernard Blues and BBQ",
+  "summary": "Early September. Live blues, barbecue and crafts on the St. Bernard Prep campus.",
+  "tags": [
+   "festival",
+   "early september",
+   "cullman"
+  ],
+  "town": "Cullman",
+  "website": "https://visitcullman.com/find-events/annual-events-festivals/",
+  "source": "https://visitcullman.com/find-events/annual-events-festivals/"
+ },
+ {
+  "group": "Festivals Through the Year",
+  "name": "Cullman Oktoberfest",
+  "summary": "First weekend in October. Cullman celebrates its German roots with music, food and traditions downtown.",
+  "tags": [
+   "festival",
+   "first weekend in october",
+   "cullman"
+  ],
+  "town": "Cullman",
+  "website": "https://visitcullman.com/find-events/annual-events-festivals/",
+  "source": "https://visitcullman.com/find-events/annual-events-festivals/"
+ },
+ {
+  "group": "Festivals Through the Year",
+  "name": "Cullman County Fair",
+  "summary": "Early to mid October. Rides, fair food, livestock shows and contests. A fall tradition for generations.",
+  "tags": [
+   "festival",
+   "early to mid october",
+   "cullman"
+  ],
+  "town": "Cullman",
+  "website": "https://visitcullman.com/find-events/annual-events-festivals/",
+  "source": "https://visitcullman.com/find-events/annual-events-festivals/"
+ },
+ {
+  "group": "Festivals Through the Year",
+  "name": "Christkindlmarkt",
+  "summary": "Late November through December. Downtown turns into a German style Christmas market with lights, treats and holiday shopping.",
+  "tags": [
+   "festival",
+   "late november through december",
+   "cullman"
+  ],
+  "town": "Cullman",
+  "website": "https://visitcullman.com/find-events/annual-events-festivals/",
+  "source": "https://visitcullman.com/find-events/annual-events-festivals/"
+ },
+ {
+  "group": "Fun Facts",
+  "name": "Founded by a German colonel",
+  "summary": "Cullman takes its name from Colonel John G. Cullmann, who brought German settlers here. You can still see that heritage at Oktoberfest and the Christkindlmarkt.",
+  "tags": [
+   "history",
+   "german heritage"
+  ],
+  "town": "Cullman",
+  "source": "https://www.co.cullman.al.us/about.html"
+ },
+ {
+  "group": "Fun Facts",
+  "name": "743 square miles",
+  "summary": "Cullman County covers 743 square miles of the Cumberland Plateau, right on Interstate 65 between Birmingham and Huntsville.",
+  "tags": [
+   "geography",
+   "interstate 65"
+  ],
+  "town": "Cullman",
+  "source": "https://www.co.cullman.al.us/about.html"
+ },
+ {
+  "group": "Fun Facts",
+  "name": "Six ways off the interstate",
+  "summary": "There are six Interstate 65 exits in Cullman County, so it is easy to stop in.",
+  "tags": [
+   "interstate 65",
+   "travel"
+  ],
+  "town": "Cullman",
+  "source": "http://www.cullmancountyparks.com/"
+ },
+ {
+  "group": "Fun Facts",
+  "name": "Big on sweet potatoes",
+  "summary": "The county ranks among the top producers of poultry, sweet potatoes and other farm goods. Fairview even throws a Sweet Tater Festival.",
+  "tags": [
+   "farming",
+   "sweet potatoes"
+  ],
+  "town": "Cullman",
+  "source": "https://www.co.cullman.al.us/about.html"
+ },
+ {
+  "group": "Fun Facts",
+  "name": "A national award for parks",
+  "summary": "Cullman Parks, Recreation and Sports Tourism won the 2023 NRPA Gold Medal, a top national honor for parks departments.",
+  "tags": [
+   "parks",
+   "award"
+  ],
+  "town": "Cullman",
+  "source": "https://www.cullmanrecreation.org/"
+ }
+]

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://charliegamedevelop.github.io/cullman-county-entertainment-shopping/sitemap.xml

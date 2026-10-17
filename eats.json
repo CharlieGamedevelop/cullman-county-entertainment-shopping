@@ -1,0 +1,490 @@
+[
+ {
+  "category": "Drinks & Coffee",
+  "name": "Downtown Nutrition",
+  "service": "Shakes and teas",
+  "town": "Cullman",
+  "address": "324 2nd Ave SE, Cullman, AL 35055",
+  "phone": "(256) 709-5467",
+  "summary": "A shake and tea shop on 2nd Ave SE in Cullman. A good spot for a drink or a sweet treat.",
+  "tags": [
+   "cullman",
+   "food & nutrition services",
+   "shakes and teas"
+  ],
+  "group": "Coffee, Sweets and Treats"
+ },
+ {
+  "category": "Drinks & Coffee",
+  "name": "Ethos Craft Brewing",
+  "service": "Craft brewery",
+  "town": "Cullman",
+  "address": "1849 County Road 222, Cullman, AL 35057",
+  "phone": "(256) 531-6069",
+  "summary": "A craft brewery on County Road 222 in Cullman. A good spot for a drink or a sweet treat.",
+  "tags": [
+   "beer & wine",
+   "craft brewery",
+   "cullman"
+  ],
+  "group": "Pubs, Grills and Breweries"
+ },
+ {
+  "category": "Drinks & Coffee",
+  "name": "HanceVegas Coffee Shop",
+  "service": "Coffee shop",
+  "town": "Hanceville",
+  "address": "113 Commercial St, Hanceville, AL 35077",
+  "summary": "A downtown coffee shop with one of the best names in town. Stop in for your morning cup and a little conversation.",
+  "tags": [
+   "coffee",
+   "espresso",
+   "hanceville",
+   "latte",
+   "smoothie"
+  ],
+  "phone": "(256) 887-1234",
+  "group": "Coffee, Sweets and Treats"
+ },
+ {
+  "category": "Drinks & Coffee",
+  "name": "Hanceville Nutrition",
+  "service": "Smoothie and shake shop",
+  "town": "Hanceville",
+  "address": "918 Main St NE, Hanceville, AL 35077",
+  "summary": "Smoothies and shakes on Main Street. Good for a quick pick me up any time of day.",
+  "tags": [
+   "energy drinks",
+   "hanceville",
+   "protein",
+   "shakes",
+   "smoothie",
+   "tea"
+  ],
+  "group": "Coffee, Sweets and Treats"
+ },
+ {
+  "category": "Drinks & Coffee",
+  "name": "Karma's Coffee House",
+  "service": "Coffee house",
+  "town": "Cullman",
+  "address": "103 1st Ave NE Suite 140, Cullman, AL 35055",
+  "phone": "(256) 841-5936",
+  "summary": "A coffee house on 1st Ave NE in Cullman. A good spot for a drink or a sweet treat.",
+  "tags": [
+   "coffee house",
+   "cullman",
+   "restaurants"
+  ],
+  "website": "https://www.karmascoffeehouse.com",
+  "group": "Coffee, Sweets and Treats"
+ },
+ {
+  "category": "Drinks & Coffee",
+  "name": "The Blooming Barista",
+  "service": "Coffee",
+  "town": "Cullman",
+  "address": "1366 County Road 715, Cullman, AL 35055",
+  "phone": "(256) 595-1978",
+  "summary": "A coffee shop on County Road 715 in Cullman. A good spot for a drink or a sweet treat.",
+  "tags": [
+   "beverages",
+   "coffee",
+   "cullman"
+  ],
+  "website": "https://thebloomingbarista.square.site",
+  "group": "Coffee, Sweets and Treats"
+ },
+ {
+  "category": "Drinks & Coffee",
+  "name": "Warehouse Nutrition",
+  "service": "Shakes and teas",
+  "town": "Cullman",
+  "address": "1405 2nd Ave SW Suite A, Cullman, AL 35055",
+  "phone": "(256) 736-3220",
+  "summary": "A shake and tea shop on 2nd Ave SW in Cullman. A good spot for a drink or a sweet treat.",
+  "tags": [
+   "cullman",
+   "restaurants",
+   "shakes and teas"
+  ],
+  "group": "Coffee, Sweets and Treats"
+ },
+ {
+  "category": "Restaurants",
+  "name": "412 Public House",
+  "service": "Pub and restaurant",
+  "town": "Cullman",
+  "address": "412 2nd Ave SE, Cullman, AL 35055",
+  "phone": "(256) 841-6412",
+  "summary": "A pub and restaurant on 2nd Ave SE in Cullman. Stop in for a meal.",
+  "tags": [
+   "cullman",
+   "pub and restaurant",
+   "restaurants"
+  ],
+  "website": "https://412pub.com/",
+  "group": "Pubs, Grills and Breweries"
+ },
+ {
+  "category": "Restaurants",
+  "name": "All Steak Restaurant",
+  "service": "Restaurant",
+  "town": "Cullman",
+  "address": "323 3rd Ave SE, Cullman, AL 35055",
+  "phone": "(256) 734-4322",
+  "summary": "A restaurant on 3rd Ave SE in Cullman. Stop in for a meal.",
+  "tags": [
+   "cullman",
+   "restaurant",
+   "restaurants"
+  ],
+  "website": "https://www.allsteakrestaurant.com/",
+  "group": "Coffee, Sweets and Treats"
+ },
+ {
+  "category": "Restaurants",
+  "name": "Augusta's Sports Grill",
+  "service": "Sports grill",
+  "town": "Cullman",
+  "address": "609 Graham St SW, Cullman, AL 35055",
+  "phone": "(256) 775-9445",
+  "summary": "A sports grill on Graham St SW in Cullman. Stop in for a meal.",
+  "tags": [
+   "cullman",
+   "restaurants",
+   "sports grill"
+  ],
+  "group": "Pubs, Grills and Breweries"
+ },
+ {
+  "category": "Restaurants",
+  "name": "Azul Tequila Mexican Cantina",
+  "service": "Mexican restaurant",
+  "town": "Hanceville",
+  "address": "836 Main St NE, Hanceville, AL 35077",
+  "summary": "A Mexican cantina on Main Street. Come hungry for tacos and bring a few friends.",
+  "tags": [
+   "dinner",
+   "hanceville",
+   "lunch",
+   "mexican",
+   "tacos"
+  ],
+  "phone": "(256) 887-1016",
+  "group": "Restaurants and Cafes"
+ },
+ {
+  "category": "Restaurants",
+  "name": "Beto's Tacos & More",
+  "service": "Food truck",
+  "town": "Cullman",
+  "address": "1820 County Road 447, Cullman, AL 35057",
+  "phone": "(256) 339-0107",
+  "summary": "A food truck on County Road 447 in Cullman. Stop in for a meal.",
+  "tags": [
+   "cullman",
+   "food truck",
+   "food vendor"
+  ],
+  "group": "Restaurants and Cafes"
+ },
+ {
+  "category": "Restaurants",
+  "name": "Cafe Tula Taqueria",
+  "service": "Taqueria",
+  "town": "Hanceville",
+  "address": "106 Commercial St, Hanceville, AL 35077",
+  "summary": "A taqueria on Commercial Street in downtown Hanceville. It sits close to the shops, so it pairs nicely with an afternoon of browsing.",
+  "tags": [
+   "hanceville",
+   "lunch",
+   "mexican",
+   "tacos"
+  ],
+  "phone": "(256) 636-0323",
+  "group": "Restaurants and Cafes"
+ },
+ {
+  "category": "Restaurants",
+  "name": "Country Wok",
+  "service": "Chinese restaurant",
+  "town": "Hanceville",
+  "address": "107 Bangor Ave NE, Hanceville, AL 35077",
+  "summary": "Chinese food cooked in an open kitchen, so you can watch your order come together. Don't leave without trying the eggrolls or Grandma's Cantonese fried rice.",
+  "tags": [
+   "chinese",
+   "hanceville",
+   "takeout"
+  ],
+  "phone": "(256) 887-1360",
+  "website": "https://www.countrywok.com",
+  "group": "Restaurants and Cafes"
+ },
+ {
+  "category": "Restaurants",
+  "name": "Drifters on the Lake bar and grill",
+  "service": "Lakeside bar and grill",
+  "town": "Cullman",
+  "address": "173 County Road 312, Cullman, AL 35057",
+  "phone": "(256) 309-9725",
+  "summary": "A lakeside bar and grill on County Road 312 in Cullman. Stop in for a meal.",
+  "tags": [
+   "cullman",
+   "lakeside bar and grill",
+   "restaurants"
+  ],
+  "group": "Pubs, Grills and Breweries"
+ },
+ {
+  "category": "Restaurants",
+  "name": "EG's BBQ",
+  "service": "Barbecue restaurant",
+  "town": "Bremen",
+  "address": "235 County Road 57, Bremen, AL 35033",
+  "phone": "(256) 400-1668",
+  "summary": "A barbecue restaurant on County Road 57 in Bremen. Stop in for a meal.",
+  "tags": [
+   "barbecue restaurant",
+   "bremen",
+   "restaurants"
+  ],
+  "website": "https://EGSBBQ.com",
+  "group": "Barbecue and Southern"
+ },
+ {
+  "category": "Restaurants",
+  "name": "Goat Island Craft Brewing",
+  "service": "Craft brewery",
+  "town": "Cullman",
+  "address": "1646A John H. Cooper Dr., Cullman, AL 35055",
+  "phone": "(256) 747-5556",
+  "summary": "A craft brewery on 1646A John H. Cooper Drive in Cullman. Stop in for a meal.",
+  "tags": [
+   "craft brewery",
+   "cullman",
+   "restaurants"
+  ],
+  "website": "https://www.goatislandbrewing.com",
+  "group": "Pubs, Grills and Breweries"
+ },
+ {
+  "category": "Restaurants",
+  "name": "Hank's Sports Bar & Rumors Deli",
+  "service": "Deli and sports bar",
+  "town": "Cullman",
+  "address": "601 4th Street SW, Cullman, AL 35055",
+  "phone": "(256) 737-0911",
+  "summary": "A deli and sports bar on 4th Street SW in Cullman. Stop in for a meal.",
+  "tags": [
+   "cullman",
+   "deli and sports bar",
+   "restaurants"
+  ],
+  "website": "https://Rumorsdeli.com",
+  "group": "Pubs, Grills and Breweries"
+ },
+ {
+  "category": "Restaurants",
+  "name": "Hele Bowls",
+  "service": "Smoothie and acai bowls",
+  "town": "Cullman",
+  "address": "410 2nd Ave SE, Cullman, AL 35055",
+  "phone": "(256) 841-1276",
+  "summary": "A smoothie and acai bowl shop on 2nd Ave SE in Cullman. Stop in for a meal.",
+  "tags": [
+   "cullman",
+   "restaurants",
+   "smoothie and acai bowls"
+  ],
+  "website": "https://helebowls.com/",
+  "group": "Coffee, Sweets and Treats"
+ },
+ {
+  "category": "Restaurants",
+  "name": "Johnny's Bar-B-Q",
+  "service": "Barbecue restaurant",
+  "town": "Cullman",
+  "address": "1401 4th Street SW, Cullman, AL 35055",
+  "phone": "(256) 734-8539",
+  "summary": "A barbecue restaurant on 4th Street SW in Cullman. Stop in for a meal.",
+  "tags": [
+   "barbecue restaurant",
+   "cullman",
+   "restaurants"
+  ],
+  "website": "https://www.johnnysbarbq.com",
+  "group": "Barbecue and Southern"
+ },
+ {
+  "category": "Restaurants",
+  "name": "Jubilee Kitchen and Bar",
+  "service": "Restaurant and bar",
+  "town": "Cullman",
+  "address": "515 4th St SW Suite 101, Cullman, AL 35055",
+  "phone": "(256) 735-4175",
+  "summary": "A restaurant and bar on 4th St SW in Cullman. Stop in for a meal.",
+  "tags": [
+   "cullman",
+   "restaurant and bar",
+   "restaurants"
+  ],
+  "website": "https://jubileecoffeeandwine.com",
+  "group": "Pubs, Grills and Breweries"
+ },
+ {
+  "category": "Restaurants",
+  "name": "Los Compadres",
+  "service": "Mexican restaurant",
+  "town": "Cullman",
+  "address": "6161 US Highway 278 West, Cullman, AL 35057",
+  "phone": "(256) 915-6868",
+  "summary": "A Mexican restaurant on US Highway 278 West in Cullman. Stop in for a meal.",
+  "tags": [
+   "cullman",
+   "mexican restaurant",
+   "restaurants"
+  ],
+  "group": "Restaurants and Cafes"
+ },
+ {
+  "category": "Restaurants",
+  "name": "Papa Sam's Hotdogs",
+  "service": "Hot dogs",
+  "town": "Cullman",
+  "address": "1045 County Road 1464, Cullman, AL 35058",
+  "phone": "(256) 531-7277",
+  "summary": "A hot dog stand on County Road 1464 in Cullman. Stop in for a meal.",
+  "tags": [
+   "cullman",
+   "hot dogs",
+   "restaurants"
+  ],
+  "group": "Restaurants and Cafes"
+ },
+ {
+  "category": "Restaurants",
+  "name": "Pasquale's Pizza and Pasta",
+  "service": "Pizza and pasta",
+  "town": "Cullman",
+  "address": "915 2nd Ave NW, Cullman, AL 35055",
+  "phone": "(256) 734-4599",
+  "summary": "A pizza and pasta restaurant on 2nd Ave NW in Cullman. Stop in for a meal.",
+  "tags": [
+   "cullman",
+   "pizza and pasta",
+   "restaurants"
+  ],
+  "website": "https://www.pasqualescullman.com",
+  "group": "Restaurants and Cafes"
+ },
+ {
+  "category": "Restaurants",
+  "name": "Pop's Cafe Hanceville",
+  "service": "Cafe",
+  "town": "Hanceville",
+  "address": "814 Main St NE, Hanceville, AL 35077",
+  "summary": "A hometown diner on Main Street known for fluffy pancakes. Meatloaf is on the menu every single day.",
+  "tags": [
+   "breakfast",
+   "hanceville",
+   "home cooking",
+   "lunch"
+  ],
+  "phone": "(256) 887-1035",
+  "group": "Restaurants and Cafes"
+ },
+ {
+  "category": "Restaurants",
+  "name": "Reyes Pizza",
+  "service": "Pizza",
+  "town": "Hanceville",
+  "address": "806 Main St NE, Hanceville, AL 35077",
+  "summary": "A local pizza place on Main Street. Pick up a pie for family night or before the next ballgame.",
+  "tags": [
+   "delivery",
+   "dinner",
+   "hanceville",
+   "pizza"
+  ],
+  "phone": "(256) 887-1307",
+  "group": "Restaurants and Cafes"
+ },
+ {
+  "category": "Restaurants",
+  "name": "Seven Daughters Scoops",
+  "service": "Ice cream shop",
+  "town": "Cullman",
+  "address": "1600 2nd Ave NW, Cullman, AL 35055",
+  "phone": "(256) 734-3691",
+  "summary": "An ice cream shop on 2nd Ave NW in Cullman. Stop in for a meal.",
+  "tags": [
+   "cullman",
+   "ice cream shop",
+   "specialty foods"
+  ],
+  "group": "Coffee, Sweets and Treats"
+ },
+ {
+  "category": "Restaurants",
+  "name": "Seven Winds Kitchen",
+  "service": "Candy and baked goods",
+  "town": "Logan",
+  "address": "10011 County Road 222, Logan, AL 35098",
+  "phone": "(256) 734-0246",
+  "summary": "A kitchen making candy and baked goods on County Road 222 in Logan. Stop in for a meal.",
+  "tags": [
+   "candy",
+   "candy and baked goods",
+   "logan"
+  ],
+  "website": "https://www.sevenwindskitchen.com",
+  "group": "Coffee, Sweets and Treats"
+ },
+ {
+  "category": "Restaurants",
+  "name": "The Duchess Bakery",
+  "service": "Bakery",
+  "town": "Cullman",
+  "address": "222 1st Avenue SE, Cullman, AL 35055",
+  "phone": "(256) 734-0684",
+  "summary": "A bakery on 1st Avenue SE in Cullman. Stop in for a meal.",
+  "tags": [
+   "bakery",
+   "cullman"
+  ],
+  "group": "Coffee, Sweets and Treats"
+ },
+ {
+  "category": "Restaurants",
+  "name": "The Royale Burgers Bourbon & Brews",
+  "service": "Burger restaurant",
+  "town": "Cullman",
+  "address": "216 1st Ave SE, Cullman, AL 35055",
+  "phone": "(256) 735-4645",
+  "summary": "A burger restaurant on 1st Ave SE in Cullman. Stop in for a meal.",
+  "tags": [
+   "burger restaurant",
+   "cullman",
+   "restaurants"
+  ],
+  "website": "https://royaleburgersboubanbrews.com/",
+  "group": "Pubs, Grills and Breweries"
+ },
+ {
+  "category": "Restaurants",
+  "name": "William's BBQ",
+  "service": "Barbecue restaurant",
+  "town": "Cullman",
+  "address": "2021 2nd Ave SW, Cullman, AL 35055",
+  "phone": "(256) 734-4292",
+  "summary": "A barbecue restaurant on 2nd Ave SW in Cullman. Stop in for a meal.",
+  "tags": [
+   "barbecue restaurant",
+   "cullman",
+   "restaurants"
+  ],
+  "website": "https://williamsbbq.com/",
+  "group": "Barbecue and Southern"
+ }
+]

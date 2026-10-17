@@ -1,0 +1,587 @@
+[
+ {
+  "category": "Shopping & Retail",
+  "name": "Arboreadum Bookshop and Garden",
+  "service": "Bookshop",
+  "town": "Cullman",
+  "address": "104 4th Ave. NE, Cullman, AL 35055",
+  "phone": "(256) 727-3807",
+  "summary": "A bookshop on 4th Ave. NE in Cullman. A local shop worth a visit.",
+  "tags": [
+   "books",
+   "bookshop",
+   "cullman"
+  ],
+  "website": "https://www.arboreadum.com",
+  "group": "Gifts, Books and Specialty"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Better Than Before",
+  "service": "Consignment boutique",
+  "town": "Cullman",
+  "address": "124 4th Street SW, Cullman, AL 35055",
+  "phone": "(256) 739-3550",
+  "summary": "A consignment boutique on 4th Street SW in Cullman. A local shop worth a visit.",
+  "tags": [
+   "boutique/clothing store",
+   "consignment boutique",
+   "cullman"
+  ],
+  "website": "https://shop.btbconsignments.com/",
+  "group": "Antiques, Vintage and Thrift"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Bob Wallace Appliance",
+  "service": "Appliances",
+  "town": "Cullman",
+  "address": "224 1st Ave SE, Cullman, AL 35055",
+  "phone": "(256) 841-5280",
+  "summary": "An appliance store on 1st Ave SE in Cullman. A local shop worth a visit.",
+  "tags": [
+   "appliances",
+   "cullman"
+  ],
+  "website": "https://www.bobwallaceappliance.com",
+  "group": "Furniture and Home"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Burns Florist",
+  "service": "Florist",
+  "town": "Hanceville",
+  "address": "308 Magnolia Ave NW, Hanceville, AL 35077",
+  "summary": "A locally owned flower shop that makes custom bouquets and offers same day delivery.",
+  "tags": [
+   "bouquets",
+   "delivery",
+   "florist",
+   "flowers",
+   "funeral flowers",
+   "hanceville"
+  ],
+  "phone": "(256) 352-5233",
+  "website": "https://cullmanhancevilleflorist.com/",
+  "group": "Gifts, Books and Specialty"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Classy to Sassy",
+  "service": "Boutique",
+  "town": "Cullman",
+  "address": "321 2nd Ave SW Suite B, Cullman, AL 35055",
+  "phone": "(256) 775-2755",
+  "summary": "A boutique on 2nd Ave SW in Cullman. A local shop worth a visit.",
+  "tags": [
+   "boutique",
+   "boutique/clothing store",
+   "cullman",
+   "tanning salon"
+  ],
+  "website": "https://www.classytosassyllc.com/",
+  "group": "Boutiques and Clothing"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Cullman Florist",
+  "service": "Florist",
+  "town": "Cullman",
+  "address": "119 4th Street SE, Cullman, AL 35055",
+  "phone": "(256) 734-0263",
+  "summary": "A florist on 4th Street SE in Cullman. A local shop worth a visit.",
+  "tags": [
+   "cullman",
+   "florist",
+   "florists"
+  ],
+  "website": "https://www.cullmanflorist.com",
+  "group": "Gifts, Books and Specialty"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Cullman Furniture Market",
+  "service": "Furniture",
+  "town": "Cullman",
+  "address": "1807 2nd Ave SW, Cullman, AL 35055",
+  "phone": "(256) 841-6755",
+  "summary": "A furniture store on 2nd Ave SW in Cullman. A local shop worth a visit.",
+  "tags": [
+   "cullman",
+   "furniture"
+  ],
+  "website": "https://cullmanfurnituremarket.com",
+  "group": "Furniture and Home"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Dixie Duds and Decor",
+  "service": "Boutique and home decor",
+  "town": "Cullman",
+  "address": "300 2nd St. SE, Cullman, AL 35055",
+  "phone": "(256) 841-6444",
+  "summary": "A boutique with clothing and home decor on 2nd St. SE in Cullman. A local shop worth a visit.",
+  "tags": [
+   "boutique and home decor",
+   "boutique/clothing store",
+   "cullman"
+  ],
+  "website": "https://www.dixiedudsanddecor.com",
+  "group": "Boutiques and Clothing"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Ed White Jewelers",
+  "service": "Jeweler",
+  "town": "Cullman",
+  "address": "1704 2nd Avenue NW, Cullman, AL 35055",
+  "phone": "(256) 734-3661",
+  "summary": "A jewelry store on 2nd Avenue NW in Cullman. A local shop worth a visit.",
+  "tags": [
+   "cullman",
+   "jeweler",
+   "jewelers"
+  ],
+  "website": "https://www.edwhitejewelers.com",
+  "group": "Gifts, Books and Specialty"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Farmers Home Furniture",
+  "service": "Furniture and appliances",
+  "town": "Cullman",
+  "address": "1738 Second Ave SW, Cullman, AL 35055",
+  "phone": "(256) 775-0141",
+  "summary": "A furniture and appliance store on Second Ave SW in Cullman. A local shop worth a visit.",
+  "tags": [
+   "appliances",
+   "cullman",
+   "electronics",
+   "furniture",
+   "furniture and appliances"
+  ],
+  "group": "Furniture and Home"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Gold Rush Jewelers",
+  "service": "Jeweler",
+  "town": "Cullman",
+  "address": "301 2nd Ave. NW, Cullman, AL 35055",
+  "phone": "(256) 739-2833",
+  "summary": "A jewelry store on 2nd Ave. NW in Cullman. A local shop worth a visit.",
+  "tags": [
+   "cullman",
+   "jeweler",
+   "jewelers"
+  ],
+  "group": "Gifts, Books and Specialty"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Hagar Guitars LLC",
+  "service": "Custom guitars",
+  "town": "Hanceville",
+  "address": "317 County Road 263, Hanceville, AL 35077",
+  "summary": "Custom electric and bass guitars built by hand in Hanceville. They also do repairs and upgrades.",
+  "tags": [
+   "guitar repair",
+   "guitars",
+   "hanceville",
+   "music"
+  ],
+  "phone": "(205) 522-8501",
+  "website": "https://hagarguitars.com",
+  "group": "Gifts, Books and Specialty"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "If the Shoe Fits",
+  "service": "Shoe and clothing boutique",
+  "town": "Cullman",
+  "address": "108 Clark St NE, Cullman, AL 35055",
+  "phone": "(256) 739-0262",
+  "summary": "A shoe and clothing boutique on Clark St NE in Cullman. A local shop worth a visit.",
+  "tags": [
+   "boutique/clothing store",
+   "cullman",
+   "shoe and clothing boutique"
+  ],
+  "website": "https://Iftheshoefitsal.com",
+  "group": "Boutiques and Clothing"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "JK Taylor",
+  "service": "Clothing boutique",
+  "town": "Cullman",
+  "address": "421 3rd Ave SE, Cullman, AL 35055",
+  "phone": "(256) 735-4380",
+  "summary": "A clothing boutique on 3rd Ave SE in Cullman. A local shop worth a visit.",
+  "tags": [
+   "boutique/clothing store",
+   "clothing boutique",
+   "cullman"
+  ],
+  "website": "https://www.shopjktaylor.com",
+  "group": "Boutiques and Clothing"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Leldon's",
+  "service": "Furniture and woodworking",
+  "town": "Cullman",
+  "address": "117 1st Avenue NE, Cullman, AL 35055",
+  "phone": "(256) 841-6131",
+  "summary": "A furniture and woodworking shop on 1st Avenue NE in Cullman. A local shop worth a visit.",
+  "tags": [
+   "cullman",
+   "furniture and woodworking",
+   "woodworking"
+  ],
+  "website": "https://www.leldonscullman.com",
+  "group": "Furniture and Home"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Magnolia Soap and Bath Company",
+  "service": "Soap and bath shop",
+  "town": "Cullman",
+  "address": "1837 Patriots Drive SW, Cullman, AL 35055",
+  "phone": "(256) 841-1694",
+  "summary": "A soap and bath shop on Patriots Drive SW in Cullman. A local shop worth a visit.",
+  "tags": [
+   "beauty salon/beauty products",
+   "cullman",
+   "soap and bath shop"
+  ],
+  "website": "https://www.magnoliasoapandbath.com",
+  "group": "Gifts, Books and Specialty"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Mary Carter Store",
+  "service": "Hardware and fishing supplies",
+  "town": "Cullman",
+  "address": "104 4th Street SE, Cullman, AL 35055",
+  "phone": "(256) 734-7908",
+  "summary": "A hardware and fishing supply store on 4th Street SE in Cullman. A local shop worth a visit.",
+  "tags": [
+   "cullman",
+   "fishing tackle",
+   "hardware and fishing supplies",
+   "specialty store"
+  ],
+  "group": "Outdoors and Hardware"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Mavens & Makers",
+  "service": "Makers market",
+  "town": "Cullman",
+  "address": "302 2nd Ave SE, Cullman, AL 35055",
+  "phone": "(256) 479-9866",
+  "summary": "A makers market on 2nd Ave SE in Cullman. A local shop worth a visit.",
+  "tags": [
+   "cullman",
+   "makers market",
+   "specialty store"
+  ],
+  "group": "Gifts, Books and Specialty"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Monograms Plus",
+  "service": "Gifts and monogramming",
+  "town": "Cullman",
+  "address": "802 Main Ave NE, Cullman, AL 35055",
+  "phone": "(256) 739-0631",
+  "summary": "A gift and monogram shop on Main Ave NE in Cullman. A local shop worth a visit.",
+  "tags": [
+   "cullman",
+   "gift shops",
+   "gifts and monogramming",
+   "monogramming"
+  ],
+  "website": "https://www.monogramsplusonline.com",
+  "group": "Gifts, Books and Specialty"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Nethy Home & Antiques",
+  "service": "Antiques and home goods",
+  "town": "Cullman",
+  "address": "7321 Highway 157 S, Cullman, AL 35057",
+  "phone": "(205) 767-3540",
+  "summary": "A shop for antiques and home goods on Highway 157 S in Cullman. A local shop worth a visit.",
+  "tags": [
+   "antiques",
+   "antiques and home goods",
+   "cullman"
+  ],
+  "website": "https://www.nethyhomeandantiques.com/",
+  "group": "Antiques, Vintage and Thrift"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Nomadic Threads",
+  "service": "Clothing",
+  "town": "Cullman",
+  "address": "343 County Road 1154, Cullman, AL 35057",
+  "phone": "(256) 962-1789",
+  "summary": "A clothing shop on County Road 1154 in Cullman. A local shop worth a visit.",
+  "tags": [
+   "clothing",
+   "clothing stores",
+   "cullman"
+  ],
+  "website": "https://www.nomadicthreadscullman.com/",
+  "group": "Boutiques and Clothing"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Platform",
+  "service": "Clothing and gifts",
+  "town": "Cullman",
+  "address": "115 1st Ave NE, Cullman, AL 35055",
+  "phone": "(256) 775-3722",
+  "summary": "A shop for clothing and gifts on 1st Ave NE in Cullman. A local shop worth a visit.",
+  "tags": [
+   "accessories & gifts",
+   "boutique/clothing store",
+   "clothing and gifts",
+   "cullman"
+  ],
+  "website": "https://www.platformcullman.com",
+  "group": "Boutiques and Clothing"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Press Rewind Vintage Audio",
+  "service": "Vintage audio",
+  "town": "Cullman",
+  "address": "1821 Eva Road NE Suite 205, Cullman, AL 35055",
+  "phone": "(256) 615-1285",
+  "summary": "A vintage audio shop on Eva Road NE in Cullman. A local shop worth a visit.",
+  "tags": [
+   "cullman",
+   "retail",
+   "vintage audio"
+  ],
+  "website": "https://PressRewindVintageAudio.com",
+  "group": "Antiques, Vintage and Thrift"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Small Town Vibes Boutique",
+  "service": "Clothing boutique",
+  "town": "Hanceville",
+  "address": "885 Highway 69s, Hanceville, AL 35055",
+  "phone": "(205) 393-1612",
+  "summary": "A clothing boutique on Highway 69s in Hanceville. A local shop worth a visit.",
+  "tags": [
+   "clothing boutique",
+   "clothing stores",
+   "hanceville"
+  ],
+  "website": "https://smalltownvibesboutique.myshopify.com/",
+  "group": "Boutiques and Clothing"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Southern Accents Architectural Antiques",
+  "service": "Architectural antiques",
+  "town": "Cullman",
+  "address": "308 2nd Avenue SE, Cullman, AL 35055",
+  "phone": "(256) 737-0554",
+  "summary": "A shop full of architectural antiques and salvage on 2nd Avenue SE in Cullman. A local shop worth a visit.",
+  "tags": [
+   "antiques",
+   "architectural antiques",
+   "cullman"
+  ],
+  "website": "https://www.sa1969.com",
+  "group": "Antiques, Vintage and Thrift"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Standard Furniture and Mattress",
+  "service": "Furniture and mattresses",
+  "town": "Cullman",
+  "address": "906 Perry Street SW, Cullman, AL 35055",
+  "phone": "(256) 734-6564",
+  "summary": "A furniture and mattress store on Perry Street SW in Cullman. A local shop worth a visit.",
+  "tags": [
+   "cullman",
+   "furniture",
+   "furniture and mattresses"
+  ],
+  "website": "https://www.standardfurniture.net",
+  "group": "Furniture and Home"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Sweeter With Time Vintage & Thrift",
+  "service": "Vintage and thrift",
+  "town": "Cullman",
+  "address": "171 Schwaiger Rd, Cullman, AL 35055",
+  "phone": "(256) 339-4478",
+  "summary": "A vintage and thrift shop on Schwaiger Rd in Cullman. A local shop worth a visit.",
+  "tags": [
+   "cullman",
+   "retail",
+   "vintage and thrift"
+  ],
+  "group": "Antiques, Vintage and Thrift"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "The Butcher Meat Co.",
+  "service": "Butcher shop",
+  "town": "Cullman",
+  "address": "149 Patton Drive, Cullman, AL 35058",
+  "phone": "(256) 747-5416",
+  "summary": "A butcher shop on Patton Drive in Cullman. A local shop worth a visit.",
+  "tags": [
+   "butcher shop",
+   "cullman",
+   "food & nutrition services",
+   "food vendor",
+   "meat processing",
+   "meats & specialty"
+  ],
+  "website": "https://butchermeatco.com/",
+  "group": "Gifts, Books and Specialty"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "The Copper Cricket",
+  "service": "Gift shop",
+  "town": "Cullman",
+  "address": "403 4th Avenue SW, Cullman, AL 35055",
+  "phone": "(256) 841-1604",
+  "summary": "A gift shop on 4th Avenue SW in Cullman. A local shop worth a visit.",
+  "tags": [
+   "cullman",
+   "gift shop",
+   "retail"
+  ],
+  "group": "Gifts, Books and Specialty"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "The Pink Cactus Western Co.",
+  "service": "Western boutique",
+  "town": "Cullman",
+  "address": "18667 US Highway 31 S, Cullman, AL 35058",
+  "phone": "(256) 595-5619",
+  "summary": "A western boutique on US Highway 31 S in Cullman. A local shop worth a visit.",
+  "tags": [
+   "boutique/clothing store",
+   "cullman",
+   "western boutique"
+  ],
+  "website": "https://www.thepinkcactuswestern.com",
+  "group": "Boutiques and Clothing"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "The Stampin' Elephant",
+  "service": "Craft and hobby shop",
+  "town": "Hanceville",
+  "address": "108 Commercial St. NE, Hanceville, AL 35077",
+  "phone": "(256) 297-3787",
+  "summary": "A craft and hobby shop on Commercial St. NE in Hanceville. A local shop worth a visit.",
+  "tags": [
+   "craft and hobby shop",
+   "hanceville",
+   "hobby shop"
+  ],
+  "website": "https://www.thestampinelephant.com",
+  "group": "Gifts, Books and Specialty"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Thompson Cat Rentals",
+  "service": "Equipment rentals",
+  "town": "Hanceville",
+  "address": "6307 County Road 490, Hanceville, AL 35077",
+  "summary": "Equipment rentals for big jobs and small ones, from the Thompson location in Hanceville.",
+  "tags": [
+   "construction",
+   "equipment rental",
+   "hanceville",
+   "rentals"
+  ],
+  "phone": "(256) 736-0460",
+  "website": "https://thompsontractor.com/locations/hanceville/",
+  "group": "Gifts, Books and Specialty"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Van's Sporting Goods",
+  "service": "Hunting and fishing supplies",
+  "town": "Cullman",
+  "address": "2045 County Road 222, Cullman, AL 35057",
+  "phone": "(256) 775-4031",
+  "summary": "A hunting and fishing store on County Road 222 in Cullman. A local shop worth a visit.",
+  "tags": [
+   "cullman",
+   "fishing tackle",
+   "hunting & fishing",
+   "hunting and fishing supplies",
+   "outdoor sports"
+  ],
+  "website": "https://www.vansoutdoors.com",
+  "group": "Outdoors and Hardware"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Village Furniture & Gifts",
+  "service": "Furniture and gifts",
+  "town": "Cullman",
+  "address": "224 3rd Avenue SE, Cullman, AL 35055",
+  "phone": "(256) 734-8844",
+  "summary": "A furniture and gift store on 3rd Avenue SE in Cullman. A local shop worth a visit.",
+  "tags": [
+   "cullman",
+   "furniture",
+   "furniture and gifts"
+  ],
+  "website": "https://www.villagefurniturecullman.com",
+  "group": "Furniture and Home"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Werner's Trading Company",
+  "service": "Outdoor clothing and gear",
+  "town": "Cullman",
+  "address": "1115 4th Street SW, Cullman, AL 35055",
+  "phone": "(256) 734-5673",
+  "summary": "A shop for outdoor clothing and gear on 4th Street SW in Cullman. A local shop worth a visit.",
+  "tags": [
+   "clothing stores",
+   "cullman",
+   "outdoor clothing and gear",
+   "outdoor sports"
+  ],
+  "website": "https://www.wernerstradingco.com",
+  "group": "Boutiques and Clothing"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Wren + Revel",
+  "service": "Clothing boutique",
+  "town": "Cullman",
+  "address": "103 1st Avenue NE Suite 120, Cullman, AL 35055",
+  "phone": "(256) 735-4183",
+  "summary": "A clothing boutique on 1st Avenue NE in Cullman. A local shop worth a visit.",
+  "tags": [
+   "clothing boutique",
+   "clothing stores",
+   "cullman"
+  ],
+  "website": "https://www.wrenandrevel.com",
+  "group": "Boutiques and Clothing"
+ }
+]

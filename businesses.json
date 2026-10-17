@@ -1,0 +1,3755 @@
+[
+ {
+  "category": "Attractions & Fun",
+  "name": "Ave Maria Grotto",
+  "service": "Attraction",
+  "town": "Cullman",
+  "address": "1600 St. Bernard Avenue SE, Cullman, AL 35055",
+  "phone": "(256) 734-4110",
+  "summary": "A well known attraction on St. Bernard Avenue SE in Cullman. A fun stop for locals and visitors.",
+  "tags": [
+   "attraction",
+   "attractions",
+   "cullman"
+  ],
+  "website": "https://www.avemariagrotto.com"
+ },
+ {
+  "category": "Attractions & Fun",
+  "name": "Birdie Box",
+  "service": "Golf simulator",
+  "town": "Cullman",
+  "address": "1929 2nd Avenue SW, Cullman, AL 35055",
+  "phone": "(256) 747-5660",
+  "summary": "An indoor golf simulator on 2nd Avenue SW in Cullman. A fun stop for locals and visitors.",
+  "tags": [
+   "cullman",
+   "entertainment",
+   "golf simulator"
+  ],
+  "website": "https://Www.birdie-box.com"
+ },
+ {
+  "category": "Attractions & Fun",
+  "name": "Camp Meadowbrook",
+  "service": "Camp and event facility",
+  "town": "Cullman",
+  "address": "501 4th Street SW, Cullman, AL 35055",
+  "phone": "(256) 734-1431",
+  "summary": "A camp and event facility on 4th Street SW in Cullman. A fun stop for locals and visitors.",
+  "tags": [
+   "camp and event facility",
+   "cullman",
+   "event/ entertainment facilities"
+  ]
+ },
+ {
+  "category": "Attractions & Fun",
+  "name": "City Park Mini Golf",
+  "service": "Mini golf",
+  "town": "Cullman",
+  "address": "1635 Main Ave SW, Cullman, AL 35055",
+  "phone": "(256) 735-4191",
+  "summary": "A mini golf course on Main Ave SW in Cullman. A fun stop for locals and visitors.",
+  "tags": [
+   "cullman",
+   "entertainment",
+   "mini golf"
+  ],
+  "website": "https://www.cityscapefamily.com"
+ },
+ {
+  "category": "Attractions & Fun",
+  "name": "Cross Creek Golf Course",
+  "service": "Golf course",
+  "town": "Hanceville",
+  "address": "2321 County Road 490, Hanceville, AL 35077",
+  "phone": "(256) 739-2386",
+  "summary": "A golf course on County Road 490 in Hanceville. A fun stop for locals and visitors.",
+  "tags": [
+   "entertainment",
+   "golf course",
+   "golf courses",
+   "hanceville"
+  ]
+ },
+ {
+  "category": "Attractions & Fun",
+  "name": "Cullman County Museum",
+  "service": "Museum",
+  "town": "Cullman",
+  "address": "211 2nd Avenue NE, Cullman, AL 35055",
+  "phone": "(256) 739-1258",
+  "summary": "A museum on 2nd Avenue NE in Cullman. A fun stop for locals and visitors.",
+  "tags": [
+   "attractions",
+   "cullman",
+   "museum",
+   "non-profit organizations"
+  ],
+  "website": "https://www.cullmancountymuseum.com"
+ },
+ {
+  "category": "Attractions & Fun",
+  "name": "Cullman Motorsports Park",
+  "service": "Motorsports park",
+  "town": "Bremen",
+  "address": "1546 County Road 6, Bremen, AL 35033",
+  "phone": "(205) 281-5139",
+  "summary": "A motorsports park on County Road 6 in Bremen. A fun stop for locals and visitors.",
+  "tags": [
+   "bremen",
+   "entertainment",
+   "motorsports park"
+  ]
+ },
+ {
+  "category": "Attractions & Fun",
+  "name": "Cullman Wellness & Aquatic Center",
+  "service": "Fitness and aquatic center",
+  "town": "Cullman",
+  "address": "1636 Field Of Miracles Drive, Cullman, AL 35055",
+  "phone": "(256) 775-7946",
+  "summary": "A fitness and aquatic center on Field Of Miracles Drive in Cullman. A fun stop for locals and visitors.",
+  "tags": [
+   "cullman",
+   "entertainment",
+   "fitness and aquatic center",
+   "recreation"
+  ],
+  "website": "https://www.cullmanwellness.com"
+ },
+ {
+  "category": "Attractions & Fun",
+  "name": "Evelyn Burrow Museum of Wallace State College",
+  "service": "Museum",
+  "town": "Hanceville",
+  "address": "801 Main Street NW, Hanceville, AL 35077",
+  "phone": "(256) 352-8457",
+  "summary": "A museum on Main Street NW in Hanceville. A fun stop for locals and visitors.",
+  "tags": [
+   "attractions",
+   "hanceville",
+   "museum"
+  ],
+  "website": "https://www.burrowmuseum.org"
+ },
+ {
+  "category": "Attractions & Fun",
+  "name": "Shrine of the Most Blessed Sacrament",
+  "service": "Shrine and monastery",
+  "town": "Hanceville",
+  "address": "3224 County Road 548, Hanceville, AL 35077",
+  "phone": "(256) 352-6267",
+  "summary": "A shrine and monastery on County Road 548 in Hanceville. A fun stop for locals and visitors.",
+  "tags": [
+   "attractions",
+   "churches",
+   "hanceville",
+   "shrine and monastery"
+  ],
+  "website": "https://www.olamshrine.com"
+ },
+ {
+  "category": "Attractions & Fun",
+  "name": "Sips n Strokes",
+  "service": "Paint and sip studio",
+  "town": "Cullman",
+  "address": "102 1st Avenue NE, Cullman, AL 35055",
+  "phone": "(256) 338-6333",
+  "summary": "A paint and sip studio on 1st Avenue NE in Cullman. A fun stop for locals and visitors.",
+  "tags": [
+   "arts",
+   "cullman",
+   "entertainment",
+   "paint and sip studio",
+   "recreation"
+  ],
+  "website": "https://sipsnstrokescullman.rezclick.com"
+ },
+ {
+  "category": "Attractions & Fun",
+  "name": "Smith Lake Zipline Adventures",
+  "service": "Zipline",
+  "town": "Cullman",
+  "address": "1177 County Road 385, Cullman, AL 35057",
+  "phone": "(256) 841-7627",
+  "summary": "A zipline park on County Road 385 in Cullman. A fun stop for locals and visitors.",
+  "tags": [
+   "cullman",
+   "recreation",
+   "zipline"
+  ],
+  "website": "https://www.smithlakezipline.com"
+ },
+ {
+  "category": "Attractions & Fun",
+  "name": "Sportsworld Skate Center",
+  "service": "Skating rink",
+  "town": "Cullman",
+  "address": "90 County Road 1223, Cullman, AL 35058",
+  "phone": "(256) 739-4050",
+  "summary": "A skating rink on County Road 1223 in Cullman. A fun stop for locals and visitors.",
+  "tags": [
+   "cullman",
+   "entertainment",
+   "skating rink"
+  ],
+  "website": "https://sportsworldskate.com"
+ },
+ {
+  "category": "Attractions & Fun",
+  "name": "Stone Bridge Farms",
+  "service": "Event venue and lodging",
+  "town": "Cullman",
+  "address": "281 County Road 717, Cullman, AL 35055",
+  "phone": "(256) 734-9765",
+  "summary": "An event venue with lodging on County Road 717 in Cullman. A fun stop for locals and visitors.",
+  "tags": [
+   "cullman",
+   "event venue and lodging",
+   "event/ entertainment facilities",
+   "hotels & lodging",
+   "restaurants"
+  ],
+  "website": "https://www.stonebridgewedding.com"
+ },
+ {
+  "category": "Auto Repair & Mechanics",
+  "name": "Affordable Automotive",
+  "service": "Auto repair",
+  "town": "Cullman",
+  "address": "5132 County Road 703, Cullman, AL 35055",
+  "phone": "(256) 739-2290",
+  "summary": "An auto repair shop on County Road 703 in Cullman. Call to set up a repair or service visit.",
+  "tags": [
+   "auto repair",
+   "auto repair & service",
+   "cullman"
+  ]
+ },
+ {
+  "category": "Auto Repair & Mechanics",
+  "name": "C & M Truck and Trailer Repair",
+  "service": "Truck and trailer repair",
+  "town": "Cullman",
+  "address": "82 Schaeffel Road, Cullman, AL 35055",
+  "phone": "(256) 734-6378",
+  "summary": "A truck and trailer repair shop on Schaeffel Road in Cullman. Call to set up a repair or service visit.",
+  "tags": [
+   "cullman",
+   "truck & trailer sales/ repair",
+   "truck and trailer repair"
+  ]
+ },
+ {
+  "category": "Auto Repair & Mechanics",
+  "name": "Community Auto Repair",
+  "service": "Auto repair",
+  "town": "Cullman",
+  "address": "302 5th Ave SW, Cullman, AL 35055",
+  "phone": "(256) 739-5693",
+  "summary": "An auto repair shop on 5th Ave SW in Cullman. Call to set up a repair or service visit.",
+  "tags": [
+   "auto repair",
+   "auto repair & service",
+   "cullman"
+  ],
+  "website": "https://car-cullman.com"
+ },
+ {
+  "category": "Auto Repair & Mechanics",
+  "name": "Cullman Auto Body & Frame",
+  "service": "Body shop",
+  "town": "Hanceville",
+  "address": "8771 US Highway 31, Hanceville, AL 35077",
+  "phone": "(256) 347-2508",
+  "summary": "A body shop on US Highway 31 in Hanceville. Call to set up a repair or service visit.",
+  "tags": [
+   "auto repair & service",
+   "body shop",
+   "hanceville"
+  ]
+ },
+ {
+  "category": "Auto Repair & Mechanics",
+  "name": "Dave's Body Shop",
+  "service": "Auto body shop",
+  "town": "Hanceville",
+  "address": "1414 Commercial St, Hanceville, AL 35077",
+  "summary": "A local body shop for collision repair. Get the dings and dents fixed without leaving town.",
+  "tags": [
+   "body shop",
+   "collision repair",
+   "dent repair",
+   "hanceville",
+   "paint"
+  ],
+  "phone": "(256) 352-5998"
+ },
+ {
+  "category": "Auto Repair & Mechanics",
+  "name": "Earl's Body Shop",
+  "service": "Body shop",
+  "town": "Cullman",
+  "address": "2251 Decatur Avenue NW, Cullman, AL 35055",
+  "phone": "(256) 734-2406",
+  "summary": "A body shop on Decatur Avenue NW in Cullman. Call to set up a repair or service visit.",
+  "tags": [
+   "auto repair & service",
+   "body shop",
+   "cullman"
+  ],
+  "website": "https://www.earlsbodyshop.com"
+ },
+ {
+  "category": "Auto Repair & Mechanics",
+  "name": "Elliston Repair and Tire",
+  "service": "Auto repair and tire shop",
+  "town": "Hanceville",
+  "address": "10231 US Highway 31, Hanceville, AL 35077",
+  "summary": "Engine diagnostics, brakes, alignments, oil changes, suspension and transmission work, plus tires. They handle it all at their shop on Highway 31.",
+  "tags": [
+   "alignment",
+   "auto repair",
+   "brakes",
+   "diagnostics",
+   "hanceville",
+   "mechanic",
+   "oil change",
+   "tires",
+   "transmission"
+  ],
+  "phone": "(256) 747-5447",
+  "website": "https://ellistonrepairandtire.com/"
+ },
+ {
+  "category": "Auto Repair & Mechanics",
+  "name": "Guthrie's Auto Service",
+  "service": "Auto repair",
+  "town": "Cullman",
+  "address": "144 County Road 1435, Cullman, AL 35058",
+  "phone": "(256) 739-1690",
+  "summary": "An auto repair shop on County Road 1435 in Cullman. Call to set up a repair or service visit.",
+  "tags": [
+   "auto repair",
+   "auto repair & service",
+   "cullman"
+  ],
+  "website": "https://guthriesautoservice.net"
+ },
+ {
+  "category": "Auto Repair & Mechanics",
+  "name": "Havoline Xpress Lube",
+  "service": "Oil change",
+  "town": "Cullman",
+  "address": "117 2nd Avenue SW, Cullman, AL 35055",
+  "phone": "(256) 739-5888",
+  "summary": "A quick oil change shop on 2nd Avenue SW in Cullman. Call to set up a repair or service visit.",
+  "tags": [
+   "auto repair & service",
+   "cullman",
+   "oil change"
+  ]
+ },
+ {
+  "category": "Auto Repair & Mechanics",
+  "name": "J and D Auto and Tire Service",
+  "service": "Auto repair and tire shop",
+  "town": "Hanceville",
+  "address": "1395 AL Highway 69 S, Hanceville, AL 35077",
+  "summary": "Oil changes, tires, alignments and AC repair at one shop. If your car can't make the trip, they can tow it in.",
+  "tags": [
+   "ac repair",
+   "alignment",
+   "auto repair",
+   "hanceville",
+   "mechanic",
+   "oil change",
+   "tires",
+   "towing"
+  ],
+  "phone": "(256) 887-1410"
+ },
+ {
+  "category": "Auto Repair & Mechanics",
+  "name": "Mullins Body Shop",
+  "service": "Body shop and towing",
+  "town": "Cullman",
+  "address": "11042 US Highway 31 S, Cullman, AL 35055",
+  "phone": "(256) 734-1353",
+  "summary": "A body shop with towing on US Highway 31 S in Cullman. Call to set up a repair or service visit.",
+  "tags": [
+   "auto repair & service",
+   "body shop and towing",
+   "cullman",
+   "towing service"
+  ],
+  "website": "https://www.mullinsbodyshop.com"
+ },
+ {
+  "category": "Auto Repair & Mechanics",
+  "name": "Oden's Auto Glass",
+  "service": "Auto glass",
+  "town": "Cullman",
+  "address": "Highway 31 N, Cullman, AL 35058",
+  "phone": "(256) 734-2800",
+  "summary": "An auto glass shop on Highway 31 N in Cullman. Call to set up a repair or service visit.",
+  "tags": [
+   "auto glass",
+   "cullman",
+   "glass installation"
+  ]
+ },
+ {
+  "category": "Auto Repair & Mechanics",
+  "name": "Peek Auto Parts",
+  "service": "Auto parts and repair",
+  "town": "Cullman",
+  "address": "1937 2nd Avenue SW, Cullman, AL 35055",
+  "phone": "(256) 734-0675",
+  "summary": "An auto parts and repair shop on 2nd Avenue SW in Cullman. Call to set up a repair or service visit.",
+  "tags": [
+   "auto parts & supplies",
+   "auto parts and repair",
+   "auto repair & service",
+   "cullman"
+  ]
+ },
+ {
+  "category": "Auto Repair & Mechanics",
+  "name": "Smith's Body Shop & Wrecker Service",
+  "service": "Body shop and wrecker service",
+  "town": "Holly Pond",
+  "address": "11597 US Highway 278 E, Holly Pond, AL 35083",
+  "phone": "(256) 796-7313",
+  "summary": "A body shop with wrecker service on US Highway 278 E in Holly Pond. Call to set up a repair or service visit.",
+  "tags": [
+   "auto repair & service",
+   "body shop and wrecker service",
+   "holly pond"
+  ],
+  "website": "https://www.smithbodyshopandwrecker.com"
+ },
+ {
+  "category": "Auto Repair & Mechanics",
+  "name": "Velocity Automotive and Tire",
+  "service": "Auto repair and tires",
+  "town": "Cullman",
+  "address": "280 Highway 69, Cullman, AL 35055",
+  "phone": "(256) 739-9547",
+  "summary": "An auto repair and tire shop on Highway 69 in Cullman. Call to set up a repair or service visit.",
+  "tags": [
+   "auto repair & service",
+   "auto repair and tires",
+   "cullman"
+  ]
+ },
+ {
+  "category": "Auto Repair & Mechanics",
+  "name": "Verhine Service Center",
+  "service": "Auto repair shop",
+  "town": "Hanceville",
+  "address": "401 Main St NW, Hanceville, AL 35077",
+  "summary": "A Main Street shop for everyday car repairs. It's open on weekdays.",
+  "tags": [
+   "auto repair",
+   "car service",
+   "hanceville",
+   "mechanic"
+  ],
+  "phone": "(256) 338-2974"
+ },
+ {
+  "category": "Auto Sales",
+  "name": "Barbee Truck Sales",
+  "service": "Used truck dealer",
+  "town": "Hanceville",
+  "address": "7794 US Highway 31, Hanceville, AL 35077",
+  "summary": "A used truck dealer on Highway 31. Worth a stop if you need a pickup that can handle real work.",
+  "tags": [
+   "auto sales",
+   "hanceville",
+   "trucks",
+   "used trucks"
+  ],
+  "phone": "(256) 352-0701"
+ },
+ {
+  "category": "Auto Sales",
+  "name": "Bill Smith Buick GMC",
+  "service": "Buick and GMC dealer",
+  "town": "Cullman",
+  "address": "1940 2nd Avenue NW, Cullman, AL 35055",
+  "phone": "(256) 734-4472",
+  "summary": "A Buick and GMC dealer on 2nd Avenue NW in Cullman. Stop by to look at vehicles or ask about service.",
+  "tags": [
+   "auto dealers",
+   "buick and gmc dealer",
+   "cullman"
+  ],
+  "website": "https://www.billsmithbuickgmc.com/"
+ },
+ {
+  "category": "Auto Sales",
+  "name": "Billy Ray Taylor Auto Sales",
+  "service": "Used car dealer",
+  "town": "Cullman",
+  "address": "5355 AL Highway 157, Cullman, AL 35058",
+  "phone": "(256) 739-5415",
+  "summary": "A used car dealer on AL Highway 157 in Cullman. Stop by to look at vehicles or ask about service.",
+  "tags": [
+   "auto dealers",
+   "cullman",
+   "used car dealer"
+  ],
+  "website": "https://www.billyraytaylorautosales.com"
+ },
+ {
+  "category": "Auto Sales",
+  "name": "Cullman Auto Mall",
+  "service": "Used car dealer",
+  "town": "Cullman",
+  "address": "1303 2nd Ave SW, Cullman, AL 35055",
+  "phone": "(256) 841-5577",
+  "summary": "A used car dealer on 2nd Ave SW in Cullman. Stop by to look at vehicles or ask about service.",
+  "tags": [
+   "auto dealers",
+   "cullman",
+   "used car dealer"
+  ],
+  "website": "https://www.cullmanautomall.com"
+ },
+ {
+  "category": "Auto Sales",
+  "name": "Cullman Chrysler Dodge Jeep Ram",
+  "service": "Chrysler, Dodge, Jeep and Ram dealer",
+  "town": "Cullman",
+  "address": "300 Benchmark Way, Cullman, AL 35057",
+  "phone": "(256) 734-0721",
+  "summary": "A Chrysler, Dodge, Jeep and Ram dealer on Benchmark Way in Cullman. Stop by to look at vehicles or ask about service.",
+  "tags": [
+   "auto dealers",
+   "auto parts & supplies",
+   "chrysler, dodge, jeep and ram dealer",
+   "cullman"
+  ],
+  "website": "https://www.cullmandodgechryslerin.com/"
+ },
+ {
+  "category": "Auto Sales",
+  "name": "Freedom Motors of Alabama",
+  "service": "Used car dealer",
+  "town": "Hanceville",
+  "address": "102 Main St NE, Hanceville, AL 35077",
+  "summary": "A used car dealer on Main Street with cars and trucks for sale.",
+  "tags": [
+   "auto sales",
+   "car lot",
+   "financing",
+   "hanceville",
+   "trucks",
+   "used cars"
+  ],
+  "phone": "(256) 775-8001"
+ },
+ {
+  "category": "Auto Sales",
+  "name": "Jerry's Used Cars",
+  "service": "Used car dealer",
+  "town": "Hanceville",
+  "address": "10474 US Highway 31, Hanceville, AL 35077",
+  "summary": "A used car lot on Highway 31. They take trade ins, too.",
+  "tags": [
+   "auto sales",
+   "car lot",
+   "hanceville",
+   "trade ins",
+   "used cars"
+  ],
+  "phone": "(256) 775-2883"
+ },
+ {
+  "category": "Auto Sales",
+  "name": "Kretzschmar Motors",
+  "service": "Used car dealer",
+  "town": "Hanceville",
+  "address": "24297 AL Highway 91, Hanceville, AL 35077",
+  "summary": "A used car dealer on Highway 91, a short drive from Hanceville.",
+  "tags": [
+   "auto sales",
+   "car lot",
+   "hanceville",
+   "used cars"
+  ],
+  "phone": "(256) 352-5522"
+ },
+ {
+  "category": "Auto Sales",
+  "name": "Mitch Smith Chevrolet",
+  "service": "Chevrolet dealer",
+  "town": "Cullman",
+  "address": "1655 Cherokee Avenue SW, Cullman, AL 35055",
+  "phone": "(256) 734-6430",
+  "summary": "A Chevrolet dealer on Cherokee Avenue SW in Cullman. Stop by to look at vehicles or ask about service.",
+  "tags": [
+   "auto dealers",
+   "chevrolet dealer",
+   "cullman"
+  ],
+  "website": "https://www.mschevy.com"
+ },
+ {
+  "category": "Auto Sales",
+  "name": "S and N Auto Sales",
+  "service": "Used car dealer",
+  "town": "Hanceville",
+  "address": "Main Street NE, Hanceville, AL 35077",
+  "summary": "A used car lot on Main Street in Hanceville.",
+  "tags": [
+   "auto sales",
+   "car lot",
+   "hanceville",
+   "used cars"
+  ]
+ },
+ {
+  "category": "Auto Sales",
+  "name": "Small Town Auto of Cullman",
+  "service": "Used car dealer",
+  "town": "Cullman",
+  "address": "745 US Highway 278 East, Cullman, AL 35055",
+  "phone": "(256) 735-9851",
+  "summary": "A used car dealer on US Highway 278 East in Cullman. Stop by to look at vehicles or ask about service.",
+  "tags": [
+   "auto dealers",
+   "cullman",
+   "used car dealer"
+  ],
+  "website": "https://www.smalltownautosofcullman.com"
+ },
+ {
+  "category": "Auto Sales",
+  "name": "Tony Serra Nissan",
+  "service": "Nissan dealer",
+  "town": "Cullman",
+  "address": "1724 Cherokee Ave SW, Cullman, AL 35055",
+  "phone": "(256) 739-1771",
+  "summary": "A Nissan dealer on Cherokee Ave SW in Cullman. Stop by to look at vehicles or ask about service.",
+  "tags": [
+   "auto dealers",
+   "cullman",
+   "nissan dealer"
+  ],
+  "website": "https://www.tonyserranissancullman.com"
+ },
+ {
+  "category": "Auto Sales",
+  "name": "Whitaker Motors",
+  "service": "Used car dealer",
+  "town": "Hanceville",
+  "address": "8125 US Highway 31, Hanceville, AL 35077",
+  "summary": "A used car dealer on Highway 31 in the Hanceville area.",
+  "tags": [
+   "auto sales",
+   "car lot",
+   "hanceville",
+   "used cars"
+  ],
+  "phone": "(256) 352-4442"
+ },
+ {
+  "category": "Barbers & Salons",
+  "name": "Cut N Up Barber and Style",
+  "service": "Barbershop",
+  "town": "Hanceville",
+  "address": "105 Commercial St SE, Hanceville, AL 35077",
+  "summary": "A family barbershop open since 2008, right next door to Hanceville Drug Co. They cut hair for men, women and kids. Walk ins are welcome for haircuts, and color and perms are by appointment.",
+  "tags": [
+   "barber",
+   "fade",
+   "family haircuts",
+   "haircut",
+   "hanceville",
+   "kids haircut",
+   "walk ins"
+  ],
+  "phone": "(256) 636-2018"
+ },
+ {
+  "category": "Barbers & Salons",
+  "name": "East Side Barber Shop",
+  "service": "Barber shop",
+  "town": "Cullman",
+  "address": "105 5th Street SE, Cullman, AL 35055",
+  "phone": "(256) 620-5745",
+  "summary": "A barber shop on 5th Street SE in Cullman. Call to book a visit.",
+  "tags": [
+   "barber shop",
+   "cullman"
+  ]
+ },
+ {
+  "category": "Barbers & Salons",
+  "name": "Hanceville Barber and Style Shop",
+  "service": "Barbershop",
+  "town": "Hanceville",
+  "address": "112 Commercial St NE, Hanceville, AL 35077",
+  "summary": "A longtime barber and style shop on Commercial Street that has kept plenty of Hanceville heads neatly trimmed.",
+  "tags": [
+   "barber",
+   "haircut",
+   "hanceville",
+   "style"
+  ],
+  "phone": "(256) 352-7271"
+ },
+ {
+  "category": "Barbers & Salons",
+  "name": "Holly's Nails & Spa",
+  "service": "Nail salon and spa",
+  "town": "Cullman",
+  "address": "114 2nd Street SE, Cullman, AL 35055",
+  "phone": "(256) 735-4718",
+  "summary": "A nail salon and spa on 2nd Street SE in Cullman. Call to book a visit.",
+  "tags": [
+   "cullman",
+   "day spa",
+   "nail salon and spa"
+  ]
+ },
+ {
+  "category": "Barbers & Salons",
+  "name": "Mane Avenue Hair",
+  "service": "Hair salon",
+  "town": "Cullman",
+  "address": "101 Main Avenue SW, Cullman, AL 35055",
+  "phone": "(205) 807-4491",
+  "summary": "A hair salon on Main Avenue SW in Cullman. Call to book a visit.",
+  "tags": [
+   "cullman",
+   "hair salon"
+  ]
+ },
+ {
+  "category": "Barbers & Salons",
+  "name": "Pamela Jean Studio",
+  "service": "Hair salon",
+  "town": "Cullman",
+  "address": "104 1st Ave SE, Cullman, AL 35055",
+  "phone": "(256) 347-2018",
+  "summary": "A hair salon on 1st Ave SE in Cullman. Call to book a visit.",
+  "tags": [
+   "beauty salon/beauty products",
+   "cosmetologist",
+   "cullman",
+   "hair salon"
+  ]
+ },
+ {
+  "category": "Barbers & Salons",
+  "name": "The Corner Soak and Spa",
+  "service": "Day spa",
+  "town": "Cullman",
+  "address": "501 3rd Street SW, Cullman, AL 35055",
+  "phone": "(205) 841-5057",
+  "summary": "A day spa on 3rd Street SW in Cullman. Call to book a visit.",
+  "tags": [
+   "cullman",
+   "day spa"
+  ],
+  "website": "https://www.thecornersoakandspa.com"
+ },
+ {
+  "category": "Barbers & Salons",
+  "name": "The Warehouse Barber",
+  "service": "Barbershop",
+  "town": "Hanceville",
+  "address": "Main Street, Hanceville, AL 35077",
+  "summary": "A downtown barbershop for fresh haircuts and clean lines.",
+  "tags": [
+   "barber",
+   "beard trim",
+   "fade",
+   "haircut",
+   "hanceville"
+  ],
+  "phone": "(256) 736-3286"
+ },
+ {
+  "category": "Boats & Powersports",
+  "name": "Basch Brothers Powersports",
+  "service": "Powersports dealer",
+  "town": "Cullman",
+  "address": "3330 AL Highway 157, Cullman, AL 35058",
+  "phone": "(256) 734-3225",
+  "summary": "A powersports and outdoor equipment dealer on AL Highway 157 in Cullman. Sales and service for the lake and the trails.",
+  "tags": [
+   "cullman",
+   "powersports dealer",
+   "recreation",
+   "retail",
+   "sporting goods"
+  ],
+  "website": "https://www.baschbros.com"
+ },
+ {
+  "category": "Boats & Powersports",
+  "name": "Cappy's Boats",
+  "service": "Boat dealer",
+  "town": "Cullman",
+  "address": "6688 County Road 222, Cullman, AL 35057",
+  "phone": "(256) 756-7946",
+  "summary": "A boat dealer on County Road 222 in Cullman. Sales and service for the lake and the trails.",
+  "tags": [
+   "boat dealer",
+   "cullman",
+   "recreation"
+  ],
+  "website": "https://www.cappysboats.com"
+ },
+ {
+  "category": "Boats & Powersports",
+  "name": "Russell Marine Smith Lake",
+  "service": "Boat repair and marina",
+  "town": "Hanceville",
+  "address": "690 AL Highway 69 S, Hanceville, AL 35077",
+  "phone": "(256) 841-6365",
+  "summary": "A marina and boat repair shop on AL Highway 69 S in Hanceville. Sales and service for the lake and the trails.",
+  "tags": [
+   "boat repair",
+   "boat repair and marina",
+   "hanceville",
+   "marina"
+  ],
+  "website": "https://russellmarine.net"
+ },
+ {
+  "category": "Boats & Powersports",
+  "name": "Skiers Marine Smith Lake",
+  "service": "Boat dealer",
+  "town": "Crane Hill",
+  "address": "21680 County Road 222, Crane Hill, AL 35053",
+  "phone": "(256) 570-1670",
+  "summary": "A boat dealer on County Road 222 in Crane Hill. Sales and service for the lake and the trails.",
+  "tags": [
+   "boat dealer",
+   "crane hill"
+  ],
+  "website": "https://skiersmarine.com"
+ },
+ {
+  "category": "Child Care",
+  "name": "Kids World",
+  "service": "Child care center",
+  "town": "Hanceville",
+  "address": "9360 US Highway 31 S, Hanceville, AL 35077",
+  "summary": "A licensed child care center for infants through school age children.",
+  "tags": [
+   "after school",
+   "child care",
+   "daycare",
+   "hanceville",
+   "preschool"
+  ],
+  "phone": "(256) 775-2502"
+ },
+ {
+  "category": "Drinks & Coffee",
+  "name": "Downtown Nutrition",
+  "service": "Shakes and teas",
+  "town": "Cullman",
+  "address": "324 2nd Ave SE, Cullman, AL 35055",
+  "phone": "(256) 709-5467",
+  "summary": "A shake and tea shop on 2nd Ave SE in Cullman. A good spot for a drink or a sweet treat.",
+  "tags": [
+   "cullman",
+   "food & nutrition services",
+   "shakes and teas"
+  ]
+ },
+ {
+  "category": "Drinks & Coffee",
+  "name": "Ethos Craft Brewing",
+  "service": "Craft brewery",
+  "town": "Cullman",
+  "address": "1849 County Road 222, Cullman, AL 35057",
+  "phone": "(256) 531-6069",
+  "summary": "A craft brewery on County Road 222 in Cullman. A good spot for a drink or a sweet treat.",
+  "tags": [
+   "beer & wine",
+   "craft brewery",
+   "cullman"
+  ]
+ },
+ {
+  "category": "Drinks & Coffee",
+  "name": "HanceVegas Coffee Shop",
+  "service": "Coffee shop",
+  "town": "Hanceville",
+  "address": "113 Commercial St, Hanceville, AL 35077",
+  "summary": "A downtown coffee shop with one of the best names in town. Stop in for your morning cup and a little conversation.",
+  "tags": [
+   "coffee",
+   "espresso",
+   "hanceville",
+   "latte",
+   "smoothie"
+  ],
+  "phone": "(256) 887-1234"
+ },
+ {
+  "category": "Drinks & Coffee",
+  "name": "Hanceville Nutrition",
+  "service": "Smoothie and shake shop",
+  "town": "Hanceville",
+  "address": "918 Main St NE, Hanceville, AL 35077",
+  "summary": "Smoothies and shakes on Main Street. Good for a quick pick me up any time of day.",
+  "tags": [
+   "energy drinks",
+   "hanceville",
+   "protein",
+   "shakes",
+   "smoothie",
+   "tea"
+  ]
+ },
+ {
+  "category": "Drinks & Coffee",
+  "name": "Karma's Coffee House",
+  "service": "Coffee house",
+  "town": "Cullman",
+  "address": "103 1st Ave NE Suite 140, Cullman, AL 35055",
+  "phone": "(256) 841-5936",
+  "summary": "A coffee house on 1st Ave NE in Cullman. A good spot for a drink or a sweet treat.",
+  "tags": [
+   "coffee house",
+   "cullman",
+   "restaurants"
+  ],
+  "website": "https://www.karmascoffeehouse.com"
+ },
+ {
+  "category": "Drinks & Coffee",
+  "name": "The Blooming Barista",
+  "service": "Coffee",
+  "town": "Cullman",
+  "address": "1366 County Road 715, Cullman, AL 35055",
+  "phone": "(256) 595-1978",
+  "summary": "A coffee shop on County Road 715 in Cullman. A good spot for a drink or a sweet treat.",
+  "tags": [
+   "beverages",
+   "coffee",
+   "cullman"
+  ],
+  "website": "https://thebloomingbarista.square.site"
+ },
+ {
+  "category": "Drinks & Coffee",
+  "name": "Warehouse Nutrition",
+  "service": "Shakes and teas",
+  "town": "Cullman",
+  "address": "1405 2nd Ave SW Suite A, Cullman, AL 35055",
+  "phone": "(256) 736-3220",
+  "summary": "A shake and tea shop on 2nd Ave SW in Cullman. A good spot for a drink or a sweet treat.",
+  "tags": [
+   "cullman",
+   "restaurants",
+   "shakes and teas"
+  ]
+ },
+ {
+  "category": "Finance & Insurance",
+  "name": "Alabama Credit Union",
+  "service": "Credit union",
+  "town": "Cullman",
+  "address": "1901 Main Avenue SW, Cullman, AL 35055",
+  "phone": "(256) 737-9885",
+  "summary": "A credit union on Main Avenue SW in Cullman. Call or stop by with questions.",
+  "tags": [
+   "credit union",
+   "cullman",
+   "financial"
+  ],
+  "website": "https://www.alabamacu.com"
+ },
+ {
+  "category": "Finance & Insurance",
+  "name": "Alfa Insurance, Hanceville Office",
+  "service": "Insurance agency",
+  "town": "Hanceville",
+  "address": "908 Main Street NE, Hanceville, AL 35077",
+  "summary": "A local Alfa Insurance office on Main Street for home, auto and other coverage.",
+  "tags": [
+   "auto insurance",
+   "hanceville",
+   "home insurance",
+   "insurance"
+  ],
+  "phone": "(256) 352-9871",
+  "website": "https://www.alfainsurance.com/agents/stefani-nelson"
+ },
+ {
+  "category": "Finance & Insurance",
+  "name": "Citizens Bank & Trust",
+  "service": "Bank",
+  "town": "Cullman",
+  "address": "223 2nd Ave SE, Cullman, AL 35055",
+  "phone": "(256) 841-6600",
+  "summary": "A bank branch on 2nd Ave SE in Cullman. Call or stop by with questions.",
+  "tags": [
+   "bank",
+   "cullman",
+   "finance/ loans",
+   "financial"
+  ],
+  "website": "https://www.citizensbanktrust.com"
+ },
+ {
+  "category": "Finance & Insurance",
+  "name": "Cullman Savings Bank",
+  "service": "Bank",
+  "town": "Cullman",
+  "address": "316 2nd Avenue SW, Cullman, AL 35055",
+  "phone": "(256) 737-3360",
+  "summary": "A bank branch on 2nd Avenue SW in Cullman. Call or stop by with questions.",
+  "tags": [
+   "bank",
+   "cullman",
+   "finance/ loans",
+   "financial"
+  ],
+  "website": "https://www.cullmansavingsbank.com"
+ },
+ {
+  "category": "Finance & Insurance",
+  "name": "Cullman Savings Bank, Hanceville",
+  "service": "Bank",
+  "town": "Hanceville",
+  "address": "101 Main St SW, Hanceville, AL 35077",
+  "summary": "The Hanceville branch of Cullman Savings Bank, with an ATM on site.",
+  "tags": [
+   "atm",
+   "bank",
+   "hanceville",
+   "loans",
+   "savings"
+  ],
+  "phone": "(256) 352-6411",
+  "website": "https://www.cullmansavingsbank.com/"
+ },
+ {
+  "category": "Finance & Insurance",
+  "name": "EvaBank",
+  "service": "Bank",
+  "town": "Cullman",
+  "address": "1710 Cherokee Avenue SW, Cullman, AL 35055",
+  "phone": "(256) 255-2000",
+  "summary": "A bank branch on Cherokee Avenue SW in Cullman. Call or stop by with questions.",
+  "tags": [
+   "bank",
+   "cullman",
+   "finance/ loans",
+   "financial"
+  ],
+  "website": "https://www.evabank.com"
+ },
+ {
+  "category": "Finance & Insurance",
+  "name": "Family Security Credit Union",
+  "service": "Credit union",
+  "town": "Cullman",
+  "address": "811 2nd Avenue NW, Cullman, AL 35055",
+  "phone": "(256) 734-4333",
+  "summary": "A credit union on 2nd Avenue NW in Cullman. Call or stop by with questions.",
+  "tags": [
+   "credit union",
+   "cullman",
+   "financial"
+  ],
+  "website": "https://www.myfscu.com/"
+ },
+ {
+  "category": "Finance & Insurance",
+  "name": "First National Bank",
+  "service": "Bank",
+  "town": "Cullman",
+  "address": "1645 Derenda Avenue SW, Cullman, AL 35055",
+  "phone": "(256) 339-8326",
+  "summary": "A bank branch on Derenda Avenue SW in Cullman. Call or stop by with questions.",
+  "tags": [
+   "bank",
+   "cullman",
+   "finance/ loans"
+  ],
+  "website": "https://fnbforyou.com"
+ },
+ {
+  "category": "Finance & Insurance",
+  "name": "Knight-Free Insurance Agency",
+  "service": "Insurance agency",
+  "town": "Cullman",
+  "address": "410 1st Avenue SE Suite 100, Cullman, AL 35055",
+  "phone": "(256) 734-4060",
+  "summary": "An insurance agency on 1st Avenue SE in Cullman. Call or stop by with questions.",
+  "tags": [
+   "cullman",
+   "insurance",
+   "insurance agency"
+  ],
+  "website": "https://www.knight-freeinsurance.com"
+ },
+ {
+  "category": "Finance & Insurance",
+  "name": "Legacy Community Federal Credit Union",
+  "service": "Credit union",
+  "town": "Cullman",
+  "address": "420 2nd Avenue SW, Cullman, AL 35055",
+  "phone": "(205) 930-5000",
+  "summary": "A credit union on 2nd Avenue SW in Cullman. Call or stop by with questions.",
+  "tags": [
+   "credit union",
+   "cullman",
+   "financial"
+  ],
+  "website": "https://www.fcbcullman.com"
+ },
+ {
+  "category": "Finance & Insurance",
+  "name": "Merchants Bank of Alabama",
+  "service": "Bank",
+  "town": "Cullman",
+  "address": "900 2nd Avenue SW, Cullman, AL 35055",
+  "phone": "(256) 734-8110",
+  "summary": "A bank branch on 2nd Avenue SW in Cullman. Call or stop by with questions.",
+  "tags": [
+   "bank",
+   "cullman",
+   "financial"
+  ],
+  "website": "https://www.merchantsbankal.bank/"
+ },
+ {
+  "category": "Finance & Insurance",
+  "name": "Merchants Bank of Alabama, Hanceville",
+  "service": "Bank",
+  "town": "Hanceville",
+  "address": "906 Main St NE, Hanceville, AL 35077",
+  "summary": "The Merchants Bank of Alabama branch on Main Street.",
+  "tags": [
+   "atm",
+   "bank",
+   "hanceville",
+   "loans"
+  ],
+  "website": "https://www.merchantsbankal.bank/branches/hanceville-office/"
+ },
+ {
+  "category": "Finance & Insurance",
+  "name": "Peoples Bank of Alabama",
+  "service": "Bank",
+  "town": "Cullman",
+  "address": "1912 Cherokee Avenue SW, Cullman, AL 35055",
+  "phone": "(256) 737-7000",
+  "summary": "A bank branch on Cherokee Avenue SW in Cullman. Call or stop by with questions.",
+  "tags": [
+   "bank",
+   "cullman",
+   "financial"
+  ],
+  "website": "https://www.peoplesbankal.com"
+ },
+ {
+  "category": "Finance & Insurance",
+  "name": "Peoples Bank of Alabama, Hanceville",
+  "service": "Bank",
+  "town": "Hanceville",
+  "address": "204 Main St NE, Hanceville, AL 35077",
+  "summary": "The Peoples Bank of Alabama branch on Main Street.",
+  "tags": [
+   "atm",
+   "bank",
+   "checking",
+   "hanceville",
+   "loans"
+  ],
+  "phone": "(256) 352-4090",
+  "website": "https://peoplesbankal.com/region/central-region/hanceville"
+ },
+ {
+  "category": "Finance & Insurance",
+  "name": "Premier Bank of the South",
+  "service": "Bank",
+  "town": "Cullman",
+  "address": "101 1st Avenue NW, Cullman, AL 35055",
+  "phone": "(256) 737-9900",
+  "summary": "A bank branch on 1st Avenue NW in Cullman. Call or stop by with questions.",
+  "tags": [
+   "bank",
+   "cullman",
+   "financial"
+  ],
+  "website": "https://www.premierbankofthesouth.com"
+ },
+ {
+  "category": "Finance & Insurance",
+  "name": "Traditions Bank",
+  "service": "Bank",
+  "town": "Cullman",
+  "address": "109 2nd Avenue NW, Cullman, AL 35055",
+  "phone": "(256) 735-2121",
+  "summary": "A bank branch on 2nd Avenue NW in Cullman. Call or stop by with questions.",
+  "tags": [
+   "bank",
+   "cullman",
+   "financial"
+  ]
+ },
+ {
+  "category": "Finance & Insurance",
+  "name": "Traditions Bank, Dodge City",
+  "service": "Bank",
+  "town": "Hanceville",
+  "address": "639 AL Highway 69 S, Hanceville, AL 35077",
+  "summary": "A Traditions Bank branch with a lobby, drive thru and ATM. It's open Saturday mornings, too.",
+  "tags": [
+   "atm",
+   "bank",
+   "drive thru",
+   "hanceville",
+   "loans"
+  ],
+  "phone": "(256) 287-1400",
+  "website": "https://www.traditionsal.com/locations/"
+ },
+ {
+  "category": "Finance & Insurance",
+  "name": "Virgil B. Fowler Insurance Agency",
+  "service": "Insurance agency",
+  "town": "Cullman",
+  "address": "806 2nd Avenue SW, Cullman, AL 35055",
+  "phone": "(256) 734-3821",
+  "summary": "An insurance agency on 2nd Avenue SW in Cullman. Call or stop by with questions.",
+  "tags": [
+   "cullman",
+   "insurance",
+   "insurance agency"
+  ],
+  "website": "https://www.vbfowlerinsurance.com/"
+ },
+ {
+  "category": "Finance & Insurance",
+  "name": "Warnke Insurance",
+  "service": "Insurance agency",
+  "town": "Cullman",
+  "address": "1011 4th Street SW, Cullman, AL 35055",
+  "phone": "(256) 734-1211",
+  "summary": "An insurance agency on 4th Street SW in Cullman. Call or stop by with questions.",
+  "tags": [
+   "cullman",
+   "insurance",
+   "insurance agency"
+  ],
+  "website": "https://www.countryfinancial.com/don.warnke"
+ },
+ {
+  "category": "Healthcare",
+  "name": "ABC Pediatrics",
+  "service": "Pediatrics",
+  "town": "Cullman",
+  "address": "1900 Main Avenue SW Suite 4, Cullman, AL 35055",
+  "phone": "(256) 734-3759",
+  "summary": "A pediatric practice on Main Avenue SW in Cullman. Call to ask about appointments.",
+  "tags": [
+   "cullman",
+   "health care",
+   "pediatrics"
+  ]
+ },
+ {
+  "category": "Healthcare",
+  "name": "American Family Care",
+  "service": "Urgent care",
+  "town": "Cullman",
+  "address": "1841 Cherokee Ave SW, Cullman, AL 35055",
+  "phone": "(205) 421-2144",
+  "summary": "An urgent care clinic on Cherokee Ave SW in Cullman. Call to ask about appointments.",
+  "tags": [
+   "cullman",
+   "health care",
+   "urgent care"
+  ],
+  "website": "https://www.americanfamilycare.com"
+ },
+ {
+  "category": "Healthcare",
+  "name": "Boozer Eyecare",
+  "service": "Eye care",
+  "town": "Cullman",
+  "address": "1639 Field Of Miracles Drive SW, Cullman, AL 35055",
+  "phone": "(256) 739-4000",
+  "summary": "An eye care office on Field Of Miracles Drive SW in Cullman. Call to ask about appointments.",
+  "tags": [
+   "cullman",
+   "eye care",
+   "optometrists"
+  ],
+  "website": "https://www.boozereyecare.com"
+ },
+ {
+  "category": "Healthcare",
+  "name": "Cullman Cosmetic & Family Dentistry",
+  "service": "Dentist",
+  "town": "Cullman",
+  "address": "311 6th Avenue SE, Cullman, AL 35055",
+  "phone": "(256) 734-7151",
+  "summary": "A dental office on 6th Avenue SE in Cullman. Call to ask about appointments.",
+  "tags": [
+   "cullman",
+   "dentist",
+   "dentists"
+  ],
+  "website": "https://www.cullmandentist.com/"
+ },
+ {
+  "category": "Healthcare",
+  "name": "Cullman Eyes",
+  "service": "Eye care",
+  "town": "Cullman",
+  "address": "1112 Cullman Shopping Center NW, Cullman, AL 35055",
+  "phone": "(256) 888-2020",
+  "summary": "An eye care office on Cullman Shopping Center NW in Cullman. Call to ask about appointments.",
+  "tags": [
+   "cullman",
+   "eye care",
+   "optometrists"
+  ],
+  "website": "https://Cullmaneyes.com"
+ },
+ {
+  "category": "Healthcare",
+  "name": "Cullman Internal Medicine, P.C./ Cullman Diabetes Center",
+  "service": "Internal medicine",
+  "town": "Cullman",
+  "address": "1890 AL Highway 157 Suite 300, Cullman, AL 35058",
+  "phone": "(256) 737-8000",
+  "summary": "An internal medicine practice on AL Highway 157 in Cullman. Call to ask about appointments.",
+  "tags": [
+   "cullman",
+   "internal medicine",
+   "physicians"
+  ],
+  "website": "https://www.cullmaninternalmedicine.com"
+ },
+ {
+  "category": "Healthcare",
+  "name": "Cullman Regional",
+  "service": "Hospital",
+  "town": "Cullman",
+  "address": "1912 AL Highway 157, Cullman, AL 35058",
+  "phone": "(256) 737-2000",
+  "summary": "The regional hospital on AL Highway 157 in Cullman. Call to ask about appointments.",
+  "tags": [
+   "cullman",
+   "health care",
+   "hospital",
+   "hospitals"
+  ],
+  "website": "https://www.cullmanregional.com"
+ },
+ {
+  "category": "Healthcare",
+  "name": "Dental Arts",
+  "service": "Dentist",
+  "town": "Cullman",
+  "address": "205 4th Ave NE Suite 101, Cullman, AL 35055",
+  "phone": "(256) 739-5533",
+  "summary": "A dental office on 4th Ave NE in Cullman. Call to ask about appointments.",
+  "tags": [
+   "cullman",
+   "dentist",
+   "dentists"
+  ],
+  "website": "https://www.dentalartscullman.com"
+ },
+ {
+  "category": "Healthcare",
+  "name": "Ed Holcombe Pharmacy",
+  "service": "Pharmacy",
+  "town": "Cullman",
+  "address": "106 2nd Avenue SW, Cullman, AL 35055",
+  "phone": "(256) 734-1083",
+  "summary": "A pharmacy on 2nd Avenue SW in Cullman. Call to ask about appointments.",
+  "tags": [
+   "cullman",
+   "pharmacies",
+   "pharmacy"
+  ]
+ },
+ {
+  "category": "Healthcare",
+  "name": "Good Hope Medical",
+  "service": "Medical clinic",
+  "town": "Cullman",
+  "address": "1225 County Road 437, Cullman, AL 35055",
+  "phone": "(256) 615-2055",
+  "summary": "A medical clinic on County Road 437 in Cullman. Call to ask about appointments.",
+  "tags": [
+   "cullman",
+   "medical clinic",
+   "medical services"
+  ],
+  "website": "https://www.goodhopemedical.com"
+ },
+ {
+  "category": "Healthcare",
+  "name": "Good Hope Pharmacy",
+  "service": "Pharmacy",
+  "town": "Cullman",
+  "address": "1167 County Road 437, Suite A, Cullman, AL 35055",
+  "phone": "(256) 841-5958",
+  "summary": "A pharmacy on County Road 437, in Cullman. Call to ask about appointments.",
+  "tags": [
+   "cullman",
+   "pharmacies",
+   "pharmacy"
+  ]
+ },
+ {
+  "category": "Healthcare",
+  "name": "Good Samaritan Health Clinic",
+  "service": "Free health clinic",
+  "town": "Cullman",
+  "address": "401 Arnold Street NE Suite A, Cullman, AL 35055",
+  "phone": "(256) 775-1389",
+  "summary": "A free health clinic on Arnold Street NE in Cullman. Call to ask about appointments.",
+  "tags": [
+   "cullman",
+   "free health clinic",
+   "health care"
+  ],
+  "website": "https://www.goodsamaritancullman.com"
+ },
+ {
+  "category": "Healthcare",
+  "name": "Hallmark Dentistry",
+  "service": "Dentist",
+  "town": "Cullman",
+  "address": "307 Elizabeth St NE, Cullman, AL 35055",
+  "phone": "(256) 734-1866",
+  "summary": "A dental office on Elizabeth St NE in Cullman. Call to ask about appointments.",
+  "tags": [
+   "cullman",
+   "dentist",
+   "dentists"
+  ],
+  "website": "https://hallmarkdentistrycullman.com/"
+ },
+ {
+  "category": "Healthcare",
+  "name": "Hanceville Drug Co",
+  "service": "Pharmacy and soda fountain",
+  "town": "Hanceville",
+  "address": "101 Commercial St SE, Hanceville, AL 35077",
+  "summary": "A locally owned pharmacy that has been open since 1916. The old fashioned soda fountain inside serves ice cream, sundaes and shakes.",
+  "tags": [
+   "hanceville",
+   "ice cream",
+   "milkshake",
+   "pharmacy",
+   "prescriptions",
+   "soda fountain"
+  ],
+  "phone": "(256) 352-4110",
+  "website": "https://www.hancevilledrug.com/"
+ },
+ {
+  "category": "Healthcare",
+  "name": "Henderson & Walton Women's Center",
+  "service": "Women's health",
+  "town": "Cullman",
+  "address": "212 4th Avenue SE Suite 200, Cullman, AL 35055",
+  "phone": "(256) 739-2626",
+  "summary": "A women's health practice on 4th Avenue SE in Cullman. Call to ask about appointments.",
+  "tags": [
+   "cullman",
+   "physicians",
+   "women's health"
+  ],
+  "website": "https://www.hwwc.net"
+ },
+ {
+  "category": "Healthcare",
+  "name": "Heritage Pharmacy of Cullman",
+  "service": "Pharmacy",
+  "town": "Cullman",
+  "address": "1701 Main Avenue SW Suite C, Cullman, AL 35055",
+  "phone": "(256) 737-3773",
+  "summary": "A pharmacy on Main Avenue SW in Cullman. Call to ask about appointments.",
+  "tags": [
+   "cullman",
+   "pharmacies",
+   "pharmacy"
+  ],
+  "website": "https://www.heritagepharmacyal.com"
+ },
+ {
+  "category": "Healthcare",
+  "name": "Hospice of North Alabama",
+  "service": "Hospice",
+  "town": "Cullman",
+  "address": "408 2nd Avenue NW, Cullman, AL 35058",
+  "phone": "(256) 531-7663",
+  "summary": "A hospice care provider on 2nd Avenue NW in Cullman. Call to ask about appointments.",
+  "tags": [
+   "cullman",
+   "hospice",
+   "medical services"
+  ],
+  "website": "https://Hospiceofnorthalabama.com"
+ },
+ {
+  "category": "Healthcare",
+  "name": "Huntsville Hospital Urgent Care",
+  "service": "Urgent care",
+  "town": "Cullman",
+  "address": "1311 2nd Ave SW Suite A, Cullman, AL 35055",
+  "phone": "(256) 841-3622",
+  "summary": "An urgent care clinic on 2nd Ave SW in Cullman. Call to ask about appointments.",
+  "tags": [
+   "cullman",
+   "medical services",
+   "urgent care"
+  ],
+  "website": "https://www.hhurgentcare.org"
+ },
+ {
+  "category": "Healthcare",
+  "name": "Internal Medicine & Pediatrics of Cullman",
+  "service": "Internal medicine and pediatrics",
+  "town": "Cullman",
+  "address": "1948 AL Highway 157 Suite 360, Cullman, AL 35058",
+  "phone": "(256) 739-1575",
+  "summary": "An internal medicine and pediatrics practice on AL Highway 157 in Cullman. Call to ask about appointments.",
+  "tags": [
+   "cullman",
+   "internal medicine and pediatrics",
+   "physicians"
+  ]
+ },
+ {
+  "category": "Healthcare",
+  "name": "McSwain's Pharmacy",
+  "service": "Pharmacy",
+  "town": "Cullman",
+  "address": "1910 Main Avenue SW, Cullman, AL 35055",
+  "phone": "(256) 734-1662",
+  "summary": "A pharmacy on Main Avenue SW in Cullman. Call to ask about appointments.",
+  "tags": [
+   "cullman",
+   "pharmacies",
+   "pharmacy"
+  ],
+  "website": "https://mcswainspharmacy.com/"
+ },
+ {
+  "category": "Healthcare",
+  "name": "Signature Smiles",
+  "service": "Dentist",
+  "town": "Cullman",
+  "address": "1754 Warnke Circle NE, Cullman, AL 35055",
+  "phone": "(256) 531-9983",
+  "summary": "A dental office on Warnke Circle NE in Cullman. Call to ask about appointments.",
+  "tags": [
+   "cullman",
+   "dentist",
+   "dentists",
+   "health care"
+  ],
+  "website": "https://SignatureSmilesCullman.com"
+ },
+ {
+  "category": "Healthcare",
+  "name": "Specialty Compounding & Wellness Pharmacy",
+  "service": "Compounding pharmacy",
+  "town": "Cullman",
+  "address": "2104 AL Highway 157, Cullman, AL 35058",
+  "phone": "(256) 734-3146",
+  "summary": "A compounding pharmacy on AL Highway 157 in Cullman. Call to ask about appointments.",
+  "tags": [
+   "compounding pharmacy",
+   "cullman",
+   "pharmacies"
+  ],
+  "website": "https://www.specialtypharmacyonline.com"
+ },
+ {
+  "category": "Healthcare",
+  "name": "Urgent Care Center",
+  "service": "Urgent care",
+  "town": "Cullman",
+  "address": "1701 Main Avenue SW Suite A, Cullman, AL 35055",
+  "phone": "(256) 737-0880",
+  "summary": "An urgent care clinic on Main Avenue SW in Cullman. Call to ask about appointments.",
+  "tags": [
+   "cullman",
+   "health care",
+   "urgent care"
+  ],
+  "website": "https://cullmanurgentcarecenter.com"
+ },
+ {
+  "category": "Home Services",
+  "name": "A, R and C Specialists",
+  "service": "HVAC and refrigeration",
+  "town": "Hanceville",
+  "address": "850 County Road 636, Hanceville, AL 35077",
+  "summary": "A Hanceville company that services heating, air conditioning and commercial refrigeration.",
+  "tags": [
+   "air conditioning",
+   "commercial",
+   "hanceville",
+   "heating",
+   "hvac",
+   "refrigeration"
+  ],
+  "phone": "(256) 708-8617",
+  "website": "https://www.arandcspecialists.com/"
+ },
+ {
+  "category": "Home Services",
+  "name": "All Around Heating & Cooling",
+  "service": "Heating and air",
+  "town": "Cullman",
+  "address": "417 3rd Avenue SW, Cullman, AL 35055",
+  "phone": "(256) 531-9096",
+  "summary": "A heating and air company on 3rd Avenue SW in Cullman. Call for a quote or service visit.",
+  "tags": [
+   "air conditioning & heating",
+   "cullman",
+   "heating and air"
+  ],
+  "website": "https://Allaroundheatingandcooling.com"
+ },
+ {
+  "category": "Home Services",
+  "name": "Bama Air Systems",
+  "service": "Heating and air",
+  "town": "Cullman",
+  "address": "78 Lindsey Road, Cullman, AL 35055",
+  "phone": "(256) 734-4181",
+  "summary": "A heating and air company on Lindsey Road in Cullman. Call for a quote or service visit.",
+  "tags": [
+   "air conditioning & heating",
+   "cullman",
+   "heating and air",
+   "home improvements"
+  ],
+  "website": "https://www.bamaairsystems.com"
+ },
+ {
+  "category": "Home Services",
+  "name": "Cook's Pest Control",
+  "service": "Pest control",
+  "town": "Cullman",
+  "address": "2025 Cherokee Avenue SW, Cullman, AL 35055",
+  "phone": "(256) 734-0353",
+  "summary": "A pest control company on Cherokee Avenue SW in Cullman. Call for a quote or service visit.",
+  "tags": [
+   "cullman",
+   "pest control"
+  ],
+  "website": "https://cookspest.com/"
+ },
+ {
+  "category": "Home Services",
+  "name": "Cool Temp Services",
+  "service": "Heating and air",
+  "town": "Cullman",
+  "address": "3951 Country Rd 940, Cullman, AL 35057",
+  "phone": "(256) 747-2037",
+  "summary": "A heating and air company on Country Rd 940 in Cullman. Call for a quote or service visit.",
+  "tags": [
+   "air conditioning & heating",
+   "cullman",
+   "heating and air"
+  ],
+  "website": "https://cooltempair.com"
+ },
+ {
+  "category": "Home Services",
+  "name": "Cullman Appliance & HVAC Repair",
+  "service": "Appliance and HVAC repair",
+  "town": "Cullman",
+  "address": "5251 Highway 69, Cullman, AL 35058",
+  "phone": "(256) 507-3415",
+  "summary": "A repair company for appliances, heating and air on Highway 69 in Cullman. Call for a quote or service visit.",
+  "tags": [
+   "appliance and hvac repair",
+   "appliances",
+   "cullman"
+  ],
+  "website": "https://www.cullmanappliancerepair.com"
+ },
+ {
+  "category": "Home Services",
+  "name": "Cullman Overhead Door & Glass",
+  "service": "Garage doors and glass",
+  "town": "Cullman",
+  "address": "301 3rd Ave SW, Cullman, AL 35055",
+  "phone": "(256) 734-0792",
+  "summary": "A garage door and glass company on 3rd Ave SW in Cullman. Call for a quote or service visit.",
+  "tags": [
+   "cullman",
+   "garage doors",
+   "garage doors and glass"
+  ]
+ },
+ {
+  "category": "Home Services",
+  "name": "Dye HVAC",
+  "service": "Heating and air",
+  "town": "Cullman",
+  "address": "2149 2nd Ave SW, Cullman, AL 35055",
+  "phone": "(256) 841-1016",
+  "summary": "A heating and air company on 2nd Ave SW in Cullman. Call for a quote or service visit.",
+  "tags": [
+   "air conditioning & heating",
+   "cullman",
+   "heating and air"
+  ],
+  "website": "https://www.dyehvac.com"
+ },
+ {
+  "category": "Home Services",
+  "name": "Premier Pest Control",
+  "service": "Pest control",
+  "town": "Vinemont",
+  "address": "605 County Road 1216, Vinemont, AL 35179",
+  "phone": "(256) 347-1574",
+  "summary": "A pest control company on County Road 1216 in Vinemont. Call for a quote or service visit.",
+  "tags": [
+   "pest control",
+   "vinemont"
+  ]
+ },
+ {
+  "category": "Home Services",
+  "name": "Shaddix Garage Doors and More",
+  "service": "Garage doors",
+  "town": "Cullman",
+  "address": "1141 Highway 69 North, Cullman, AL 35058",
+  "phone": "(256) 798-3667",
+  "summary": "A garage door company on Highway 69 North in Cullman. Call for a quote or service visit.",
+  "tags": [
+   "cullman",
+   "garage doors"
+  ]
+ },
+ {
+  "category": "Lodging",
+  "name": "Cobblestone Hotel & Suites",
+  "service": "Hotel",
+  "town": "Cullman",
+  "address": "1835 Main Ave SW, Cullman, AL 35055",
+  "phone": "(256) 798-0054",
+  "summary": "A hotel on Main Ave SW in Cullman. A place to stay in Cullman County.",
+  "tags": [
+   "cullman",
+   "hotel",
+   "hotels & lodging"
+  ],
+  "website": "https://www.staycobblestone.com/al/cullman"
+ },
+ {
+  "category": "Lodging",
+  "name": "Comfort Suites Cullman",
+  "service": "Hotel",
+  "town": "Cullman",
+  "address": "2048 St. Joseph Drive NW, Cullman, AL 35058",
+  "phone": "(256) 255-5999",
+  "summary": "A hotel on St. Joseph Drive NW in Cullman. A place to stay in Cullman County.",
+  "tags": [
+   "cullman",
+   "hotel",
+   "hotels & lodging"
+  ],
+  "website": "https://www.choicehotels.com/alabama/cullman/comfort-suites-hotels/al285"
+ },
+ {
+  "category": "Lodging",
+  "name": "Cullman RVP LLC (DBA Unhitched Cullman)",
+  "service": "RV park",
+  "town": "Cullman",
+  "address": "220 County Road 1185, Cullman, AL 35057",
+  "phone": "(256) 734-5853",
+  "summary": "An RV park on County Road 1185 in Cullman. A place to stay in Cullman County.",
+  "tags": [
+   "cullman",
+   "hotels & lodging",
+   "rv park"
+  ],
+  "website": "https://www.unhitchedrv.com/locations/unhitched-cullman"
+ },
+ {
+  "category": "Lodging",
+  "name": "Fairfield Inn By Marriott Cullman",
+  "service": "Hotel",
+  "town": "Cullman",
+  "address": "1855 North Crest Dr. NW, Cullman, AL 35055",
+  "phone": "(256) 841-7020",
+  "summary": "A hotel on North Crest Dr. NW in Cullman. A place to stay in Cullman County.",
+  "tags": [
+   "cullman",
+   "hotel",
+   "hotels & lodging"
+  ],
+  "website": "https://www.marriott.com/en-us/hotels/hsvfc-fairfield-inn-and-suites-cullman/overview/"
+ },
+ {
+  "category": "Lodging",
+  "name": "Fire Tower Camp",
+  "service": "Cabins and camping",
+  "town": "Crane Hill",
+  "address": "1340 County Road 351, Crane Hill, AL 35053",
+  "phone": "(256) 202-4841",
+  "summary": "A camp with cabins and campsites on County Road 351 in Crane Hill. A place to stay in Cullman County.",
+  "tags": [
+   "cabins and camping",
+   "crane hill",
+   "hotels & lodging"
+  ],
+  "website": "https://www.firetowercamp.com"
+ },
+ {
+  "category": "Lodging",
+  "name": "Hampton Inn Hotel",
+  "service": "Hotel",
+  "town": "Cullman",
+  "address": "6100 AL Highway 157, Cullman, AL 35058",
+  "phone": "(256) 739-4444",
+  "summary": "A hotel on AL Highway 157 in Cullman. A place to stay in Cullman County.",
+  "tags": [
+   "cullman",
+   "hotel",
+   "hotels & lodging"
+  ]
+ },
+ {
+  "category": "Lodging",
+  "name": "Holiday Inn Express Hotel & Suites",
+  "service": "Hotel",
+  "town": "Cullman",
+  "address": "2052 Hayes Drive NW, Cullman, AL 35058",
+  "phone": "(256) 736-1906",
+  "summary": "A hotel on Hayes Drive NW in Cullman. A place to stay in Cullman County.",
+  "tags": [
+   "cullman",
+   "hotel",
+   "hotels & lodging"
+  ],
+  "website": "https://www.hiexpress.com/cullmanal"
+ },
+ {
+  "category": "Lodging",
+  "name": "Home2 Suites by Hilton Cullman",
+  "service": "Hotel",
+  "town": "Cullman",
+  "address": "5720 AL Highway 157, Cullman, AL 35058",
+  "phone": "(256) 615-8350",
+  "summary": "A hotel on AL Highway 157 in Cullman. A place to stay in Cullman County.",
+  "tags": [
+   "cullman",
+   "hotel",
+   "hotels & lodging"
+  ],
+  "website": "https://www.hilton.com/en/hotels/bhmclht-home2-suites-cullman/"
+ },
+ {
+  "category": "Lodging",
+  "name": "JG's Campen Life RV Campground",
+  "service": "RV campground",
+  "town": "Cullman",
+  "address": "2060 County Road 438, Cullman, AL 35057",
+  "phone": "(256) 930-3060",
+  "summary": "An RV campground on County Road 438 in Cullman. A place to stay in Cullman County.",
+  "tags": [
+   "campground",
+   "cullman",
+   "rv campground"
+  ],
+  "website": "https://www.jgscampenlife.com"
+ },
+ {
+  "category": "Lodging",
+  "name": "La Quinta Inn & Suites",
+  "service": "Hotel",
+  "town": "Cullman",
+  "address": "2054 St. Joseph Dr. NW, Cullman, AL 35055",
+  "phone": "(256) 775-9500",
+  "summary": "A hotel on St. Joseph Dr. NW in Cullman. A place to stay in Cullman County.",
+  "tags": [
+   "cullman",
+   "hotel",
+   "hotels & lodging"
+  ]
+ },
+ {
+  "category": "Lodging",
+  "name": "Quality Inn",
+  "service": "Hotel",
+  "town": "Cullman",
+  "address": "5917 AL Highway 157, Cullman, AL 35058",
+  "phone": "(256) 734-1240",
+  "summary": "A hotel on AL Highway 157 in Cullman. A place to stay in Cullman County.",
+  "tags": [
+   "cullman",
+   "hotel",
+   "hotels & lodging"
+  ],
+  "website": "https://www.choicehotels.com/hotel/AL117"
+ },
+ {
+  "category": "Lodging",
+  "name": "Quality Inn",
+  "service": "Hotel",
+  "town": "Hanceville",
+  "address": "810 Main St NE, Hanceville, AL 35077",
+  "summary": "A hotel on Main Street, close to everything in town.",
+  "tags": [
+   "hanceville",
+   "hotel",
+   "lodging",
+   "motel",
+   "stay"
+  ],
+  "phone": "(256) 787-2210"
+ },
+ {
+  "category": "Lodging",
+  "name": "The Red Rooster Retreat",
+  "service": "Bed and breakfast",
+  "town": "Crane Hill",
+  "address": "2140 County Road 870, Crane Hill, AL 35053",
+  "phone": "(256) 347-2184",
+  "summary": "A bed and breakfast on County Road 870 in Crane Hill. A place to stay in Cullman County.",
+  "tags": [
+   "bed and breakfast",
+   "bed and breakfast/guest house",
+   "crane hill",
+   "hotels & lodging"
+  ],
+  "website": "https://Www.redroosterretreat.com"
+ },
+ {
+  "category": "Manufacturers",
+  "name": "Advanced Rotors",
+  "service": "Rotors",
+  "town": "Hanceville",
+  "address": "273 County Road 520, Hanceville, AL 35077",
+  "phone": "(256) 352-5150",
+  "summary": "A rotor manufacturer on County Road 520 in Hanceville. A local employer. Check its website for jobs.",
+  "tags": [
+   "hanceville",
+   "manufacturing, distribution, processing",
+   "rotors"
+  ],
+  "website": "https://www.advrotors.com"
+ },
+ {
+  "category": "Manufacturers",
+  "name": "AGCOR Steel",
+  "service": "Metal roofing and steel",
+  "town": "Cullman",
+  "address": "540 Industrial Park Rd, Cullman, AL 35055",
+  "phone": "(256) 734-4481",
+  "summary": "A metal roofing and steel supplier on Industrial Park Rd in Cullman. A local employer. Check its website for jobs.",
+  "tags": [
+   "cullman",
+   "manufacturing, distribution, processing",
+   "metal roofing and steel",
+   "roofing"
+  ],
+  "website": "https://www.agcorsteel.com/"
+ },
+ {
+  "category": "Manufacturers",
+  "name": "American Trim",
+  "service": "Metal and trim parts",
+  "town": "Cullman",
+  "address": "1909 Beech Ave SE, Cullman, AL 35055",
+  "phone": "(256) 734-4921",
+  "summary": "A metal and trim parts plant on Beech Ave SE in Cullman. A local employer. Check its website for jobs.",
+  "tags": [
+   "cullman",
+   "manufacturing, distribution, processing",
+   "metal and trim parts"
+  ],
+  "website": "https://www.amtrim.com"
+ },
+ {
+  "category": "Manufacturers",
+  "name": "Apel Steel Corporation",
+  "service": "Steel",
+  "town": "Cullman",
+  "address": "2345 2nd Avenue NW, Cullman, AL 35058",
+  "phone": "(256) 739-6280",
+  "summary": "A steel company on 2nd Avenue NW in Cullman. A local employer. Check its website for jobs.",
+  "tags": [
+   "cullman",
+   "manufacturing, distribution, processing",
+   "steel"
+  ]
+ },
+ {
+  "category": "Manufacturers",
+  "name": "Birmingham Fastener, Hanceville Distribution Center",
+  "service": "Fastener distribution",
+  "town": "Hanceville",
+  "address": "1100 Main Street SE, Hanceville, AL 35077",
+  "phone": "(256) 352-1000",
+  "summary": "A fastener distribution center on Main Street SE in Hanceville. A local employer. Check its website for jobs.",
+  "tags": [
+   "fastener distribution",
+   "hanceville",
+   "manufacturing, distribution, processing"
+  ],
+  "website": "https://www.bhamfast.com"
+ },
+ {
+  "category": "Manufacturers",
+  "name": "Cardington Yutaka Technologies",
+  "service": "Auto parts manufacturer",
+  "town": "Cullman",
+  "address": "460 AL Highway 157, Cullman, AL 35058",
+  "phone": "(256) 739-3533",
+  "summary": "An auto parts plant on AL Highway 157 in Cullman. A local employer. Check its website for jobs.",
+  "tags": [
+   "auto parts manufacturer",
+   "cullman",
+   "manufacturing, distribution, processing"
+  ],
+  "website": "https://www.yutakatech.com"
+ },
+ {
+  "category": "Manufacturers",
+  "name": "Cullman Cabinet & Supply Company",
+  "service": "Cabinets",
+  "town": "Cullman",
+  "address": "1735 Childhaven Road NE, Cullman, AL 35055",
+  "phone": "(256) 734-1540",
+  "summary": "A cabinet maker and supplier on Childhaven Road NE in Cullman. A local employer. Check its website for jobs.",
+  "tags": [
+   "cabinets",
+   "cullman",
+   "manufacturing, distribution, processing"
+  ],
+  "website": "https://www.cullmancabinet.com"
+ },
+ {
+  "category": "Manufacturers",
+  "name": "Cullman Casting Corporation",
+  "service": "Metal casting",
+  "town": "Cullman",
+  "address": "251 County Road 490, Cullman, AL 35055",
+  "phone": "(256) 735-0900",
+  "summary": "A metal casting foundry on County Road 490 in Cullman. A local employer. Check its website for jobs.",
+  "tags": [
+   "cullman",
+   "manufacturing, distribution, processing",
+   "metal casting"
+  ],
+  "website": "https://www.cullmancasting.com"
+ },
+ {
+  "category": "Manufacturers",
+  "name": "Design Technologies, LLC",
+  "service": "Contract manufacturing",
+  "town": "Hanceville",
+  "address": "110 McSwain Dr, Hanceville, AL 35077",
+  "summary": "Builds electrical wire harnesses and electronic control boxes for manufacturers, from the design stage through production.",
+  "tags": [
+   "electronics",
+   "hanceville",
+   "jobs",
+   "manufacturing",
+   "wire harness"
+  ],
+  "phone": "(256) 887-1214"
+ },
+ {
+  "category": "Manufacturers",
+  "name": "Elk River",
+  "service": "Safety gear",
+  "town": "Cullman",
+  "address": "1202 26th St. SW, Cullman, AL 35055",
+  "phone": "(256) 739-5959",
+  "summary": "A safety gear supplier on 26th St. SW in Cullman. A local employer. Check its website for jobs.",
+  "tags": [
+   "cullman",
+   "manufacturing, distribution, processing",
+   "safety gear"
+  ],
+  "website": "https://www.elkriver.com"
+ },
+ {
+  "category": "Manufacturers",
+  "name": "GSI Cumberland",
+  "service": "Agricultural equipment",
+  "town": "Bremen",
+  "address": "1733 County Road 68, Bremen, AL 35033",
+  "phone": "(256) 287-1000",
+  "summary": "A plant that makes poultry and farm equipment on County Road 68 in Bremen. A local employer. Check its website for jobs.",
+  "tags": [
+   "agricultural",
+   "agricultural equipment",
+   "bremen",
+   "manufacturing, distribution, processing"
+  ],
+  "website": "https://cumberlandpoultry.com"
+ },
+ {
+  "category": "Manufacturers",
+  "name": "Hessaire Products",
+  "service": "Evaporative coolers",
+  "town": "Holly Pond",
+  "address": "11550 US Highway 278e, Holly Pond, AL 35083",
+  "phone": "(256) 734-3003",
+  "summary": "A company that makes evaporative coolers and fans on US Highway 278e in Holly Pond. A local employer. Check its website for jobs.",
+  "tags": [
+   "evaporative coolers",
+   "holly pond",
+   "manufacturing, distribution, processing"
+  ],
+  "website": "https://www.hessaire.com"
+ },
+ {
+  "category": "Manufacturers",
+  "name": "HH Technologies",
+  "service": "Manufacturing",
+  "town": "Bremen",
+  "address": "1733 County Road 68, Bremen, AL 35033",
+  "phone": "(256) 287-7000",
+  "summary": "A manufacturing plant on County Road 68 in Bremen. A local employer. Check its website for jobs.",
+  "tags": [
+   "bremen",
+   "manufacturing",
+   "manufacturing, distribution, processing"
+  ],
+  "website": "https://www.hhtech.net"
+ },
+ {
+  "category": "Manufacturers",
+  "name": "HomTex",
+  "service": "Home textiles",
+  "town": "Cullman",
+  "address": "2125 2nd Ave. SW, Cullman, AL 35055",
+  "phone": "(256) 734-3937",
+  "summary": "A home textiles plant on 2nd Ave. SW in Cullman. A local employer. Check its website for jobs.",
+  "tags": [
+   "cullman",
+   "home textiles",
+   "manufacturing, distribution, processing"
+  ],
+  "website": "https://www.homtex.com"
+ },
+ {
+  "category": "Manufacturers",
+  "name": "I-Core Composites",
+  "service": "Composites",
+  "town": "Cullman",
+  "address": "802 23rd Street SW, Cullman, AL 35055",
+  "phone": "(256) 739-6627",
+  "summary": "A composite materials plant on 23rd Street SW in Cullman. A local employer. Check its website for jobs.",
+  "tags": [
+   "composites",
+   "cullman",
+   "manufacturing, distribution, processing"
+  ],
+  "website": "https://www.icorecomposites.com"
+ },
+ {
+  "category": "Manufacturers",
+  "name": "Inland Building Systems",
+  "service": "Metal buildings",
+  "town": "Cullman",
+  "address": "2141 2nd Avenue SW, Cullman, AL 35055",
+  "phone": "(256) 739-6827",
+  "summary": "A metal building company on 2nd Avenue SW in Cullman. A local employer. Check its website for jobs.",
+  "tags": [
+   "cullman",
+   "manufacturing, distribution, processing",
+   "metal buildings"
+  ]
+ },
+ {
+  "category": "Manufacturers",
+  "name": "Jelco",
+  "service": "Manufacturing",
+  "town": "Cullman",
+  "address": "1642 John H. Cooper Drive, Cullman, AL 35055",
+  "phone": "(256) 737-7316",
+  "summary": "A manufacturing plant on John H. Cooper Drive in Cullman. A local employer. Check its website for jobs.",
+  "tags": [
+   "cullman",
+   "manufacturing",
+   "manufacturing, distribution, processing"
+  ],
+  "website": "https://www.jelco.ca"
+ },
+ {
+  "category": "Manufacturers",
+  "name": "Louisiana-Pacific Corporation",
+  "service": "Building products",
+  "town": "Hanceville",
+  "address": "902 Main Street SE, Hanceville, AL 35077",
+  "phone": "(256) 352-1700",
+  "summary": "A building products plant on Main Street SE in Hanceville. A local employer. Check its website for jobs.",
+  "tags": [
+   "building products",
+   "hanceville",
+   "manufacturing, distribution, processing"
+  ],
+  "website": "https://www.lpcorp.com"
+ },
+ {
+  "category": "Manufacturers",
+  "name": "Magnet Paints",
+  "service": "Paint",
+  "town": "Cullman",
+  "address": "310 County Road 1246, Cullman, AL 35057",
+  "phone": "(256) 339-1498",
+  "summary": "A paint manufacturer on County Road 1246 in Cullman. A local employer. Check its website for jobs.",
+  "tags": [
+   "cullman",
+   "manufacturing, distribution, processing",
+   "paint"
+  ],
+  "website": "https://www.magnetpaints.com"
+ },
+ {
+  "category": "Manufacturers",
+  "name": "North Alabama Fabricating Co.",
+  "service": "Steel fabrication",
+  "town": "Cullman",
+  "address": "1540 County Road 222, Cullman, AL 35057",
+  "phone": "(256) 775-9935",
+  "summary": "A steel fabrication company on County Road 222 in Cullman. A local employer. Check its website for jobs.",
+  "tags": [
+   "cullman",
+   "manufacturing, distribution, processing",
+   "steel fabrication"
+  ],
+  "website": "https://www.nafcofab.com"
+ },
+ {
+  "category": "Manufacturers",
+  "name": "Perfection Chain Products",
+  "service": "Chain products",
+  "town": "Cullman",
+  "address": "301 Goodwin Rd, Cullman, AL 35058",
+  "phone": "(256) 734-6538",
+  "summary": "A chain manufacturer on Goodwin Rd in Cullman. A local employer. Check its website for jobs.",
+  "tags": [
+   "chain products",
+   "cullman",
+   "manufacturing, distribution, processing"
+  ],
+  "website": "https://www.perfectionchain.com"
+ },
+ {
+  "category": "Manufacturers",
+  "name": "REHAU",
+  "service": "Polymer products manufacturer",
+  "town": "Cullman",
+  "address": "2424 Industrial Drive SW, Cullman, AL 35055",
+  "phone": "(256) 737-3028",
+  "summary": "A polymer products plant on Industrial Drive SW in Cullman. A local employer. Check its website for jobs.",
+  "tags": [
+   "cullman",
+   "manufacturing, distribution, processing",
+   "polymer products manufacturer"
+  ],
+  "website": "https://www.na.rehau.com"
+ },
+ {
+  "category": "Manufacturers",
+  "name": "River Valley Ingredients",
+  "service": "Ingredient processing",
+  "town": "Hanceville",
+  "address": "1170 County Road 508, Hanceville, AL 35077",
+  "phone": "(256) 352-9821",
+  "summary": "An ingredient processing plant on County Road 508 in Hanceville. A local employer. Check its website for jobs.",
+  "tags": [
+   "feed ingredients",
+   "hanceville",
+   "ingredient processing",
+   "manufacturing, distribution, processing"
+  ]
+ },
+ {
+  "category": "Manufacturers",
+  "name": "Royal Technologies Corporation",
+  "service": "Plastics manufacturer",
+  "town": "Cullman",
+  "address": "230 County Road 1601, Cullman, AL 35058",
+  "phone": "(877) 451-6396",
+  "summary": "A plastics plant on County Road 1601 in Cullman. A local employer. Check its website for jobs.",
+  "tags": [
+   "cullman",
+   "manufacturing, distribution, processing",
+   "plastics manufacturer"
+  ]
+ },
+ {
+  "category": "Manufacturers",
+  "name": "Rusken Packaging",
+  "service": "Packaging",
+  "town": "Cullman",
+  "address": "64 Walnut Street NW, Cullman, AL 35055",
+  "phone": "(256) 734-0092",
+  "summary": "A packaging plant on Walnut Street NW in Cullman. A local employer. Check its website for jobs.",
+  "tags": [
+   "cullman",
+   "manufacturing, distribution, processing",
+   "packaging"
+  ],
+  "website": "https://www.rusken.com"
+ },
+ {
+  "category": "Manufacturers",
+  "name": "Serta Simmons Bedding",
+  "service": "Mattress maker",
+  "town": "Cullman",
+  "address": "1212 26th Street SW Industrial Park #2, Cullman, AL 35055",
+  "phone": "(256) 939-3960",
+  "summary": "A mattress plant on 26th Street SW Industrial Park in Cullman. A local employer. Check its website for jobs.",
+  "tags": [
+   "cullman",
+   "manufacturing, distribution, processing",
+   "mattress maker"
+  ],
+  "website": "https://sertasimmons.com/"
+ },
+ {
+  "category": "Manufacturers",
+  "name": "Smurfit WestRock Company",
+  "service": "Packaging",
+  "town": "Cullman",
+  "address": "Nix Industrial Park 1622 22nd Street SE, Cullman, AL 35055",
+  "phone": "(256) 734-1277",
+  "summary": "A packaging plant on Nix Industrial Park 1622 22nd Street SE in Cullman. A local employer. Check its website for jobs.",
+  "tags": [
+   "cullman",
+   "manufacturing, distribution, processing",
+   "packaging"
+  ]
+ },
+ {
+  "category": "Manufacturers",
+  "name": "Topre America Corporation",
+  "service": "Auto parts manufacturer",
+  "town": "Cullman",
+  "address": "1580 County Road 222, Cullman, AL 35057",
+  "phone": "(256) 735-2600",
+  "summary": "An auto parts plant on County Road 222 in Cullman. A local employer. Check its website for jobs.",
+  "tags": [
+   "auto parts manufacturer",
+   "cullman",
+   "manufacturing, distribution, processing"
+  ],
+  "website": "https://www.topre.co.jp"
+ },
+ {
+  "category": "Manufacturers",
+  "name": "Webb Wheel Products",
+  "service": "Wheel and brake parts manufacturer",
+  "town": "Cullman",
+  "address": "2310 Industrial Drive SW, Cullman, AL 35055",
+  "phone": "(256) 739-6660",
+  "summary": "A wheel and brake parts plant on Industrial Drive SW in Cullman. A local employer. Check its website for jobs.",
+  "tags": [
+   "cullman",
+   "manufacturing, distribution, processing",
+   "wheel and brake parts manufacturer"
+  ],
+  "website": "https://www.webbwheel.com"
+ },
+ {
+  "category": "Pets & Vets",
+  "name": "Animal Medical Hospital",
+  "service": "Veterinarian",
+  "town": "Hanceville",
+  "address": "10161 US Highway 31, Hanceville, AL 35077",
+  "summary": "A vet clinic for small and large animals, from checkups and shots to surgery.",
+  "tags": [
+   "hanceville",
+   "large animal",
+   "neuter",
+   "pets",
+   "spay",
+   "vaccinations",
+   "vet",
+   "veterinarian"
+  ],
+  "phone": "(256) 739-9318"
+ },
+ {
+  "category": "Pets & Vets",
+  "name": "Compton's Veterinary Hospital",
+  "service": "Veterinarian",
+  "town": "Cullman",
+  "address": "1011 2nd Avenue SW, Cullman, AL 35055",
+  "phone": "(256) 734-9488",
+  "summary": "A veterinary clinic on 2nd Avenue SW in Cullman. Call to set up a visit for your pet.",
+  "tags": [
+   "cullman",
+   "veterinarian",
+   "veterinarians"
+  ]
+ },
+ {
+  "category": "Pets & Vets",
+  "name": "Cullman Veterinary Hospital",
+  "service": "Veterinarian",
+  "town": "Cullman",
+  "address": "1636 Main Avenue SW, Cullman, AL 35055",
+  "phone": "(256) 734-2181",
+  "summary": "A veterinary clinic on Main Avenue SW in Cullman. Call to set up a visit for your pet.",
+  "tags": [
+   "cullman",
+   "veterinarian",
+   "veterinarians"
+  ],
+  "website": "https://www.cullmanvet.com/"
+ },
+ {
+  "category": "Pets & Vets",
+  "name": "East Point Animal Clinic",
+  "service": "Veterinarian",
+  "town": "Cullman",
+  "address": "734 US Highway 278 E, Cullman, AL 35058",
+  "phone": "(256) 734-6060",
+  "summary": "A veterinary clinic on US Highway 278 E in Cullman. Call to set up a visit for your pet.",
+  "tags": [
+   "cullman",
+   "veterinarian",
+   "veterinarians"
+  ],
+  "website": "https://Eastpointvetclinic.com"
+ },
+ {
+  "category": "Pets & Vets",
+  "name": "MaeMae's Paws",
+  "service": "Dog grooming, boarding and daycare",
+  "town": "Hanceville",
+  "address": "1399 AL Highway 69, Hanceville, AL 35077",
+  "summary": "Dog grooming, boarding and daycare. Your pup can get a bath, an overnight stay or a day of play.",
+  "tags": [
+   "boarding",
+   "dog grooming",
+   "doggy daycare",
+   "hanceville",
+   "pets"
+  ],
+  "phone": "(256) 735-3926"
+ },
+ {
+  "category": "Pets & Vets",
+  "name": "Prestigious Pets",
+  "service": "Pet care and grooming",
+  "town": "Vinemont",
+  "address": "140 County Road 1332, Vinemont, AL 35179",
+  "phone": "(256) 734-2660",
+  "summary": "A pet care and grooming business on County Road 1332 in Vinemont. Call to set up a visit for your pet.",
+  "tags": [
+   "pet care",
+   "pet care and grooming",
+   "pet salon/ boutique",
+   "vinemont"
+  ],
+  "website": "https://www.prestigiouspets.com"
+ },
+ {
+  "category": "Pets & Vets",
+  "name": "Smith Lake Veterinary Hospital",
+  "service": "Veterinarian",
+  "town": "Cullman",
+  "address": "96 Speegle Road, Cullman, AL 35055",
+  "phone": "(256) 615-2176",
+  "summary": "A veterinary clinic on Speegle Road in Cullman. Call to set up a visit for your pet.",
+  "tags": [
+   "cullman",
+   "veterinarian",
+   "veterinarians"
+  ],
+  "website": "https://www.smithlakevet.com"
+ },
+ {
+  "category": "Professional Services",
+  "name": "Alabama Closing and Title",
+  "service": "Title and closings",
+  "town": "Cullman",
+  "address": "417 3rd Ave SW Suite 255, Cullman, AL 35055",
+  "phone": "(256) 217-9145",
+  "summary": "A title and closing company on 3rd Ave SW in Cullman. Call to set up a meeting.",
+  "tags": [
+   "cullman",
+   "legal",
+   "title and closings"
+  ],
+  "website": "https://www.alabamaclosingandtitle.com"
+ },
+ {
+  "category": "Professional Services",
+  "name": "Beacon Accounting Services",
+  "service": "Accounting",
+  "town": "Cullman",
+  "address": "1203 4th St SW, Cullman, AL 35055",
+  "phone": "(256) 590-6840",
+  "summary": "An accounting office on 4th St SW in Cullman. Call to set up a meeting.",
+  "tags": [
+   "accountants cpa/public/bookkeeping",
+   "accounting",
+   "cullman"
+  ],
+  "website": "https://www.beaconaccountingllc.com/"
+ },
+ {
+  "category": "Professional Services",
+  "name": "Cox, Stansberry & Kinsley",
+  "service": "Attorneys",
+  "town": "Cullman",
+  "address": "113 2nd Ave NE, Cullman, AL 35055",
+  "phone": "(800) 930-1205",
+  "summary": "A law firm on 2nd Ave NE in Cullman. Call to set up a meeting.",
+  "tags": [
+   "attorneys",
+   "cullman",
+   "legal"
+  ],
+  "website": "https://www.cskattorneys.com"
+ },
+ {
+  "category": "Professional Services",
+  "name": "Cullman Marble & Granite",
+  "service": "Monuments",
+  "town": "Cullman",
+  "address": "407 1st Avenue SW, Cullman, AL 35055",
+  "phone": "(256) 734-2353",
+  "summary": "A monument company on 1st Avenue SW in Cullman. Call to set up a meeting.",
+  "tags": [
+   "cullman",
+   "monuments",
+   "monuments/memorials"
+  ]
+ },
+ {
+  "category": "Professional Services",
+  "name": "Fricke, Sweatmon & Co.",
+  "service": "Accountants",
+  "town": "Cullman",
+  "address": "412 2nd Avenue NE, Cullman, AL 35055",
+  "phone": "(256) 739-0955",
+  "summary": "An accounting firm on 2nd Avenue NE in Cullman. Call to set up a meeting.",
+  "tags": [
+   "accountants",
+   "accountants cpa/public/bookkeeping",
+   "cullman"
+  ],
+  "website": "https://www.frswcpa.com"
+ },
+ {
+  "category": "Professional Services",
+  "name": "Fuller, Willingham, & Carter",
+  "service": "Attorneys",
+  "town": "Cullman",
+  "address": "413 1st Avenue SW, Cullman, AL 35055",
+  "phone": "(256) 734-2023",
+  "summary": "A law firm on 1st Avenue SW in Cullman. Call to set up a meeting.",
+  "tags": [
+   "attorneys",
+   "cullman"
+  ],
+  "website": "https://www.fandwlaw.com"
+ },
+ {
+  "category": "Professional Services",
+  "name": "Hankey Law Firm",
+  "service": "Attorney",
+  "town": "Cullman",
+  "address": "409 2nd Avenue SW, Cullman, AL 35055",
+  "phone": "(256) 736-8744",
+  "summary": "A law office on 2nd Avenue SW in Cullman. Call to set up a meeting.",
+  "tags": [
+   "attorney",
+   "attorneys",
+   "cullman"
+  ],
+  "website": "https://www.shelbiehankey.com"
+ },
+ {
+  "category": "Professional Services",
+  "name": "Key, Denise G. CPA",
+  "service": "Accountant",
+  "town": "Cullman",
+  "address": "111 5th Street S.e., Cullman, AL 35055",
+  "phone": "(256) 734-4652",
+  "summary": "An accounting office on 5th Street S.e. in Cullman. Call to set up a meeting.",
+  "tags": [
+   "accountant",
+   "accountants cpa/public/bookkeeping",
+   "cullman"
+  ]
+ },
+ {
+  "category": "Professional Services",
+  "name": "Knight & Knight",
+  "service": "Attorneys",
+  "town": "Cullman",
+  "address": "210 Second Street SE, Cullman, AL 35055",
+  "phone": "(256) 734-0456",
+  "summary": "A law firm on Second Street SE in Cullman. Call to set up a meeting.",
+  "tags": [
+   "attorneys",
+   "cullman"
+  ]
+ },
+ {
+  "category": "Professional Services",
+  "name": "Moss Service Funeral Home",
+  "service": "Funeral home",
+  "town": "Cullman",
+  "address": "1901 2nd Avenue NW, Cullman, AL 35055",
+  "phone": "(256) 734-1821",
+  "summary": "A funeral home on 2nd Avenue NW in Cullman. Call to set up a meeting.",
+  "tags": [
+   "cullman",
+   "funeral home",
+   "funeral homes"
+  ],
+  "website": "https://www.mossservicefh.com"
+ },
+ {
+  "category": "Professional Services",
+  "name": "Parker and Parker P.C. Attorneys At Law",
+  "service": "Attorneys",
+  "town": "Cullman",
+  "address": "215 Main Avenue SW, Cullman, AL 35055",
+  "phone": "(256) 775-4444",
+  "summary": "A law firm on Main Avenue SW in Cullman. Call to set up a meeting.",
+  "tags": [
+   "attorneys",
+   "cullman",
+   "legal"
+  ],
+  "website": "https://www.parkerandparker.net./"
+ },
+ {
+  "category": "Professional Services",
+  "name": "Shay Persall Law",
+  "service": "Attorneys",
+  "town": "Cullman",
+  "address": "611 7th Street SW, Cullman, AL 35055",
+  "phone": "(256) 841-7800",
+  "summary": "A law firm on 7th Street SW in Cullman. Call to set up a meeting.",
+  "tags": [
+   "attorneys",
+   "cullman"
+  ],
+  "website": "https://www.persalllaw.com"
+ },
+ {
+  "category": "Professional Services",
+  "name": "Smith & Smith Attorneys",
+  "service": "Attorneys",
+  "town": "Cullman",
+  "address": "328 1st Avenue SE, Cullman, AL 35055",
+  "phone": "(256) 734-4721",
+  "summary": "A law firm on 1st Avenue SE in Cullman. Call to set up a meeting.",
+  "tags": [
+   "attorneys",
+   "cullman"
+  ],
+  "website": "https://www.smithandsmithllc.com"
+ },
+ {
+  "category": "Professional Services",
+  "name": "Warren Averett",
+  "service": "Accountants",
+  "town": "Cullman",
+  "address": "501 5th Street SW, Cullman, AL 35055",
+  "phone": "(256) 739-0312",
+  "summary": "An accounting firm on 5th Street SW in Cullman. Call to set up a meeting.",
+  "tags": [
+   "accountants",
+   "accountants cpa/public/bookkeeping",
+   "cullman"
+  ],
+  "website": "https://warrenaverett.com"
+ },
+ {
+  "category": "Restaurants",
+  "name": "412 Public House",
+  "service": "Pub and restaurant",
+  "town": "Cullman",
+  "address": "412 2nd Ave SE, Cullman, AL 35055",
+  "phone": "(256) 841-6412",
+  "summary": "A pub and restaurant on 2nd Ave SE in Cullman. Stop in for a meal.",
+  "tags": [
+   "cullman",
+   "pub and restaurant",
+   "restaurants"
+  ],
+  "website": "https://412pub.com/"
+ },
+ {
+  "category": "Restaurants",
+  "name": "All Steak Restaurant",
+  "service": "Restaurant",
+  "town": "Cullman",
+  "address": "323 3rd Ave SE, Cullman, AL 35055",
+  "phone": "(256) 734-4322",
+  "summary": "A restaurant on 3rd Ave SE in Cullman. Stop in for a meal.",
+  "tags": [
+   "cullman",
+   "restaurant",
+   "restaurants"
+  ],
+  "website": "https://www.allsteakrestaurant.com/"
+ },
+ {
+  "category": "Restaurants",
+  "name": "Augusta's Sports Grill",
+  "service": "Sports grill",
+  "town": "Cullman",
+  "address": "609 Graham St SW, Cullman, AL 35055",
+  "phone": "(256) 775-9445",
+  "summary": "A sports grill on Graham St SW in Cullman. Stop in for a meal.",
+  "tags": [
+   "cullman",
+   "restaurants",
+   "sports grill"
+  ]
+ },
+ {
+  "category": "Restaurants",
+  "name": "Azul Tequila Mexican Cantina",
+  "service": "Mexican restaurant",
+  "town": "Hanceville",
+  "address": "836 Main St NE, Hanceville, AL 35077",
+  "summary": "A Mexican cantina on Main Street. Come hungry for tacos and bring a few friends.",
+  "tags": [
+   "dinner",
+   "hanceville",
+   "lunch",
+   "mexican",
+   "tacos"
+  ],
+  "phone": "(256) 887-1016"
+ },
+ {
+  "category": "Restaurants",
+  "name": "Beto's Tacos & More",
+  "service": "Food truck",
+  "town": "Cullman",
+  "address": "1820 County Road 447, Cullman, AL 35057",
+  "phone": "(256) 339-0107",
+  "summary": "A food truck on County Road 447 in Cullman. Stop in for a meal.",
+  "tags": [
+   "cullman",
+   "food truck",
+   "food vendor"
+  ]
+ },
+ {
+  "category": "Restaurants",
+  "name": "Cafe Tula Taqueria",
+  "service": "Taqueria",
+  "town": "Hanceville",
+  "address": "106 Commercial St, Hanceville, AL 35077",
+  "summary": "A taqueria on Commercial Street in downtown Hanceville. It sits close to the shops, so it pairs nicely with an afternoon of browsing.",
+  "tags": [
+   "hanceville",
+   "lunch",
+   "mexican",
+   "tacos"
+  ],
+  "phone": "(256) 636-0323"
+ },
+ {
+  "category": "Restaurants",
+  "name": "Country Wok",
+  "service": "Chinese restaurant",
+  "town": "Hanceville",
+  "address": "107 Bangor Ave NE, Hanceville, AL 35077",
+  "summary": "Chinese food cooked in an open kitchen, so you can watch your order come together. Don't leave without trying the eggrolls or Grandma's Cantonese fried rice.",
+  "tags": [
+   "chinese",
+   "hanceville",
+   "takeout"
+  ],
+  "phone": "(256) 887-1360",
+  "website": "https://www.countrywok.com"
+ },
+ {
+  "category": "Restaurants",
+  "name": "Drifters on the Lake bar and grill",
+  "service": "Lakeside bar and grill",
+  "town": "Cullman",
+  "address": "173 County Road 312, Cullman, AL 35057",
+  "phone": "(256) 309-9725",
+  "summary": "A lakeside bar and grill on County Road 312 in Cullman. Stop in for a meal.",
+  "tags": [
+   "cullman",
+   "lakeside bar and grill",
+   "restaurants"
+  ]
+ },
+ {
+  "category": "Restaurants",
+  "name": "EG's BBQ",
+  "service": "Barbecue restaurant",
+  "town": "Bremen",
+  "address": "235 County Road 57, Bremen, AL 35033",
+  "phone": "(256) 400-1668",
+  "summary": "A barbecue restaurant on County Road 57 in Bremen. Stop in for a meal.",
+  "tags": [
+   "barbecue restaurant",
+   "bremen",
+   "restaurants"
+  ],
+  "website": "https://EGSBBQ.com"
+ },
+ {
+  "category": "Restaurants",
+  "name": "Goat Island Craft Brewing",
+  "service": "Craft brewery",
+  "town": "Cullman",
+  "address": "1646A John H. Cooper Dr., Cullman, AL 35055",
+  "phone": "(256) 747-5556",
+  "summary": "A craft brewery on 1646A John H. Cooper Drive in Cullman. Stop in for a meal.",
+  "tags": [
+   "craft brewery",
+   "cullman",
+   "restaurants"
+  ],
+  "website": "https://www.goatislandbrewing.com"
+ },
+ {
+  "category": "Restaurants",
+  "name": "Hank's Sports Bar & Rumors Deli",
+  "service": "Deli and sports bar",
+  "town": "Cullman",
+  "address": "601 4th Street SW, Cullman, AL 35055",
+  "phone": "(256) 737-0911",
+  "summary": "A deli and sports bar on 4th Street SW in Cullman. Stop in for a meal.",
+  "tags": [
+   "cullman",
+   "deli and sports bar",
+   "restaurants"
+  ],
+  "website": "https://Rumorsdeli.com"
+ },
+ {
+  "category": "Restaurants",
+  "name": "Hele Bowls",
+  "service": "Smoothie and acai bowls",
+  "town": "Cullman",
+  "address": "410 2nd Ave SE, Cullman, AL 35055",
+  "phone": "(256) 841-1276",
+  "summary": "A smoothie and acai bowl shop on 2nd Ave SE in Cullman. Stop in for a meal.",
+  "tags": [
+   "cullman",
+   "restaurants",
+   "smoothie and acai bowls"
+  ],
+  "website": "https://helebowls.com/"
+ },
+ {
+  "category": "Restaurants",
+  "name": "Johnny's Bar-B-Q",
+  "service": "Barbecue restaurant",
+  "town": "Cullman",
+  "address": "1401 4th Street SW, Cullman, AL 35055",
+  "phone": "(256) 734-8539",
+  "summary": "A barbecue restaurant on 4th Street SW in Cullman. Stop in for a meal.",
+  "tags": [
+   "barbecue restaurant",
+   "cullman",
+   "restaurants"
+  ],
+  "website": "https://www.johnnysbarbq.com"
+ },
+ {
+  "category": "Restaurants",
+  "name": "Jubilee Kitchen and Bar",
+  "service": "Restaurant and bar",
+  "town": "Cullman",
+  "address": "515 4th St SW Suite 101, Cullman, AL 35055",
+  "phone": "(256) 735-4175",
+  "summary": "A restaurant and bar on 4th St SW in Cullman. Stop in for a meal.",
+  "tags": [
+   "cullman",
+   "restaurant and bar",
+   "restaurants"
+  ],
+  "website": "https://jubileecoffeeandwine.com"
+ },
+ {
+  "category": "Restaurants",
+  "name": "Los Compadres",
+  "service": "Mexican restaurant",
+  "town": "Cullman",
+  "address": "6161 US Highway 278 West, Cullman, AL 35057",
+  "phone": "(256) 915-6868",
+  "summary": "A Mexican restaurant on US Highway 278 West in Cullman. Stop in for a meal.",
+  "tags": [
+   "cullman",
+   "mexican restaurant",
+   "restaurants"
+  ]
+ },
+ {
+  "category": "Restaurants",
+  "name": "Papa Sam's Hotdogs",
+  "service": "Hot dogs",
+  "town": "Cullman",
+  "address": "1045 County Road 1464, Cullman, AL 35058",
+  "phone": "(256) 531-7277",
+  "summary": "A hot dog stand on County Road 1464 in Cullman. Stop in for a meal.",
+  "tags": [
+   "cullman",
+   "hot dogs",
+   "restaurants"
+  ]
+ },
+ {
+  "category": "Restaurants",
+  "name": "Pasquale's Pizza and Pasta",
+  "service": "Pizza and pasta",
+  "town": "Cullman",
+  "address": "915 2nd Ave NW, Cullman, AL 35055",
+  "phone": "(256) 734-4599",
+  "summary": "A pizza and pasta restaurant on 2nd Ave NW in Cullman. Stop in for a meal.",
+  "tags": [
+   "cullman",
+   "pizza and pasta",
+   "restaurants"
+  ],
+  "website": "https://www.pasqualescullman.com"
+ },
+ {
+  "category": "Restaurants",
+  "name": "Pop's Cafe Hanceville",
+  "service": "Cafe",
+  "town": "Hanceville",
+  "address": "814 Main St NE, Hanceville, AL 35077",
+  "summary": "A hometown diner on Main Street known for fluffy pancakes. Meatloaf is on the menu every single day.",
+  "tags": [
+   "breakfast",
+   "hanceville",
+   "home cooking",
+   "lunch"
+  ],
+  "phone": "(256) 887-1035"
+ },
+ {
+  "category": "Restaurants",
+  "name": "Reyes Pizza",
+  "service": "Pizza",
+  "town": "Hanceville",
+  "address": "806 Main St NE, Hanceville, AL 35077",
+  "summary": "A local pizza place on Main Street. Pick up a pie for family night or before the next ballgame.",
+  "tags": [
+   "delivery",
+   "dinner",
+   "hanceville",
+   "pizza"
+  ],
+  "phone": "(256) 887-1307"
+ },
+ {
+  "category": "Restaurants",
+  "name": "Seven Daughters Scoops",
+  "service": "Ice cream shop",
+  "town": "Cullman",
+  "address": "1600 2nd Ave NW, Cullman, AL 35055",
+  "phone": "(256) 734-3691",
+  "summary": "An ice cream shop on 2nd Ave NW in Cullman. Stop in for a meal.",
+  "tags": [
+   "cullman",
+   "ice cream shop",
+   "specialty foods"
+  ]
+ },
+ {
+  "category": "Restaurants",
+  "name": "Seven Winds Kitchen",
+  "service": "Candy and baked goods",
+  "town": "Logan",
+  "address": "10011 County Road 222, Logan, AL 35098",
+  "phone": "(256) 734-0246",
+  "summary": "A kitchen making candy and baked goods on County Road 222 in Logan. Stop in for a meal.",
+  "tags": [
+   "candy",
+   "candy and baked goods",
+   "logan"
+  ],
+  "website": "https://www.sevenwindskitchen.com"
+ },
+ {
+  "category": "Restaurants",
+  "name": "The Duchess Bakery",
+  "service": "Bakery",
+  "town": "Cullman",
+  "address": "222 1st Avenue SE, Cullman, AL 35055",
+  "phone": "(256) 734-0684",
+  "summary": "A bakery on 1st Avenue SE in Cullman. Stop in for a meal.",
+  "tags": [
+   "bakery",
+   "cullman"
+  ]
+ },
+ {
+  "category": "Restaurants",
+  "name": "The Royale Burgers Bourbon & Brews",
+  "service": "Burger restaurant",
+  "town": "Cullman",
+  "address": "216 1st Ave SE, Cullman, AL 35055",
+  "phone": "(256) 735-4645",
+  "summary": "A burger restaurant on 1st Ave SE in Cullman. Stop in for a meal.",
+  "tags": [
+   "burger restaurant",
+   "cullman",
+   "restaurants"
+  ],
+  "website": "https://royaleburgersboubanbrews.com/"
+ },
+ {
+  "category": "Restaurants",
+  "name": "William's BBQ",
+  "service": "Barbecue restaurant",
+  "town": "Cullman",
+  "address": "2021 2nd Ave SW, Cullman, AL 35055",
+  "phone": "(256) 734-4292",
+  "summary": "A barbecue restaurant on 2nd Ave SW in Cullman. Stop in for a meal.",
+  "tags": [
+   "barbecue restaurant",
+   "cullman",
+   "restaurants"
+  ],
+  "website": "https://williamsbbq.com/"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Arboreadum Bookshop and Garden",
+  "service": "Bookshop",
+  "town": "Cullman",
+  "address": "104 4th Ave. NE, Cullman, AL 35055",
+  "phone": "(256) 727-3807",
+  "summary": "A bookshop on 4th Ave. NE in Cullman. A local shop worth a visit.",
+  "tags": [
+   "books",
+   "bookshop",
+   "cullman"
+  ],
+  "website": "https://www.arboreadum.com"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Better Than Before",
+  "service": "Consignment boutique",
+  "town": "Cullman",
+  "address": "124 4th Street SW, Cullman, AL 35055",
+  "phone": "(256) 739-3550",
+  "summary": "A consignment boutique on 4th Street SW in Cullman. A local shop worth a visit.",
+  "tags": [
+   "boutique/clothing store",
+   "consignment boutique",
+   "cullman"
+  ],
+  "website": "https://shop.btbconsignments.com/"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Bob Wallace Appliance",
+  "service": "Appliances",
+  "town": "Cullman",
+  "address": "224 1st Ave SE, Cullman, AL 35055",
+  "phone": "(256) 841-5280",
+  "summary": "An appliance store on 1st Ave SE in Cullman. A local shop worth a visit.",
+  "tags": [
+   "appliances",
+   "cullman"
+  ],
+  "website": "https://www.bobwallaceappliance.com"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Burns Florist",
+  "service": "Florist",
+  "town": "Hanceville",
+  "address": "308 Magnolia Ave NW, Hanceville, AL 35077",
+  "summary": "A locally owned flower shop that makes custom bouquets and offers same day delivery.",
+  "tags": [
+   "bouquets",
+   "delivery",
+   "florist",
+   "flowers",
+   "funeral flowers",
+   "hanceville"
+  ],
+  "phone": "(256) 352-5233",
+  "website": "https://cullmanhancevilleflorist.com/"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Classy to Sassy",
+  "service": "Boutique",
+  "town": "Cullman",
+  "address": "321 2nd Ave SW Suite B, Cullman, AL 35055",
+  "phone": "(256) 775-2755",
+  "summary": "A boutique on 2nd Ave SW in Cullman. A local shop worth a visit.",
+  "tags": [
+   "boutique",
+   "boutique/clothing store",
+   "cullman",
+   "tanning salon"
+  ],
+  "website": "https://www.classytosassyllc.com/"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Cullman Florist",
+  "service": "Florist",
+  "town": "Cullman",
+  "address": "119 4th Street SE, Cullman, AL 35055",
+  "phone": "(256) 734-0263",
+  "summary": "A florist on 4th Street SE in Cullman. A local shop worth a visit.",
+  "tags": [
+   "cullman",
+   "florist",
+   "florists"
+  ],
+  "website": "https://www.cullmanflorist.com"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Cullman Furniture Market",
+  "service": "Furniture",
+  "town": "Cullman",
+  "address": "1807 2nd Ave SW, Cullman, AL 35055",
+  "phone": "(256) 841-6755",
+  "summary": "A furniture store on 2nd Ave SW in Cullman. A local shop worth a visit.",
+  "tags": [
+   "cullman",
+   "furniture"
+  ],
+  "website": "https://cullmanfurnituremarket.com"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Dixie Duds and Decor",
+  "service": "Boutique and home decor",
+  "town": "Cullman",
+  "address": "300 2nd St. SE, Cullman, AL 35055",
+  "phone": "(256) 841-6444",
+  "summary": "A boutique with clothing and home decor on 2nd St. SE in Cullman. A local shop worth a visit.",
+  "tags": [
+   "boutique and home decor",
+   "boutique/clothing store",
+   "cullman"
+  ],
+  "website": "https://www.dixiedudsanddecor.com"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Ed White Jewelers",
+  "service": "Jeweler",
+  "town": "Cullman",
+  "address": "1704 2nd Avenue NW, Cullman, AL 35055",
+  "phone": "(256) 734-3661",
+  "summary": "A jewelry store on 2nd Avenue NW in Cullman. A local shop worth a visit.",
+  "tags": [
+   "cullman",
+   "jeweler",
+   "jewelers"
+  ],
+  "website": "https://www.edwhitejewelers.com"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Farmers Home Furniture",
+  "service": "Furniture and appliances",
+  "town": "Cullman",
+  "address": "1738 Second Ave SW, Cullman, AL 35055",
+  "phone": "(256) 775-0141",
+  "summary": "A furniture and appliance store on Second Ave SW in Cullman. A local shop worth a visit.",
+  "tags": [
+   "appliances",
+   "cullman",
+   "electronics",
+   "furniture",
+   "furniture and appliances"
+  ]
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Gold Rush Jewelers",
+  "service": "Jeweler",
+  "town": "Cullman",
+  "address": "301 2nd Ave. NW, Cullman, AL 35055",
+  "phone": "(256) 739-2833",
+  "summary": "A jewelry store on 2nd Ave. NW in Cullman. A local shop worth a visit.",
+  "tags": [
+   "cullman",
+   "jeweler",
+   "jewelers"
+  ]
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Hagar Guitars LLC",
+  "service": "Custom guitars",
+  "town": "Hanceville",
+  "address": "317 County Road 263, Hanceville, AL 35077",
+  "summary": "Custom electric and bass guitars built by hand in Hanceville. They also do repairs and upgrades.",
+  "tags": [
+   "guitar repair",
+   "guitars",
+   "hanceville",
+   "music"
+  ],
+  "phone": "(205) 522-8501",
+  "website": "https://hagarguitars.com"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "If the Shoe Fits",
+  "service": "Shoe and clothing boutique",
+  "town": "Cullman",
+  "address": "108 Clark St NE, Cullman, AL 35055",
+  "phone": "(256) 739-0262",
+  "summary": "A shoe and clothing boutique on Clark St NE in Cullman. A local shop worth a visit.",
+  "tags": [
+   "boutique/clothing store",
+   "cullman",
+   "shoe and clothing boutique"
+  ],
+  "website": "https://Iftheshoefitsal.com"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "JK Taylor",
+  "service": "Clothing boutique",
+  "town": "Cullman",
+  "address": "421 3rd Ave SE, Cullman, AL 35055",
+  "phone": "(256) 735-4380",
+  "summary": "A clothing boutique on 3rd Ave SE in Cullman. A local shop worth a visit.",
+  "tags": [
+   "boutique/clothing store",
+   "clothing boutique",
+   "cullman"
+  ],
+  "website": "https://www.shopjktaylor.com"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Leldon's",
+  "service": "Furniture and woodworking",
+  "town": "Cullman",
+  "address": "117 1st Avenue NE, Cullman, AL 35055",
+  "phone": "(256) 841-6131",
+  "summary": "A furniture and woodworking shop on 1st Avenue NE in Cullman. A local shop worth a visit.",
+  "tags": [
+   "cullman",
+   "furniture and woodworking",
+   "woodworking"
+  ],
+  "website": "https://www.leldonscullman.com"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Magnolia Soap and Bath Company",
+  "service": "Soap and bath shop",
+  "town": "Cullman",
+  "address": "1837 Patriots Drive SW, Cullman, AL 35055",
+  "phone": "(256) 841-1694",
+  "summary": "A soap and bath shop on Patriots Drive SW in Cullman. A local shop worth a visit.",
+  "tags": [
+   "beauty salon/beauty products",
+   "cullman",
+   "soap and bath shop"
+  ],
+  "website": "https://www.magnoliasoapandbath.com"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Mary Carter Store",
+  "service": "Hardware and fishing supplies",
+  "town": "Cullman",
+  "address": "104 4th Street SE, Cullman, AL 35055",
+  "phone": "(256) 734-7908",
+  "summary": "A hardware and fishing supply store on 4th Street SE in Cullman. A local shop worth a visit.",
+  "tags": [
+   "cullman",
+   "fishing tackle",
+   "hardware and fishing supplies",
+   "specialty store"
+  ]
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Mavens & Makers",
+  "service": "Makers market",
+  "town": "Cullman",
+  "address": "302 2nd Ave SE, Cullman, AL 35055",
+  "phone": "(256) 479-9866",
+  "summary": "A makers market on 2nd Ave SE in Cullman. A local shop worth a visit.",
+  "tags": [
+   "cullman",
+   "makers market",
+   "specialty store"
+  ]
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Monograms Plus",
+  "service": "Gifts and monogramming",
+  "town": "Cullman",
+  "address": "802 Main Ave NE, Cullman, AL 35055",
+  "phone": "(256) 739-0631",
+  "summary": "A gift and monogram shop on Main Ave NE in Cullman. A local shop worth a visit.",
+  "tags": [
+   "cullman",
+   "gift shops",
+   "gifts and monogramming",
+   "monogramming"
+  ],
+  "website": "https://www.monogramsplusonline.com"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Nethy Home & Antiques",
+  "service": "Antiques and home goods",
+  "town": "Cullman",
+  "address": "7321 Highway 157 S, Cullman, AL 35057",
+  "phone": "(205) 767-3540",
+  "summary": "A shop for antiques and home goods on Highway 157 S in Cullman. A local shop worth a visit.",
+  "tags": [
+   "antiques",
+   "antiques and home goods",
+   "cullman"
+  ],
+  "website": "https://www.nethyhomeandantiques.com/"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Nomadic Threads",
+  "service": "Clothing",
+  "town": "Cullman",
+  "address": "343 County Road 1154, Cullman, AL 35057",
+  "phone": "(256) 962-1789",
+  "summary": "A clothing shop on County Road 1154 in Cullman. A local shop worth a visit.",
+  "tags": [
+   "clothing",
+   "clothing stores",
+   "cullman"
+  ],
+  "website": "https://www.nomadicthreadscullman.com/"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Platform",
+  "service": "Clothing and gifts",
+  "town": "Cullman",
+  "address": "115 1st Ave NE, Cullman, AL 35055",
+  "phone": "(256) 775-3722",
+  "summary": "A shop for clothing and gifts on 1st Ave NE in Cullman. A local shop worth a visit.",
+  "tags": [
+   "accessories & gifts",
+   "boutique/clothing store",
+   "clothing and gifts",
+   "cullman"
+  ],
+  "website": "https://www.platformcullman.com"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Press Rewind Vintage Audio",
+  "service": "Vintage audio",
+  "town": "Cullman",
+  "address": "1821 Eva Road NE Suite 205, Cullman, AL 35055",
+  "phone": "(256) 615-1285",
+  "summary": "A vintage audio shop on Eva Road NE in Cullman. A local shop worth a visit.",
+  "tags": [
+   "cullman",
+   "retail",
+   "vintage audio"
+  ],
+  "website": "https://PressRewindVintageAudio.com"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Small Town Vibes Boutique",
+  "service": "Clothing boutique",
+  "town": "Hanceville",
+  "address": "885 Highway 69s, Hanceville, AL 35055",
+  "phone": "(205) 393-1612",
+  "summary": "A clothing boutique on Highway 69s in Hanceville. A local shop worth a visit.",
+  "tags": [
+   "clothing boutique",
+   "clothing stores",
+   "hanceville"
+  ],
+  "website": "https://smalltownvibesboutique.myshopify.com/"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Southern Accents Architectural Antiques",
+  "service": "Architectural antiques",
+  "town": "Cullman",
+  "address": "308 2nd Avenue SE, Cullman, AL 35055",
+  "phone": "(256) 737-0554",
+  "summary": "A shop full of architectural antiques and salvage on 2nd Avenue SE in Cullman. A local shop worth a visit.",
+  "tags": [
+   "antiques",
+   "architectural antiques",
+   "cullman"
+  ],
+  "website": "https://www.sa1969.com"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Standard Furniture and Mattress",
+  "service": "Furniture and mattresses",
+  "town": "Cullman",
+  "address": "906 Perry Street SW, Cullman, AL 35055",
+  "phone": "(256) 734-6564",
+  "summary": "A furniture and mattress store on Perry Street SW in Cullman. A local shop worth a visit.",
+  "tags": [
+   "cullman",
+   "furniture",
+   "furniture and mattresses"
+  ],
+  "website": "https://www.standardfurniture.net"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Sweeter With Time Vintage & Thrift",
+  "service": "Vintage and thrift",
+  "town": "Cullman",
+  "address": "171 Schwaiger Rd, Cullman, AL 35055",
+  "phone": "(256) 339-4478",
+  "summary": "A vintage and thrift shop on Schwaiger Rd in Cullman. A local shop worth a visit.",
+  "tags": [
+   "cullman",
+   "retail",
+   "vintage and thrift"
+  ]
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "The Butcher Meat Co.",
+  "service": "Butcher shop",
+  "town": "Cullman",
+  "address": "149 Patton Drive, Cullman, AL 35058",
+  "phone": "(256) 747-5416",
+  "summary": "A butcher shop on Patton Drive in Cullman. A local shop worth a visit.",
+  "tags": [
+   "butcher shop",
+   "cullman",
+   "food & nutrition services",
+   "food vendor",
+   "meat processing",
+   "meats & specialty"
+  ],
+  "website": "https://butchermeatco.com/"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "The Copper Cricket",
+  "service": "Gift shop",
+  "town": "Cullman",
+  "address": "403 4th Avenue SW, Cullman, AL 35055",
+  "phone": "(256) 841-1604",
+  "summary": "A gift shop on 4th Avenue SW in Cullman. A local shop worth a visit.",
+  "tags": [
+   "cullman",
+   "gift shop",
+   "retail"
+  ]
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "The Pink Cactus Western Co.",
+  "service": "Western boutique",
+  "town": "Cullman",
+  "address": "18667 US Highway 31 S, Cullman, AL 35058",
+  "phone": "(256) 595-5619",
+  "summary": "A western boutique on US Highway 31 S in Cullman. A local shop worth a visit.",
+  "tags": [
+   "boutique/clothing store",
+   "cullman",
+   "western boutique"
+  ],
+  "website": "https://www.thepinkcactuswestern.com"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "The Stampin' Elephant",
+  "service": "Craft and hobby shop",
+  "town": "Hanceville",
+  "address": "108 Commercial St. NE, Hanceville, AL 35077",
+  "phone": "(256) 297-3787",
+  "summary": "A craft and hobby shop on Commercial St. NE in Hanceville. A local shop worth a visit.",
+  "tags": [
+   "craft and hobby shop",
+   "hanceville",
+   "hobby shop"
+  ],
+  "website": "https://www.thestampinelephant.com"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Thompson Cat Rentals",
+  "service": "Equipment rentals",
+  "town": "Hanceville",
+  "address": "6307 County Road 490, Hanceville, AL 35077",
+  "summary": "Equipment rentals for big jobs and small ones, from the Thompson location in Hanceville.",
+  "tags": [
+   "construction",
+   "equipment rental",
+   "hanceville",
+   "rentals"
+  ],
+  "phone": "(256) 736-0460",
+  "website": "https://thompsontractor.com/locations/hanceville/"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Van's Sporting Goods",
+  "service": "Hunting and fishing supplies",
+  "town": "Cullman",
+  "address": "2045 County Road 222, Cullman, AL 35057",
+  "phone": "(256) 775-4031",
+  "summary": "A hunting and fishing store on County Road 222 in Cullman. A local shop worth a visit.",
+  "tags": [
+   "cullman",
+   "fishing tackle",
+   "hunting & fishing",
+   "hunting and fishing supplies",
+   "outdoor sports"
+  ],
+  "website": "https://www.vansoutdoors.com"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Village Furniture & Gifts",
+  "service": "Furniture and gifts",
+  "town": "Cullman",
+  "address": "224 3rd Avenue SE, Cullman, AL 35055",
+  "phone": "(256) 734-8844",
+  "summary": "A furniture and gift store on 3rd Avenue SE in Cullman. A local shop worth a visit.",
+  "tags": [
+   "cullman",
+   "furniture",
+   "furniture and gifts"
+  ],
+  "website": "https://www.villagefurniturecullman.com"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Werner's Trading Company",
+  "service": "Outdoor clothing and gear",
+  "town": "Cullman",
+  "address": "1115 4th Street SW, Cullman, AL 35055",
+  "phone": "(256) 734-5673",
+  "summary": "A shop for outdoor clothing and gear on 4th Street SW in Cullman. A local shop worth a visit.",
+  "tags": [
+   "clothing stores",
+   "cullman",
+   "outdoor clothing and gear",
+   "outdoor sports"
+  ],
+  "website": "https://www.wernerstradingco.com"
+ },
+ {
+  "category": "Shopping & Retail",
+  "name": "Wren + Revel",
+  "service": "Clothing boutique",
+  "town": "Cullman",
+  "address": "103 1st Avenue NE Suite 120, Cullman, AL 35055",
+  "phone": "(256) 735-4183",
+  "summary": "A clothing boutique on 1st Avenue NE in Cullman. A local shop worth a visit.",
+  "tags": [
+   "clothing boutique",
+   "clothing stores",
+   "cullman"
+  ],
+  "website": "https://www.wrenandrevel.com"
+ },
+ {
+  "category": "Small Engine & Equipment",
+  "name": "4C Farms Tractor & Equipment Repair",
+  "service": "Tractor and equipment repair",
+  "town": "Vinemont",
+  "address": "2832 County Road 1212, Vinemont, AL 35179",
+  "phone": "(256) 739-2482",
+  "summary": "A tractor and equipment repair shop on County Road 1212 in Vinemont. Equipment, parts and repairs for farm, yard and shop.",
+  "tags": [
+   "farm supplies",
+   "tractor and equipment repair",
+   "vinemont"
+  ],
+  "website": "https://www.4c-farms.com"
+ },
+ {
+  "category": "Small Engine & Equipment",
+  "name": "Dusty's Small Engines",
+  "service": "Small engine repair and sales",
+  "town": "Hanceville",
+  "address": "Hanceville, AL 35077",
+  "summary": "Repairs mowers, chainsaws, trimmers, blowers and generators from most brands. You'll get a quote before any work starts, and they can pick up heavy equipment.",
+  "tags": [
+   "chainsaw repair",
+   "generator repair",
+   "hanceville",
+   "lawn mower repair",
+   "pickup and delivery",
+   "small engine",
+   "trimmer"
+  ],
+  "phone": "(205) 304-1120",
+  "website": "https://dustyssmallengines.com/"
+ },
+ {
+  "category": "Small Engine & Equipment",
+  "name": "TriGreen Equipment",
+  "service": "Tractor and equipment dealer",
+  "town": "Cullman",
+  "address": "3920 AL Highway 157, Cullman, AL 35058",
+  "phone": "(256) 739-5601",
+  "summary": "A tractor and equipment dealer on AL Highway 157 in Cullman. Equipment, parts and repairs for farm, yard and shop.",
+  "tags": [
+   "agricultural",
+   "cullman",
+   "tractor",
+   "tractor and equipment dealer"
+  ],
+  "website": "https://www.trigreenequipment.com"
+ },
+ {
+  "category": "Tires",
+  "name": "College Tire",
+  "service": "Tire and auto service",
+  "town": "Hanceville",
+  "address": "315 Main St NW, Hanceville, AL 35077",
+  "summary": "Tires and auto service at the corner of Highway 31 and Highway 91.",
+  "tags": [
+   "alignment",
+   "hanceville",
+   "mechanic",
+   "oil change",
+   "tire repair",
+   "tires"
+  ],
+  "phone": "(256) 352-2221",
+  "website": "https://collegetire.com/"
+ },
+ {
+  "category": "Tires",
+  "name": "McGriff Tire Company",
+  "service": "Tires",
+  "town": "Cullman",
+  "address": "86 Walnut Street NE, Cullman, AL 35055",
+  "phone": "(256) 739-0710",
+  "summary": "A tire shop on Walnut Street NE in Cullman. Call ahead to ask about sizes and pricing.",
+  "tags": [
+   "cullman",
+   "tire & auto service",
+   "tires"
+  ]
+ },
+ {
+  "category": "Tires",
+  "name": "Quick Tire Sales",
+  "service": "Tires and service",
+  "town": "Cullman",
+  "address": "1600 AL Highway 157, Cullman, AL 35058",
+  "phone": "(256) 739-1473",
+  "summary": "A tire and service shop on AL Highway 157 in Cullman. Call ahead to ask about sizes and pricing.",
+  "tags": [
+   "cullman",
+   "tire & auto service",
+   "tires and service"
+  ],
+  "website": "https://www.quicktiresales.com"
+ },
+ {
+  "category": "Tires",
+  "name": "Tire Barn Plus",
+  "service": "Tire shop",
+  "town": "Hanceville",
+  "address": "102 Main St NE, Hanceville, AL 35077",
+  "summary": "They sell new and used tires and wheels, and they also do brakes, lift kits and detailing.",
+  "tags": [
+   "brakes",
+   "detailing",
+   "hanceville",
+   "lift kits",
+   "tires",
+   "used tires",
+   "wheels"
+  ],
+  "phone": "(256) 962-5540"
+ },
+ {
+  "category": "Towing",
+  "name": "Cullman Towing & Recovery",
+  "service": "Towing and recovery",
+  "town": "Cullman",
+  "address": "821 AL Highway 157, Cullman, AL 35058",
+  "phone": "(256) 734-0433",
+  "summary": "A towing and recovery company on AL Highway 157 in Cullman. Call when you need a tow or a roadside hand.",
+  "tags": [
+   "cullman",
+   "towing and recovery",
+   "towing service"
+  ],
+  "website": "https://cullmantowing.com"
+ },
+ {
+  "category": "Towing",
+  "name": "Hanceville Tire and Towing",
+  "service": "Wrecker and towing service",
+  "town": "Hanceville",
+  "address": "201 Magnolia Ave NW, Hanceville, AL 35077",
+  "summary": "A local wrecker service. Call them when your car can't get where it's going on its own.",
+  "tags": [
+   "hanceville",
+   "roadside",
+   "tires",
+   "tow truck",
+   "towing",
+   "wrecker"
+  ],
+  "phone": "(256) 352-4813"
+ },
+ {
+  "category": "Towing",
+  "name": "Perfect Choice Towing & Recovery",
+  "service": "Towing and recovery",
+  "town": "Cullman",
+  "address": "1625 2nd Ave NW, Cullman, AL 35055",
+  "phone": "(256) 841-0240",
+  "summary": "A towing and recovery company on 2nd Ave NW in Cullman. Call when you need a tow or a roadside hand.",
+  "tags": [
+   "cullman",
+   "towing and recovery",
+   "towing service"
+  ],
+  "website": "https://www.perfectchoicetowing.com"
+ }
+]
