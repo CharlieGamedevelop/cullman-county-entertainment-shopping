@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cullman County Entertainment and Shopping//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:the_nutcracker_with_ballet_south-20261121@cullman-county-entertainmen
+ t-shopping
+DTSTAMP:20261023T120000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+SUMMARY:The Nutcracker with Ballet South
+LOCATION:Betty Leeth Haynes Theatre\, Wallace State Community College\, 8
+ 01 Main Street NW\, Hanceville\, AL
+DESCRIPTION:Ballet South brings its yearly production of Tchaikovsky's ho
+ liday classic to the Wallace State stage. Time: 2:00 PM and 7:00 PM Nov. 
+ 21\, 2:00 PM Nov. 22. https://www.cullmantribune.com/2026/10/21/wallace-s
+ tate-releases-performing-arts-schedule-for-2026-2027-season/
+URL:https://www.cullmantribune.com/2026/10/21/wallace-state-releases-perf
+ orming-arts-schedule-for-2026-2027-season/
+END:VEVENT
+END:VCALENDAR

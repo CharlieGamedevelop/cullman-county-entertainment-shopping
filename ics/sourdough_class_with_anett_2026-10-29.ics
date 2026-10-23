@@ -23,7 +23,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:sourdough_class_with_anett-20261029@cullman-county-entertainment-shop
  ping
-DTSTAMP:20261017T120000Z
+DTSTAMP:20261023T120000Z
 DTSTART;TZID=America/Chicago:20261029T173000
 DTEND;TZID=America/Chicago:20261029T193000
 SUMMARY:Sourdough Class with Anett

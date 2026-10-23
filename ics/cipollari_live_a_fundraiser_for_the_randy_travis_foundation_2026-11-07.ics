@@ -23,7 +23,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:cipollari_live_a_fundraiser_for_the_randy_travis_foundation-20261107@
  cullman-county-entertainment-shopping
-DTSTAMP:20261017T120000Z
+DTSTAMP:20261023T120000Z
 DTSTART;TZID=America/Chicago:20261107T180000
 DTEND;TZID=America/Chicago:20261107T200000
 SUMMARY:Cipollari Live: A Fundraiser for the Randy Travis Foundation

@@ -31,84 +31,6 @@
   ]
  },
  {
-  "name": "Meet the Author and Story Time with Heather C. Morris",
-  "start": "2026-10-17",
-  "time": "2:30 PM",
-  "venue": "The Arboreadum Bookshop and Garden, 104 4th Avenue",
-  "town": "Cullman",
-  "host": "The Arboreadum Bookshop",
-  "summary": "Meet a children's author and stay for story time at the downtown bookshop.",
-  "url": "https://events.timely.fun/b8354ob3/event/78491672/20261017143000",
-  "group": "Arts, Music and Theater",
-  "tags": [
-   "books",
-   "kids",
-   "author"
-  ]
- },
- {
-  "name": "Crawl O Ween",
-  "start": "2026-10-17",
-  "time": "9:00 AM",
-  "venue": "Stony Lonesome OHV Park, 10075 AL Highway 69",
-  "town": "Bremen",
-  "host": "Stony Lonesome OHV Park",
-  "summary": "A Halloween event at Stony Lonesome OHV Park.",
-  "url": "https://events.timely.fun/b8354ob3/event/78491655/20261017090000",
-  "group": "Fall Fun and Halloween",
-  "tags": [
-   "off road",
-   "halloween"
-  ]
- },
- {
-  "name": "Berlin Farmer's Market",
-  "start": "2026-10-17",
-  "time": "9:00 AM to 2:00 PM",
-  "venue": "Berlin Farmer's Market, 50 Mt. Carmel Drive",
-  "town": "Berlin",
-  "host": "Berlin Farmer's Market",
-  "summary": "A Saturday farmers market in Berlin. It is also open October 24 and 31.",
-  "url": "https://events.timely.fun/b8354ob3/event/78315791/20261017090000",
-  "group": "Outdoors and Motorsports",
-  "tags": [
-   "farmers market",
-   "produce",
-   "berlin"
-  ]
- },
- {
-  "name": "For Kids' Sake Variety Show Auditions",
-  "start": "2026-10-20",
-  "time": "4:00 PM to 7:30 PM",
-  "venue": "Christ Hall at St. John's Evangelical Protestant Church, 512 2nd Avenue SE",
-  "town": "Cullman",
-  "host": "Cullman Regional Foundation",
-  "summary": "Kids who sing, dance, play an instrument or have another talent can try out for the 2027 Bownes Memorial For Kids' Sake Variety Show, which raises money for nursery and pediatric care at Cullman Regional. A second audition day on Thursday, October 22, is by appointment through the Cullman Regional Foundation.",
-  "url": "https://events.timely.fun/b8354ob3/event/78491637/20261020160000",
-  "group": "Arts, Music and Theater",
-  "tags": [
-   "auditions",
-   "talent"
-  ],
-  "source": "https://www.cullmantribune.com/2026/10/17/auditions-oct-20-22-for-2027-bownes-memorial-for-kids-sake-variety-show/"
- },
- {
-  "name": "Senior Fair Day",
-  "start": "2026-10-21",
-  "time": "10:00 AM to 1:00 PM",
-  "venue": "Cullman Fairgrounds, 1501 Sportsman Lake Road NW",
-  "town": "Cullman",
-  "host": "Cullman County Fair",
-  "summary": "A morning at the county fair set aside for seniors. Bring a friend and enjoy the fairgrounds at an easy pace.",
-  "url": "https://events.timely.fun/b8354ob3/event/78487035/20261021100000",
-  "group": "Fairs and Festivals",
-  "tags": [
-   "seniors",
-   "fair"
-  ]
- },
- {
   "name": "Beauty and the Beast",
   "start": "2026-10-22",
   "time": "6:00 PM",
@@ -141,21 +63,6 @@
   ]
  },
  {
-  "name": "The Butcher Smoke and Flames BBQ Cookoff",
-  "start": "2026-10-24",
-  "venue": "The Butcher, 266 Park Drive",
-  "town": "Cullman",
-  "host": "The Butcher Meat Co.",
-  "summary": "A KCBS sanctioned barbecue contest with certified judges, hosted by The Butcher Meat Co.",
-  "url": "https://events.timely.fun/b8354ob3/event/78270519/20261024000000",
-  "group": "Fairs and Festivals",
-  "tags": [
-   "bbq",
-   "cookoff",
-   "food"
-  ]
- },
- {
   "name": "91's 2nd Annual Boneyard Bash",
   "start": "2026-10-24",
   "venue": "91 Short Track, 23451 AL Highway 91",
@@ -167,21 +74,6 @@
   "tags": [
    "racing",
    "short track"
-  ]
- },
- {
-  "name": "Off Road Candy Crawl",
-  "start": "2026-10-24",
-  "time": "2:00 PM to 4:00 PM",
-  "venue": "Goat Island Brewing, 1646 John H. Cooper Drive SE",
-  "town": "Cullman",
-  "host": "Cullman County Tourism calendar",
-  "summary": "An afternoon candy crawl based at Goat Island Brewing.",
-  "url": "https://events.timely.fun/b8354ob3/event/78487003/20261024140000",
-  "group": "Fall Fun and Halloween",
-  "tags": [
-   "off road",
-   "halloween"
   ]
  },
  {
@@ -203,6 +95,36 @@
   ]
  },
  {
+  "name": "Off Road Candy Crawl",
+  "start": "2026-10-24",
+  "time": "2:00 PM to 4:00 PM",
+  "venue": "Goat Island Brewing, 1646 John H. Cooper Drive SE",
+  "town": "Cullman",
+  "host": "Cullman County Tourism calendar",
+  "summary": "An afternoon candy crawl based at Goat Island Brewing.",
+  "url": "https://events.timely.fun/b8354ob3/event/78487003/20261024140000",
+  "group": "Fall Fun and Halloween",
+  "tags": [
+   "off road",
+   "halloween"
+  ]
+ },
+ {
+  "name": "Redeeming Grace Church Golf Scramble",
+  "start": "2026-10-24",
+  "time": "8:00 AM",
+  "venue": "Cross Creek Golf Course, 2321 County Road 490",
+  "town": "Hanceville",
+  "host": "Redeeming Grace Church",
+  "summary": "A golf scramble hosted by Redeeming Grace Church at Cross Creek Golf Course.",
+  "url": "https://events.timely.fun/b8354ob3/event/78451915/20261024080000",
+  "group": "Outdoors and Motorsports",
+  "tags": [
+   "golf",
+   "charity"
+  ]
+ },
+ {
   "name": "Spooktacular Storybook 5K and 1 Mile",
   "start": "2026-10-24",
   "time": "8:00 AM",
@@ -219,18 +141,18 @@
   ]
  },
  {
-  "name": "Redeeming Grace Church Golf Scramble",
+  "name": "The Butcher Smoke and Flames BBQ Cookoff",
   "start": "2026-10-24",
-  "time": "8:00 AM",
-  "venue": "Cross Creek Golf Course, 2321 County Road 490",
-  "town": "Hanceville",
-  "host": "Redeeming Grace Church",
-  "summary": "A golf scramble hosted by Redeeming Grace Church at Cross Creek Golf Course.",
-  "url": "https://events.timely.fun/b8354ob3/event/78451915/20261024080000",
-  "group": "Outdoors and Motorsports",
+  "venue": "The Butcher, 266 Park Drive",
+  "town": "Cullman",
+  "host": "The Butcher Meat Co.",
+  "summary": "A KCBS sanctioned barbecue contest with certified judges, hosted by The Butcher Meat Co.",
+  "url": "https://events.timely.fun/b8354ob3/event/78270519/20261024000000",
+  "group": "Fairs and Festivals",
   "tags": [
-   "golf",
-   "charity"
+   "bbq",
+   "cookoff",
+   "food"
   ]
  },
  {
@@ -264,20 +186,6 @@
   ]
  },
  {
-  "name": "St. John's Hootenanny",
-  "start": "2026-10-28",
-  "time": "5:00 PM to 6:30 PM",
-  "venue": "St. John's Evangelical Protestant Church, 512 2nd Avenue SE",
-  "town": "Cullman",
-  "host": "St. John's Evangelical Protestant Church",
-  "summary": "A hootenanny evening at St. John's.",
-  "url": "https://events.timely.fun/b8354ob3/event/78487022/20261028170000",
-  "group": "Arts, Music and Theater",
-  "tags": [
-   "music"
-  ]
- },
- {
   "name": "Cullman County Farm City Farm Tour",
   "start": "2026-10-28",
   "time": "9:00 AM to 3:00 PM",
@@ -290,6 +198,20 @@
    "farms",
    "tour",
    "agriculture"
+  ]
+ },
+ {
+  "name": "St. John's Hootenanny",
+  "start": "2026-10-28",
+  "time": "5:00 PM to 6:30 PM",
+  "venue": "St. John's Evangelical Protestant Church, 512 2nd Avenue SE",
+  "town": "Cullman",
+  "host": "St. John's Evangelical Protestant Church",
+  "summary": "A hootenanny evening at St. John's.",
+  "url": "https://events.timely.fun/b8354ob3/event/78487022/20261028170000",
+  "group": "Arts, Music and Theater",
+  "tags": [
+   "music"
   ]
  },
  {
@@ -373,22 +295,6 @@
   ]
  },
  {
-  "name": "Campoween at Smith Lake Park",
-  "start": "2026-10-31",
-  "time": "6:00 PM to 8:00 PM",
-  "venue": "Smith Lake Park",
-  "town": "Cullman",
-  "host": "Smith Lake Park",
-  "summary": "Halloween night at the Smith Lake Park campground.",
-  "url": "https://events.timely.fun/b8354ob3/event/78354029/20261031180000",
-  "group": "Fall Fun and Halloween",
-  "tags": [
-   "halloween",
-   "camping",
-   "smith lake"
-  ]
- },
- {
   "name": "Berlin Farmer's Market Community Trick or Treat",
   "start": "2026-10-31",
   "time": "6:00 PM to 8:00 PM",
@@ -402,6 +308,22 @@
    "trick or treat",
    "kids",
    "berlin"
+  ]
+ },
+ {
+  "name": "Campoween at Smith Lake Park",
+  "start": "2026-10-31",
+  "time": "6:00 PM to 8:00 PM",
+  "venue": "Smith Lake Park",
+  "town": "Cullman",
+  "host": "Smith Lake Park",
+  "summary": "Halloween night at the Smith Lake Park campground.",
+  "url": "https://events.timely.fun/b8354ob3/event/78354029/20261031180000",
+  "group": "Fall Fun and Halloween",
+  "tags": [
+   "halloween",
+   "camping",
+   "smith lake"
   ]
  },
  {
@@ -466,6 +388,24 @@
   ]
  },
  {
+  "name": "Much Ado About Nothing at Wallace State",
+  "start": "2026-11-06",
+  "end": "2026-11-08",
+  "time": "7:00 PM Nov. 6 and 7, 2:00 PM Nov. 8",
+  "venue": "Betty Leeth Haynes Theatre, Wallace State Community College, 801 Main Street NW",
+  "town": "Hanceville",
+  "host": "Wallace State Theatre",
+  "cost": "$10 donation for adults, $5 for students and children under 12",
+  "summary": "Wallace State Theatre sets Shakespeare's comedy in the World War II era, with music and dances from the 1940s.",
+  "url": "https://www.cullmantribune.com/2026/10/21/wallace-state-releases-performing-arts-schedule-for-2026-2027-season/",
+  "group": "Arts, Music and Theater",
+  "tags": [
+   "theater",
+   "wallace state",
+   "shakespeare"
+  ]
+ },
+ {
   "name": "Cipollari Live: A Fundraiser for the Randy Travis Foundation",
   "start": "2026-11-07",
   "time": "6:00 PM to 8:00 PM",
@@ -496,6 +436,24 @@
   "tags": [
    "skating",
    "adults"
+  ]
+ },
+ {
+  "name": "Salute to United States Veterans",
+  "start": "2026-11-10",
+  "time": "7:00 PM",
+  "venue": "Betty Leeth Haynes Theatre, Wallace State Community College, 801 Main Street NW",
+  "town": "Hanceville",
+  "host": "Wallace State Concert Band and Jazz Band",
+  "cost": "Free",
+  "summary": "Patriotic music from the Wallace State bands, the hymns of each branch of the Armed Forces, and a moment to honor veterans in the crowd.",
+  "url": "https://www.cullmantribune.com/2026/10/21/wallace-state-releases-performing-arts-schedule-for-2026-2027-season/",
+  "group": "Arts, Music and Theater",
+  "tags": [
+   "veterans",
+   "concert",
+   "free",
+   "wallace state"
   ]
  },
  {
@@ -545,21 +503,6 @@
   ]
  },
  {
-  "name": "Run Run Rudolph",
-  "start": "2026-11-19",
-  "time": "5:00 PM to 8:00 PM",
-  "venue": "Sportsman Lake Park, 1544 Sportsman Lake Road NW",
-  "town": "Cullman",
-  "host": "Cullman Parks and Recreation",
-  "summary": "A holiday evening event at Sportsman Lake Park.",
-  "url": "https://events.timely.fun/b8354ob3/event/78487342/20261119170000",
-  "group": "Outdoors and Motorsports",
-  "tags": [
-   "run",
-   "christmas"
-  ]
- },
- {
   "name": "Cullman Christkindlmarkt",
   "start": "2026-11-19",
   "time": "Thu to Sat 11 AM to 9 PM, Sun noon to 8 PM",
@@ -576,6 +519,21 @@
    "market",
    "downtown",
    "free"
+  ]
+ },
+ {
+  "name": "Run Run Rudolph",
+  "start": "2026-11-19",
+  "time": "5:00 PM to 8:00 PM",
+  "venue": "Sportsman Lake Park, 1544 Sportsman Lake Road NW",
+  "town": "Cullman",
+  "host": "Cullman Parks and Recreation",
+  "summary": "A holiday evening event at Sportsman Lake Park.",
+  "url": "https://events.timely.fun/b8354ob3/event/78487342/20261119170000",
+  "group": "Outdoors and Motorsports",
+  "tags": [
+   "run",
+   "christmas"
   ]
  },
  {
@@ -596,6 +554,24 @@
   ]
  },
  {
+  "name": "The Nutcracker with Ballet South",
+  "start": "2026-11-21",
+  "end": "2026-11-22",
+  "time": "2:00 PM and 7:00 PM Nov. 21, 2:00 PM Nov. 22",
+  "venue": "Betty Leeth Haynes Theatre, Wallace State Community College, 801 Main Street NW",
+  "town": "Hanceville",
+  "host": "Ballet South at Wallace State",
+  "cost": "$15 for adults, $10 for children",
+  "summary": "Ballet South brings its yearly production of Tchaikovsky's holiday classic to the Wallace State stage.",
+  "url": "https://www.cullmantribune.com/2026/10/21/wallace-state-releases-performing-arts-schedule-for-2026-2027-season/",
+  "group": "Arts, Music and Theater",
+  "tags": [
+   "ballet",
+   "christmas",
+   "family"
+  ]
+ },
+ {
   "name": "Town of South Vinemont Thanksgiving Dinner",
   "start": "2026-11-21",
   "time": "11:00 AM to 1:00 PM",
@@ -607,6 +583,24 @@
   "tags": [
    "thanksgiving",
    "community"
+  ]
+ },
+ {
+  "name": "Wallace State Christmas Spectacular",
+  "start": "2026-12-10",
+  "time": "7:00 PM",
+  "venue": "Betty Leeth Haynes Theatre, Wallace State Community College, 801 Main Street NW",
+  "town": "Hanceville",
+  "host": "Wallace State Fine and Performing Arts",
+  "cost": "Free",
+  "summary": "Every Wallace State performing arts group shares the stage for a free holiday concert.",
+  "url": "https://www.cullmantribune.com/2026/10/21/wallace-state-releases-performing-arts-schedule-for-2026-2027-season/",
+  "group": "Arts, Music and Theater",
+  "tags": [
+   "christmas",
+   "concert",
+   "free",
+   "wallace state"
   ]
  },
  {

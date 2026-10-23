@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T02:45:00-05:00",
+ "updated": "2026-10-23T06:55:00-05:00",
  "teams": {
   "cullman": {
    "name": "Cullman",
@@ -238,6 +238,15 @@
   "reid-state": {
    "name": "Reid State",
    "initials": "RS",
+   "colors": [
+    "#4a5160",
+    "#d5d9e0"
+   ],
+   "text": "#ffffff"
+  },
+  "southern-union": {
+   "name": "Southern Union",
+   "initials": "SU",
    "colors": [
     "#4a5160",
     "#d5d9e0"
@@ -674,13 +683,27 @@
    "venue": "Tom Drake Coliseum, Wallace State",
    "home": "wallace",
    "away": "illinois-central",
-   "status": "Upcoming",
-   "score": null,
-   "line": null,
+   "status": "Final",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "line": {
+    "home": [
+     25,
+     26,
+     25
+    ],
+    "away": [
+     15,
+     24,
+     17
+    ]
+   },
    "note": "Wallace State Lions Invitational.",
    "source": {
-    "name": "Wallace State Athletics schedule",
-    "url": "https://athletics.wallacestate.edu/sports/wvball/2026-27/schedule"
+    "name": "Wallace State Athletics box score",
+    "url": "https://athletics.wallacestate.edu/sports/wvball/2026-27/boxscores/20261017_k54d.xml"
    }
   },
   {
@@ -693,13 +716,27 @@
    "venue": "Tom Drake Coliseum, Wallace State",
    "home": "wallace",
    "away": "reid-state",
-   "status": "Upcoming",
-   "score": null,
-   "line": null,
+   "status": "Final",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "line": {
+    "home": [
+     25,
+     25,
+     25
+    ],
+    "away": [
+     9,
+     11,
+     22
+    ]
+   },
    "note": "Wallace State Lions Invitational.",
    "source": {
-    "name": "Wallace State Athletics schedule",
-    "url": "https://athletics.wallacestate.edu/sports/wvball/2026-27/schedule"
+    "name": "Wallace State Athletics box score",
+    "url": "https://athletics.wallacestate.edu/sports/wvball/2026-27/boxscores/20261017_1j4e.xml"
    }
   },
   {
@@ -712,12 +749,95 @@
    "venue": "Tom Drake Coliseum, Wallace State",
    "home": "wallace",
    "away": "calhoun",
-   "status": "Upcoming",
-   "score": null,
-   "line": null,
+   "status": "Final",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "line": {
+    "home": [
+     25,
+     25,
+     25
+    ],
+    "away": [
+     23,
+     12,
+     18
+    ]
+   },
    "source": {
-    "name": "Wallace State Athletics schedule",
-    "url": "https://athletics.wallacestate.edu/sports/wvball/2026-27/schedule"
+    "name": "Wallace State Athletics box score",
+    "url": "https://athletics.wallacestate.edu/sports/wvball/2026-27/boxscores/20261021_t3cs.xml"
+   },
+   "note": "Avenged a September loss at Calhoun. Eleventh straight win."
+  },
+  {
+   "id": "ws-vb-2026-10-22",
+   "school": "wallace",
+   "label": "Wallace State Volleyball",
+   "sport": "Volleyball",
+   "period": "Set",
+   "start": "2026-10-22T12:00:00-05:00",
+   "timeTBA": true,
+   "venue": "Tom Drake Coliseum, Wallace State",
+   "home": "wallace",
+   "away": "southern-union",
+   "status": "Final",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "line": {
+    "home": [
+     25,
+     25,
+     25
+    ],
+    "away": [
+     23,
+     4,
+     16
+    ]
+   },
+   "note": "One of two matches with Southern Union that day.",
+   "source": {
+    "name": "Wallace State Athletics box score",
+    "url": "https://athletics.wallacestate.edu/sports/wvball/2026-27/boxscores/20261022_dhq7.xml"
+   }
+  },
+  {
+   "id": "ws-vb-2026-10-22b",
+   "school": "wallace",
+   "label": "Wallace State Volleyball",
+   "sport": "Volleyball",
+   "period": "Set",
+   "start": "2026-10-22T12:00:00-05:00",
+   "timeTBA": true,
+   "venue": "Tom Drake Coliseum, Wallace State",
+   "home": "wallace",
+   "away": "southern-union",
+   "status": "Final",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "line": {
+    "home": [
+     25,
+     25,
+     25
+    ],
+    "away": [
+     14,
+     12,
+     10
+    ]
+   },
+   "note": "One of two matches with Southern Union that day.",
+   "source": {
+    "name": "Wallace State Athletics box score",
+    "url": "https://athletics.wallacestate.edu/sports/wvball/2026-27/boxscores/20261022_vw3v.xml"
    }
   }
  ]

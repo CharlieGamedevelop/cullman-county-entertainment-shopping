@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cullman County Entertainment and Shopping//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:salute_to_united_states_veterans-20261110@cullman-county-entertainmen
+ t-shopping
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=America/Chicago:20261110T190000
+DTEND;TZID=America/Chicago:20261110T210000
+SUMMARY:Salute to United States Veterans
+LOCATION:Betty Leeth Haynes Theatre\, Wallace State Community College\, 8
+ 01 Main Street NW\, Hanceville\, AL
+DESCRIPTION:Patriotic music from the Wallace State bands\, the hymns of e
+ ach branch of the Armed Forces\, and a moment to honor veterans in the cr
+ owd. Time: 7:00 PM. https://www.cullmantribune.com/2026/10/21/wallace-sta
+ te-releases-performing-arts-schedule-for-2026-2027-season/
+URL:https://www.cullmantribune.com/2026/10/21/wallace-state-releases-perf
+ orming-arts-schedule-for-2026-2027-season/
+END:VEVENT
+END:VCALENDAR

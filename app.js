@@ -140,7 +140,7 @@ function badge(t){var b=el('span','tb',String(t.initials||'?').slice(0,3));var c
 function stat(g,now){var s=g.status;var st=Date.parse(g.start);if(s==='Upcoming'&&!isNaN(st)&&now>st+10*60000)return 'Game time';return s==='Live'||s==='Final'?s:'Upcoming';}
 function gameCard(d,g,now){var s=stat(g,now),A=teamOf(d,g.away),H=teamOf(d,g.home);var c=el('article','gcard gs-'+s.toLowerCase().replace(/\s+/g,''));c.setAttribute('data-status',s);
  var top=el('div','gc-top');top.appendChild(el('span','gpill',s==='Game time'?'Game time. Score coming soon':s));var st=new Date(g.start);
- top.appendChild(el('span','gwhen',isNaN(st)?'':ctTime(st,{weekday:'short',month:'short',day:'numeric'})+' \u00b7 '+ctTime(st,{hour:'numeric',minute:'2-digit'})+' CT'));c.appendChild(top);
+ top.appendChild(el('span','gwhen',isNaN(st)?'':ctTime(st,{weekday:'short',month:'short',day:'numeric'})+(g.timeTBA?'':' \u00b7 '+ctTime(st,{hour:'numeric',minute:'2-digit'})+' CT')));c.appendChild(top);
  if(s==='Live'){var band=el('div','liveband');band.style.setProperty('--c1',okColor((H.colors||[])[0]));band.style.setProperty('--c2',okColor((A.colors||[])[0]));band.style.setProperty('--c3',okColor((H.colors||[])[1]||'#ffffff'));
   var bt=el('p','lb-text');bt.appendChild(el('span','lb-dot','LIVE'));bt.appendChild(document.createTextNode(' '+(A.initials||'')+' '+(g.score?g.score.away:0)+'  \u00b7  '+(H.initials||'')+' '+(g.score?g.score.home:0)+(g.now?'  \u00b7  '+g.now:'')));band.appendChild(bt);c.appendChild(band);}
  c.appendChild(el('h4','gtitle',A.name+' at '+H.name));
