@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cullman County Entertainment and Shopping//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:festival_of_trees-20261203@cullman-county-entertainment-shopping
+DTSTAMP:20261023T120000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261228
+SUMMARY:Festival of Trees
+LOCATION:Cullman Wellness & Aquatic Center\, 1636 Field Of Miracles Drive
+ \, Cullman\, AL
+DESCRIPTION:Christmas trees decorated by local school students and the Cu
+ llman County Public Library. The opening ceremony is December 3 at 5 PM\,
+  and the trees stay on display free from December 4 to 27 during the cent
+ er's regular hours. Time: 5:00 PM. https://www.cullmantribune.com/2026/10
+ /23/cullman-tree-commission-prepares-for-2026-festival-of-trees/
+URL:https://www.cullmantribune.com/2026/10/23/cullman-tree-commission-pre
+ pares-for-2026-festival-of-trees/
+END:VEVENT
+END:VCALENDAR
