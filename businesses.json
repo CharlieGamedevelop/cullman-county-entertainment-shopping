@@ -2782,12 +2782,13 @@
   "name": "Country Wok",
   "service": "Chinese restaurant",
   "town": "Hanceville",
-  "address": "107 Bangor Ave NE, Hanceville, AL 35077",
-  "summary": "Chinese food cooked in an open kitchen, so you can watch your order come together. Don't leave without trying the eggrolls or Grandma's Cantonese fried rice.",
+  "address": "107 Bangor Ave NE, Suite A, Hanceville, AL 35077",
+  "summary": "Chinese food cooked in an open kitchen, open Tuesday through Saturday from 11 AM to 7 PM. Try the eggrolls, Grandma's Cantonese fried rice, or the new ramen bowls and Hong Kong style wontons.",
   "tags": [
    "chinese",
    "hanceville",
-   "takeout"
+   "takeout",
+   "ramen"
   ],
   "phone": "(256) 887-1360",
   "website": "https://www.countrywok.com"

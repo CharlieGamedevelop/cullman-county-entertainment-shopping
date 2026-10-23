@@ -1,5 +1,38 @@
 [
  {
+  "id": "country-wok-new-menu",
+  "date": "2026-10-23",
+  "category": "Business",
+  "graphic": "🍜",
+  "headline": "Country Wok in Hanceville adds ramen, wontons and matcha cannoli",
+  "summary": "The Bangor Avenue Chinese restaurant that opened this year has rolled out three ramen bowls, Hong Kong style wontons, Japanese hot dogs and a matcha cannoli.",
+  "body": [
+   "Country Wok, the Chinese restaurant on Bangor Avenue in Hanceville, has a handful of new dishes to try. Owner Kenny Lee opened the spot earlier this year, and he says customer feedback helps shape what goes on the menu.",
+   "The biggest addition is ramen, offered three ways. Shoyu ramen comes in a savory chicken broth, tori paitan ramen uses a rich and creamy chicken broth with black garlic oil, and miso ramen adds butter and sweet corn. All three come with chashu pork, a jammy egg, scallions and seasoned bamboo shoots.",
+   "There are also Hong Kong style pork and shrimp wontons served with the house Triple Street Sauce, plus Japanese hot dogs topped with Kewpie mayo, nori, bonito flakes and rice seasoning. For dessert, a matcha cannoli finishes things off.",
+   "Lee keeps the menu fairly small so the kitchen is not stretched thin, and he buys ingredients from local sources when he can.",
+   "Country Wok is at 107 Bangor Avenue, Suite A, and is open Tuesday through Saturday from 11 AM to 7 PM. You can order online at countrywok.com, through DoorDash, or by calling (256) 887-1360."
+  ],
+  "sources": [
+   {
+    "name": "The Cullman Tribune: Small Business Spotlight: Country Wok features new menu (Oct. 23, 2026)",
+    "url": "https://www.cullmantribune.com/2026/10/23/small-business-spotlight-country-wok-features-new-menu/"
+   },
+   {
+    "name": "Country Wok",
+    "url": "https://www.countrywok.com"
+   }
+  ],
+  "tags": [
+   "country wok",
+   "hanceville",
+   "restaurant",
+   "ramen",
+   "chinese food",
+   "new menu"
+  ]
+ },
+ {
   "id": "sheriff-litter-program-35-tons",
   "date": "2026-10-23",
   "category": "Public Safety",
@@ -91,6 +124,34 @@
    "lions",
    "accc",
    "hanceville"
+  ]
+ },
+ {
+  "id": "berlin-council-oct-19",
+  "date": "2026-10-22",
+  "category": "City Hall",
+  "graphic": "🏛️",
+  "headline": "Berlin council sets Halloween night plans and waits on county road contract",
+  "summary": "Every trunk or treat spot at the Berlin Farmers Market is spoken for on October 31, and work on County Roads 1619 and 1920 is waiting on a contract.",
+  "body": [
+   "The Berlin Town Council met October 19 and spent much of the meeting on Halloween and road work.",
+   "Trunk or treat night at the Berlin Farmers Market, 50 Mt. Carmel Drive, is set for Saturday, October 31, from 6 PM to 8 PM. The town clerk said local churches stepped up and every trunk bay has been filled. Participants will get a parking chart so the evening runs smoothly, and parking questions can go to Berlin Town Hall at (256) 736-3138 before the event.",
+   "Mayor Patrick Bates said a contract is still pending for improvements on County Roads 1619 and 1920, and the town will share more as it moves forward.",
+   "The council also approved a raise of just under 5 percent for the town clerk position, from $63,000 to $66,000 a year.",
+   "The next Berlin Town Council meeting is Monday, November 16, at 7 PM at Berlin Town Hall."
+  ],
+  "sources": [
+   {
+    "name": "The Cullman Tribune: Berlin Council talks Halloween, town improvements (Oct. 22, 2026)",
+    "url": "https://www.cullmantribune.com/2026/10/22/berlin-council-talks-halloween-town-improvements/"
+   }
+  ],
+  "tags": [
+   "berlin",
+   "town council",
+   "halloween",
+   "trunk or treat",
+   "roads"
   ]
  },
  {
