@@ -23,7 +23,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:much_ado_about_nothing_at_wallace_state-20261106@cullman-county-enter
  tainment-shopping
-DTSTAMP:20261023T120000Z
+DTSTAMP:20261024T120000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261109
 SUMMARY:Much Ado About Nothing at Wallace State

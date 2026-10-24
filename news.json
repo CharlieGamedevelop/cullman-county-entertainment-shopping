@@ -1,5 +1,66 @@
 [
  {
+  "id": "friday-football-roundup-oct-23",
+  "date": "2026-10-24",
+  "category": "Sports",
+  "graphic": "🏈",
+  "headline": "Friday night football: Vinemont rallies late to clinch a seventh straight playoff trip",
+  "summary": "Vinemont, Cullman, Good Hope and Cold Springs all won on Friday night. Here is how every Cullman County team did and where they play next.",
+  "body": [
+   "Vinemont gave its seniors a night to remember. Josh Rhodes found Travis Speer for a 19 yard touchdown on fourth down with 4:17 left, and the Eagles beat Susan Moore 12 to 7 at home. Speer also picked off a pass in the end zone late in the third quarter, and Brennan Marlow added a late interception to seal it. The win clinched Vinemont's seventh playoff berth in a row. The Eagles finished the regular season 6 and 4, have an open week, and are slated to open the playoffs at Region 7 champion Central in Florence on Nov. 6.",
+   "Cullman snapped a five game losing streak with a 42 to 13 win at Jackson Olin in Birmingham. It was the Bearcats' first road win of the season and their highest scoring night of the year. Cullman is 3 and 6 and closes the regular season at West Morgan on Thursday, Oct. 29, at 7 p.m.",
+   "Good Hope answered an early Hayden touchdown with 42 straight points on senior night and won 42 to 7. Karson Hollis ran for 116 yards and two touchdowns, and Parker Johnson ran for two scores and threw for two more. The Raiders are 7 and 2 and 6 and 1 in region play, and they finish the regular season at Scottsboro on Oct. 30.",
+   "Cold Springs kept rolling with a 56 to 6 win at Carbon Hill for its third straight victory. The Eagles are 8 and 1 and host Tanner in the regular season finale.",
+   "It was a tougher night for three other county teams. Etowah beat Holly Pond 43 to 12 in the Broncos' region finale, and Holly Pond closes the year at Falkville on Oct. 30 at 7 p.m. Oneonta beat Hanceville 62 to 0 at Ray Talley Stadium, and the Bulldogs finish at Elkmont on Oct. 30. West Point threw two touchdown passes against Class 4A No. 8 Deshler but lost 55 to 14, which ended the Warriors' season.",
+   "Fairview was off this week and closes the regular season at Cherokee County on Oct. 30. You can see every final and next game on our Game Center."
+  ],
+  "sources": [
+   {
+    "name": "The Cullman Tribune: Vinemont rallies past Susan Moore 12 to 7, clinches seventh straight playoff berth (Oct. 23, 2026)",
+    "url": "https://www.cullmantribune.com/2026/10/23/prep-football-vinemont-rallies-past-susan-moore-12-7-clinches-7th-straight-playoff-berth/"
+   },
+   {
+    "name": "The Cullman Tribune: Cullman pulls away from Jackson Olin for 42 to 13 road win (Oct. 23, 2026)",
+    "url": "https://www.cullmantribune.com/2026/10/23/prep-football-cullman-pulls-away-from-jackson-olin-for-42-13-road-win/"
+   },
+   {
+    "name": "The Cullman Tribune: Good Hope rolls past Hayden 42 to 7 on senior night (Oct. 23, 2026)",
+    "url": "https://www.cullmantribune.com/2026/10/23/prep-football-good-hope-rolls-past-hayden-42-7-on-senior-night/"
+   },
+   {
+    "name": "The Cullman Tribune: Cold Springs thrashes Carbon Hill 56 to 6, improving to 8 and 1 (Oct. 23, 2026)",
+    "url": "https://www.cullmantribune.com/2026/10/23/prep-football-cold-springs-thrashes-carbon-hill-56-6-improving-to-8-1/"
+   },
+   {
+    "name": "The Cullman Tribune: Etowah tops Holly Pond 43 to 12 (Oct. 23, 2026)",
+    "url": "https://www.cullmantribune.com/2026/10/23/prep-football-etowah-tops-holly-pond-43-12/"
+   },
+   {
+    "name": "The Cullman Tribune: Oneonta shuts out Hanceville 62 to 0 (Oct. 23, 2026)",
+    "url": "https://www.cullmantribune.com/2026/10/23/prep-football-oneonta-shuts-out-hanceville-62-0/"
+   },
+   {
+    "name": "The Cullman Tribune: Deshler cruises past West Point for 55 to 14 win (Oct. 23, 2026)",
+    "url": "https://www.cullmantribune.com/2026/10/23/prep-football-deshler-cruises-past-west-point-for-55-14-win/"
+   }
+  ],
+  "tags": [
+   "football",
+   "high school",
+   "vinemont",
+   "cullman high",
+   "good hope",
+   "cold springs",
+   "holly pond",
+   "hanceville",
+   "west point",
+   "fairview",
+   "playoffs",
+   "sports"
+  ],
+  "top": true
+ },
+ {
   "id": "wallace-state-enrollment-record-fall-2026",
   "date": "2026-10-23",
   "category": "Schools",
@@ -447,8 +508,7 @@
    "hanceville",
    "playoffs",
    "sports"
-  ],
-  "top": true
+  ]
  },
  {
   "id": "listerhill-cullman-branch-opens",

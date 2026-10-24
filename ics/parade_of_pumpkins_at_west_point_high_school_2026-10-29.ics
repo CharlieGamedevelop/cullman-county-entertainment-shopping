@@ -23,7 +23,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:parade_of_pumpkins_at_west_point_high_school-20261029@cullman-county-
  entertainment-shopping
-DTSTAMP:20261023T120000Z
+DTSTAMP:20261024T120000Z
 DTSTART;TZID=America/Chicago:20261029T173000
 DTEND;TZID=America/Chicago:20261029T193000
 SUMMARY:Parade of Pumpkins at West Point High School

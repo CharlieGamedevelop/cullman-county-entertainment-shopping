@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T23:15:00-05:00",
+ "updated": "2026-10-24T06:45:00-05:00",
  "teams": {
   "cullman": {
    "name": "Cullman",
@@ -315,6 +315,15 @@
     "#d5d9e0"
    ],
    "text": "#ffffff"
+  },
+  "central-florence": {
+   "name": "Central Florence",
+   "initials": "CF",
+   "colors": [
+    "#4a5160",
+    "#d5d9e0"
+   ],
+   "text": "#ffffff"
   }
  },
  "games": [
@@ -539,13 +548,16 @@
    "venue": "Vinemont",
    "home": "vinemont",
    "away": "susan-moore",
-   "status": "Upcoming",
-   "score": null,
+   "status": "Final",
+   "score": {
+    "home": 12,
+    "away": 7
+   },
    "line": null,
-   "note": "Kickoff time not confirmed yet. Most Friday games start at 7 p.m.",
+   "note": "Senior night. Clinched a seventh straight playoff berth.",
    "source": {
-    "name": "AHSFHS schedule",
-    "url": "https://www.ahsfhs.org/Teams2/gamesbyyear.asp?Team=Vinemont&Year=2026"
+    "name": "The Cullman Tribune",
+    "url": "https://www.cullmantribune.com/2026/10/23/prep-football-vinemont-rallies-past-susan-moore-12-7-clinches-7th-straight-playoff-berth/"
    }
   },
   {
@@ -757,7 +769,7 @@
    "note": "Class 2A, Region 5. Cold Springs is 8 and 1.",
    "source": {
     "name": "The Cullman Tribune",
-    "url": "https://www.cullmantribune.com/2026/10/23/prep-football-cold-springs-thrashes-carbon-hill-56-6-improves-to-8-1/"
+    "url": "https://www.cullmantribune.com/2026/10/23/prep-football-cold-springs-thrashes-carbon-hill-56-6-improving-to-8-1/"
    }
   },
   {
@@ -1052,7 +1064,7 @@
    "note": "Regular season finale. Kickoff time not confirmed yet.",
    "source": {
     "name": "The Cullman Tribune",
-    "url": "https://www.cullmantribune.com/2026/10/23/prep-football-cold-springs-thrashes-carbon-hill-56-6-improves-to-8-1/"
+    "url": "https://www.cullmantribune.com/2026/10/23/prep-football-cold-springs-thrashes-carbon-hill-56-6-improving-to-8-1/"
    }
   },
   {
@@ -1072,6 +1084,25 @@
    "source": {
     "name": "The Cullman Tribune",
     "url": "https://www.cullmantribune.com/2026/10/23/prep-football-etowah-tops-holly-pond-43-12/"
+   }
+  },
+  {
+   "id": "vhs-1106",
+   "school": "vinemont",
+   "label": "Vinemont High Football",
+   "sport": "Football",
+   "period": "Q",
+   "start": "2026-11-06T19:00:00-06:00",
+   "venue": "Central, Florence",
+   "home": "central-florence",
+   "away": "vinemont",
+   "status": "Upcoming",
+   "score": null,
+   "line": null,
+   "note": "Class 3A playoffs, first round, after an open week. Kickoff time not confirmed yet.",
+   "source": {
+    "name": "The Cullman Tribune",
+    "url": "https://www.cullmantribune.com/2026/10/23/prep-football-vinemont-rallies-past-susan-moore-12-7-clinches-7th-straight-playoff-berth/"
    }
   }
  ]
