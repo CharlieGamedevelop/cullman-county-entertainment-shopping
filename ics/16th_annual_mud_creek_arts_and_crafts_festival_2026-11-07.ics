@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cullman County Entertainment and Shopping//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:16th_annual_mud_creek_arts_and_crafts_festival-20261107@cullman-count
+ y-entertainment-shopping
+DTSTAMP:20261024T120000Z
+DTSTART;TZID=America/Chicago:20261107T090000
+DTEND;TZID=America/Chicago:20261107T160000
+SUMMARY:16th Annual Mud Creek Arts and Crafts Festival
+LOCATION:Commercial Street\, centered at 106 Commercial Street NE\, Hance
+ ville\, AL
+DESCRIPTION:Historic downtown Hanceville fills with handmade crafts\, gif
+ ts\, food trucks and bounce houses for the kids. Admission is free\, the 
+ festival goes on rain or shine\, and downtown shops usually stay open dur
+ ing the day. Time: 9:00 AM to 4:00 PM. https://www.cullmantribune.com/202
+ 6/10/24/16th-annual-mud-creek-arts-crafts-festival-set-for-nov-7/
+URL:https://www.cullmantribune.com/2026/10/24/16th-annual-mud-creek-arts-
+ crafts-festival-set-for-nov-7/
+END:VEVENT
+END:VCALENDAR
