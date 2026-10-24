@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T06:55:00-05:00",
+ "updated": "2026-10-23T22:45:00-05:00",
  "teams": {
   "cullman": {
    "name": "Cullman",
@@ -270,6 +270,51 @@
     "#d5d9e0"
    ],
    "text": "#ffffff"
+  },
+  "west-morgan": {
+   "name": "West Morgan",
+   "initials": "WM",
+   "colors": [
+    "#4a5160",
+    "#d5d9e0"
+   ],
+   "text": "#ffffff"
+  },
+  "falkville": {
+   "name": "Falkville",
+   "initials": "F",
+   "colors": [
+    "#4a5160",
+    "#d5d9e0"
+   ],
+   "text": "#ffffff"
+  },
+  "scottsboro": {
+   "name": "Scottsboro",
+   "initials": "S",
+   "colors": [
+    "#4a5160",
+    "#d5d9e0"
+   ],
+   "text": "#ffffff"
+  },
+  "tanner": {
+   "name": "Tanner",
+   "initials": "T",
+   "colors": [
+    "#4a5160",
+    "#d5d9e0"
+   ],
+   "text": "#ffffff"
+  },
+  "elkmont": {
+   "name": "Elkmont",
+   "initials": "E",
+   "colors": [
+    "#4a5160",
+    "#d5d9e0"
+   ],
+   "text": "#ffffff"
   }
  },
  "games": [
@@ -346,13 +391,29 @@
    "venue": "Ray Talley Stadium, Hanceville",
    "home": "hanceville",
    "away": "oneonta",
-   "status": "Upcoming",
-   "score": null,
-   "line": null,
-   "note": "Region game.",
+   "status": "Final",
+   "score": {
+    "home": 0,
+    "away": 62
+   },
+   "line": {
+    "home": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "away": [
+     35,
+     21,
+     0,
+     6
+    ]
+   },
+   "note": "Class 3A, Region 6 finale.",
    "source": {
-    "name": "MaxPreps schedule",
-    "url": "https://www.maxpreps.com/al/hanceville/hanceville-bulldogs/football/schedule/"
+    "name": "The Cullman Tribune",
+    "url": "https://www.cullmantribune.com/2026/10/23/prep-football-oneonta-shuts-out-hanceville-62-0/"
    }
   },
   {
@@ -418,13 +479,16 @@
    "venue": "Good Hope",
    "home": "good-hope",
    "away": "hayden",
-   "status": "Upcoming",
-   "score": null,
+   "status": "Final",
+   "score": {
+    "home": 42,
+    "away": 7
+   },
    "line": null,
-   "note": "Kickoff time not confirmed yet. Most Friday games start at 7 p.m.",
+   "note": "Class 4A, Region 8. Senior night. Good Hope is 7 and 2.",
    "source": {
     "name": "The Cullman Tribune",
-    "url": "https://www.cullmantribune.com/2026/10/16/prep-football-good-hopes-6-game-winning-streak-ends-with-40-21-loss-at-cherokee-county/"
+    "url": "https://www.cullmantribune.com/2026/10/23/prep-football-good-hope-rolls-past-hayden-42-7-on-senior-night/"
    }
   },
   {
@@ -649,13 +713,16 @@
    "venue": "Carbon Hill",
    "home": "carbon-hill",
    "away": "cold-springs",
-   "status": "Upcoming",
-   "score": null,
+   "status": "Final",
+   "score": {
+    "home": 6,
+    "away": 56
+   },
    "line": null,
-   "note": "Kickoff time not confirmed yet. Most Friday games start at 7 p.m.",
+   "note": "Class 2A, Region 5. Cold Springs is 8 and 1.",
    "source": {
-    "name": "AHSFHS schedule",
-    "url": "https://www.ahsfhs.org/Teams2/gamesbyyear.asp?Team=Cold+Springs&Year=2026"
+    "name": "The Cullman Tribune",
+    "url": "https://www.cullmantribune.com/2026/10/23/prep-football-cold-springs-thrashes-carbon-hill-56-6-improves-to-8-1/"
    }
   },
   {
@@ -894,6 +961,82 @@
    "source": {
     "name": "The Cullman Tribune",
     "url": "https://www.cullmantribune.com/2026/10/23/north-super-regional-volleyball-addison-captures-north-crown-as-4-local-teams-secure-state-seeds/"
+   }
+  },
+  {
+   "id": "chs-1029",
+   "school": "cullman",
+   "label": "Cullman High Football",
+   "sport": "Football",
+   "period": "Q",
+   "start": "2026-10-29T19:00:00-05:00",
+   "venue": "West Morgan, Trinity",
+   "home": "west-morgan",
+   "away": "cullman",
+   "status": "Upcoming",
+   "score": null,
+   "line": null,
+   "note": "Thursday game. Kickoff time not confirmed yet.",
+   "source": {
+    "name": "AHSFHS schedule",
+    "url": "https://www.ahsfhs.org/Teams2/gamesbyyear.asp?Team=Cullman&Year=2026"
+   }
+  },
+  {
+   "id": "gh-1030",
+   "school": "good-hope",
+   "label": "Good Hope High Football",
+   "sport": "Football",
+   "period": "Q",
+   "start": "2026-10-30T19:00:00-05:00",
+   "venue": "Scottsboro",
+   "home": "scottsboro",
+   "away": "good-hope",
+   "status": "Upcoming",
+   "score": null,
+   "line": null,
+   "note": "Final region game and regular season finale. Kickoff time not confirmed yet.",
+   "source": {
+    "name": "The Cullman Tribune",
+    "url": "https://www.cullmantribune.com/2026/10/23/prep-football-good-hope-rolls-past-hayden-42-7-on-senior-night/"
+   }
+  },
+  {
+   "id": "cs-1030",
+   "school": "cold-springs",
+   "label": "Cold Springs High Football",
+   "sport": "Football",
+   "period": "Q",
+   "start": "2026-10-30T19:00:00-05:00",
+   "venue": "Cold Springs",
+   "home": "cold-springs",
+   "away": "tanner",
+   "status": "Upcoming",
+   "score": null,
+   "line": null,
+   "note": "Regular season finale. Kickoff time not confirmed yet.",
+   "source": {
+    "name": "The Cullman Tribune",
+    "url": "https://www.cullmantribune.com/2026/10/23/prep-football-cold-springs-thrashes-carbon-hill-56-6-improves-to-8-1/"
+   }
+  },
+  {
+   "id": "hp-1030",
+   "school": "holly-pond",
+   "label": "Holly Pond High Football",
+   "sport": "Football",
+   "period": "Q",
+   "start": "2026-10-30T19:00:00-05:00",
+   "venue": "Falkville",
+   "home": "falkville",
+   "away": "holly-pond",
+   "status": "Upcoming",
+   "score": null,
+   "line": null,
+   "note": "Kickoff time not confirmed yet.",
+   "source": {
+    "name": "AHSFHS schedule",
+    "url": "https://www.ahsfhs.org/Teams2/gamesbyyear.asp?Team=Holly+Pond&Year=2026"
    }
   }
  ]
