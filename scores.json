@@ -252,6 +252,24 @@
     "#d5d9e0"
    ],
    "text": "#ffffff"
+  },
+  "satsuma": {
+   "name": "Satsuma",
+   "initials": "S",
+   "colors": [
+    "#4a5160",
+    "#d5d9e0"
+   ],
+   "text": "#ffffff"
+  },
+  "ariton": {
+   "name": "Ariton",
+   "initials": "A",
+   "colors": [
+    "#4a5160",
+    "#d5d9e0"
+   ],
+   "text": "#ffffff"
   }
  },
  "games": [
@@ -838,6 +856,44 @@
    "source": {
     "name": "Wallace State Athletics box score",
     "url": "https://athletics.wallacestate.edu/sports/wvball/2026-27/boxscores/20261022_vw3v.xml"
+   }
+  },
+  {
+   "id": "wp-vb-2026-10-28",
+   "school": "west-point",
+   "label": "West Point High Volleyball",
+   "sport": "Volleyball",
+   "period": "Set",
+   "start": "2026-10-28T10:30:00-05:00",
+   "venue": "Birmingham CrossPlex, Birmingham",
+   "home": "west-point",
+   "away": "satsuma",
+   "status": "Upcoming",
+   "score": null,
+   "line": null,
+   "note": "AHSAA Class 4A state quarterfinal at a neutral site. West Point is the North No. 3 seed.",
+   "source": {
+    "name": "The Cullman Tribune",
+    "url": "https://www.cullmantribune.com/2026/10/23/north-super-regional-volleyball-addison-captures-north-crown-as-4-local-teams-secure-state-seeds/"
+   }
+  },
+  {
+   "id": "cs-vb-2026-10-28",
+   "school": "cold-springs",
+   "label": "Cold Springs High Volleyball",
+   "sport": "Volleyball",
+   "period": "Set",
+   "start": "2026-10-28T13:30:00-05:00",
+   "venue": "Birmingham CrossPlex, Birmingham",
+   "home": "cold-springs",
+   "away": "ariton",
+   "status": "Upcoming",
+   "score": null,
+   "line": null,
+   "note": "AHSAA Class 2A state quarterfinal at a neutral site. Cold Springs is the North No. 3 seed.",
+   "source": {
+    "name": "The Cullman Tribune",
+    "url": "https://www.cullmantribune.com/2026/10/23/north-super-regional-volleyball-addison-captures-north-crown-as-4-local-teams-secure-state-seeds/"
    }
   }
  ]
