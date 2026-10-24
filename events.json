@@ -125,22 +125,6 @@
   ]
  },
  {
-  "name": "Spooktacular Storybook 5K and 1 Mile",
-  "start": "2026-10-24",
-  "time": "8:00 AM",
-  "venue": "Cullman County Public Library, 200 Clark Street NE",
-  "town": "Cullman",
-  "host": "Cullman County Public Library",
-  "summary": "A storybook themed 5K and a 1 mile fun run that start at the main library.",
-  "url": "https://events.timely.fun/b8354ob3/event/78419337/20261024080000",
-  "group": "Outdoors and Motorsports",
-  "tags": [
-   "5k",
-   "run",
-   "library"
-  ]
- },
- {
   "name": "Bigfoot Rally",
   "start": "2026-10-25",
   "time": "9:00 AM to 5:00 PM",
@@ -153,6 +137,23 @@
   "tags": [
    "off road",
    "rally"
+  ]
+ },
+ {
+  "name": "Bring Your Lunch and Learn: Cybersecurity for Your Business",
+  "start": "2026-10-26",
+  "time": "11:30 AM to 12:30 PM",
+  "venue": "Cullman Area Chamber of Commerce, 301 Second Avenue SW",
+  "town": "Cullman",
+  "host": "Cullman Area Chamber of Commerce and Athens State University",
+  "summary": "A free, hour long session with practical tips for protecting a business's data, systems, employees and customers from cybersecurity threats, led by an Athens State University cybersecurity professor. Registration is required through the Chamber's events page, and Athens State provides lunch for those who register ahead of time. Call the Chamber at 256-734-0454 for details.",
+  "url": "https://www.cullmantribune.com/2026/10/24/chamber-athens-state-offer-free-cybersecurity-lunch-learn-for-local-businesses-oct-26/",
+  "group": "Classes and Community",
+  "tags": [
+   "business",
+   "cybersecurity",
+   "chamber",
+   "free"
   ]
  },
  {

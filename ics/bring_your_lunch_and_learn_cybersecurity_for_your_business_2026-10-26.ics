@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cullman County Entertainment and Shopping//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:bring_your_lunch_and_learn_cybersecurity_for_your_business-20261026@c
+ ullman-county-entertainment-shopping
+DTSTAMP:20261024T120000Z
+DTSTART;TZID=America/Chicago:20261026T113000
+DTEND;TZID=America/Chicago:20261026T123000
+SUMMARY:Bring Your Lunch and Learn: Cybersecurity for Your Business
+LOCATION:Cullman Area Chamber of Commerce\, 301 Second Avenue SW\, Cullma
+ n\, AL
+DESCRIPTION:A free\, hour long session with practical tips for protecting
+  a business's data\, systems\, employees and customers from cybersecurity
+  threats\, led by an Athens State University cybersecurity professor. Reg
+ istration is required through the Chamber's events page\, and Athens Stat
+ e provides lunch for those who register ahead of time. Call the Chamber a
+ t 256-734-0454 for details. Time: 11:30 AM to 12:30 PM. https://www.cullm
+ antribune.com/2026/10/24/chamber-athens-state-offer-free-cybersecurity-lu
+ nch-learn-for-local-businesses-oct-26/
+URL:https://www.cullmantribune.com/2026/10/24/chamber-athens-state-offer-
+ free-cybersecurity-lunch-learn-for-local-businesses-oct-26/
+END:VEVENT
+END:VCALENDAR
