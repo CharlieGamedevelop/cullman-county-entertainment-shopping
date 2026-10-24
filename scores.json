@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T22:45:00-05:00",
+ "updated": "2026-10-23T23:15:00-05:00",
  "teams": {
   "cullman": {
    "name": "Cullman",
@@ -350,13 +350,29 @@
    "venue": "Jackson Olin",
    "home": "jackson-olin",
    "away": "cullman",
-   "status": "Upcoming",
-   "score": null,
-   "line": null,
-   "note": "Region game.",
+   "status": "Final",
+   "score": {
+    "home": 13,
+    "away": 42
+   },
+   "line": {
+    "home": [
+     7,
+     0,
+     6,
+     0
+    ],
+    "away": [
+     7,
+     14,
+     14,
+     7
+    ]
+   },
+   "note": "Class 5A, Region 5. Snapped a five game losing streak. Cullman is 3 and 6.",
    "source": {
     "name": "The Cullman Tribune",
-    "url": "https://www.cullmantribune.com/2026/10/16/prep-football-cullmans-3rd-quarter-rally-falls-short-in-42-24-loss-to-parker/"
+    "url": "https://www.cullmantribune.com/2026/10/23/prep-football-cullman-pulls-away-from-jackson-olin-for-42-13-road-win/"
    }
   },
   {
@@ -618,13 +634,29 @@
    "venue": "Holly Pond",
    "home": "holly-pond",
    "away": "etowah",
-   "status": "Upcoming",
-   "score": null,
-   "line": null,
-   "note": "Region game.",
+   "status": "Final",
+   "score": {
+    "home": 12,
+    "away": 43
+   },
+   "line": {
+    "home": [
+     0,
+     6,
+     0,
+     6
+    ],
+    "away": [
+     15,
+     7,
+     14,
+     7
+    ]
+   },
+   "note": "Class 3A, Region 6 finale. Holly Pond is 2 and 7.",
    "source": {
     "name": "The Cullman Tribune",
-    "url": "https://www.cullmantribune.com/2026/10/16/prep-football-holly-pond-comes-up-short-in-region-matchup-with-susan-moore-17-16/"
+    "url": "https://www.cullmantribune.com/2026/10/23/prep-football-etowah-tops-holly-pond-43-12/"
    }
   },
   {
@@ -672,13 +704,16 @@
    "venue": "Warrior Field, West Point",
    "home": "west-point",
    "away": "deshler",
-   "status": "Upcoming",
-   "score": null,
+   "status": "Final",
+   "score": {
+    "home": 14,
+    "away": 55
+   },
    "line": null,
-   "note": "Regular season finale. Kickoff time not confirmed yet. Most Friday games start at 7 p.m.",
+   "note": "Class 4A, Region 7 and season finale. Deshler won the region.",
    "source": {
     "name": "The Cullman Tribune",
-    "url": "https://www.cullmantribune.com/2026/10/16/prep-football-west-point-loses-late-lead-in-35-31-setback-at-lawrence-county/"
+    "url": "https://www.cullmantribune.com/2026/10/23/prep-football-deshler-cruises-past-west-point-for-55-14-win/"
    }
   },
   {
@@ -976,10 +1011,10 @@
    "status": "Upcoming",
    "score": null,
    "line": null,
-   "note": "Thursday game. Kickoff time not confirmed yet.",
+   "note": "Thursday game at 7 p.m. Regular season finale.",
    "source": {
-    "name": "AHSFHS schedule",
-    "url": "https://www.ahsfhs.org/Teams2/gamesbyyear.asp?Team=Cullman&Year=2026"
+    "name": "The Cullman Tribune",
+    "url": "https://www.cullmantribune.com/2026/10/23/prep-football-cullman-pulls-away-from-jackson-olin-for-42-13-road-win/"
    }
   },
   {
@@ -1033,10 +1068,10 @@
    "status": "Upcoming",
    "score": null,
    "line": null,
-   "note": "Kickoff time not confirmed yet.",
+   "note": "Regular season finale at 7 p.m.",
    "source": {
-    "name": "AHSFHS schedule",
-    "url": "https://www.ahsfhs.org/Teams2/gamesbyyear.asp?Team=Holly+Pond&Year=2026"
+    "name": "The Cullman Tribune",
+    "url": "https://www.cullmantribune.com/2026/10/23/prep-football-etowah-tops-holly-pond-43-12/"
    }
   }
  ]
