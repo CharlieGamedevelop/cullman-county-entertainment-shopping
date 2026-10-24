@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cullman County Entertainment and Shopping//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:acotar_book_release_party-20261027@cullman-county-entertainment-shopp
+ ing
+DTSTAMP:20261024T120000Z
+DTSTART;TZID=America/Chicago:20261027T063000
+DTEND;TZID=America/Chicago:20261027T083000
+SUMMARY:ACOTAR Book Release Party
+LOCATION:Karma's Coffee House\, 103 First Avenue NE\, Unit 140\, Cullman\
+ , AL
+DESCRIPTION:The Velvet Page mobile bookstore and Karma's Coffee House cel
+ ebrate the release of the next A Court of Thorns and Roses book by Sarah 
+ J. Maas with themed specialty drinks\, a pop up bookstore with a limited 
+ number of copies\, ACOTAR merchandise and preorders. Time: 6:30 AM to 8:3
+ 0 AM. https://www.cullmantribune.com/2026/10/24/velvet-page-to-host-acota
+ r-release-party-at-karmas-coffee-house/
+URL:https://www.cullmantribune.com/2026/10/24/velvet-page-to-host-acotar-
+ release-party-at-karmas-coffee-house/
+END:VEVENT
+END:VCALENDAR

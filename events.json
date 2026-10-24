@@ -62,21 +62,18 @@
   ]
  },
  {
-  "name": "Cullman Therapeutic Recreation Halloween Party",
+  "name": "The Butcher Smoke and Flames BBQ Cookoff",
   "start": "2026-10-24",
-  "time": "5:00 PM",
-  "venue": "Palomino RV Resort at Burrow-Hamilton Farm, 1315 County Road 222",
+  "venue": "The Butcher, 266 Park Drive",
   "town": "Cullman",
-  "host": "Cullman Therapeutic Recreation",
-  "summary": "A Halloween party for Therapeutic Recreation members with costumes, candy, a costume contest and hot dogs grilled by Cullman police officers. The resort is ADA accessible. Please RSVP by Monday, October 19; the Cullman Tribune story has the contact.",
-  "url": "https://www.cullmantribune.com/2026/10/17/everyone-belongs-here-cullman-therapeutic-recreation-halloween-party-set-for-oct-24/",
-  "group": "Fall Fun and Halloween",
+  "host": "The Butcher Meat Co.",
+  "summary": "A KCBS sanctioned barbecue contest with certified judges, hosted by The Butcher Meat Co.",
+  "url": "https://events.timely.fun/b8354ob3/event/78270519/20261024000000",
+  "group": "Fairs and Festivals",
   "tags": [
-   "halloween",
-   "special needs",
-   "accessible",
-   "party",
-   "costume contest"
+   "bbq",
+   "cookoff",
+   "food"
   ]
  },
  {
@@ -92,6 +89,24 @@
   "tags": [
    "off road",
    "halloween"
+  ]
+ },
+ {
+  "name": "Cullman Therapeutic Recreation Halloween Party",
+  "start": "2026-10-24",
+  "time": "5:00 PM",
+  "venue": "Palomino RV Resort at Burrow-Hamilton Farm, 1315 County Road 222",
+  "town": "Cullman",
+  "host": "Cullman Therapeutic Recreation",
+  "summary": "A Halloween party for Therapeutic Recreation members with costumes, candy, a costume contest and hot dogs grilled by Cullman police officers. The resort is ADA accessible. Please RSVP by Monday, October 19; the Cullman Tribune story has the contact.",
+  "url": "https://www.cullmantribune.com/2026/10/17/everyone-belongs-here-cullman-therapeutic-recreation-halloween-party-set-for-oct-24/",
+  "group": "Fall Fun and Halloween",
+  "tags": [
+   "halloween",
+   "special needs",
+   "accessible",
+   "party",
+   "costume contest"
   ]
  },
  {
@@ -126,21 +141,6 @@
   ]
  },
  {
-  "name": "The Butcher Smoke and Flames BBQ Cookoff",
-  "start": "2026-10-24",
-  "venue": "The Butcher, 266 Park Drive",
-  "town": "Cullman",
-  "host": "The Butcher Meat Co.",
-  "summary": "A KCBS sanctioned barbecue contest with certified judges, hosted by The Butcher Meat Co.",
-  "url": "https://events.timely.fun/b8354ob3/event/78270519/20261024000000",
-  "group": "Fairs and Festivals",
-  "tags": [
-   "bbq",
-   "cookoff",
-   "food"
-  ]
- },
- {
   "name": "Bigfoot Rally",
   "start": "2026-10-25",
   "time": "9:00 AM to 5:00 PM",
@@ -171,18 +171,19 @@
   ]
  },
  {
-  "name": "Cullman County Farm City Farm Tour",
-  "start": "2026-10-28",
-  "time": "9:00 AM to 3:00 PM",
+  "name": "ACOTAR Book Release Party",
+  "start": "2026-10-27",
+  "time": "6:30 AM to 8:30 AM",
+  "venue": "Karma's Coffee House, 103 First Avenue NE, Unit 140",
   "town": "Cullman",
-  "host": "Cullman County Farm City Committee",
-  "summary": "A county farm tour that is part of the Cullman County Farm City events.",
-  "url": "https://events.timely.fun/b8354ob3/event/78487330/20261028090000",
-  "group": "Classes and Community",
+  "host": "The Velvet Page and Karma's Coffee House",
+  "summary": "The Velvet Page mobile bookstore and Karma's Coffee House celebrate the release of the next A Court of Thorns and Roses book by Sarah J. Maas with themed specialty drinks, a pop up bookstore with a limited number of copies, ACOTAR merchandise and preorders.",
+  "url": "https://www.cullmantribune.com/2026/10/24/velvet-page-to-host-acotar-release-party-at-karmas-coffee-house/",
+  "group": "Arts, Music and Theater",
   "tags": [
-   "farms",
-   "tour",
-   "agriculture"
+   "books",
+   "release party",
+   "coffee"
   ]
  },
  {
@@ -197,6 +198,21 @@
   "group": "Arts, Music and Theater",
   "tags": [
    "music"
+  ]
+ },
+ {
+  "name": "Cullman County Farm City Farm Tour",
+  "start": "2026-10-28",
+  "time": "9:00 AM to 3:00 PM",
+  "town": "Cullman",
+  "host": "Cullman County Farm City Committee",
+  "summary": "A county farm tour that is part of the Cullman County Farm City events.",
+  "url": "https://events.timely.fun/b8354ob3/event/78487330/20261028090000",
+  "group": "Classes and Community",
+  "tags": [
+   "farms",
+   "tour",
+   "agriculture"
   ]
  },
  {
@@ -488,6 +504,21 @@
   ]
  },
  {
+  "name": "Run Run Rudolph",
+  "start": "2026-11-19",
+  "time": "5:00 PM to 8:00 PM",
+  "venue": "Sportsman Lake Park, 1544 Sportsman Lake Road NW",
+  "town": "Cullman",
+  "host": "Cullman Parks and Recreation",
+  "summary": "A holiday evening event at Sportsman Lake Park.",
+  "url": "https://events.timely.fun/b8354ob3/event/78487342/20261119170000",
+  "group": "Outdoors and Motorsports",
+  "tags": [
+   "run",
+   "christmas"
+  ]
+ },
+ {
   "name": "Cullman Christkindlmarkt",
   "start": "2026-11-19",
   "time": "Thu to Sat 11 AM to 9 PM, Sun noon to 8 PM",
@@ -504,21 +535,6 @@
    "market",
    "downtown",
    "free"
-  ]
- },
- {
-  "name": "Run Run Rudolph",
-  "start": "2026-11-19",
-  "time": "5:00 PM to 8:00 PM",
-  "venue": "Sportsman Lake Park, 1544 Sportsman Lake Road NW",
-  "town": "Cullman",
-  "host": "Cullman Parks and Recreation",
-  "summary": "A holiday evening event at Sportsman Lake Park.",
-  "url": "https://events.timely.fun/b8354ob3/event/78487342/20261119170000",
-  "group": "Outdoors and Motorsports",
-  "tags": [
-   "run",
-   "christmas"
   ]
  },
  {
@@ -539,6 +555,20 @@
   ]
  },
  {
+  "name": "Town of South Vinemont Thanksgiving Dinner",
+  "start": "2026-11-21",
+  "time": "11:00 AM to 1:00 PM",
+  "town": "South Vinemont",
+  "host": "Town of South Vinemont",
+  "summary": "A community Thanksgiving dinner hosted by the town.",
+  "url": "https://events.timely.fun/b8354ob3/event/78491674/20261121110000",
+  "group": "Classes and Community",
+  "tags": [
+   "thanksgiving",
+   "community"
+  ]
+ },
+ {
   "name": "The Nutcracker with Ballet South",
   "start": "2026-11-21",
   "end": "2026-11-22",
@@ -554,20 +584,6 @@
    "ballet",
    "christmas",
    "family"
-  ]
- },
- {
-  "name": "Town of South Vinemont Thanksgiving Dinner",
-  "start": "2026-11-21",
-  "time": "11:00 AM to 1:00 PM",
-  "town": "South Vinemont",
-  "host": "Town of South Vinemont",
-  "summary": "A community Thanksgiving dinner hosted by the town.",
-  "url": "https://events.timely.fun/b8354ob3/event/78491674/20261121110000",
-  "group": "Classes and Community",
-  "tags": [
-   "thanksgiving",
-   "community"
   ]
  },
  {
