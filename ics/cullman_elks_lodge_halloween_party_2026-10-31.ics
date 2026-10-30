@@ -23,7 +23,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:cullman_elks_lodge_halloween_party-20261031@cullman-county-entertainm
  ent-shopping
-DTSTAMP:20261024T120000Z
+DTSTAMP:20261030T120000Z
 DTSTART;TZID=America/Chicago:20261031T180000
 DTEND;TZID=America/Chicago:20261031T200000
 SUMMARY:Cullman Elks Lodge Halloween Party

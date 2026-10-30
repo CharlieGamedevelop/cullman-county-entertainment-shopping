@@ -23,7 +23,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:christmas_craft_fair_and_vendor_expo-20261114@cullman-county-entertai
  nment-shopping
-DTSTAMP:20261024T120000Z
+DTSTAMP:20261030T120000Z
 DTSTART;TZID=America/Chicago:20261114T100000
 DTEND;TZID=America/Chicago:20261114T160000
 SUMMARY:Christmas Craft Fair and Vendor Expo

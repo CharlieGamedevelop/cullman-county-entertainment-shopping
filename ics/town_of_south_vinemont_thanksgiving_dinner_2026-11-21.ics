@@ -23,7 +23,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:town_of_south_vinemont_thanksgiving_dinner-20261121@cullman-county-en
  tertainment-shopping
-DTSTAMP:20261024T120000Z
+DTSTAMP:20261030T120000Z
 DTSTART;TZID=America/Chicago:20261121T110000
 DTEND;TZID=America/Chicago:20261121T130000
 SUMMARY:Town of South Vinemont Thanksgiving Dinner

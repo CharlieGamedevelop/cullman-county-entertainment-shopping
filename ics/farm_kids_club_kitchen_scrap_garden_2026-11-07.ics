@@ -23,7 +23,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:farm_kids_club_kitchen_scrap_garden-20261107@cullman-county-entertain
  ment-shopping
-DTSTAMP:20261024T120000Z
+DTSTAMP:20261030T120000Z
 DTSTART;TZID=America/Chicago:20261107T100000
 DTEND;TZID=America/Chicago:20261107T113000
 SUMMARY:Farm Kids Club: Kitchen Scrap Garden

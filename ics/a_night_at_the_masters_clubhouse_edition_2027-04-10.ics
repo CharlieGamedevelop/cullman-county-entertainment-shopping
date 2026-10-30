@@ -23,7 +23,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:a_night_at_the_masters_clubhouse_edition-20270410@cullman-county-ente
  rtainment-shopping
-DTSTAMP:20261024T120000Z
+DTSTAMP:20261030T120000Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270411
 SUMMARY:A Night at the Masters\, Clubhouse Edition

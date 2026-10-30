@@ -1,21 +1,5 @@
 [
  {
-  "name": "Cullman County Fair",
-  "start": "2026-10-17",
-  "venue": "Cullman Fairgrounds, 1501 Sportsman Lake Road NW",
-  "town": "Cullman",
-  "host": "Cullman County Fair",
-  "summary": "Rides, fair food, livestock and farm exhibits and contests. The fair runs every day through Saturday, October 24.",
-  "url": "https://events.timely.fun/b8354ob3/event/78487652/20261017000000",
-  "group": "Fairs and Festivals",
-  "end": "2026-10-24",
-  "tags": [
-   "fair",
-   "rides",
-   "family"
-  ]
- },
- {
   "name": "Scarecrow Trail",
   "start": "2026-10-17",
   "town": "Cullman",
@@ -28,321 +12,6 @@
    "fall",
    "scarecrows",
    "family"
-  ]
- },
- {
-  "name": "Beauty and the Beast",
-  "start": "2026-10-22",
-  "time": "6:00 PM",
-  "venue": "Cullman High School Auditorium, 510 13th Street NE",
-  "town": "Cullman",
-  "host": "Cullman Community Theatre",
-  "summary": "Cullman Community Theatre puts on Beauty and the Beast. Shows are Thursday, Friday and Saturday, October 22 to 24.",
-  "url": "https://events.timely.fun/b8354ob3/event/78491663/20261022180000",
-  "group": "Arts, Music and Theater",
-  "end": "2026-10-24",
-  "tags": [
-   "theater",
-   "musical",
-   "family"
-  ]
- },
- {
-  "name": "91's 2nd Annual Boneyard Bash",
-  "start": "2026-10-24",
-  "venue": "91 Short Track, 23451 AL Highway 91",
-  "town": "Hanceville",
-  "host": "91 Short Track",
-  "summary": "The second Boneyard Bash at the 91 Short Track.",
-  "url": "https://events.timely.fun/b8354ob3/event/78492684/20261024000000",
-  "group": "Outdoors and Motorsports",
-  "tags": [
-   "racing",
-   "short track"
-  ]
- },
- {
-  "name": "The Butcher Smoke and Flames BBQ Cookoff",
-  "start": "2026-10-24",
-  "venue": "The Butcher, 266 Park Drive",
-  "town": "Cullman",
-  "host": "The Butcher Meat Co.",
-  "summary": "A KCBS sanctioned barbecue contest with certified judges, hosted by The Butcher Meat Co.",
-  "url": "https://events.timely.fun/b8354ob3/event/78270519/20261024000000",
-  "group": "Fairs and Festivals",
-  "tags": [
-   "bbq",
-   "cookoff",
-   "food"
-  ]
- },
- {
-  "name": "Off Road Candy Crawl",
-  "start": "2026-10-24",
-  "time": "2:00 PM to 4:00 PM",
-  "venue": "Goat Island Brewing, 1646 John H. Cooper Drive SE",
-  "town": "Cullman",
-  "host": "Cullman County Tourism calendar",
-  "summary": "An afternoon candy crawl based at Goat Island Brewing.",
-  "url": "https://events.timely.fun/b8354ob3/event/78487003/20261024140000",
-  "group": "Fall Fun and Halloween",
-  "tags": [
-   "off road",
-   "halloween"
-  ]
- },
- {
-  "name": "No Limits Arena Barrel Race",
-  "start": "2026-10-24",
-  "time": "3:00 PM",
-  "venue": "No Limits Arena, 1301 County Road 122",
-  "town": "Cullman",
-  "host": "Cullman County Tourism calendar",
-  "summary": "An afternoon of barrel racing at No Limits Arena.",
-  "url": "https://events.timely.fun/b8354ob3/event/78494623/20261024150000",
-  "group": "Outdoors and Motorsports",
-  "tags": [
-   "horses",
-   "barrel racing"
-  ]
- },
- {
-  "name": "Cullman Therapeutic Recreation Halloween Party",
-  "start": "2026-10-24",
-  "time": "5:00 PM",
-  "venue": "Palomino RV Resort at Burrow-Hamilton Farm, 1315 County Road 222",
-  "town": "Cullman",
-  "host": "Cullman Therapeutic Recreation",
-  "summary": "A Halloween party for Therapeutic Recreation members with costumes, candy, a costume contest and hot dogs grilled by Cullman police officers. The resort is ADA accessible. Please RSVP by Monday, October 19; the Cullman Tribune story has the contact.",
-  "url": "https://www.cullmantribune.com/2026/10/17/everyone-belongs-here-cullman-therapeutic-recreation-halloween-party-set-for-oct-24/",
-  "group": "Fall Fun and Halloween",
-  "tags": [
-   "halloween",
-   "special needs",
-   "accessible",
-   "party",
-   "costume contest"
-  ]
- },
- {
-  "name": "Trunk or Treat at First Baptist Church Fairview",
-  "start": "2026-10-24",
-  "time": "6:00 PM to 8:00 PM",
-  "venue": "First Baptist Church Fairview, 1022 Welcome Road",
-  "town": "Cullman",
-  "host": "First Baptist Church Fairview",
-  "summary": "A trunk or treat for kids in the church parking lot.",
-  "url": "https://events.timely.fun/b8354ob3/event/78497561/20261024180000",
-  "group": "Fall Fun and Halloween",
-  "tags": [
-   "trunk or treat",
-   "halloween",
-   "kids"
-  ]
- },
- {
-  "name": "Bigfoot Rally",
-  "start": "2026-10-25",
-  "time": "9:00 AM to 5:00 PM",
-  "venue": "Dodge City Motor Sports Park, 10070 AL Highway 69",
-  "town": "Bremen",
-  "host": "Dodge City Motor Sports Park",
-  "summary": "A rally day at the Dodge City Motor Sports Park.",
-  "url": "https://events.timely.fun/b8354ob3/event/78487006/20261025090000",
-  "group": "Outdoors and Motorsports",
-  "tags": [
-   "off road",
-   "rally"
-  ]
- },
- {
-  "name": "Bring Your Lunch and Learn: Cybersecurity for Your Business",
-  "start": "2026-10-26",
-  "time": "11:30 AM to 12:30 PM",
-  "venue": "Cullman Area Chamber of Commerce, 301 Second Avenue SW",
-  "town": "Cullman",
-  "host": "Cullman Area Chamber of Commerce and Athens State University",
-  "summary": "A free, hour long session with practical tips for protecting a business's data, systems, employees and customers from cybersecurity threats, led by an Athens State University cybersecurity professor. Registration is required through the Chamber's events page, and Athens State provides lunch for those who register ahead of time. Call the Chamber at 256-734-0454 for details.",
-  "url": "https://www.cullmantribune.com/2026/10/24/chamber-athens-state-offer-free-cybersecurity-lunch-learn-for-local-businesses-oct-26/",
-  "group": "Classes and Community",
-  "tags": [
-   "business",
-   "cybersecurity",
-   "chamber",
-   "free"
-  ]
- },
- {
-  "name": "Singo Bingo and Halloween Dress Up Contest at Drifters",
-  "start": "2026-10-26",
-  "time": "6:15 PM",
-  "venue": "Drifters Bar and Grill at Smith Lake, 173 County Road 312",
-  "town": "Cullman",
-  "host": "Cullman County Tourism calendar",
-  "summary": "Singo Bingo night at Smith Lake with a Halloween dress up contest.",
-  "url": "https://events.timely.fun/b8354ob3/event/78497611/20261026181500",
-  "group": "Fall Fun and Halloween",
-  "tags": [
-   "bingo",
-   "costume contest",
-   "smith lake"
-  ]
- },
- {
-  "name": "Singo Bingo Costume Contest at Ethos",
-  "start": "2026-10-26",
-  "time": "6:30 PM",
-  "venue": "Ethos Craft Brewery, 1849 County Road 222",
-  "town": "Cullman",
-  "host": "Cullman County Tourism calendar",
-  "summary": "Singo Bingo night with a Halloween costume contest.",
-  "url": "https://events.timely.fun/b8354ob3/event/78492682/20261026183000",
-  "group": "Fall Fun and Halloween",
-  "tags": [
-   "bingo",
-   "costume contest",
-   "halloween"
-  ]
- },
- {
-  "name": "WildWater Trunk or Treat",
-  "start": "2026-10-27",
-  "time": "5:00 PM to 7:00 PM",
-  "venue": "WildWater, 1707 Main Avenue SW",
-  "town": "Cullman",
-  "host": "WildWater",
-  "summary": "Trunk or treat for kids at the WildWater park.",
-  "url": "https://events.timely.fun/b8354ob3/event/78487341/20261027170000",
-  "group": "Fall Fun and Halloween",
-  "tags": [
-   "trunk or treat",
-   "kids"
-  ]
- },
- {
-  "name": "ACOTAR Book Release Party",
-  "start": "2026-10-27",
-  "time": "6:30 AM to 8:30 AM",
-  "venue": "Karma's Coffee House, 103 First Avenue NE, Unit 140",
-  "town": "Cullman",
-  "host": "The Velvet Page and Karma's Coffee House",
-  "summary": "The Velvet Page mobile bookstore and Karma's Coffee House celebrate the release of the next A Court of Thorns and Roses book by Sarah J. Maas with themed specialty drinks, a pop up bookstore with a limited number of copies, ACOTAR merchandise and preorders.",
-  "url": "https://www.cullmantribune.com/2026/10/24/velvet-page-to-host-acotar-release-party-at-karmas-coffee-house/",
-  "group": "Arts, Music and Theater",
-  "tags": [
-   "books",
-   "release party",
-   "coffee"
-  ]
- },
- {
-  "name": "Cullman Ghost Walk",
-  "start": "2026-10-27",
-  "time": "7:00 PM",
-  "venue": "Sipsey Vineyard and Winery, 112 Clark Street NE",
-  "town": "Cullman",
-  "host": "Cullman County Tourism calendar",
-  "summary": "A ghost walk through downtown Cullman that starts at Sipsey Vineyard and Winery. Tickets are sold online, so check the listing before you go.",
-  "url": "https://events.timely.fun/b8354ob3/event/78497580/20261027190000",
-  "group": "Fall Fun and Halloween",
-  "tags": [
-   "ghost walk",
-   "halloween",
-   "downtown"
-  ]
- },
- {
-  "name": "St. John's Hootenanny",
-  "start": "2026-10-28",
-  "time": "5:00 PM to 6:30 PM",
-  "venue": "St. John's Evangelical Protestant Church, 512 2nd Avenue SE",
-  "town": "Cullman",
-  "host": "St. John's Evangelical Protestant Church",
-  "summary": "A hootenanny evening at St. John's.",
-  "url": "https://events.timely.fun/b8354ob3/event/78487022/20261028170000",
-  "group": "Arts, Music and Theater",
-  "tags": [
-   "music"
-  ]
- },
- {
-  "name": "Grumpy's Down Under Halloween Party",
-  "start": "2026-10-28",
-  "time": "7:00 PM",
-  "venue": "Grumpy's Italian Grill, 402 4th Street SW",
-  "town": "Cullman",
-  "host": "Cullman County Tourism calendar",
-  "summary": "A Halloween party at Grumpy's Italian Grill in downtown Cullman.",
-  "url": "https://events.timely.fun/b8354ob3/event/78497590/20261028190000",
-  "group": "Fall Fun and Halloween",
-  "tags": [
-   "halloween",
-   "party",
-   "adults"
-  ]
- },
- {
-  "name": "Cullman County Farm City Farm Tour",
-  "start": "2026-10-28",
-  "time": "9:00 AM to 3:00 PM",
-  "town": "Cullman",
-  "host": "Cullman County Farm City Committee",
-  "summary": "A county farm tour that is part of the Cullman County Farm City events.",
-  "url": "https://events.timely.fun/b8354ob3/event/78487330/20261028090000",
-  "group": "Classes and Community",
-  "tags": [
-   "farms",
-   "tour",
-   "agriculture"
-  ]
- },
- {
-  "name": "Parade of Pumpkins at West Point High School",
-  "start": "2026-10-29",
-  "time": "5:30 PM to 7:30 PM",
-  "venue": "West Point High School, 4314 County Road 1141",
-  "town": "West Point",
-  "host": "West Point High School",
-  "summary": "The Parade of Pumpkins evening at West Point High School.",
-  "url": "https://events.timely.fun/b8354ob3/event/78491670/20261029173000",
-  "group": "Fall Fun and Halloween",
-  "tags": [
-   "pumpkins",
-   "school"
-  ]
- },
- {
-  "name": "Sourdough Class with Anett",
-  "start": "2026-10-29",
-  "time": "5:30 PM to 7:30 PM",
-  "venue": "Mavens & Makers, 302 2nd Avenue SE",
-  "town": "Cullman",
-  "host": "Mavens & Makers",
-  "summary": "A beginner friendly, two hour bread class presented with Danube Delights Bakery. Everyone goes home with a live sourdough starter. The class costs $100 and spots are reserved online through Mavens & Makers.",
-  "url": "https://www.cullmantribune.com/2026/10/16/after-national-dessert-day-rise-to-the-occasion-with-a-sourdough-class-at-mavens-makers/",
-  "group": "Classes and Community",
-  "cost": "$100",
-  "tags": [
-   "cooking",
-   "class",
-   "bread",
-   "downtown"
-  ]
- },
- {
-  "name": "Southern Basics: Pies",
-  "start": "2026-10-29",
-  "time": "6:00 PM to 8:00 PM",
-  "venue": "North Alabama Agriplex, 1714 Tally Ho Street",
-  "town": "Cullman",
-  "host": "North Alabama Agriplex",
-  "summary": "A class on Southern pies at the Agriplex.",
-  "url": "https://events.timely.fun/b8354ob3/event/78468858/20261029180000",
-  "group": "Classes and Community",
-  "tags": [
-   "cooking",
-   "class",
-   "pies"
   ]
  },
  {
@@ -484,6 +153,23 @@
   ]
  },
  {
+  "name": "An Evening with Poe",
+  "start": "2026-11-02",
+  "time": "5:00 PM cocktail hour, readings at 6:00 PM",
+  "venue": "Jubilee Kitchen and Bar, 515 4th Street SW",
+  "town": "Cullman",
+  "host": "Jubilee Kitchen and Bar with the Cullman County Public Library",
+  "summary": "Readings of four famous Edgar Allan Poe works in Jubilee's dining room. Reserve online through Jubilee with a credit card; no shows and cancellations within 48 hours are charged $35 each. Guests must be 21 or older for cocktails.",
+  "url": "https://www.cullmantribune.com/2026/10/27/jubilee-county-library-hosting-an-evening-with-poe-nov-2/",
+  "group": "Arts, Music and Theater",
+  "tags": [
+   "poe",
+   "readings",
+   "library",
+   "downtown"
+  ]
+ },
+ {
   "name": "Living Landscapes: Houseplant Care",
   "start": "2026-11-03",
   "time": "6:00 PM to 8:00 PM",
@@ -496,6 +182,23 @@
   "tags": [
    "plants",
    "class"
+  ]
+ },
+ {
+  "name": "Short Story Writing Workshop",
+  "start": "2026-11-04",
+  "time": "4:00 PM",
+  "venue": "Cullman County Public Library, 200 Clark Street NE",
+  "town": "Cullman",
+  "host": "Cullman County Public Library",
+  "summary": "A free writing workshop for adults and students in grade 5 and up, part of the library's November short story challenge for all ages (entries due Nov. 25).",
+  "url": "https://www.cullmantribune.com/2026/10/29/cullman-county-public-library-invites-writers-of-all-ages-to-short-story-challenge/",
+  "group": "Arts, Music and Theater",
+  "tags": [
+   "writing",
+   "library",
+   "free",
+   "workshop"
   ]
  },
  {

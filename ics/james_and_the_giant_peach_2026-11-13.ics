@@ -23,7 +23,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:james_and_the_giant_peach-20261113@cullman-county-entertainment-shopp
  ing
-DTSTAMP:20261024T120000Z
+DTSTAMP:20261030T120000Z
 DTSTART;TZID=America/Chicago:20261113T190000
 DTEND;TZID=America/Chicago:20261113T210000
 SUMMARY:James and the Giant Peach

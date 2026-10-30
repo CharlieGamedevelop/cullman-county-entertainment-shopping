@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T06:45:00-05:00",
+ "updated": "2026-10-30T06:50:00-05:00",
  "teams": {
   "cullman": {
    "name": "Cullman",
@@ -455,8 +455,8 @@
    "score": null,
    "line": null,
    "source": {
-    "name": "MaxPreps schedule",
-    "url": "https://www.maxpreps.com/al/hanceville/hanceville-bulldogs/football/schedule/"
+    "name": "The Cullman Tribune",
+    "url": "https://www.cullmantribune.com/2026/10/28/prep-football-good-hope-eyes-region-title-as-cold-springs-opens-regular-season-finales-thursday/"
    }
   },
   {
@@ -597,8 +597,8 @@
    "line": null,
    "note": "Kickoff time not confirmed yet. Most Friday games start at 7 p.m.",
    "source": {
-    "name": "AHSFHS schedule",
-    "url": "https://www.ahsfhs.org/Teams2/gamesbyyear.asp?Team=Fairview&Year=2026"
+    "name": "The Cullman Tribune",
+    "url": "https://www.cullmantribune.com/2026/10/28/prep-football-good-hope-eyes-region-title-as-cold-springs-opens-regular-season-finales-thursday/"
    }
   },
   {
@@ -982,13 +982,27 @@
    "venue": "Birmingham CrossPlex, Birmingham",
    "home": "west-point",
    "away": "satsuma",
-   "status": "Upcoming",
-   "score": null,
-   "line": null,
-   "note": "AHSAA Class 4A state quarterfinal at a neutral site. West Point is the North No. 3 seed.",
+   "status": "Final",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "line": {
+    "home": [
+     25,
+     25,
+     25
+    ],
+    "away": [
+     17,
+     23,
+     10
+    ]
+   },
+   "note": "AHSAA Class 4A state quarterfinal at a neutral site. West Point then fell to top ranked Guntersville in three sets in the semifinals and finished the season 40 and 11.",
    "source": {
-    "name": "The Cullman Tribune",
-    "url": "https://www.cullmantribune.com/2026/10/23/north-super-regional-volleyball-addison-captures-north-crown-as-4-local-teams-secure-state-seeds/"
+    "name": "The Cullman Times",
+    "url": "https://cullmantimes.com/2026/10/28/sweet-sixteen-no-2-addison-downs-top-ranked-meek-for-16th-state-volleyball-title/"
    }
   },
   {
@@ -1001,32 +1015,46 @@
    "venue": "Birmingham CrossPlex, Birmingham",
    "home": "cold-springs",
    "away": "ariton",
-   "status": "Upcoming",
-   "score": null,
-   "line": null,
-   "note": "AHSAA Class 2A state quarterfinal at a neutral site. Cold Springs is the North No. 3 seed.",
+   "status": "Final",
+   "score": {
+    "home": 0,
+    "away": 3
+   },
+   "line": {
+    "home": [
+     16,
+     23,
+     19
+    ],
+    "away": [
+     25,
+     25,
+     25
+    ]
+   },
+   "note": "AHSAA Class 2A state quarterfinal at a neutral site. It was Cold Springs' first state tournament trip since 1996, and the Eagles finished the season 18 and 21.",
    "source": {
-    "name": "The Cullman Tribune",
-    "url": "https://www.cullmantribune.com/2026/10/23/north-super-regional-volleyball-addison-captures-north-crown-as-4-local-teams-secure-state-seeds/"
+    "name": "The Cullman Times",
+    "url": "https://cullmantimes.com/2026/10/28/sweet-sixteen-no-2-addison-downs-top-ranked-meek-for-16th-state-volleyball-title/"
    }
   },
   {
-   "id": "chs-1029",
+   "id": "chs-1030",
    "school": "cullman",
    "label": "Cullman High Football",
    "sport": "Football",
    "period": "Q",
-   "start": "2026-10-29T19:00:00-05:00",
+   "start": "2026-10-30T19:00:00-05:00",
    "venue": "West Morgan, Trinity",
    "home": "west-morgan",
    "away": "cullman",
    "status": "Upcoming",
    "score": null,
    "line": null,
-   "note": "Thursday game at 7 p.m. Regular season finale.",
+   "note": "Regular season finale, moved from Thursday to Friday.",
    "source": {
     "name": "The Cullman Tribune",
-    "url": "https://www.cullmantribune.com/2026/10/23/prep-football-cullman-pulls-away-from-jackson-olin-for-42-13-road-win/"
+    "url": "https://www.cullmantribune.com/2026/10/28/prep-football-good-hope-eyes-region-title-as-cold-springs-opens-regular-season-finales-thursday/"
    }
   },
   {
@@ -1042,29 +1070,32 @@
    "status": "Upcoming",
    "score": null,
    "line": null,
-   "note": "Final region game and regular season finale. Kickoff time not confirmed yet.",
+   "note": "Class 4A, Region 8 finale at unbeaten Scottsboro. A Good Hope win keeps a region title within reach.",
    "source": {
     "name": "The Cullman Tribune",
-    "url": "https://www.cullmantribune.com/2026/10/23/prep-football-good-hope-rolls-past-hayden-42-7-on-senior-night/"
+    "url": "https://www.cullmantribune.com/2026/10/28/prep-football-good-hope-eyes-region-title-as-cold-springs-opens-regular-season-finales-thursday/"
    }
   },
   {
-   "id": "cs-1030",
+   "id": "cs-1029",
    "school": "cold-springs",
    "label": "Cold Springs High Football",
    "sport": "Football",
    "period": "Q",
-   "start": "2026-10-30T19:00:00-05:00",
-   "venue": "Cold Springs",
+   "start": "2026-10-29T19:00:00-05:00",
+   "venue": "Cold Springs, Bremen",
    "home": "cold-springs",
    "away": "tanner",
-   "status": "Upcoming",
-   "score": null,
+   "status": "Final",
+   "score": {
+    "home": 57,
+    "away": 20
+   },
    "line": null,
-   "note": "Regular season finale. Kickoff time not confirmed yet.",
+   "note": "Senior night and regular season finale. Cold Springs finished 9 and 1, its first nine win season since 1993, and hosts a Class 2A first round playoff game on Nov. 6.",
    "source": {
     "name": "The Cullman Tribune",
-    "url": "https://www.cullmantribune.com/2026/10/23/prep-football-cold-springs-thrashes-carbon-hill-56-6-improving-to-8-1/"
+    "url": "https://www.cullmantribune.com/2026/10/29/prep-football-johnson-scores-3-touchdowns-as-no-10-cold-springs-defeats-tanner-57-20/"
    }
   },
   {
@@ -1083,7 +1114,7 @@
    "note": "Regular season finale at 7 p.m.",
    "source": {
     "name": "The Cullman Tribune",
-    "url": "https://www.cullmantribune.com/2026/10/23/prep-football-etowah-tops-holly-pond-43-12/"
+    "url": "https://www.cullmantribune.com/2026/10/28/prep-football-good-hope-eyes-region-title-as-cold-springs-opens-regular-season-finales-thursday/"
    }
   },
   {

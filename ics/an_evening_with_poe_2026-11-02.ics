@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cullman County Entertainment and Shopping//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:an_evening_with_poe-20261102@cullman-county-entertainment-shopping
+DTSTAMP:20261030T120000Z
+DTSTART;TZID=America/Chicago:20261102T170000
+DTEND;TZID=America/Chicago:20261102T190000
+SUMMARY:An Evening with Poe
+LOCATION:Jubilee Kitchen and Bar\, 515 4th Street SW\, Cullman\, AL
+DESCRIPTION:Readings of four famous Edgar Allan Poe works in Jubilee's di
+ ning room. Reserve online through Jubilee with a credit card\; no shows a
+ nd cancellations within 48 hours are charged $35 each. Guests must be 21 
+ or older for cocktails. Time: 5:00 PM cocktail hour\, readings at 6:00 PM
+ . https://www.cullmantribune.com/2026/10/27/jubilee-county-library-hostin
+ g-an-evening-with-poe-nov-2/
+URL:https://www.cullmantribune.com/2026/10/27/jubilee-county-library-host
+ ing-an-evening-with-poe-nov-2/
+END:VEVENT
+END:VCALENDAR

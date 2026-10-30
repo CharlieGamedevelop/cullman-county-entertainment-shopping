@@ -23,7 +23,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:evolutions_advanced_shuffle_skate-20261031@cullman-county-entertainme
  nt-shopping
-DTSTAMP:20261024T120000Z
+DTSTAMP:20261030T120000Z
 DTSTART;TZID=America/Chicago:20261031T170000
 DTEND;TZID=America/Chicago:20261031T233000
 SUMMARY:Evolutions Advanced Shuffle Skate
