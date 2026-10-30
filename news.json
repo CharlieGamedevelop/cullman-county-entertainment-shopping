@@ -4,7 +4,7 @@
   "date": "2026-10-30",
   "top": true,
   "category": "Sports",
-  "graphic": "\ud83c\udfc8",
+  "graphic": "🏈",
   "headline": "Cold Springs beats Tanner 57 to 20 and finishes 9 and 1 for the first time since 1993",
   "summary": "The No. 10 Eagles scored 27 straight points before halftime on senior night and now get ready to host a Class 2A playoff game on Nov. 6.",
   "body": [
@@ -32,11 +32,40 @@
   ]
  },
  {
+  "id": "cullman-police-halloween-safety-trunk-or-treat",
+  "date": "2026-10-30",
+  "top": false,
+  "category": "Public Safety",
+  "graphic": "🎃",
+  "headline": "Cullman police host Trunk or Treat tonight and share Halloween safety tips",
+  "summary": "Families are invited to the Cullman Police Department from 6 to 8 PM Friday, Oct. 30, and officers are asking drivers to slow down this weekend.",
+  "body": [
+   "The Cullman Police Department is holding a Trunk or Treat on Friday, Oct. 30, from 6 to 8 PM at the police department. Families are welcome to bring the kids out for treats and Halloween fun with officers, according to a note from Officer Adam Clark shared by The Cullman Times.",
+   "Police are also reminding everyone to stay careful as children head out over the Halloween weekend. Drivers should slow down in neighborhoods, put the phone away, watch for kids crossing the street and take extra care when backing out of driveways.",
+   "Parents can help by choosing costumes that are easy to walk in and adding reflective tape or glow sticks. Kids should carry a flashlight, use sidewalks and crosswalks when they can, look both ways before crossing and stay with a trusted adult.",
+   "Find more trunk or treats and Halloween night events across the county on our events page."
+  ],
+  "sources": [
+   {
+    "name": "The Cullman Times: Halloween Safety and Trunk or Treat in Cullman (Oct. 28, 2026)",
+    "url": "https://cullmantimes.com/2026/10/28/halloween-safety-and-trunk-or-treat-in-cullman/"
+   }
+  ],
+  "tags": [
+   "cullman",
+   "halloween",
+   "trunk or treat",
+   "police",
+   "safety",
+   "events"
+  ]
+ },
+ {
   "id": "good-hope-hotel-gas-line-package-store",
   "date": "2026-10-30",
   "top": false,
   "category": "Business",
-  "graphic": "\ud83c\udfe8",
+  "graphic": "🏨",
   "headline": "Good Hope gets a new package store soon, and a planned hotel waits on a gas line under the interstate",
   "summary": "Mayor Jerry Bartlett shared business updates after the Oct. 26 council meeting, including a store opening on County Road 490 and the next step for a hotel.",
   "body": [
@@ -63,7 +92,7 @@
   "id": "friday-football-finales-oct-30",
   "date": "2026-10-30",
   "category": "Sports",
-  "graphic": "\ud83c\udfc8",
+  "graphic": "🏈",
   "headline": "Six county teams close the regular season tonight, with a region title on the line for Good Hope",
   "summary": "Every Friday game kicks off at 7 p.m. Cullman's game at West Morgan moved from Thursday to tonight.",
   "body": [
@@ -92,7 +121,7 @@
   "id": "volleyball-state-west-point-cold-springs",
   "date": "2026-10-30",
   "category": "Sports",
-  "graphic": "\ud83c\udfd0",
+  "graphic": "🏐",
   "headline": "West Point reaches the 4A state semifinals and Cold Springs makes its first state trip since 1996",
   "summary": "West Point swept Satsuma before falling to top ranked Guntersville, and Cold Springs fell to Ariton in the Class 2A quarterfinals.",
   "body": [
@@ -118,7 +147,7 @@
   "id": "wren-revel-closing-oct-31",
   "date": "2026-10-30",
   "category": "Business",
-  "graphic": "\ud83d\udecd\ufe0f",
+  "graphic": "🛍️",
   "headline": "Wren + Revel is closing its Cullman boutique, with Saturday, Oct. 31, as the last day",
   "summary": "The children's and teen clothing shop in the Warehouse District says all remaining sales are final.",
   "body": [
@@ -144,7 +173,7 @@
   "id": "library-poe-story-challenge-lowes-grant",
   "date": "2026-10-30",
   "category": "Around the County",
-  "graphic": "\ud83d\udcda",
+  "graphic": "📚",
   "headline": "The Cullman County library plans a Poe night, a November story contest and a new outdoor reading space",
   "summary": "An Evening with Poe is Nov. 2 at Jubilee, the short story challenge runs Nov. 2 to 25, and a $50,000 Lowe's grant will add a play area behind the main library.",
   "body": [
@@ -179,7 +208,7 @@
   "id": "election-day-nov-3-what-to-know",
   "date": "2026-10-30",
   "category": "Elections",
-  "graphic": "\ud83d\uddf3\ufe0f",
+  "graphic": "🗳️",
   "headline": "Election Day is Tuesday, Nov. 3, and polls in Cullman County are open 7 a.m. to 7 p.m.",
   "summary": "The ballot has races for governor and other state offices, four statewide amendments and a local amendment on a property tax exemption for people over 65.",
   "body": [
@@ -210,7 +239,7 @@
   "date": "2026-10-30",
   "top": false,
   "category": "Sports",
-  "graphic": "\ud83c\udfc3",
+  "graphic": "🏃",
   "headline": "Cold Springs sweeps cross country sectionals as five county teams head to state",
   "summary": "Both Cold Springs teams won their sectional titles, and Cullman and the Holly Pond girls also earned team spots at the state meet on Nov. 7.",
   "body": [
@@ -237,7 +266,7 @@
   "date": "2026-10-30",
   "top": false,
   "category": "Schools",
-  "graphic": "\ud83d\udee0\ufe0f",
+  "graphic": "🛠️",
   "headline": "Wallace State welcomes about 1,600 eighth graders and hosts its first entrepreneurship event",
   "summary": "Students from Cullman, Blount and Winston counties explored careers at Tools of the Trade, and college students heard from local business owners about starting their own companies.",
   "body": [
@@ -269,12 +298,12 @@
   "date": "2026-10-30",
   "top": false,
   "category": "Health",
-  "graphic": "\ud83d\udc9c",
+  "graphic": "💜",
   "headline": "Mayor Jacobs names November Hospice and Palliative Care Month in Cullman",
   "summary": "The proclamation thanks the hospice and palliative care workers who support patients and families across the area.",
   "body": [
    "Cullman Mayor Woody Jacobs signed a proclamation recognizing November 2026 as Hospice and Palliative Care Month in the city during a ceremony in his office on Monday, Oct. 26, The Cullman Tribune reported. Representatives of Hospice of North Alabama attended the presentation.",
-   "This year's national theme is \u201cCare You Can Trust.\u201d Jacobs said the area is fortunate to have several hospice organizations, and he encouraged residents to thank the doctors, nurses, social workers, chaplains, volunteers and family caregivers who help patients and families through hard times.",
+   "This year's national theme is “Care You Can Trust.” Jacobs said the area is fortunate to have several hospice organizations, and he encouraged residents to thank the doctors, nurses, social workers, chaplains, volunteers and family caregivers who help patients and families through hard times.",
    "Providers serving Cullman include Hospice of North Alabama, Cullman Regional Hospice, Aveanna Hospice of Cullman, Enhabit Hospice, Gentiva Hospice and Affinity Hospice. Palliative care can be offered at any stage of a serious illness, while hospice care focuses on comfort near the end of life."
   ],
   "sources": [
@@ -294,7 +323,7 @@
   "id": "mud-creek-festival-2026",
   "date": "2026-10-24",
   "category": "Around the County",
-  "graphic": "\ud83c\udfa8",
+  "graphic": "🎨",
   "headline": "The 16th Mud Creek Arts and Crafts Festival returns to downtown Hanceville on Nov. 7",
   "summary": "The free festival runs from 9 a.m. to 4 p.m. along Commercial Street with handmade goods, food trucks and activities for kids, and vendor spots are still open.",
   "body": [
@@ -322,7 +351,7 @@
   "id": "senior-day-fair-draws-500",
   "date": "2026-10-24",
   "category": "Around the County",
-  "graphic": "\ud83c\udfa1",
+  "graphic": "🎡",
   "headline": "About 500 seniors spent Senior Day at the Cullman County Fair",
   "summary": "Folks 55 and older enjoyed a free lunch, live music and the fair exhibits on Oct. 21, and the crowd stood to honor local veterans.",
   "body": [
@@ -349,7 +378,7 @@
   "id": "chamber-cybersecurity-lunch-learn",
   "date": "2026-10-24",
   "category": "Business",
-  "graphic": "\ud83d\udd12",
+  "graphic": "🔒",
   "headline": "Chamber and Athens State offer a free cybersecurity lunch and learn for local businesses on Oct. 26",
   "summary": "Business owners and staff can pick up practical tips for guarding against suspicious emails, weak passwords and other threats at the Cullman Area Chamber of Commerce on Monday, Oct. 26.",
   "body": [
@@ -377,7 +406,7 @@
   "id": "friday-football-roundup-oct-23",
   "date": "2026-10-24",
   "category": "Sports",
-  "graphic": "\ud83c\udfc8",
+  "graphic": "🏈",
   "headline": "Friday night football: Vinemont rallies late to clinch a seventh straight playoff trip",
   "summary": "Vinemont, Cullman, Good Hope and Cold Springs all won on Friday night. Here is how every Cullman County team did and where they play next.",
   "body": [
@@ -437,7 +466,7 @@
   "id": "velvet-page-acotar-release-party",
   "date": "2026-10-24",
   "category": "Business",
-  "graphic": "\ud83d\udcda",
+  "graphic": "📚",
   "headline": "The Velvet Page and Karma's Coffee House plan an early morning ACOTAR release party",
   "summary": "Fans of A Court of Thorns and Roses can pick up the new book, themed drinks and merchandise at Karma's Coffee House on Tuesday morning, Oct. 27.",
   "body": [
@@ -465,7 +494,7 @@
   "id": "wallace-state-enrollment-record-fall-2026",
   "date": "2026-10-23",
   "category": "Schools",
-  "graphic": "\ud83c\udf93",
+  "graphic": "🎓",
   "headline": "Wallace State tops 7,100 students for the first time with another record fall enrollment",
   "summary": "Fall 2026 enrollment reached 7,141 students, the fourth straight fall increase for the Hanceville college.",
   "body": [
@@ -494,7 +523,7 @@
   "id": "west-point-cold-springs-state-seeds",
   "date": "2026-10-23",
   "category": "Sports",
-  "graphic": "\ud83c\udfd0",
+  "graphic": "🏐",
   "headline": "West Point and Cold Springs both win five set battles to lock up No. 3 state seeds",
   "summary": "Each team bounced back from a Friday semifinal loss at the North Super Regional and will play its state tournament opener on Wednesday, Oct. 28.",
   "body": [
@@ -522,7 +551,7 @@
   "id": "vinemont-will-conquest-comeback",
   "date": "2026-10-23",
   "category": "Sports",
-  "graphic": "\ud83c\udfc8",
+  "graphic": "🏈",
   "headline": "Vinemont senior Will Conquest finds a new way to lead after a serious preseason injury",
   "summary": "A hard hit in July kept him off the field for weeks, but he stayed on the sideline for his teammates and made it back in time to take a snap in September.",
   "body": [
@@ -550,7 +579,7 @@
   "id": "festival-of-trees-2026",
   "date": "2026-10-23",
   "category": "City Hall",
-  "graphic": "\ud83c\udf84",
+  "graphic": "🎄",
   "headline": "Festival of Trees returns to the Cullman Wellness and Aquatic Center in December",
   "summary": "The City of Cullman Tree Commission is lining up school and library decorated Christmas trees for a free display that opens December 3.",
   "body": [
@@ -578,7 +607,7 @@
   "id": "ccps-light-stem-lab",
   "date": "2026-10-23",
   "category": "Schools",
-  "graphic": "\ud83d\udd26",
+  "graphic": "🔦",
   "headline": "Cullman City Primary students send Morse code messages with flashlights and mirrors",
   "summary": "A hands on STEM lab had young students sorting materials by how they handle light, then signaling words to classmates across the room.",
   "body": [
@@ -605,7 +634,7 @@
   "id": "country-wok-new-menu",
   "date": "2026-10-23",
   "category": "Business",
-  "graphic": "\ud83c\udf5c",
+  "graphic": "🍜",
   "headline": "Country Wok in Hanceville adds ramen, wontons and matcha cannoli",
   "summary": "The Bangor Avenue Chinese restaurant that opened this year has rolled out three ramen bowls, Hong Kong style wontons, Japanese hot dogs and a matcha cannoli.",
   "body": [
@@ -638,7 +667,7 @@
   "id": "sheriff-litter-program-35-tons",
   "date": "2026-10-23",
   "category": "Public Safety",
-  "graphic": "\u267b\ufe0f",
+  "graphic": "♻️",
   "headline": "Sheriff's environmental deputy clears up to 35 tons of roadside litter a year",
   "summary": "Deputy Ron Wood picks up an estimated 50,000 to 70,000 pounds of trash along about 100 miles of county roads each year, and recycling money goes to local nonprofits.",
   "body": [
@@ -667,7 +696,7 @@
   "id": "west-point-cold-springs-volleyball-state",
   "date": "2026-10-23",
   "category": "Sports",
-  "graphic": "\ud83c\udfd0",
+  "graphic": "🏐",
   "headline": "West Point and Cold Springs volleyball are headed to the state tournament",
   "summary": "Both teams won their opening matches at the North Super Regional in Hoover on Thursday, which locks up a spot in next week's AHSAA Elite Eight.",
   "body": [
@@ -701,7 +730,7 @@
   "id": "wallace-volleyball-13-straight",
   "date": "2026-10-23",
   "category": "Sports",
-  "graphic": "\ud83c\udfc6",
+  "graphic": "🏆",
   "headline": "Wallace State volleyball runs its winning streak to 13 ahead of the conference tournament",
   "summary": "The Lions swept Calhoun on Wednesday to get even for an early season loss, then swept Southern Union twice on Thursday.",
   "body": [
@@ -732,7 +761,7 @@
   "id": "berlin-council-oct-19",
   "date": "2026-10-22",
   "category": "City Hall",
-  "graphic": "\ud83c\udfdb\ufe0f",
+  "graphic": "🏛️",
   "headline": "Berlin council sets Halloween night plans and waits on county road contract",
   "summary": "Every trunk or treat spot at the Berlin Farmers Market is spoken for on October 31, and work on County Roads 1619 and 1920 is waiting on a contract.",
   "body": [
@@ -760,7 +789,7 @@
   "id": "county-commission-oct-20",
   "date": "2026-10-22",
   "category": "City Hall",
-  "graphic": "\ud83c\udfdb\ufe0f",
+  "graphic": "🏛️",
   "headline": "County Commission thanks two outgoing commissioners and moves ahead on Stony Lonesome cabins",
   "summary": "Commissioners Gary Marchman and Kerry Watson were honored for 12 years of service, and the board approved a new hazard plan, a lower speed limit on County Road 52 and new cabins at the off road park.",
   "body": [
@@ -792,7 +821,7 @@
   "id": "cullman-city-schools-superintendent-contract",
   "date": "2026-10-22",
   "category": "Schools",
-  "graphic": "\ud83c\udfeb",
+  "graphic": "🏫",
   "headline": "Cullman City Schools extends Superintendent Kyle Kallhoff's contract through 2030",
   "summary": "The school board approved the new agreement 3 to 2 after a motion to wait until November failed by the same margin.",
   "body": [
@@ -820,7 +849,7 @@
   "id": "wallace-state-arts-season",
   "date": "2026-10-22",
   "category": "Around the County",
-  "graphic": "\ud83c\udfad",
+  "graphic": "🎭",
   "headline": "Wallace State's new arts season opens Nov. 6 with Shakespeare set in the 1940s",
   "summary": "Much Ado About Nothing kicks things off, followed by a free veterans concert, Ballet South's Nutcracker and a free Christmas Spectacular.",
   "body": [
@@ -850,7 +879,7 @@
   "id": "friday-football-roundup-oct-16",
   "date": "2026-10-17",
   "category": "Sports",
-  "graphic": "\ud83c\udfc8",
+  "graphic": "🏈",
   "headline": "Friday night football: Cold Springs wins its way to a home playoff game",
   "summary": "Cold Springs and Vinemont won on Friday, Fairview rolled on Thursday, and five other county teams came up short. Here is how every Cullman County team did and where they play next.",
   "body": [
@@ -915,7 +944,7 @@
   "id": "listerhill-cullman-branch-opens",
   "date": "2026-10-17",
   "category": "Business",
-  "graphic": "\ud83c\udfe6",
+  "graphic": "🏦",
   "headline": "Listerhill Credit Union opens its new Cullman branch and gives $10,000 to Cullman County Schools",
   "summary": "The new branch on Industrial Drive SW is open for business, and the credit union marked the grand opening with a big check for the county school system.",
   "body": [
@@ -949,7 +978,7 @@
   "id": "therapeutic-rec-halloween-party",
   "date": "2026-10-17",
   "category": "Around the County",
-  "graphic": "\ud83c\udf83",
+  "graphic": "🎃",
   "headline": "Cullman Therapeutic Recreation invites everyone to a Halloween party on Oct. 24",
   "summary": "Costumes, candy, a costume contest and hot dogs from Cullman police officers are on the menu at an accessible party for Therapeutic Recreation members. RSVPs are due Monday.",
   "body": [
@@ -979,7 +1008,7 @@
   "id": "cipollari-randy-travis-benefit",
   "date": "2026-10-17",
   "category": "Around the County",
-  "graphic": "\ud83c\udf89",
+  "graphic": "🎉",
   "headline": "Hanceville sibling band Cipollari will play a free benefit show at Terri Pines on Nov. 7",
   "summary": "The six Cipollari siblings, the bluegrass band some folks still know as the Cotton Pickin' Kids, are playing a concert to raise money for the Randy Travis Foundation. Tickets are free.",
   "body": [
@@ -1012,7 +1041,7 @@
   "id": "register-to-vote-by-oct-19",
   "date": "2026-10-17",
   "category": "Elections",
-  "graphic": "\ud83d\uddf3\ufe0f",
+  "graphic": "🗳️",
   "headline": "Monday, Oct. 19, is the last day to register for the Nov. 3 election",
   "summary": "Cullman County ballots will carry four statewide amendments and one local question that would freeze assessed home values for qualifying homeowners 65 and older.",
   "body": [
@@ -1049,7 +1078,7 @@
   "id": "senior-day-county-fair-oct-21",
   "date": "2026-10-17",
   "category": "Around the County",
-  "graphic": "\ud83c\udfa1",
+  "graphic": "🎡",
   "headline": "Senior Day at the Cullman County Fair is Wednesday, Oct. 21",
   "summary": "Folks 55 and older get in free from 10 a.m. to 1 p.m., with free parking and a free lunch for the first 400.",
   "body": [
@@ -1075,7 +1104,7 @@
   "id": "medicare-open-enrollment-help",
   "date": "2026-10-17",
   "category": "Seniors",
-  "graphic": "\ud83d\udc8a",
+  "graphic": "💊",
   "headline": "Free Medicare help is by appointment only this year",
   "summary": "Open Enrollment runs Oct. 15 through Dec. 7. The Cullman County Commission on Aging will review plans with you, but you need to call ahead.",
   "body": [
@@ -1106,7 +1135,7 @@
   "id": "volleyball-area-tournaments",
   "date": "2026-10-17",
   "category": "Sports",
-  "graphic": "\ud83c\udfd0",
+  "graphic": "🏐",
   "headline": "West Point and Holly Pond win area titles as volleyball playoffs roll on Monday",
   "summary": "West Point, Holly Pond, Fairview, Cold Springs and Vinemont all reached the subregional round, which is set for Monday, Oct. 19.",
   "body": [
@@ -1136,7 +1165,7 @@
   "id": "weekend-weather-cullman",
   "date": "2026-10-17",
   "category": "Weather",
-  "graphic": "\u26c5",
+  "graphic": "⛅",
   "headline": "Cullman weekend weather: windy and sunny Saturday, chilly nights",
   "summary": "The National Weather Service expects sunshine through Tuesday in Cullman, with highs in the 60s to near 72 and lows around 40.",
   "body": [
@@ -1161,7 +1190,7 @@
   "id": "council-roads-vehicles-fire-chief",
   "date": "2026-10-17",
   "category": "City Hall",
-  "graphic": "\ud83c\udfdb\ufe0f",
+  "graphic": "🏛️",
   "headline": "Hanceville council adds $25,000 for road patching, backs mayor on fire chief",
   "summary": "More gas tax money is going toward potholes, a take home vehicle policy is still up for debate, and the council upheld the mayor's removal of the fire chief. The next meeting is Thursday, Oct. 22, at 6 p.m.",
   "body": [
@@ -1201,7 +1230,7 @@
   "id": "wallace-volleyball-win-streak",
   "date": "2026-10-17",
   "category": "Sports",
-  "graphic": "\ud83c\udfd0",
+  "graphic": "🏐",
   "headline": "Wallace State volleyball has won nine straight heading into Saturday",
   "summary": "The Lions swept Bishop State and Lurleen B. Wallace on Friday and finish their home invitational Saturday with matches at 11 a.m. and 3 p.m. at Tom Drake Coliseum.",
   "body": [
@@ -1234,13 +1263,13 @@
   "id": "hhs-nhs-chapter-of-distinction",
   "date": "2026-10-17",
   "category": "Schools",
-  "graphic": "\ud83c\udfc5",
+  "graphic": "🏅",
   "headline": "Hanceville High's National Honor Society chapter wins national recognition",
   "summary": "The Hanceville High chapter earned the National Honor Society's Chapter of Distinction award for leadership and service to the school and town.",
   "body": [
    "Hanceville High School has something to brag about. Its National Honor Society chapter was named a Chapter of Distinction, a national honor for students who lead well and serve their community. The Cullman Times and The Cullman Tribune both shared the news.",
    "To earn it, a chapter has to meet every one of the honor society's core standards and shine in areas like student leadership. There is no cap on how many chapters can win, so it comes down to whether a chapter does the work.",
-   "Principal Daniel Wakefield gave credit to Ms. Teri Weaver for building \u201cexcellent leaders for the real world,\u201d the Times reported. Way to go, Bulldogs."
+   "Principal Daniel Wakefield gave credit to Ms. Teri Weaver for building “excellent leaders for the real world,” the Times reported. Way to go, Bulldogs."
   ],
   "sources": [
    {
@@ -1267,7 +1296,7 @@
   "id": "oktoberfest-record-crowd",
   "date": "2026-10-16",
   "category": "Around the County",
-  "graphic": "\ud83c\udf89",
+  "graphic": "🎉",
   "headline": "Oktoberfest drew a record 75,000 people, and Christkindlmarkt is next",
   "summary": "Organizers say the four day festival set records for attendance and hotel stays. Christkindlmarkt opens at Depot Park on Nov. 19 with free admission.",
   "body": [
@@ -1298,7 +1327,7 @@
   "id": "safer-event-races",
   "date": "2026-10-16",
   "category": "Public Safety",
-  "graphic": "\ud83d\ude93",
+  "graphic": "🚓",
   "headline": "Cullman police plan tighter safety for races and events after Oktoberfest run",
   "summary": "After a resident reported cars driving on the course during the Oct. 3 fun run, the city says future events will be vetted more closely and staffed with more officers.",
   "body": [
@@ -1329,7 +1358,7 @@
   "id": "youth-leadership-agriplex-luncheon",
   "date": "2026-10-16",
   "category": "Around the County",
-  "graphic": "\ud83e\udd55",
+  "graphic": "🥕",
   "headline": "Youth Leadership students harvest and cook their own lunch at the Agriplex",
   "summary": "Students in the Cullman Area Chamber's Youth Leadership program picked vegetables and cooked a meal in the North Alabama Agriplex teaching kitchen.",
   "body": [
@@ -1354,7 +1383,7 @@
   "id": "city-master-plan",
   "date": "2026-10-15",
   "category": "City Hall",
-  "graphic": "\ud83c\udfdb\ufe0f",
+  "graphic": "🏛️",
   "headline": "Cullman starts work on a long range city plan, and residents will get a say",
   "summary": "The City Council hired Goodwyn, Mills and Cawood to guide a new comprehensive plan covering housing, traffic, parking, event space and the kinds of industry the city wants.",
   "body": [
@@ -1384,7 +1413,7 @@
   "id": "new-shops-boutique-thrift-beignets",
   "date": "2026-10-14",
   "category": "Business",
-  "graphic": "\ud83d\udecd\ufe0f",
+  "graphic": "🛍️",
   "headline": "New in town: a downtown boutique, a thrift store and a beignet shop on the way",
   "summary": "A Little Too Much opened in the Warehouse District, America's Thrift Stores plans a November opening on 2nd Avenue SW, and Beignets and Brew is coming to Redstone Marketplace.",
   "body": [
@@ -1421,7 +1450,7 @@
   "id": "casa-volunteers-needed",
   "date": "2026-10-14",
   "category": "Around the County",
-  "graphic": "\ud83e\udd1d",
+  "graphic": "🤝",
   "headline": "Cullman County CASA is looking for volunteers to speak up for children",
   "summary": "Court appointed volunteers help children who have been through abuse or neglect. Training takes four weeks, meeting once a week.",
   "body": [
@@ -1447,7 +1476,7 @@
   "id": "good-hope-elementary-opens",
   "date": "2026-10-12",
   "category": "Schools",
-  "graphic": "\ud83c\udfeb",
+  "graphic": "🏫",
   "headline": "Good Hope Elementary moves into its new building",
   "summary": "The Cullman County Board of Education cut the ribbon Oct. 7 on the new school at 703 County Road 447, and students started classes there Oct. 12.",
   "body": [
@@ -1477,7 +1506,7 @@
   "id": "national-merit-semifinalist",
   "date": "2026-10-08",
   "category": "Schools",
-  "graphic": "\ud83c\udf93",
+  "graphic": "🎓",
   "headline": "Cullman High senior named a National Merit Semifinalist",
   "summary": "Isaac Heinze is one of only two National Merit Semifinalists from all of the high schools in Cullman County and Cullman City this year.",
   "body": [
@@ -1502,7 +1531,7 @@
   "id": "cullman-regional-forbes",
   "date": "2026-10-07",
   "category": "Health",
-  "graphic": "\ud83c\udfe5",
+  "graphic": "🏥",
   "headline": "Cullman Regional named to Forbes list of top Alabama hospitals",
   "summary": "The hospital was one of 12 in Alabama on the Forbes Top Hospitals by State list, with five stars for operational best practices.",
   "body": [
@@ -1526,7 +1555,7 @@
   "id": "bank-retail-third-street",
   "date": "2026-10-05",
   "category": "City Hall",
-  "graphic": "\ud83c\udfe6",
+  "graphic": "🏦",
   "headline": "City backs road work for a $15 million bank and retail project on 3rd Street SW",
   "summary": "The council agreed to pay 80 percent of a turn lane on Highway 278 for a new First National Bank and future retail site at 201 and 401 3rd St. SW.",
   "body": [
@@ -1553,7 +1582,7 @@
   "id": "storm-shelter-tax-credit",
   "date": "2026-10-01",
   "category": "Public Safety",
-  "graphic": "\ud83c\udf2a\ufe0f",
+  "graphic": "🌪️",
   "headline": "Put in a storm shelter this year? Apply for the tax credit by Dec. 31",
   "summary": "Alabama offers a state income tax credit of up to $3,000 for qualifying shelters, but the application has to reach the state in the same year the shelter goes in.",
   "body": [
