@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T06:50:00-05:00",
+ "updated": "2026-10-30T22:40:00-05:00",
  "teams": {
   "cullman": {
    "name": "Cullman",
@@ -451,13 +451,17 @@
    "venue": "Elkmont",
    "home": "elkmont",
    "away": "hanceville",
-   "status": "Upcoming",
-   "score": null,
+   "status": "Final",
+   "score": {
+    "home": 48,
+    "away": 8
+   },
    "line": null,
    "source": {
     "name": "The Cullman Tribune",
-    "url": "https://www.cullmantribune.com/2026/10/28/prep-football-good-hope-eyes-region-title-as-cold-springs-opens-regular-season-finales-thursday/"
-   }
+    "url": "https://www.cullmantribune.com/2026/10/30/prep-football-hanceville-closes-season-with-48-8-loss-at-elkmont/"
+   },
+   "note": "Season finale. Hanceville finished 0 and 10; Elkmont closed at 2 and 8."
   },
   {
    "id": "gh-1016",
@@ -1048,13 +1052,16 @@
    "venue": "West Morgan, Trinity",
    "home": "west-morgan",
    "away": "cullman",
-   "status": "Upcoming",
-   "score": null,
+   "status": "Final",
+   "score": {
+    "home": 35,
+    "away": 13
+   },
    "line": null,
-   "note": "Regular season finale, moved from Thursday to Friday.",
+   "note": "Nonregion season finale. Cullman finished 3 and 7; West Morgan improved to 7 and 3 and hosts a playoff game Nov 6.",
    "source": {
     "name": "The Cullman Tribune",
-    "url": "https://www.cullmantribune.com/2026/10/28/prep-football-good-hope-eyes-region-title-as-cold-springs-opens-regular-season-finales-thursday/"
+    "url": "https://www.cullmantribune.com/2026/10/30/prep-football-cullman-closes-season-with-35-13-loss-at-west-morgan/"
    }
   },
   {
