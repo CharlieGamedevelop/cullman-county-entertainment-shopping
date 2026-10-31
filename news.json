@@ -32,6 +32,35 @@
   ]
  },
  {
+  "id": "cullman-council-oct-26-annexation-ai-e911",
+  "date": "2026-10-30",
+  "category": "City Hall",
+  "graphic": "🏛️",
+  "headline": "Cullman City Council approves a County Road 616 annexation, an AI services contract and two E-911 grant applications",
+  "summary": "At its Oct. 26 meeting the council also took a first look at new rules for appointed officers and heard about a free New Year's Eve celebration planned downtown.",
+  "body": [
+   "The Cullman City Council met Monday, Oct. 26, and unanimously approved an ordinance on second reading that brings five parcels along County Road 616 into the city with R2 residential zoning. The parcels are part of the Bella's Ridge subdivision, and the Planning Commission had recommended the annexation on Oct. 6, The Cullman Tribune reported.",
+   "For the city's information technology department, the council approved a contract with Carahsoft for artificial intelligence services, not to exceed $14,504. The quote covers 20 user licenses and a pooled usage allocation. The council also approved a one year Docusign agreement for electronic signatures, not to exceed $6,739.20, which Council President Kim Hall said should improve efficiency and save the city about $600.",
+   "On the public safety side, the council authorized the mayor to apply for two grants from the Cullman County E-911 Board of Commissioners. The money would pay for an additional dispatch desk console and a sixth radio system, giving dispatchers another workstation during high call volumes, emergencies and equipment maintenance. Three surplus portable radios and their chargers will be donated to the local office of the Alabama Bureau of Pardons and Paroles.",
+   "The council held a first reading of an ordinance that would update the city's rules for appointed officers, including how they are appointed, supervised and removed, so the process lines up with Alabama law. No action was taken yet. City employees enrolled in supplemental dental coverage will also be able to move to a new plan with Principal Life Insurance after the old plan was sold.",
+   "Special event requests on the agenda included a free, family friendly New Year's Eve celebration planned at Traditions Bank, 109 Second Ave. NW, from 5 to 11 PM on Thursday, Dec. 31, with bounce houses, face painting, music, a drone show and a ball drop. A proposed jail agreement with Cullman County was taken off the agenda.",
+   "The next council meeting is set for 6 PM Monday, Nov. 9, at City Hall, after a 5:30 PM work session. Anyone who wants to speak during public comments can send a request through the city's website."
+  ],
+  "sources": [
+   {
+    "name": "The Cullman Tribune: Cullman Council approves annexation, AI contract and E-911 grant applications (Oct. 30, 2026)",
+    "url": "https://www.cullmantribune.com/2026/10/30/cullman-council-approves-annexation-ai-contract-and-e-911-grant-applications/"
+   }
+  ],
+  "tags": [
+   "cullman city council",
+   "city hall",
+   "annexation",
+   "e-911",
+   "new years eve"
+  ]
+ },
+ {
   "id": "cullman-police-halloween-safety-trunk-or-treat",
   "date": "2026-10-30",
   "top": false,
