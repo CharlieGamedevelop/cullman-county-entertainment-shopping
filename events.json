@@ -1,554 +1,522 @@
 [
- {
-  "name": "Scarecrow Trail",
-  "start": "2026-10-17",
-  "town": "Cullman",
-  "host": "Cullman County Tourism calendar",
-  "summary": "The Scarecrow Trail is up through October 31. Open the calendar link for the details.",
-  "url": "https://events.timely.fun/b8354ob3/event/78453804/20261017000000",
-  "group": "Fall Fun and Halloween",
-  "end": "2026-10-31",
-  "tags": [
-   "fall",
-   "scarecrows",
-   "family"
-  ]
- },
- {
-  "name": "Halloween Double Trouble Weekend",
-  "start": "2026-10-30",
-  "end": "2026-10-31",
-  "venue": "Baileyton Drag Strip, 1500 Summit Road",
-  "town": "Baileyton",
-  "host": "Cullman County Tourism calendar",
-  "summary": "A Halloween weekend at Baileyton Drag Strip on Friday and Saturday.",
-  "url": "https://events.timely.fun/b8354ob3/event/78497582/20261030000000",
-  "group": "Outdoors and Motorsports",
-  "tags": [
-   "racing",
-   "drag strip",
-   "baileyton"
-  ]
- },
- {
-  "name": "Poetry Night",
-  "start": "2026-10-30",
-  "time": "6:00 PM",
-  "venue": "Shirley Burden Public Library, 201 Commercial Street",
-  "town": "Hanceville",
-  "host": "Shirley Burden Public Library",
-  "summary": "An evening of poetry at the Hanceville library.",
-  "url": "https://events.timely.fun/b8354ob3/event/78326872/20261030180000",
-  "group": "Arts, Music and Theater",
-  "tags": [
-   "poetry",
-   "library"
-  ]
- },
- {
-  "name": "Cullman Police Department Trunk or Treat",
-  "start": "2026-10-30",
-  "time": "6:00 PM to 8:00 PM",
-  "venue": "Cullman Police Department",
-  "town": "Cullman",
-  "host": "Cullman Police Department",
-  "summary": "Bring the kids out for an evening of Halloween fun and treats with Cullman police officers.",
-  "url": "https://cullmantimes.com/2026/10/28/halloween-safety-and-trunk-or-treat-in-cullman/",
-  "group": "Fall Fun and Halloween",
-  "tags": [
-   "halloween",
-   "trunk or treat",
-   "police",
-   "kids"
-  ]
- },
- {
-  "name": "Book Signing with Jim Humiston",
-  "start": "2026-10-31",
-  "time": "10:00 AM to 2:00 PM",
-  "venue": "Yates Chance Christian Bookstore, 1650 2nd Avenue SW",
-  "town": "Cullman",
-  "host": "Yates Chance Christian Bookstore",
-  "summary": "Meet author Jim Humiston and get a signed book.",
-  "url": "https://events.timely.fun/b8354ob3/event/78497557/20261031100000",
-  "group": "Classes and Community",
-  "tags": [
-   "books",
-   "author"
-  ]
- },
- {
-  "name": "Evolutions Advanced Shuffle Skate",
-  "start": "2026-10-31",
-  "time": "5:00 PM to 11:30 PM",
-  "venue": "Sportsworld Skate Center, 90 County Road 1223",
-  "town": "Cullman",
-  "host": "Sportsworld Skate Center",
-  "summary": "An advanced shuffle skating session at Sportsworld.",
-  "url": "https://events.timely.fun/b8354ob3/event/78451917/20261031170000",
-  "group": "Outdoors and Motorsports",
-  "tags": [
-   "skating"
-  ]
- },
- {
-  "name": "Baileyton's Harvest at the Park",
-  "start": "2026-10-31",
-  "time": "5:00 PM to 7:00 PM",
-  "venue": "Baileyton Town Park, 55 Fire Station Road",
-  "town": "Baileyton",
-  "host": "Town of Baileyton",
-  "summary": "A fall harvest gathering at the Baileyton town park on Halloween evening.",
-  "url": "https://events.timely.fun/b8354ob3/event/78487000/20261031170000",
-  "group": "Fall Fun and Halloween",
-  "tags": [
-   "fall",
-   "halloween",
-   "baileyton"
-  ]
- },
- {
-  "name": "Berlin Farmer's Market Community Trick or Treat",
-  "start": "2026-10-31",
-  "time": "6:00 PM to 8:00 PM",
-  "venue": "Berlin Farmer's Market, 50 Mt. Carmel Drive",
-  "town": "Berlin",
-  "host": "Berlin Farmer's Market",
-  "summary": "The yearly community trick or treat at the Berlin market. Local churches have filled every trunk bay, and parking questions can go to Berlin Town Hall at (256) 736-3138.",
-  "url": "https://events.timely.fun/b8354ob3/event/78451908/20261031180000",
-  "group": "Fall Fun and Halloween",
-  "tags": [
-   "trick or treat",
-   "kids",
-   "berlin"
-  ]
- },
- {
-  "name": "Campoween at Smith Lake Park",
-  "start": "2026-10-31",
-  "time": "6:00 PM to 8:00 PM",
-  "venue": "Smith Lake Park",
-  "town": "Cullman",
-  "host": "Smith Lake Park",
-  "summary": "Halloween night at the Smith Lake Park campground.",
-  "url": "https://events.timely.fun/b8354ob3/event/78354029/20261031180000",
-  "group": "Fall Fun and Halloween",
-  "tags": [
-   "halloween",
-   "camping",
-   "smith lake"
-  ]
- },
- {
-  "name": "Cullman Elks Lodge Halloween Party",
-  "start": "2026-10-31",
-  "time": "6:00 PM to 8:00 PM",
-  "venue": "Cullman Elks Lodge 1609, 1525 Brantley Avenue NW",
-  "town": "Cullman",
-  "host": "Cullman Elks Lodge",
-  "summary": "A Halloween party at the Elks Lodge.",
-  "url": "https://events.timely.fun/b8354ob3/event/78491639/20261031180000",
-  "group": "Fall Fun and Halloween",
-  "tags": [
-   "halloween",
-   "party"
-  ]
- },
- {
-  "name": "Pancakes and Princesses Fairytale Breakfast",
-  "start": "2026-10-31",
-  "time": "9:00 AM to 11:00 AM",
-  "venue": "St. John's Evangelical Protestant Church, 512 2nd Avenue SE",
-  "town": "Cullman",
-  "host": "St. John's Evangelical Protestant Church",
-  "summary": "A storybook themed breakfast for little ones.",
-  "url": "https://events.timely.fun/b8354ob3/event/78491643/20261031090000",
-  "group": "Fall Fun and Halloween",
-  "tags": [
-   "kids",
-   "breakfast"
-  ]
- },
- {
-  "name": "An Evening with Poe",
-  "start": "2026-11-02",
-  "time": "5:00 PM cocktail hour, readings at 6:00 PM",
-  "venue": "Jubilee Kitchen and Bar, 515 4th Street SW",
-  "town": "Cullman",
-  "host": "Jubilee Kitchen and Bar with the Cullman County Public Library",
-  "summary": "Readings of four famous Edgar Allan Poe works in Jubilee's dining room. Reserve online through Jubilee with a credit card; no shows and cancellations within 48 hours are charged $35 each. Guests must be 21 or older for cocktails.",
-  "url": "https://www.cullmantribune.com/2026/10/27/jubilee-county-library-hosting-an-evening-with-poe-nov-2/",
-  "group": "Arts, Music and Theater",
-  "tags": [
-   "poe",
-   "readings",
-   "library",
-   "downtown"
-  ]
- },
- {
-  "name": "Living Landscapes: Houseplant Care",
-  "start": "2026-11-03",
-  "time": "6:00 PM to 8:00 PM",
-  "venue": "North Alabama Agriplex, 1714 Tally Ho Street",
-  "town": "Cullman",
-  "host": "North Alabama Agriplex",
-  "summary": "Learn how to keep houseplants healthy.",
-  "url": "https://events.timely.fun/b8354ob3/event/78492688/20261103180000",
-  "group": "Classes and Community",
-  "tags": [
-   "plants",
-   "class"
-  ]
- },
- {
-  "name": "Short Story Writing Workshop",
-  "start": "2026-11-04",
-  "time": "4:00 PM",
-  "venue": "Cullman County Public Library, 200 Clark Street NE",
-  "town": "Cullman",
-  "host": "Cullman County Public Library",
-  "summary": "A free writing workshop for adults and students in grade 5 and up, part of the library's November short story challenge for all ages (entries due Nov. 25).",
-  "url": "https://www.cullmantribune.com/2026/10/29/cullman-county-public-library-invites-writers-of-all-ages-to-short-story-challenge/",
-  "group": "Arts, Music and Theater",
-  "tags": [
-   "writing",
-   "library",
-   "free",
-   "workshop"
-  ]
- },
- {
-  "name": "Little Farmer: Soil",
-  "start": "2026-11-05",
-  "time": "10:00 AM to 11:00 AM",
-  "venue": "North Alabama Agriplex, 1714 Tally Ho Street",
-  "town": "Cullman",
-  "host": "North Alabama Agriplex",
-  "summary": "A morning program for young children about soil.",
-  "url": "https://events.timely.fun/b8354ob3/event/78492689/20261105100000",
-  "group": "Classes and Community",
-  "tags": [
-   "kids",
-   "farming",
-   "class"
-  ]
- },
- {
-  "name": "Much Ado About Nothing at Wallace State",
-  "start": "2026-11-06",
-  "end": "2026-11-08",
-  "time": "7:00 PM Nov. 6 and 7, 2:00 PM Nov. 8",
-  "venue": "Betty Leeth Haynes Theatre, Wallace State Community College, 801 Main Street NW",
-  "town": "Hanceville",
-  "host": "Wallace State Theatre",
-  "cost": "$10 donation for adults, $5 for students and children under 12",
-  "summary": "Wallace State Theatre sets Shakespeare's comedy in the World War II era, with music and dances from the 1940s.",
-  "url": "https://www.cullmantribune.com/2026/10/21/wallace-state-releases-performing-arts-schedule-for-2026-2027-season/",
-  "group": "Arts, Music and Theater",
-  "tags": [
-   "theater",
-   "wallace state",
-   "shakespeare"
-  ]
- },
- {
-  "name": "Farm Kids Club: Kitchen Scrap Garden",
-  "start": "2026-11-07",
-  "time": "10:00 AM to 11:30 AM",
-  "venue": "North Alabama Agriplex, 1714 Tally Ho Street",
-  "town": "Cullman",
-  "host": "North Alabama Agriplex",
-  "summary": "Kids learn how to start a garden from kitchen scraps.",
-  "url": "https://events.timely.fun/b8354ob3/event/78497587/20261107100000",
-  "group": "Classes and Community",
-  "tags": [
-   "kids",
-   "gardening",
-   "class"
-  ]
- },
- {
-  "name": "Cipollari Live: A Fundraiser for the Randy Travis Foundation",
-  "start": "2026-11-07",
-  "time": "6:00 PM to 8:00 PM",
-  "venue": "Terri Pines Country Club, 700 Pine Hill Drive",
-  "town": "Cullman",
-  "host": "Cipollari",
-  "summary": "Cipollari, a bluegrass band of six siblings from Hanceville, plays a benefit show for the Randy Travis Foundation. Tickets are free, but you need to reserve one through the link in the Cullman Tribune story.",
-  "url": "https://www.cullmantribune.com/2026/10/16/hancevilles-cipollari-siblings-to-play-randy-travis-foundation-fundraiser-nov-7-at-terri-pines/",
-  "group": "Arts, Music and Theater",
-  "cost": "Free with ticket",
-  "tags": [
-   "bluegrass",
-   "music",
-   "fundraiser",
-   "free"
-  ]
- },
- {
-  "name": "16th Annual Mud Creek Arts and Crafts Festival",
-  "start": "2026-11-07",
-  "time": "9:00 AM to 4:00 PM",
-  "venue": "Commercial Street, centered at 106 Commercial Street NE",
-  "town": "Hanceville",
-  "host": "Friends of the Festival",
-  "summary": "Historic downtown Hanceville fills with handmade crafts, gifts, food trucks and bounce houses for the kids. Admission is free, the festival goes on rain or shine, and downtown shops usually stay open during the day.",
-  "url": "https://www.cullmantribune.com/2026/10/24/16th-annual-mud-creek-arts-crafts-festival-set-for-nov-7/",
-  "group": "Fairs and Festivals",
-  "cost": "Free",
-  "tags": [
-   "arts and crafts",
-   "festival",
-   "shopping",
-   "family",
-   "free",
-   "hanceville"
-  ]
- },
- {
-  "name": "Sportsworld Adult Old School Skate",
-  "start": "2026-11-08",
-  "time": "6:00 PM to 9:00 PM",
-  "venue": "Sportsworld Skate Center, 90 County Road 1223",
-  "town": "Cullman",
-  "host": "Sportsworld Skate Center",
-  "summary": "An adults only old school skate night.",
-  "url": "https://events.timely.fun/b8354ob3/event/78235082/20261108180000",
-  "group": "Classes and Community",
-  "tags": [
-   "skating",
-   "adults"
-  ]
- },
- {
-  "name": "Heritage Skills: Smoking",
-  "start": "2026-11-10",
-  "time": "6:00 PM to 8:00 PM",
-  "venue": "North Alabama Agriplex, 1714 Tally Ho Street",
-  "town": "Cullman",
-  "host": "North Alabama Agriplex",
-  "summary": "This Heritage Skills class at the Agriplex covers smoking.",
-  "url": "https://events.timely.fun/b8354ob3/event/78497585/20261110180000",
-  "group": "Classes and Community",
-  "tags": [
-   "class",
-   "heritage skills"
-  ]
- },
- {
-  "name": "Salute to United States Veterans",
-  "start": "2026-11-10",
-  "time": "7:00 PM",
-  "venue": "Betty Leeth Haynes Theatre, Wallace State Community College, 801 Main Street NW",
-  "town": "Hanceville",
-  "host": "Wallace State Concert Band and Jazz Band",
-  "cost": "Free",
-  "summary": "Patriotic music from the Wallace State bands, the hymns of each branch of the Armed Forces, and a moment to honor veterans in the crowd.",
-  "url": "https://www.cullmantribune.com/2026/10/21/wallace-state-releases-performing-arts-schedule-for-2026-2027-season/",
-  "group": "Arts, Music and Theater",
-  "tags": [
-   "veterans",
-   "concert",
-   "free",
-   "wallace state"
-  ]
- },
- {
-  "name": "United Way Designer Bag Bingo",
-  "start": "2026-11-12",
-  "time": "5:00 PM",
-  "venue": "Cotton Creek Venue, 417 3rd Avenue SW",
-  "town": "Cullman",
-  "host": "United Way of Cullman County",
-  "summary": "Bingo for designer bags, raising money for United Way of Cullman County.",
-  "url": "https://events.timely.fun/b8354ob3/event/78256739/20261112170000",
-  "group": "Classes and Community",
-  "tags": [
-   "bingo",
-   "fundraiser"
-  ]
- },
- {
-  "name": "James and the Giant Peach",
-  "start": "2026-11-13",
-  "time": "7:00 PM",
-  "venue": "Cullman High School Auditorium, 510 13th Street NE",
-  "town": "Cullman",
-  "host": "Cullman County Tourism calendar",
-  "summary": "A stage show of the Roald Dahl story at the Cullman High auditorium.",
-  "url": "https://events.timely.fun/b8354ob3/event/78492727/20261113190000",
-  "group": "Arts, Music and Theater",
-  "tags": [
-   "theater",
-   "kids"
-  ]
- },
- {
-  "name": "Christmas Craft Fair and Vendor Expo",
-  "start": "2026-11-14",
-  "time": "10:00 AM to 4:00 PM",
-  "venue": "Cullman Elks Lodge 1609, 1525 Brantley Avenue NW",
-  "town": "Cullman",
-  "host": "Cullman Elks Lodge",
-  "summary": "A holiday craft fair with local vendors.",
-  "url": "https://events.timely.fun/b8354ob3/event/78419442/20261114100000",
-  "group": "Classes and Community",
-  "tags": [
-   "crafts",
-   "christmas",
-   "shopping"
-  ]
- },
- {
-  "name": "Run Run Rudolph",
-  "start": "2026-11-19",
-  "time": "5:00 PM to 8:00 PM",
-  "venue": "Sportsman Lake Park, 1544 Sportsman Lake Road NW",
-  "town": "Cullman",
-  "host": "Cullman Parks and Recreation",
-  "summary": "A holiday evening event at Sportsman Lake Park.",
-  "url": "https://events.timely.fun/b8354ob3/event/78487342/20261119170000",
-  "group": "Outdoors and Motorsports",
-  "tags": [
-   "run",
-   "christmas"
-  ]
- },
- {
-  "name": "Cullman Christkindlmarkt",
-  "start": "2026-11-19",
-  "time": "Thu to Sat 11 AM to 9 PM, Sun noon to 8 PM",
-  "venue": "Depot Park, downtown Cullman",
-  "town": "Cullman",
-  "host": "Cullman Christkindlmarkt",
-  "summary": "A German style Christmas market downtown. It runs through December 23, is closed Thanksgiving Day and opens seven days a week starting December 10. Admission and parking are free.",
-  "url": "https://events.timely.fun/b8354ob3/event/78427143/20261119000000",
-  "group": "Fairs and Festivals",
-  "end": "2026-12-23",
-  "cost": "Free",
-  "tags": [
-   "christmas",
-   "market",
-   "downtown",
-   "free"
-  ]
- },
- {
-  "name": "24th Annual Winter Wonderland",
-  "start": "2026-11-20",
-  "time": "5:00 PM to 9:00 PM",
-  "venue": "Sportsman Lake Park, 1544 Sportsman Lake Road NW",
-  "town": "Cullman",
-  "host": "Cullman Parks and Recreation",
-  "summary": "Holiday lights and fun at Sportsman Lake Park. Check the calendar for the nights it is open through December 11.",
-  "url": "https://events.timely.fun/b8354ob3/event/78473214/20261120170000",
-  "group": "Fairs and Festivals",
-  "end": "2026-12-11",
-  "tags": [
-   "christmas",
-   "lights",
-   "family"
-  ]
- },
- {
-  "name": "Town of South Vinemont Thanksgiving Dinner",
-  "start": "2026-11-21",
-  "time": "11:00 AM to 1:00 PM",
-  "town": "South Vinemont",
-  "host": "Town of South Vinemont",
-  "summary": "A community Thanksgiving dinner hosted by the town.",
-  "url": "https://events.timely.fun/b8354ob3/event/78491674/20261121110000",
-  "group": "Classes and Community",
-  "tags": [
-   "thanksgiving",
-   "community"
-  ]
- },
- {
-  "name": "The Nutcracker with Ballet South",
-  "start": "2026-11-21",
-  "end": "2026-11-22",
-  "time": "2:00 PM and 7:00 PM Nov. 21, 2:00 PM Nov. 22",
-  "venue": "Betty Leeth Haynes Theatre, Wallace State Community College, 801 Main Street NW",
-  "town": "Hanceville",
-  "host": "Ballet South at Wallace State",
-  "cost": "$15 for adults, $10 for children",
-  "summary": "Ballet South brings its yearly production of Tchaikovsky's holiday classic to the Wallace State stage.",
-  "url": "https://www.cullmantribune.com/2026/10/21/wallace-state-releases-performing-arts-schedule-for-2026-2027-season/",
-  "group": "Arts, Music and Theater",
-  "tags": [
-   "ballet",
-   "christmas",
-   "family"
-  ]
- },
- {
-  "name": "Festival of Trees",
-  "start": "2026-12-03",
-  "time": "5:00 PM",
-  "end": "2026-12-27",
-  "venue": "Cullman Wellness & Aquatic Center, 1636 Field Of Miracles Drive",
-  "town": "Cullman",
-  "host": "City of Cullman Tree Commission",
-  "summary": "Christmas trees decorated by local school students and the Cullman County Public Library. The opening ceremony is December 3 at 5 PM, and the trees stay on display free from December 4 to 27 during the center's regular hours.",
-  "url": "https://www.cullmantribune.com/2026/10/23/cullman-tree-commission-prepares-for-2026-festival-of-trees/",
-  "group": "Fairs and Festivals",
-  "tags": [
-   "christmas",
-   "holiday",
-   "family",
-   "free"
-  ]
- },
- {
-  "name": "Wallace State Christmas Spectacular",
-  "start": "2026-12-10",
-  "time": "7:00 PM",
-  "venue": "Betty Leeth Haynes Theatre, Wallace State Community College, 801 Main Street NW",
-  "town": "Hanceville",
-  "host": "Wallace State Fine and Performing Arts",
-  "cost": "Free",
-  "summary": "Every Wallace State performing arts group shares the stage for a free holiday concert.",
-  "url": "https://www.cullmantribune.com/2026/10/21/wallace-state-releases-performing-arts-schedule-for-2026-2027-season/",
-  "group": "Arts, Music and Theater",
-  "tags": [
-   "christmas",
-   "concert",
-   "free",
-   "wallace state"
-  ]
- },
- {
-  "name": "Senior Christmas Party",
-  "start": "2026-12-18",
-  "time": "10:00 AM",
-  "venue": "The Omniplex, 1634 Field of Miracles Drive SW",
-  "town": "Cullman",
-  "host": "Cullman County Commission on Aging",
-  "summary": "The Commission on Aging hosts its Christmas party for seniors at the Omniplex. The Tourism calendar lists it as free.",
-  "url": "https://events.timely.fun/b8354ob3/event/78491656/20261218100000",
-  "group": "Classes and Community",
-  "cost": "Free",
-  "tags": [
-   "seniors",
-   "christmas",
-   "free"
-  ]
- },
- {
-  "name": "A Night at the Masters, Clubhouse Edition",
-  "start": "2027-04-10",
-  "venue": "Cotton Creek Venue, 417 3rd Avenue SW",
-  "town": "Cullman",
-  "host": "Flourish of Cullman",
-  "summary": "A Masters themed fundraiser for Flourish of Cullman. Check the calendar listing closer to the date for the start time.",
-  "url": "https://events.timely.fun/b8354ob3/event/78487345/20270410000000",
-  "group": "Classes and Community",
-  "tags": [
-   "fundraiser",
-   "golf",
-   "nonprofit"
-  ]
- }
+  {
+    "name": "Scarecrow Trail",
+    "start": "2026-10-17",
+    "town": "Cullman",
+    "host": "Cullman County Tourism calendar",
+    "summary": "The Scarecrow Trail is up through October 31. Open the calendar link for the details.",
+    "url": "https://events.timely.fun/b8354ob3/event/78453804/20261017000000",
+    "group": "Fall Fun and Halloween",
+    "end": "2026-10-31",
+    "tags": [
+      "fall",
+      "scarecrows",
+      "family"
+    ]
+  },
+  {
+    "name": "Halloween Double Trouble Weekend",
+    "start": "2026-10-30",
+    "end": "2026-10-31",
+    "venue": "Baileyton Drag Strip, 1500 Summit Road",
+    "town": "Baileyton",
+    "host": "Cullman County Tourism calendar",
+    "summary": "A Halloween weekend at Baileyton Drag Strip on Friday and Saturday.",
+    "url": "https://events.timely.fun/b8354ob3/event/78497582/20261030000000",
+    "group": "Outdoors and Motorsports",
+    "tags": [
+      "racing",
+      "drag strip",
+      "baileyton"
+    ]
+  },
+  {
+    "name": "Book Signing with Jim Humiston",
+    "start": "2026-10-31",
+    "time": "10:00 AM to 2:00 PM",
+    "venue": "Yates Chance Christian Bookstore, 1650 2nd Avenue SW",
+    "town": "Cullman",
+    "host": "Yates Chance Christian Bookstore",
+    "summary": "Meet author Jim Humiston and get a signed book.",
+    "url": "https://events.timely.fun/b8354ob3/event/78497557/20261031100000",
+    "group": "Classes and Community",
+    "tags": [
+      "books",
+      "author"
+    ]
+  },
+  {
+    "name": "Evolutions Advanced Shuffle Skate",
+    "start": "2026-10-31",
+    "time": "5:00 PM to 11:30 PM",
+    "venue": "Sportsworld Skate Center, 90 County Road 1223",
+    "town": "Cullman",
+    "host": "Sportsworld Skate Center",
+    "summary": "An advanced shuffle skating session at Sportsworld.",
+    "url": "https://events.timely.fun/b8354ob3/event/78451917/20261031170000",
+    "group": "Outdoors and Motorsports",
+    "tags": [
+      "skating"
+    ]
+  },
+  {
+    "name": "Baileyton's Harvest at the Park",
+    "start": "2026-10-31",
+    "time": "5:00 PM to 7:00 PM",
+    "venue": "Baileyton Town Park, 55 Fire Station Road",
+    "town": "Baileyton",
+    "host": "Town of Baileyton",
+    "summary": "A fall harvest gathering at the Baileyton town park on Halloween evening.",
+    "url": "https://events.timely.fun/b8354ob3/event/78487000/20261031170000",
+    "group": "Fall Fun and Halloween",
+    "tags": [
+      "fall",
+      "halloween",
+      "baileyton"
+    ]
+  },
+  {
+    "name": "Berlin Farmer's Market Community Trick or Treat",
+    "start": "2026-10-31",
+    "time": "6:00 PM to 8:00 PM",
+    "venue": "Berlin Farmer's Market, 50 Mt. Carmel Drive",
+    "town": "Berlin",
+    "host": "Berlin Farmer's Market",
+    "summary": "The yearly community trick or treat at the Berlin market. Local churches have filled every trunk bay, and parking questions can go to Berlin Town Hall at (256) 736-3138.",
+    "url": "https://events.timely.fun/b8354ob3/event/78451908/20261031180000",
+    "group": "Fall Fun and Halloween",
+    "tags": [
+      "trick or treat",
+      "kids",
+      "berlin"
+    ]
+  },
+  {
+    "name": "Campoween at Smith Lake Park",
+    "start": "2026-10-31",
+    "time": "6:00 PM to 8:00 PM",
+    "venue": "Smith Lake Park",
+    "town": "Cullman",
+    "host": "Smith Lake Park",
+    "summary": "Halloween night at the Smith Lake Park campground.",
+    "url": "https://events.timely.fun/b8354ob3/event/78354029/20261031180000",
+    "group": "Fall Fun and Halloween",
+    "tags": [
+      "halloween",
+      "camping",
+      "smith lake"
+    ]
+  },
+  {
+    "name": "Cullman Elks Lodge Halloween Party",
+    "start": "2026-10-31",
+    "time": "6:00 PM to 8:00 PM",
+    "venue": "Cullman Elks Lodge 1609, 1525 Brantley Avenue NW",
+    "town": "Cullman",
+    "host": "Cullman Elks Lodge",
+    "summary": "A Halloween party at the Elks Lodge.",
+    "url": "https://events.timely.fun/b8354ob3/event/78491639/20261031180000",
+    "group": "Fall Fun and Halloween",
+    "tags": [
+      "halloween",
+      "party"
+    ]
+  },
+  {
+    "name": "Pancakes and Princesses Fairytale Breakfast",
+    "start": "2026-10-31",
+    "time": "9:00 AM to 11:00 AM",
+    "venue": "St. John's Evangelical Protestant Church, 512 2nd Avenue SE",
+    "town": "Cullman",
+    "host": "St. John's Evangelical Protestant Church",
+    "summary": "A storybook themed breakfast for little ones.",
+    "url": "https://events.timely.fun/b8354ob3/event/78491643/20261031090000",
+    "group": "Fall Fun and Halloween",
+    "tags": [
+      "kids",
+      "breakfast"
+    ]
+  },
+  {
+    "name": "An Evening with Poe",
+    "start": "2026-11-02",
+    "time": "5:00 PM cocktail hour, readings at 6:00 PM",
+    "venue": "Jubilee Kitchen and Bar, 515 4th Street SW",
+    "town": "Cullman",
+    "host": "Jubilee Kitchen and Bar with the Cullman County Public Library",
+    "summary": "Readings of four famous Edgar Allan Poe works in Jubilee's dining room. Reserve online through Jubilee with a credit card; no shows and cancellations within 48 hours are charged $35 each. Guests must be 21 or older for cocktails.",
+    "url": "https://www.cullmantribune.com/2026/10/27/jubilee-county-library-hosting-an-evening-with-poe-nov-2/",
+    "group": "Arts, Music and Theater",
+    "tags": [
+      "poe",
+      "readings",
+      "library",
+      "downtown"
+    ]
+  },
+  {
+    "name": "Living Landscapes: Houseplant Care",
+    "start": "2026-11-03",
+    "time": "6:00 PM to 8:00 PM",
+    "venue": "North Alabama Agriplex, 1714 Tally Ho Street",
+    "town": "Cullman",
+    "host": "North Alabama Agriplex",
+    "summary": "Learn how to keep houseplants healthy.",
+    "url": "https://events.timely.fun/b8354ob3/event/78492688/20261103180000",
+    "group": "Classes and Community",
+    "tags": [
+      "plants",
+      "class"
+    ]
+  },
+  {
+    "name": "Short Story Writing Workshop",
+    "start": "2026-11-04",
+    "time": "4:00 PM",
+    "venue": "Cullman County Public Library, 200 Clark Street NE",
+    "town": "Cullman",
+    "host": "Cullman County Public Library",
+    "summary": "A free writing workshop for adults and students in grade 5 and up, part of the library's November short story challenge for all ages (entries due Nov. 25).",
+    "url": "https://www.cullmantribune.com/2026/10/29/cullman-county-public-library-invites-writers-of-all-ages-to-short-story-challenge/",
+    "group": "Arts, Music and Theater",
+    "tags": [
+      "writing",
+      "library",
+      "free",
+      "workshop"
+    ]
+  },
+  {
+    "name": "Little Farmer: Soil",
+    "start": "2026-11-05",
+    "time": "10:00 AM to 11:00 AM",
+    "venue": "North Alabama Agriplex, 1714 Tally Ho Street",
+    "town": "Cullman",
+    "host": "North Alabama Agriplex",
+    "summary": "A morning program for young children about soil.",
+    "url": "https://events.timely.fun/b8354ob3/event/78492689/20261105100000",
+    "group": "Classes and Community",
+    "tags": [
+      "kids",
+      "farming",
+      "class"
+    ]
+  },
+  {
+    "name": "Much Ado About Nothing at Wallace State",
+    "start": "2026-11-06",
+    "end": "2026-11-08",
+    "time": "7:00 PM Nov. 6 and 7, 2:00 PM Nov. 8",
+    "venue": "Betty Leeth Haynes Theatre, Wallace State Community College, 801 Main Street NW",
+    "town": "Hanceville",
+    "host": "Wallace State Theatre",
+    "cost": "$10 donation for adults, $5 for students and children under 12",
+    "summary": "Wallace State Theatre sets Shakespeare's comedy in the World War II era, with music and dances from the 1940s.",
+    "url": "https://www.cullmantribune.com/2026/10/21/wallace-state-releases-performing-arts-schedule-for-2026-2027-season/",
+    "group": "Arts, Music and Theater",
+    "tags": [
+      "theater",
+      "wallace state",
+      "shakespeare"
+    ]
+  },
+  {
+    "name": "Farm Kids Club: Kitchen Scrap Garden",
+    "start": "2026-11-07",
+    "time": "10:00 AM to 11:30 AM",
+    "venue": "North Alabama Agriplex, 1714 Tally Ho Street",
+    "town": "Cullman",
+    "host": "North Alabama Agriplex",
+    "summary": "Kids learn how to start a garden from kitchen scraps.",
+    "url": "https://events.timely.fun/b8354ob3/event/78497587/20261107100000",
+    "group": "Classes and Community",
+    "tags": [
+      "kids",
+      "gardening",
+      "class"
+    ]
+  },
+  {
+    "name": "Cipollari Live: A Fundraiser for the Randy Travis Foundation",
+    "start": "2026-11-07",
+    "time": "6:00 PM to 8:00 PM",
+    "venue": "Terri Pines Country Club, 700 Pine Hill Drive",
+    "town": "Cullman",
+    "host": "Cipollari",
+    "summary": "Cipollari, a bluegrass band of six siblings from Hanceville, plays a benefit show for the Randy Travis Foundation. Tickets are free, but you need to reserve one through the link in the Cullman Tribune story.",
+    "url": "https://www.cullmantribune.com/2026/10/16/hancevilles-cipollari-siblings-to-play-randy-travis-foundation-fundraiser-nov-7-at-terri-pines/",
+    "group": "Arts, Music and Theater",
+    "cost": "Free with ticket",
+    "tags": [
+      "bluegrass",
+      "music",
+      "fundraiser",
+      "free"
+    ]
+  },
+  {
+    "name": "16th Annual Mud Creek Arts and Crafts Festival",
+    "start": "2026-11-07",
+    "time": "9:00 AM to 4:00 PM",
+    "venue": "Commercial Street, centered at 106 Commercial Street NE",
+    "town": "Hanceville",
+    "host": "Friends of the Festival",
+    "summary": "Historic downtown Hanceville fills with handmade crafts, gifts, food trucks and bounce houses for the kids. Admission is free, the festival goes on rain or shine, and downtown shops usually stay open during the day.",
+    "url": "https://www.cullmantribune.com/2026/10/24/16th-annual-mud-creek-arts-crafts-festival-set-for-nov-7/",
+    "group": "Fairs and Festivals",
+    "cost": "Free",
+    "tags": [
+      "arts and crafts",
+      "festival",
+      "shopping",
+      "family",
+      "free",
+      "hanceville"
+    ]
+  },
+  {
+    "name": "Sportsworld Adult Old School Skate",
+    "start": "2026-11-08",
+    "time": "6:00 PM to 9:00 PM",
+    "venue": "Sportsworld Skate Center, 90 County Road 1223",
+    "town": "Cullman",
+    "host": "Sportsworld Skate Center",
+    "summary": "An adults only old school skate night.",
+    "url": "https://events.timely.fun/b8354ob3/event/78235082/20261108180000",
+    "group": "Classes and Community",
+    "tags": [
+      "skating",
+      "adults"
+    ]
+  },
+  {
+    "name": "Heritage Skills: Smoking",
+    "start": "2026-11-10",
+    "time": "6:00 PM to 8:00 PM",
+    "venue": "North Alabama Agriplex, 1714 Tally Ho Street",
+    "town": "Cullman",
+    "host": "North Alabama Agriplex",
+    "summary": "This Heritage Skills class at the Agriplex covers smoking.",
+    "url": "https://events.timely.fun/b8354ob3/event/78497585/20261110180000",
+    "group": "Classes and Community",
+    "tags": [
+      "class",
+      "heritage skills"
+    ]
+  },
+  {
+    "name": "Salute to United States Veterans",
+    "start": "2026-11-10",
+    "time": "7:00 PM",
+    "venue": "Betty Leeth Haynes Theatre, Wallace State Community College, 801 Main Street NW",
+    "town": "Hanceville",
+    "host": "Wallace State Concert Band and Jazz Band",
+    "cost": "Free",
+    "summary": "Patriotic music from the Wallace State bands, the hymns of each branch of the Armed Forces, and a moment to honor veterans in the crowd.",
+    "url": "https://www.cullmantribune.com/2026/10/21/wallace-state-releases-performing-arts-schedule-for-2026-2027-season/",
+    "group": "Arts, Music and Theater",
+    "tags": [
+      "veterans",
+      "concert",
+      "free",
+      "wallace state"
+    ]
+  },
+  {
+    "name": "United Way Designer Bag Bingo",
+    "start": "2026-11-12",
+    "time": "5:00 PM",
+    "venue": "Cotton Creek Venue, 417 3rd Avenue SW",
+    "town": "Cullman",
+    "host": "United Way of Cullman County",
+    "summary": "Bingo for designer bags, raising money for United Way of Cullman County.",
+    "url": "https://events.timely.fun/b8354ob3/event/78256739/20261112170000",
+    "group": "Classes and Community",
+    "tags": [
+      "bingo",
+      "fundraiser"
+    ]
+  },
+  {
+    "name": "James and the Giant Peach",
+    "start": "2026-11-13",
+    "time": "7:00 PM",
+    "venue": "Cullman High School Auditorium, 510 13th Street NE",
+    "town": "Cullman",
+    "host": "Cullman County Tourism calendar",
+    "summary": "A stage show of the Roald Dahl story at the Cullman High auditorium.",
+    "url": "https://events.timely.fun/b8354ob3/event/78492727/20261113190000",
+    "group": "Arts, Music and Theater",
+    "tags": [
+      "theater",
+      "kids"
+    ]
+  },
+  {
+    "name": "Christmas Craft Fair and Vendor Expo",
+    "start": "2026-11-14",
+    "time": "10:00 AM to 4:00 PM",
+    "venue": "Cullman Elks Lodge 1609, 1525 Brantley Avenue NW",
+    "town": "Cullman",
+    "host": "Cullman Elks Lodge",
+    "summary": "A holiday craft fair with local vendors.",
+    "url": "https://events.timely.fun/b8354ob3/event/78419442/20261114100000",
+    "group": "Classes and Community",
+    "tags": [
+      "crafts",
+      "christmas",
+      "shopping"
+    ]
+  },
+  {
+    "name": "Run Run Rudolph",
+    "start": "2026-11-19",
+    "time": "5:00 PM to 8:00 PM",
+    "venue": "Sportsman Lake Park, 1544 Sportsman Lake Road NW",
+    "town": "Cullman",
+    "host": "Cullman Parks and Recreation",
+    "summary": "A holiday evening event at Sportsman Lake Park.",
+    "url": "https://events.timely.fun/b8354ob3/event/78487342/20261119170000",
+    "group": "Outdoors and Motorsports",
+    "tags": [
+      "run",
+      "christmas"
+    ]
+  },
+  {
+    "name": "Cullman Christkindlmarkt",
+    "start": "2026-11-19",
+    "time": "Thu to Sat 11 AM to 9 PM, Sun noon to 8 PM",
+    "venue": "Depot Park, downtown Cullman",
+    "town": "Cullman",
+    "host": "Cullman Christkindlmarkt",
+    "summary": "A German style Christmas market downtown. It runs through December 23, is closed Thanksgiving Day and opens seven days a week starting December 10. Admission and parking are free.",
+    "url": "https://events.timely.fun/b8354ob3/event/78427143/20261119000000",
+    "group": "Fairs and Festivals",
+    "end": "2026-12-23",
+    "cost": "Free",
+    "tags": [
+      "christmas",
+      "market",
+      "downtown",
+      "free"
+    ]
+  },
+  {
+    "name": "24th Annual Winter Wonderland",
+    "start": "2026-11-20",
+    "time": "5:00 PM to 9:00 PM",
+    "venue": "Sportsman Lake Park, 1544 Sportsman Lake Road NW",
+    "town": "Cullman",
+    "host": "Cullman Parks and Recreation",
+    "summary": "Holiday lights and fun at Sportsman Lake Park. Check the calendar for the nights it is open through December 11.",
+    "url": "https://events.timely.fun/b8354ob3/event/78473214/20261120170000",
+    "group": "Fairs and Festivals",
+    "end": "2026-12-11",
+    "tags": [
+      "christmas",
+      "lights",
+      "family"
+    ]
+  },
+  {
+    "name": "Town of South Vinemont Thanksgiving Dinner",
+    "start": "2026-11-21",
+    "time": "11:00 AM to 1:00 PM",
+    "town": "South Vinemont",
+    "host": "Town of South Vinemont",
+    "summary": "A community Thanksgiving dinner hosted by the town.",
+    "url": "https://events.timely.fun/b8354ob3/event/78491674/20261121110000",
+    "group": "Classes and Community",
+    "tags": [
+      "thanksgiving",
+      "community"
+    ]
+  },
+  {
+    "name": "The Nutcracker with Ballet South",
+    "start": "2026-11-21",
+    "end": "2026-11-22",
+    "time": "2:00 PM and 7:00 PM Nov. 21, 2:00 PM Nov. 22",
+    "venue": "Betty Leeth Haynes Theatre, Wallace State Community College, 801 Main Street NW",
+    "town": "Hanceville",
+    "host": "Ballet South at Wallace State",
+    "cost": "$15 for adults, $10 for children",
+    "summary": "Ballet South brings its yearly production of Tchaikovsky's holiday classic to the Wallace State stage.",
+    "url": "https://www.cullmantribune.com/2026/10/21/wallace-state-releases-performing-arts-schedule-for-2026-2027-season/",
+    "group": "Arts, Music and Theater",
+    "tags": [
+      "ballet",
+      "christmas",
+      "family"
+    ]
+  },
+  {
+    "name": "Festival of Trees",
+    "start": "2026-12-03",
+    "time": "5:00 PM",
+    "end": "2026-12-27",
+    "venue": "Cullman Wellness & Aquatic Center, 1636 Field Of Miracles Drive",
+    "town": "Cullman",
+    "host": "City of Cullman Tree Commission",
+    "summary": "Christmas trees decorated by local school students and the Cullman County Public Library. The opening ceremony is December 3 at 5 PM, and the trees stay on display free from December 4 to 27 during the center's regular hours.",
+    "url": "https://www.cullmantribune.com/2026/10/23/cullman-tree-commission-prepares-for-2026-festival-of-trees/",
+    "group": "Fairs and Festivals",
+    "tags": [
+      "christmas",
+      "holiday",
+      "family",
+      "free"
+    ]
+  },
+  {
+    "name": "Wallace State Christmas Spectacular",
+    "start": "2026-12-10",
+    "time": "7:00 PM",
+    "venue": "Betty Leeth Haynes Theatre, Wallace State Community College, 801 Main Street NW",
+    "town": "Hanceville",
+    "host": "Wallace State Fine and Performing Arts",
+    "cost": "Free",
+    "summary": "Every Wallace State performing arts group shares the stage for a free holiday concert.",
+    "url": "https://www.cullmantribune.com/2026/10/21/wallace-state-releases-performing-arts-schedule-for-2026-2027-season/",
+    "group": "Arts, Music and Theater",
+    "tags": [
+      "christmas",
+      "concert",
+      "free",
+      "wallace state"
+    ]
+  },
+  {
+    "name": "Senior Christmas Party",
+    "start": "2026-12-18",
+    "time": "10:00 AM",
+    "venue": "The Omniplex, 1634 Field of Miracles Drive SW",
+    "town": "Cullman",
+    "host": "Cullman County Commission on Aging",
+    "summary": "The Commission on Aging hosts its Christmas party for seniors at the Omniplex. The Tourism calendar lists it as free.",
+    "url": "https://events.timely.fun/b8354ob3/event/78491656/20261218100000",
+    "group": "Classes and Community",
+    "cost": "Free",
+    "tags": [
+      "seniors",
+      "christmas",
+      "free"
+    ]
+  },
+  {
+    "name": "A Night at the Masters, Clubhouse Edition",
+    "start": "2027-04-10",
+    "venue": "Cotton Creek Venue, 417 3rd Avenue SW",
+    "town": "Cullman",
+    "host": "Flourish of Cullman",
+    "summary": "A Masters themed fundraiser for Flourish of Cullman. Check the calendar listing closer to the date for the start time.",
+    "url": "https://events.timely.fun/b8354ob3/event/78487345/20270410000000",
+    "group": "Classes and Community",
+    "tags": [
+      "fundraiser",
+      "golf",
+      "nonprofit"
+    ]
+  }
 ]
