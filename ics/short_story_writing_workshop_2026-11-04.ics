@@ -23,7 +23,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:short_story_writing_workshop-20261104@cullman-county-entertainment-sh
  opping
-DTSTAMP:20261030T120000Z
+DTSTAMP:20261031T120000Z
 DTSTART;TZID=America/Chicago:20261104T160000
 DTEND;TZID=America/Chicago:20261104T180000
 SUMMARY:Short Story Writing Workshop

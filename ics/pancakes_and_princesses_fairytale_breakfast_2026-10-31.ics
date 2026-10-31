@@ -23,7 +23,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:pancakes_and_princesses_fairytale_breakfast-20261031@cullman-county-e
  ntertainment-shopping
-DTSTAMP:20261030T120000Z
+DTSTAMP:20261031T120000Z
 DTSTART;TZID=America/Chicago:20261031T090000
 DTEND;TZID=America/Chicago:20261031T110000
 SUMMARY:Pancakes and Princesses Fairytale Breakfast

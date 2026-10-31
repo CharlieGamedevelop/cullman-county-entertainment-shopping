@@ -23,7 +23,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:book_signing_with_jim_humiston-20261031@cullman-county-entertainment-
  shopping
-DTSTAMP:20261030T120000Z
+DTSTAMP:20261031T120000Z
 DTSTART;TZID=America/Chicago:20261031T100000
 DTEND;TZID=America/Chicago:20261031T140000
 SUMMARY:Book Signing with Jim Humiston

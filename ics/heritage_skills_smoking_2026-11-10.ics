@@ -23,7 +23,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:heritage_skills_smoking-20261110@cullman-county-entertainment-shoppin
  g
-DTSTAMP:20261030T120000Z
+DTSTAMP:20261031T120000Z
 DTSTART;TZID=America/Chicago:20261110T180000
 DTEND;TZID=America/Chicago:20261110T200000
 SUMMARY:Heritage Skills: Smoking

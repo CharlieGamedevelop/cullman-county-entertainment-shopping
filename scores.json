@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T22:40:00-05:00",
+ "updated": "2026-10-31T06:45:00-05:00",
  "teams": {
   "cullman": {
    "name": "Cullman",
@@ -596,13 +596,29 @@
    "venue": "Cherokee County, Centre",
    "home": "cherokee-county",
    "away": "fairview",
-   "status": "Upcoming",
-   "score": null,
-   "line": null,
-   "note": "Kickoff time not confirmed yet. Most Friday games start at 7 p.m.",
+   "status": "Final",
+   "score": {
+    "home": 42,
+    "away": 14
+   },
+   "line": {
+    "home": [
+     14,
+     14,
+     14,
+     0
+    ],
+    "away": [
+     14,
+     0,
+     0,
+     0
+    ]
+   },
+   "note": "Class 4A, Region 8 finale. Fairview finished 5 and 4 overall and 4 and 4 in the region. Cherokee County earned the No. 2 seed and hosts a playoff game Nov 6.",
    "source": {
     "name": "The Cullman Tribune",
-    "url": "https://www.cullmantribune.com/2026/10/28/prep-football-good-hope-eyes-region-title-as-cold-springs-opens-regular-season-finales-thursday/"
+    "url": "https://www.cullmantribune.com/2026/10/31/prep-football-fairviews-season-ends-with-42-14-loss-to-cherokee-county/"
    }
   },
   {
@@ -1074,13 +1090,16 @@
    "venue": "Scottsboro",
    "home": "scottsboro",
    "away": "good-hope",
-   "status": "Upcoming",
-   "score": null,
+   "status": "Final",
+   "score": {
+    "home": 49,
+    "away": 14
+   },
    "line": null,
-   "note": "Class 4A, Region 8 finale at unbeaten Scottsboro. A Good Hope win keeps a region title within reach.",
+   "note": "Class 4A, Region 8 finale. Good Hope finished 7 and 3 and third in the region, so the playoffs open on the road Nov 6. Scottsboro finished 10 and 0 as region champion.",
    "source": {
     "name": "The Cullman Tribune",
-    "url": "https://www.cullmantribune.com/2026/10/28/prep-football-good-hope-eyes-region-title-as-cold-springs-opens-regular-season-finales-thursday/"
+    "url": "https://www.cullmantribune.com/2026/10/30/prep-football-good-hope-falls-to-no-2-scottsboro-49-14-in-regular-season-finale/"
    }
   },
   {
@@ -1115,13 +1134,29 @@
    "venue": "Falkville",
    "home": "falkville",
    "away": "holly-pond",
-   "status": "Upcoming",
-   "score": null,
-   "line": null,
-   "note": "Regular season finale at 7 p.m.",
+   "status": "Final",
+   "score": {
+    "home": 38,
+    "away": 6
+   },
+   "line": {
+    "home": [
+     6,
+     8,
+     16,
+     8
+    ],
+    "away": [
+     0,
+     0,
+     6,
+     0
+    ]
+   },
+   "note": "Season finale. Holly Pond finished 2 and 8; Falkville ended at 5 and 5.",
    "source": {
     "name": "The Cullman Tribune",
-    "url": "https://www.cullmantribune.com/2026/10/28/prep-football-good-hope-eyes-region-title-as-cold-springs-opens-regular-season-finales-thursday/"
+    "url": "https://www.cullmantribune.com/2026/10/31/prep-football-holly-pond-ends-season-with-38-6-loss-at-falkville/"
    }
   },
   {
