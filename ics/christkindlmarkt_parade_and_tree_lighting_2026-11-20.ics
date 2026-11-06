@@ -23,7 +23,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:christkindlmarkt_parade_and_tree_lighting-20261120@cullman-county-ent
  ertainment-shopping
-DTSTAMP:20261105T120000Z
+DTSTAMP:20261106T120000Z
 DTSTART;TZID=America/Chicago:20261120T183000
 DTEND;TZID=America/Chicago:20261120T203000
 SUMMARY:Christkindlmarkt Parade and Tree Lighting

@@ -1,5 +1,24 @@
 [
   {
+    "name": "Sydni Helms-Hipp Memorial Barrel Race",
+    "start": "2026-11-06",
+    "end": "2026-11-07",
+    "time": "Night ride 4:00 PM to 8:00 PM Fri Nov. 6; gates 7:00 AM Sat Nov. 7, exhibitions 8:00 AM to noon, then competition",
+    "venue": "Cullman County Agricultural Trade Center, 17645 U.S. Highway 31",
+    "town": "Cullman",
+    "host": "Sydni Helms-Hipp Memorial Scholarship Fund",
+    "cost": "Night ride $10 per rider; spectator admission $5 Saturday; exhibition runs $5",
+    "summary": "The fourth annual memorial barrel race raises money for a scholarship fund. Friday brings a paid night ride. Saturday opens with exhibitions, then peewee, youth, open barrels and poles, plus raffles and a ticket auction.",
+    "url": "https://www.cullmantribune.com/2026/11/05/4th-annual-sydni-helms-hipp-memorial-barrel-race-this-saturday-nov-7/",
+    "group": "Outdoors and Motorsports",
+    "tags": [
+      "barrel race",
+      "scholarship",
+      "agricultural trade center",
+      "horses"
+    ]
+  },
+  {
     "name": "Much Ado About Nothing at Wallace State",
     "start": "2026-11-06",
     "end": "2026-11-08",
@@ -15,40 +34,6 @@
       "theater",
       "wallace state",
       "shakespeare"
-    ]
-  },
-  {
-    "name": "Farm Kids Club: Kitchen Scrap Garden",
-    "start": "2026-11-07",
-    "time": "10:00 AM to 11:30 AM",
-    "venue": "North Alabama Agriplex, 1714 Tally Ho Street",
-    "town": "Cullman",
-    "host": "North Alabama Agriplex",
-    "summary": "Kids learn how to start a garden from kitchen scraps.",
-    "url": "https://events.timely.fun/b8354ob3/event/78497587/20261107100000",
-    "group": "Classes and Community",
-    "tags": [
-      "kids",
-      "gardening",
-      "class"
-    ]
-  },
-  {
-    "name": "Cipollari Live: A Fundraiser for the Randy Travis Foundation",
-    "start": "2026-11-07",
-    "time": "6:00 PM to 8:00 PM",
-    "venue": "Terri Pines Country Club, 700 Pine Hill Drive",
-    "town": "Cullman",
-    "host": "Cipollari",
-    "summary": "Cipollari, a bluegrass band of six siblings from Hanceville, plays a benefit show for the Randy Travis Foundation. Tickets are free, but you need to reserve one through the link in the Cullman Tribune story.",
-    "url": "https://www.cullmantribune.com/2026/10/16/hancevilles-cipollari-siblings-to-play-randy-travis-foundation-fundraiser-nov-7-at-terri-pines/",
-    "group": "Arts, Music and Theater",
-    "cost": "Free with ticket",
-    "tags": [
-      "bluegrass",
-      "music",
-      "fundraiser",
-      "free"
     ]
   },
   {
@@ -72,6 +57,58 @@
     ]
   },
   {
+    "name": "Cipollari Live: A Fundraiser for the Randy Travis Foundation",
+    "start": "2026-11-07",
+    "time": "6:00 PM to 8:00 PM",
+    "venue": "Terri Pines Country Club, 700 Pine Hill Drive",
+    "town": "Cullman",
+    "host": "Cipollari",
+    "summary": "Cipollari, a bluegrass band of six siblings from Hanceville, plays a benefit show for the Randy Travis Foundation. Tickets are free, but you need to reserve one through the link in the Cullman Tribune story.",
+    "url": "https://www.cullmantribune.com/2026/10/16/hancevilles-cipollari-siblings-to-play-randy-travis-foundation-fundraiser-nov-7-at-terri-pines/",
+    "group": "Arts, Music and Theater",
+    "cost": "Free with ticket",
+    "tags": [
+      "bluegrass",
+      "music",
+      "fundraiser",
+      "free"
+    ]
+  },
+  {
+    "name": "Cullman County Veterans Day Celebration and Air Show",
+    "start": "2026-11-07",
+    "time": "9:00 AM to 3:00 PM",
+    "venue": "Cullman Regional Airport",
+    "town": "Vinemont",
+    "host": "Cullman County Veterans Day Celebration",
+    "cost": "Free admission and parking",
+    "summary": "The annual airport celebration honors veterans with flyovers, skydiving, living history displays and aircraft you can see up close, including a P-51 Mustang, SBD Dauntless, Huey helicopter and C-47 Skytrain. Retired Army pilot Mike Durant is scheduled to appear.",
+    "url": "https://cullmantimes.com/2026/11/04/veterans-day-celebrations-kick-off-this-weekend-with-slate-of-events/",
+    "group": "Fairs and Festivals",
+    "tags": [
+      "veterans",
+      "airport",
+      "air show",
+      "military"
+    ]
+  },
+  {
+    "name": "Farm Kids Club: Kitchen Scrap Garden",
+    "start": "2026-11-07",
+    "time": "10:00 AM to 11:30 AM",
+    "venue": "North Alabama Agriplex, 1714 Tally Ho Street",
+    "town": "Cullman",
+    "host": "North Alabama Agriplex",
+    "summary": "Kids learn how to start a garden from kitchen scraps.",
+    "url": "https://events.timely.fun/b8354ob3/event/78497587/20261107100000",
+    "group": "Classes and Community",
+    "tags": [
+      "kids",
+      "gardening",
+      "class"
+    ]
+  },
+  {
     "name": "Sportsworld Adult Old School Skate",
     "start": "2026-11-08",
     "time": "6:00 PM to 9:00 PM",
@@ -84,6 +121,24 @@
     "tags": [
       "skating",
       "adults"
+    ]
+  },
+  {
+    "name": "Veterans Day Fireworks at Good Hope Park",
+    "start": "2026-11-08",
+    "time": "Gates 2:30 PM, festivities 3:00 PM",
+    "venue": "Good Hope Park, 135 Municipal Drive",
+    "town": "Good Hope",
+    "host": "Branded by Christ Cowboy Church",
+    "cost": "Check with the host for details",
+    "summary": "Branded by Christ Cowboy Church brings a Veterans Day fireworks extravaganza to Good Hope Park after the church's Fourth of July celebration was canceled earlier this year. Gates open at 2:30 p.m. and festivities begin at 3 p.m.",
+    "url": "https://cullmantimes.com/2026/11/04/veterans-day-celebrations-kick-off-this-weekend-with-slate-of-events/",
+    "group": "Fairs and Festivals",
+    "tags": [
+      "veterans",
+      "fireworks",
+      "good hope",
+      "family"
     ]
   },
   {
@@ -200,6 +255,23 @@
     ]
   },
   {
+    "name": "Christkindlmarkt Parade and Tree Lighting",
+    "start": "2026-11-20",
+    "time": "6:30 PM parade, 8:00 PM tree lighting",
+    "venue": "Depot Park and downtown Cullman, 107 Arnold Street NW",
+    "town": "Cullman",
+    "host": "Cullman Christkindlmarkt",
+    "summary": "The Christkindlmarkt Parade rolls through downtown at 6:30 p.m. The Christmas tree lighting, light show and fireworks follow at 8 p.m. Free to watch.",
+    "url": "https://www.cullmanchristkindlmarkt.com/",
+    "group": "Fairs and Festivals",
+    "tags": [
+      "christmas",
+      "parade",
+      "family",
+      "christkindlmarkt"
+    ]
+  },
+  {
     "name": "24th Annual Winter Wonderland",
     "start": "2026-11-20",
     "time": "5:00 PM to 9:00 PM",
@@ -217,20 +289,19 @@
     ]
   },
   {
-    "name": "Christkindlmarkt Parade and Tree Lighting",
-    "start": "2026-11-20",
-    "time": "6:30 PM parade, 8:00 PM tree lighting",
-    "venue": "Depot Park and downtown Cullman, 107 Arnold Street NW",
+    "name": "Drive Through Food Bank at Spirit Life Church",
+    "start": "2026-11-21",
+    "time": "9:00 AM to 11:00 AM",
+    "venue": "Spirit Life Church, 1650 St. Joseph Drive NW",
     "town": "Cullman",
-    "host": "Cullman Christkindlmarkt",
-    "summary": "The Christkindlmarkt Parade rolls through downtown at 6:30 p.m. The Christmas tree lighting, light show and fireworks follow at 8 p.m. Free to watch.",
-    "url": "https://www.cullmanchristkindlmarkt.com/",
-    "group": "Fairs and Festivals",
+    "host": "Spirit Life Church / Cullman Area Chamber calendar",
+    "summary": "Drive through for a free box of food. No ID is required. Complete a one page form once a year that says you need food help. Volunteers load the box into your vehicle. Held the third Saturday of the month from 9 to 11 a.m. Call 256-739-3326 with questions.",
+    "url": "https://business.cullmanchamber.org/events/details/drive-through-food-bank-11-21-2026-23789",
+    "group": "Classes and Community",
     "tags": [
-      "christmas",
-      "parade",
-      "family",
-      "christkindlmarkt"
+      "food bank",
+      "community",
+      "free"
     ]
   },
   {
@@ -263,22 +334,6 @@
       "ballet",
       "christmas",
       "family"
-    ]
-  },
-  {
-    "name": "Drive Through Food Bank at Spirit Life Church",
-    "start": "2026-11-21",
-    "time": "9:00 AM to 11:00 AM",
-    "venue": "Spirit Life Church, 1650 St. Joseph Drive NW",
-    "town": "Cullman",
-    "host": "Spirit Life Church / Cullman Area Chamber calendar",
-    "summary": "Drive through for a free box of food. No ID is required. Complete a one page form once a year that says you need food help. Volunteers load the box into your vehicle. Held the third Saturday of the month from 9 to 11 a.m. Call 256-739-3326 with questions.",
-    "url": "https://business.cullmanchamber.org/events/details/drive-through-food-bank-11-21-2026-23789",
-    "group": "Classes and Community",
-    "tags": [
-      "food bank",
-      "community",
-      "free"
     ]
   },
   {
