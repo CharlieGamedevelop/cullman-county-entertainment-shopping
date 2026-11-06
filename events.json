@@ -1,193 +1,5 @@
 [
   {
-    "name": "Scarecrow Trail",
-    "start": "2026-10-17",
-    "town": "Cullman",
-    "host": "Cullman County Tourism calendar",
-    "summary": "The Scarecrow Trail is up through October 31. Open the calendar link for the details.",
-    "url": "https://events.timely.fun/b8354ob3/event/78453804/20261017000000",
-    "group": "Fall Fun and Halloween",
-    "end": "2026-10-31",
-    "tags": [
-      "fall",
-      "scarecrows",
-      "family"
-    ]
-  },
-  {
-    "name": "Halloween Double Trouble Weekend",
-    "start": "2026-10-30",
-    "end": "2026-10-31",
-    "venue": "Baileyton Drag Strip, 1500 Summit Road",
-    "town": "Baileyton",
-    "host": "Cullman County Tourism calendar",
-    "summary": "A Halloween weekend at Baileyton Drag Strip on Friday and Saturday.",
-    "url": "https://events.timely.fun/b8354ob3/event/78497582/20261030000000",
-    "group": "Outdoors and Motorsports",
-    "tags": [
-      "racing",
-      "drag strip",
-      "baileyton"
-    ]
-  },
-  {
-    "name": "Book Signing with Jim Humiston",
-    "start": "2026-10-31",
-    "time": "10:00 AM to 2:00 PM",
-    "venue": "Yates Chance Christian Bookstore, 1650 2nd Avenue SW",
-    "town": "Cullman",
-    "host": "Yates Chance Christian Bookstore",
-    "summary": "Meet author Jim Humiston and get a signed book.",
-    "url": "https://events.timely.fun/b8354ob3/event/78497557/20261031100000",
-    "group": "Classes and Community",
-    "tags": [
-      "books",
-      "author"
-    ]
-  },
-  {
-    "name": "Evolutions Advanced Shuffle Skate",
-    "start": "2026-10-31",
-    "time": "5:00 PM to 11:30 PM",
-    "venue": "Sportsworld Skate Center, 90 County Road 1223",
-    "town": "Cullman",
-    "host": "Sportsworld Skate Center",
-    "summary": "An advanced shuffle skating session at Sportsworld.",
-    "url": "https://events.timely.fun/b8354ob3/event/78451917/20261031170000",
-    "group": "Outdoors and Motorsports",
-    "tags": [
-      "skating"
-    ]
-  },
-  {
-    "name": "Baileyton's Harvest at the Park",
-    "start": "2026-10-31",
-    "time": "5:00 PM to 7:00 PM",
-    "venue": "Baileyton Town Park, 55 Fire Station Road",
-    "town": "Baileyton",
-    "host": "Town of Baileyton",
-    "summary": "A fall harvest gathering at the Baileyton town park on Halloween evening.",
-    "url": "https://events.timely.fun/b8354ob3/event/78487000/20261031170000",
-    "group": "Fall Fun and Halloween",
-    "tags": [
-      "fall",
-      "halloween",
-      "baileyton"
-    ]
-  },
-  {
-    "name": "Berlin Farmer's Market Community Trick or Treat",
-    "start": "2026-10-31",
-    "time": "6:00 PM to 8:00 PM",
-    "venue": "Berlin Farmer's Market, 50 Mt. Carmel Drive",
-    "town": "Berlin",
-    "host": "Berlin Farmer's Market",
-    "summary": "The yearly community trick or treat at the Berlin market. Local churches have filled every trunk bay, and parking questions can go to Berlin Town Hall at (256) 736-3138.",
-    "url": "https://events.timely.fun/b8354ob3/event/78451908/20261031180000",
-    "group": "Fall Fun and Halloween",
-    "tags": [
-      "trick or treat",
-      "kids",
-      "berlin"
-    ]
-  },
-  {
-    "name": "Campoween at Smith Lake Park",
-    "start": "2026-10-31",
-    "time": "6:00 PM to 8:00 PM",
-    "venue": "Smith Lake Park",
-    "town": "Cullman",
-    "host": "Smith Lake Park",
-    "summary": "Halloween night at the Smith Lake Park campground.",
-    "url": "https://events.timely.fun/b8354ob3/event/78354029/20261031180000",
-    "group": "Fall Fun and Halloween",
-    "tags": [
-      "halloween",
-      "camping",
-      "smith lake"
-    ]
-  },
-  {
-    "name": "Cullman Elks Lodge Halloween Party",
-    "start": "2026-10-31",
-    "time": "6:00 PM to 8:00 PM",
-    "venue": "Cullman Elks Lodge 1609, 1525 Brantley Avenue NW",
-    "town": "Cullman",
-    "host": "Cullman Elks Lodge",
-    "summary": "A Halloween party at the Elks Lodge.",
-    "url": "https://events.timely.fun/b8354ob3/event/78491639/20261031180000",
-    "group": "Fall Fun and Halloween",
-    "tags": [
-      "halloween",
-      "party"
-    ]
-  },
-  {
-    "name": "An Evening with Poe",
-    "start": "2026-11-02",
-    "time": "5:00 PM cocktail hour, readings at 6:00 PM",
-    "venue": "Jubilee Kitchen and Bar, 515 4th Street SW",
-    "town": "Cullman",
-    "host": "Jubilee Kitchen and Bar with the Cullman County Public Library",
-    "summary": "Readings of four famous Edgar Allan Poe works in Jubilee's dining room. Reserve online through Jubilee with a credit card; no shows and cancellations within 48 hours are charged $35 each. Guests must be 21 or older for cocktails.",
-    "url": "https://www.cullmantribune.com/2026/10/27/jubilee-county-library-hosting-an-evening-with-poe-nov-2/",
-    "group": "Arts, Music and Theater",
-    "tags": [
-      "poe",
-      "readings",
-      "library",
-      "downtown"
-    ]
-  },
-  {
-    "name": "Living Landscapes: Houseplant Care",
-    "start": "2026-11-03",
-    "time": "6:00 PM to 8:00 PM",
-    "venue": "North Alabama Agriplex, 1714 Tally Ho Street",
-    "town": "Cullman",
-    "host": "North Alabama Agriplex",
-    "summary": "Learn how to keep houseplants healthy.",
-    "url": "https://events.timely.fun/b8354ob3/event/78492688/20261103180000",
-    "group": "Classes and Community",
-    "tags": [
-      "plants",
-      "class"
-    ]
-  },
-  {
-    "name": "Short Story Writing Workshop",
-    "start": "2026-11-04",
-    "time": "4:00 PM",
-    "venue": "Cullman County Public Library, 200 Clark Street NE",
-    "town": "Cullman",
-    "host": "Cullman County Public Library",
-    "summary": "A free writing workshop for adults and students in grade 5 and up, part of the library's November short story challenge for all ages (entries due Nov. 25).",
-    "url": "https://www.cullmantribune.com/2026/10/29/cullman-county-public-library-invites-writers-of-all-ages-to-short-story-challenge/",
-    "group": "Arts, Music and Theater",
-    "tags": [
-      "writing",
-      "library",
-      "free",
-      "workshop"
-    ]
-  },
-  {
-    "name": "Little Farmer: Soil",
-    "start": "2026-11-05",
-    "time": "10:00 AM to 11:00 AM",
-    "venue": "North Alabama Agriplex, 1714 Tally Ho Street",
-    "town": "Cullman",
-    "host": "North Alabama Agriplex",
-    "summary": "A morning program for young children about soil.",
-    "url": "https://events.timely.fun/b8354ob3/event/78492689/20261105100000",
-    "group": "Classes and Community",
-    "tags": [
-      "kids",
-      "farming",
-      "class"
-    ]
-  },
-  {
     "name": "Much Ado About Nothing at Wallace State",
     "start": "2026-11-06",
     "end": "2026-11-08",
@@ -371,11 +183,11 @@
   {
     "name": "Cullman Christkindlmarkt",
     "start": "2026-11-19",
-    "time": "Thu to Sat 11 AM to 9 PM, Sun noon to 8 PM",
+    "time": "Thu to Sat 11 AM to 9 PM, Sun noon to 8 PM; daily from Dec. 10",
     "venue": "Depot Park, downtown Cullman",
     "town": "Cullman",
     "host": "Cullman Christkindlmarkt",
-    "summary": "A German style Christmas market downtown. It runs through December 23, is closed Thanksgiving Day and opens seven days a week starting December 10. Admission and parking are free.",
+    "summary": "Alabama German Christmas market at Depot Park from Nov. 19 through Dec. 23. Free admission. Hours are Thursday to Saturday 11 a.m. to 9 p.m. and Sunday noon to 8 p.m., then open daily starting Dec. 10. Grand opening and Christmas Pyramid lighting are Thursday, Nov. 19, at 6 p.m. The Christkindlmarkt Parade is Friday, Nov. 20, at 6:30 p.m., with the tree lighting and fireworks at 8 p.m. Closed Thanksgiving Day.",
     "url": "https://events.timely.fun/b8354ob3/event/78427143/20261119000000",
     "group": "Fairs and Festivals",
     "end": "2026-12-23",
@@ -402,6 +214,23 @@
       "christmas",
       "lights",
       "family"
+    ]
+  },
+  {
+    "name": "Christkindlmarkt Parade and Tree Lighting",
+    "start": "2026-11-20",
+    "time": "6:30 PM parade, 8:00 PM tree lighting",
+    "venue": "Depot Park and downtown Cullman, 107 Arnold Street NW",
+    "town": "Cullman",
+    "host": "Cullman Christkindlmarkt",
+    "summary": "The Christkindlmarkt Parade rolls through downtown at 6:30 p.m. The Christmas tree lighting, light show and fireworks follow at 8 p.m. Free to watch.",
+    "url": "https://www.cullmanchristkindlmarkt.com/",
+    "group": "Fairs and Festivals",
+    "tags": [
+      "christmas",
+      "parade",
+      "family",
+      "christkindlmarkt"
     ]
   },
   {
@@ -434,6 +263,22 @@
       "ballet",
       "christmas",
       "family"
+    ]
+  },
+  {
+    "name": "Drive Through Food Bank at Spirit Life Church",
+    "start": "2026-11-21",
+    "time": "9:00 AM to 11:00 AM",
+    "venue": "Spirit Life Church, 1650 St. Joseph Drive NW",
+    "town": "Cullman",
+    "host": "Spirit Life Church / Cullman Area Chamber calendar",
+    "summary": "Drive through for a free box of food. No ID is required. Complete a one page form once a year that says you need food help. Volunteers load the box into your vehicle. Held the third Saturday of the month from 9 to 11 a.m. Call 256-739-3326 with questions.",
+    "url": "https://business.cullmanchamber.org/events/details/drive-through-food-bank-11-21-2026-23789",
+    "group": "Classes and Community",
+    "tags": [
+      "food bank",
+      "community",
+      "free"
     ]
   },
   {

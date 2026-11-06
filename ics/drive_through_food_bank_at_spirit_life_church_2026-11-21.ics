@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cullman County Entertainment and Shopping//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:drive_through_food_bank_at_spirit_life_church-20261121@cullman-county
+ -entertainment-shopping
+DTSTAMP:20261105T120000Z
+DTSTART;TZID=America/Chicago:20261121T090000
+DTEND;TZID=America/Chicago:20261121T110000
+SUMMARY:Drive Through Food Bank at Spirit Life Church
+LOCATION:Spirit Life Church\, 1650 St. Joseph Drive NW\, Cullman\, AL
+DESCRIPTION:Drive through for a free box of food. No ID is required. Comp
+ lete a one page form once a year that says you need food help. Volunteers
+  load the box into your vehicle. Held the third Saturday of the month fro
+ m 9 to 11 a.m. Call 256-739-3326 with questions. Time: 9:00 AM to 11:00 A
+ M. https://business.cullmanchamber.org/events/details/drive-through-food-
+ bank-11-21-2026-23789
+URL:https://business.cullmanchamber.org/events/details/drive-through-food
+ -bank-11-21-2026-23789
+END:VEVENT
+END:VCALENDAR

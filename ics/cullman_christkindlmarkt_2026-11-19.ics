@@ -23,16 +23,19 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:cullman_christkindlmarkt-20261119@cullman-county-entertainment-shoppi
  ng
-DTSTAMP:20261031T120000Z
+DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261224
 SUMMARY:Cullman Christkindlmarkt
 LOCATION:Depot Park\, downtown Cullman\, Cullman\, AL
-DESCRIPTION:A German style Christmas market downtown. It runs through Dec
- ember 23\, is closed Thanksgiving Day and opens seven days a week startin
- g December 10. Admission and parking are free. Time: Thu to Sat 11 AM to 
- 9 PM\, Sun noon to 8 PM. https://events.timely.fun/b8354ob3/event/7842714
- 3/20261119000000
+DESCRIPTION:Alabama German Christmas market at Depot Park from Nov. 19 th
+ rough Dec. 23. Free admission. Hours are Thursday to Saturday 11 a.m. to 
+ 9 p.m. and Sunday noon to 8 p.m.\, then open daily starting Dec. 10. Gran
+ d opening and Christmas Pyramid lighting are Thursday\, Nov. 19\, at 6 p.
+ m. The Christkindlmarkt Parade is Friday\, Nov. 20\, at 6:30 p.m.\, with 
+ the tree lighting and fireworks at 8 p.m. Closed Thanksgiving Day. Time: 
+ Thu to Sat 11 AM to 9 PM\, Sun noon to 8 PM\; daily from Dec. 10. https:/
+ /events.timely.fun/b8354ob3/event/78427143/20261119000000
 URL:https://events.timely.fun/b8354ob3/event/78427143/20261119000000
 END:VEVENT
 END:VCALENDAR

@@ -1,1182 +1,1238 @@
 {
- "updated": "2026-10-31T06:45:00-05:00",
- "teams": {
-  "cullman": {
-   "name": "Cullman",
-   "initials": "C",
-   "colors": [
-    "#111111",
-    "#c9a227"
-   ],
-   "text": "#ffffff"
-  },
-  "hanceville": {
-   "name": "Hanceville",
-   "initials": "H",
-   "colors": [
-    "#3b1466",
-    "#c0c4cc"
-   ],
-   "text": "#ffffff"
-  },
-  "good-hope": {
-   "name": "Good Hope",
-   "initials": "GH",
-   "colors": [
-    "#b3001e",
-    "#ffffff"
-   ],
-   "text": "#ffffff"
-  },
-  "vinemont": {
-   "name": "Vinemont",
-   "initials": "V",
-   "colors": [
-    "#b3001e",
-    "#ffffff"
-   ],
-   "text": "#ffffff"
-  },
-  "fairview": {
-   "name": "Fairview",
-   "initials": "F",
-   "colors": [
-    "#4b1f7a",
-    "#c9a227"
-   ],
-   "text": "#ffffff"
-  },
-  "holly-pond": {
-   "name": "Holly Pond",
-   "initials": "HP",
-   "colors": [
-    "#0b6b3a",
-    "#ffffff"
-   ],
-   "text": "#ffffff"
-  },
-  "west-point": {
-   "name": "West Point",
-   "initials": "WP",
-   "colors": [
-    "#6b1020",
-    "#ffffff"
-   ],
-   "text": "#ffffff"
-  },
-  "cold-springs": {
-   "name": "Cold Springs",
-   "initials": "CS",
-   "colors": [
-    "#0b3c8c",
-    "#c9a227"
-   ],
-   "text": "#ffffff"
-  },
-  "wallace": {
-   "name": "Wallace State",
-   "initials": "WS",
-   "colors": [
-    "#0f3068",
-    "#c94f03"
-   ],
-   "text": "#ffffff"
-  },
-  "parker": {
-   "name": "Parker",
-   "initials": "P",
-   "colors": [
-    "#4a5160",
-    "#d5d9e0"
-   ],
-   "text": "#ffffff"
-  },
-  "jackson-olin": {
-   "name": "Jackson Olin",
-   "initials": "JO",
-   "colors": [
-    "#4a5160",
-    "#d5d9e0"
-   ],
-   "text": "#ffffff"
-  },
-  "hokes-bluff": {
-   "name": "Hokes Bluff",
-   "initials": "HB",
-   "colors": [
-    "#4a5160",
-    "#d5d9e0"
-   ],
-   "text": "#ffffff"
-  },
-  "oneonta": {
-   "name": "Oneonta",
-   "initials": "O",
-   "colors": [
-    "#4a5160",
-    "#d5d9e0"
-   ],
-   "text": "#ffffff"
-  },
-  "cherokee-county": {
-   "name": "Cherokee County",
-   "initials": "CC",
-   "colors": [
-    "#4a5160",
-    "#d5d9e0"
-   ],
-   "text": "#ffffff"
-  },
-  "hayden": {
-   "name": "Hayden",
-   "initials": "H",
-   "colors": [
-    "#4a5160",
-    "#d5d9e0"
-   ],
-   "text": "#ffffff"
-  },
-  "glencoe": {
-   "name": "Glencoe",
-   "initials": "G",
-   "colors": [
-    "#4a5160",
-    "#d5d9e0"
-   ],
-   "text": "#ffffff"
-  },
-  "susan-moore": {
-   "name": "Susan Moore",
-   "initials": "SM",
-   "colors": [
-    "#4a5160",
-    "#d5d9e0"
-   ],
-   "text": "#ffffff"
-  },
-  "crossville": {
-   "name": "Crossville",
-   "initials": "C",
-   "colors": [
-    "#4a5160",
-    "#d5d9e0"
-   ],
-   "text": "#ffffff"
-  },
-  "etowah": {
-   "name": "Etowah",
-   "initials": "E",
-   "colors": [
-    "#4a5160",
-    "#d5d9e0"
-   ],
-   "text": "#ffffff"
-  },
-  "lawrence-county": {
-   "name": "Lawrence County",
-   "initials": "LC",
-   "colors": [
-    "#4a5160",
-    "#d5d9e0"
-   ],
-   "text": "#ffffff"
-  },
-  "deshler": {
-   "name": "Deshler",
-   "initials": "D",
-   "colors": [
-    "#4a5160",
-    "#d5d9e0"
-   ],
-   "text": "#ffffff"
-  },
-  "southeastern": {
-   "name": "Southeastern",
-   "initials": "S",
-   "colors": [
-    "#4a5160",
-    "#d5d9e0"
-   ],
-   "text": "#ffffff"
-  },
-  "carbon-hill": {
-   "name": "Carbon Hill",
-   "initials": "CH",
-   "colors": [
-    "#4a5160",
-    "#d5d9e0"
-   ],
-   "text": "#ffffff"
-  },
-  "lbw": {
-   "name": "Lurleen B. Wallace",
-   "initials": "LBW",
-   "colors": [
-    "#4a5160",
-    "#d5d9e0"
-   ],
-   "text": "#ffffff"
-  },
-  "illinois-central": {
-   "name": "Illinois Central",
-   "initials": "IC",
-   "colors": [
-    "#4a5160",
-    "#d5d9e0"
-   ],
-   "text": "#ffffff"
-  },
-  "calhoun": {
-   "name": "Calhoun",
-   "initials": "C",
-   "colors": [
-    "#4a5160",
-    "#d5d9e0"
-   ],
-   "text": "#ffffff"
-  },
-  "reid-state": {
-   "name": "Reid State",
-   "initials": "RS",
-   "colors": [
-    "#4a5160",
-    "#d5d9e0"
-   ],
-   "text": "#ffffff"
-  },
-  "southern-union": {
-   "name": "Southern Union",
-   "initials": "SU",
-   "colors": [
-    "#4a5160",
-    "#d5d9e0"
-   ],
-   "text": "#ffffff"
-  },
-  "satsuma": {
-   "name": "Satsuma",
-   "initials": "S",
-   "colors": [
-    "#4a5160",
-    "#d5d9e0"
-   ],
-   "text": "#ffffff"
-  },
-  "ariton": {
-   "name": "Ariton",
-   "initials": "A",
-   "colors": [
-    "#4a5160",
-    "#d5d9e0"
-   ],
-   "text": "#ffffff"
-  },
-  "west-morgan": {
-   "name": "West Morgan",
-   "initials": "WM",
-   "colors": [
-    "#4a5160",
-    "#d5d9e0"
-   ],
-   "text": "#ffffff"
-  },
-  "falkville": {
-   "name": "Falkville",
-   "initials": "F",
-   "colors": [
-    "#4a5160",
-    "#d5d9e0"
-   ],
-   "text": "#ffffff"
-  },
-  "scottsboro": {
-   "name": "Scottsboro",
-   "initials": "S",
-   "colors": [
-    "#4a5160",
-    "#d5d9e0"
-   ],
-   "text": "#ffffff"
-  },
-  "tanner": {
-   "name": "Tanner",
-   "initials": "T",
-   "colors": [
-    "#4a5160",
-    "#d5d9e0"
-   ],
-   "text": "#ffffff"
-  },
-  "elkmont": {
-   "name": "Elkmont",
-   "initials": "E",
-   "colors": [
-    "#4a5160",
-    "#d5d9e0"
-   ],
-   "text": "#ffffff"
-  },
-  "central-florence": {
-   "name": "Central Florence",
-   "initials": "CF",
-   "colors": [
-    "#4a5160",
-    "#d5d9e0"
-   ],
-   "text": "#ffffff"
-  }
- },
- "games": [
-  {
-   "id": "chs-1016",
-   "school": "cullman",
-   "label": "Cullman High Football",
-   "sport": "Football",
-   "period": "Q",
-   "start": "2026-10-16T19:00:00-05:00",
-   "venue": "Woodard Stadium, Cullman",
-   "home": "cullman",
-   "away": "parker",
-   "status": "Final",
-   "score": {
-    "home": 24,
-    "away": 42
-   },
-   "line": null,
-   "note": "Class 5A, Region 5.",
-   "source": {
-    "name": "The Cullman Tribune",
-    "url": "https://www.cullmantribune.com/2026/10/16/prep-football-cullmans-3rd-quarter-rally-falls-short-in-42-24-loss-to-parker/"
-   }
-  },
-  {
-   "id": "chs-1023",
-   "school": "cullman",
-   "label": "Cullman High Football",
-   "sport": "Football",
-   "period": "Q",
-   "start": "2026-10-23T19:00:00-05:00",
-   "venue": "Jackson Olin",
-   "home": "jackson-olin",
-   "away": "cullman",
-   "status": "Final",
-   "score": {
-    "home": 13,
-    "away": 42
-   },
-   "line": {
-    "home": [
-     7,
-     0,
-     6,
-     0
-    ],
-    "away": [
-     7,
-     14,
-     14,
-     7
-    ]
-   },
-   "note": "Class 5A, Region 5. Snapped a five game losing streak. Cullman is 3 and 6.",
-   "source": {
-    "name": "The Cullman Tribune",
-    "url": "https://www.cullmantribune.com/2026/10/23/prep-football-cullman-pulls-away-from-jackson-olin-for-42-13-road-win/"
-   }
-  },
-  {
-   "id": "hhs-fb-2026-10-15",
-   "school": "hanceville",
-   "label": "Hanceville High Football",
-   "sport": "Football",
-   "period": "Q",
-   "start": "2026-10-15T19:00:00-05:00",
-   "venue": "Ray Talley Stadium, Hanceville",
-   "home": "hanceville",
-   "away": "hokes-bluff",
-   "status": "Final",
-   "score": {
-    "home": 8,
-    "away": 49
-   },
-   "line": null,
-   "note": "Class 3A, Region 6. Moved to Thursday for fall break.",
-   "source": {
-    "name": "The Cullman Times",
-    "url": "https://cullmantimes.com/2026/10/15/prep-football-fairview-cruises-to-win-over-crossville-hanceville-falls-to-hokes-bluff/"
-   }
-  },
-  {
-   "id": "hhs-fb-2026-10-23",
-   "school": "hanceville",
-   "label": "Hanceville High Football",
-   "sport": "Football",
-   "period": "Q",
-   "start": "2026-10-23T19:00:00-05:00",
-   "venue": "Ray Talley Stadium, Hanceville",
-   "home": "hanceville",
-   "away": "oneonta",
-   "status": "Final",
-   "score": {
-    "home": 0,
-    "away": 62
-   },
-   "line": {
-    "home": [
-     0,
-     0,
-     0,
-     0
-    ],
-    "away": [
-     35,
-     21,
-     0,
-     6
-    ]
-   },
-   "note": "Class 3A, Region 6 finale.",
-   "source": {
-    "name": "The Cullman Tribune",
-    "url": "https://www.cullmantribune.com/2026/10/23/prep-football-oneonta-shuts-out-hanceville-62-0/"
-   }
-  },
-  {
-   "id": "hhs-fb-2026-10-30",
-   "school": "hanceville",
-   "label": "Hanceville High Football",
-   "sport": "Football",
-   "period": "Q",
-   "start": "2026-10-30T19:00:00-05:00",
-   "venue": "Elkmont",
-   "home": "elkmont",
-   "away": "hanceville",
-   "status": "Final",
-   "score": {
-    "home": 48,
-    "away": 8
-   },
-   "line": null,
-   "source": {
-    "name": "The Cullman Tribune",
-    "url": "https://www.cullmantribune.com/2026/10/30/prep-football-hanceville-closes-season-with-48-8-loss-at-elkmont/"
-   },
-   "note": "Season finale. Hanceville finished 0 and 10; Elkmont closed at 2 and 8."
-  },
-  {
-   "id": "gh-1016",
-   "school": "good-hope",
-   "label": "Good Hope High Football",
-   "sport": "Football",
-   "period": "Q",
-   "start": "2026-10-16T19:00:00-05:00",
-   "venue": "Cherokee County, Centre",
-   "home": "cherokee-county",
-   "away": "good-hope",
-   "status": "Final",
-   "score": {
-    "home": 40,
-    "away": 21
-   },
-   "line": {
-    "home": [
-     7,
-     13,
-     7,
-     13
-    ],
-    "away": [
-     7,
-     7,
-     7,
-     0
-    ]
-   },
-   "note": "Class 4A, Region 8. Reported score.",
-   "source": {
-    "name": "The Cullman Tribune",
-    "url": "https://www.cullmantribune.com/2026/10/16/prep-football-good-hopes-6-game-winning-streak-ends-with-40-21-loss-at-cherokee-county/"
-   }
-  },
-  {
-   "id": "gh-1023",
-   "school": "good-hope",
-   "label": "Good Hope High Football",
-   "sport": "Football",
-   "period": "Q",
-   "start": "2026-10-23T19:00:00-05:00",
-   "venue": "Good Hope",
-   "home": "good-hope",
-   "away": "hayden",
-   "status": "Final",
-   "score": {
-    "home": 42,
-    "away": 7
-   },
-   "line": null,
-   "note": "Class 4A, Region 8. Senior night. Good Hope is 7 and 2.",
-   "source": {
-    "name": "The Cullman Tribune",
-    "url": "https://www.cullmantribune.com/2026/10/23/prep-football-good-hope-rolls-past-hayden-42-7-on-senior-night/"
-   }
-  },
-  {
-   "id": "vhs-1016",
-   "school": "vinemont",
-   "label": "Vinemont High Football",
-   "sport": "Football",
-   "period": "Q",
-   "start": "2026-10-16T19:00:00-05:00",
-   "venue": "Glencoe",
-   "home": "glencoe",
-   "away": "vinemont",
-   "status": "Final",
-   "score": {
-    "home": 21,
-    "away": 28
-   },
-   "line": null,
-   "note": "Class 3A, Region 6.",
-   "source": {
-    "name": "The Cullman Tribune",
-    "url": "https://www.cullmantribune.com/2026/10/16/prep-football-vinemont-holds-off-glencoe-comeback-for-28-21-region-win/"
-   }
-  },
-  {
-   "id": "vhs-1023",
-   "school": "vinemont",
-   "label": "Vinemont High Football",
-   "sport": "Football",
-   "period": "Q",
-   "start": "2026-10-23T19:00:00-05:00",
-   "venue": "Vinemont",
-   "home": "vinemont",
-   "away": "susan-moore",
-   "status": "Final",
-   "score": {
-    "home": 12,
-    "away": 7
-   },
-   "line": null,
-   "note": "Senior night. Clinched a seventh straight playoff berth.",
-   "source": {
-    "name": "The Cullman Tribune",
-    "url": "https://www.cullmantribune.com/2026/10/23/prep-football-vinemont-rallies-past-susan-moore-12-7-clinches-7th-straight-playoff-berth/"
-   }
-  },
-  {
-   "id": "fhs-1015",
-   "school": "fairview",
-   "label": "Fairview High Football",
-   "sport": "Football",
-   "period": "Q",
-   "start": "2026-10-15T19:00:00-05:00",
-   "venue": "Dafford Smith Stadium, Fairview",
-   "home": "fairview",
-   "away": "crossville",
-   "status": "Final",
-   "score": {
-    "home": 41,
-    "away": 6
-   },
-   "line": null,
-   "note": "Class 4A, Region 8. Fairview is off on October 23.",
-   "source": {
-    "name": "The Cullman Times",
-    "url": "https://cullmantimes.com/2026/10/15/prep-football-fairview-cruises-to-win-over-crossville-hanceville-falls-to-hokes-bluff/"
-   }
-  },
-  {
-   "id": "fhs-1030",
-   "school": "fairview",
-   "label": "Fairview High Football",
-   "sport": "Football",
-   "period": "Q",
-   "start": "2026-10-30T19:00:00-05:00",
-   "venue": "Cherokee County, Centre",
-   "home": "cherokee-county",
-   "away": "fairview",
-   "status": "Final",
-   "score": {
-    "home": 42,
-    "away": 14
-   },
-   "line": {
-    "home": [
-     14,
-     14,
-     14,
-     0
-    ],
-    "away": [
-     14,
-     0,
-     0,
-     0
-    ]
-   },
-   "note": "Class 4A, Region 8 finale. Fairview finished 5 and 4 overall and 4 and 4 in the region. Cherokee County earned the No. 2 seed and hosts a playoff game Nov 6.",
-   "source": {
-    "name": "The Cullman Tribune",
-    "url": "https://www.cullmantribune.com/2026/10/31/prep-football-fairviews-season-ends-with-42-14-loss-to-cherokee-county/"
-   }
-  },
-  {
-   "id": "hp-1016",
-   "school": "holly-pond",
-   "label": "Holly Pond High Football",
-   "sport": "Football",
-   "period": "Q",
-   "start": "2026-10-16T19:00:00-05:00",
-   "venue": "Susan Moore, Blountsville",
-   "home": "susan-moore",
-   "away": "holly-pond",
-   "status": "Final",
-   "score": {
-    "home": 17,
-    "away": 16
-   },
-   "line": {
-    "home": [
-     8,
-     0,
-     6,
-     3
-    ],
-    "away": [
-     0,
-     16,
-     0,
-     0
-    ]
-   },
-   "note": "Class 3A, Region 6. Reported score.",
-   "source": {
-    "name": "The Cullman Tribune",
-    "url": "https://www.cullmantribune.com/2026/10/16/prep-football-holly-pond-comes-up-short-in-region-matchup-with-susan-moore-17-16/"
-   }
-  },
-  {
-   "id": "hp-1023",
-   "school": "holly-pond",
-   "label": "Holly Pond High Football",
-   "sport": "Football",
-   "period": "Q",
-   "start": "2026-10-23T19:00:00-05:00",
-   "venue": "Holly Pond",
-   "home": "holly-pond",
-   "away": "etowah",
-   "status": "Final",
-   "score": {
-    "home": 12,
-    "away": 43
-   },
-   "line": {
-    "home": [
-     0,
-     6,
-     0,
-     6
-    ],
-    "away": [
-     15,
-     7,
-     14,
-     7
-    ]
-   },
-   "note": "Class 3A, Region 6 finale. Holly Pond is 2 and 7.",
-   "source": {
-    "name": "The Cullman Tribune",
-    "url": "https://www.cullmantribune.com/2026/10/23/prep-football-etowah-tops-holly-pond-43-12/"
-   }
-  },
-  {
-   "id": "wp-1016",
-   "school": "west-point",
-   "label": "West Point High Football",
-   "sport": "Football",
-   "period": "Q",
-   "start": "2026-10-16T19:00:00-05:00",
-   "venue": "Lawrence County, Moulton",
-   "home": "lawrence-county",
-   "away": "west-point",
-   "status": "Final",
-   "score": {
-    "home": 35,
-    "away": 31
-   },
-   "line": {
-    "home": [
-     8,
-     7,
-     12,
-     8
-    ],
-    "away": [
-     7,
-     10,
-     7,
-     7
-    ]
-   },
-   "note": "Class 4A, Region 7. Reported score.",
-   "source": {
-    "name": "The Cullman Tribune",
-    "url": "https://www.cullmantribune.com/2026/10/16/prep-football-west-point-loses-late-lead-in-35-31-setback-at-lawrence-county/"
-   }
-  },
-  {
-   "id": "wp-1023",
-   "school": "west-point",
-   "label": "West Point High Football",
-   "sport": "Football",
-   "period": "Q",
-   "start": "2026-10-23T19:00:00-05:00",
-   "venue": "Warrior Field, West Point",
-   "home": "west-point",
-   "away": "deshler",
-   "status": "Final",
-   "score": {
-    "home": 14,
-    "away": 55
-   },
-   "line": null,
-   "note": "Class 4A, Region 7 and season finale. Deshler won the region.",
-   "source": {
-    "name": "The Cullman Tribune",
-    "url": "https://www.cullmantribune.com/2026/10/23/prep-football-deshler-cruises-past-west-point-for-55-14-win/"
-   }
-  },
-  {
-   "id": "cs-1016",
-   "school": "cold-springs",
-   "label": "Cold Springs High Football",
-   "sport": "Football",
-   "period": "Q",
-   "start": "2026-10-16T19:00:00-05:00",
-   "venue": "Cold Springs",
-   "home": "cold-springs",
-   "away": "southeastern",
-   "status": "Final",
-   "score": {
-    "home": 48,
-    "away": 21
-   },
-   "line": null,
-   "note": "Class 2A, Region 5. Cold Springs clinched a home playoff game.",
-   "source": {
-    "name": "The Cullman Times",
-    "url": "https://cullmantimes.com/2026/10/16/prep-football-cold-springs-knocks-off-southeastern-48-21-secures-home-playoff-game/"
-   }
-  },
-  {
-   "id": "cs-1023",
-   "school": "cold-springs",
-   "label": "Cold Springs High Football",
-   "sport": "Football",
-   "period": "Q",
-   "start": "2026-10-23T19:00:00-05:00",
-   "venue": "Carbon Hill",
-   "home": "carbon-hill",
-   "away": "cold-springs",
-   "status": "Final",
-   "score": {
-    "home": 6,
-    "away": 56
-   },
-   "line": null,
-   "note": "Class 2A, Region 5. Cold Springs is 8 and 1.",
-   "source": {
-    "name": "The Cullman Tribune",
-    "url": "https://www.cullmantribune.com/2026/10/23/prep-football-cold-springs-thrashes-carbon-hill-56-6-improving-to-8-1/"
-   }
-  },
-  {
-   "id": "ws-vb-2026-10-16b",
-   "school": "wallace",
-   "label": "Wallace State Volleyball",
-   "sport": "Volleyball",
-   "period": "Set",
-   "start": "2026-10-16T18:00:00-05:00",
-   "venue": "Tom Drake Coliseum, Wallace State",
-   "home": "wallace",
-   "away": "lbw",
-   "status": "Final",
-   "score": {
-    "home": 3,
-    "away": 0
-   },
-   "line": {
-    "home": [
-     25,
-     25,
-     25
-    ],
-    "away": [
-     15,
-     16,
-     17
-    ]
-   },
-   "note": "Wallace State Lions Invitational.",
-   "source": {
-    "name": "Wallace State Athletics box score",
-    "url": "https://athletics.wallacestate.edu/sports/wvball/2026-27/boxscores/20261016_3u43.xml"
-   }
-  },
-  {
-   "id": "ws-vb-2026-10-17",
-   "school": "wallace",
-   "label": "Wallace State Volleyball",
-   "sport": "Volleyball",
-   "period": "Set",
-   "start": "2026-10-17T11:00:00-05:00",
-   "venue": "Tom Drake Coliseum, Wallace State",
-   "home": "wallace",
-   "away": "illinois-central",
-   "status": "Final",
-   "score": {
-    "home": 3,
-    "away": 0
-   },
-   "line": {
-    "home": [
-     25,
-     26,
-     25
-    ],
-    "away": [
-     15,
-     24,
-     17
-    ]
-   },
-   "note": "Wallace State Lions Invitational.",
-   "source": {
-    "name": "Wallace State Athletics box score",
-    "url": "https://athletics.wallacestate.edu/sports/wvball/2026-27/boxscores/20261017_k54d.xml"
-   }
-  },
-  {
-   "id": "ws-vb-2026-10-17b",
-   "school": "wallace",
-   "label": "Wallace State Volleyball",
-   "sport": "Volleyball",
-   "period": "Set",
-   "start": "2026-10-17T15:00:00-05:00",
-   "venue": "Tom Drake Coliseum, Wallace State",
-   "home": "wallace",
-   "away": "reid-state",
-   "status": "Final",
-   "score": {
-    "home": 3,
-    "away": 0
-   },
-   "line": {
-    "home": [
-     25,
-     25,
-     25
-    ],
-    "away": [
-     9,
-     11,
-     22
-    ]
-   },
-   "note": "Wallace State Lions Invitational.",
-   "source": {
-    "name": "Wallace State Athletics box score",
-    "url": "https://athletics.wallacestate.edu/sports/wvball/2026-27/boxscores/20261017_1j4e.xml"
-   }
-  },
-  {
-   "id": "ws-vb-2026-10-21",
-   "school": "wallace",
-   "label": "Wallace State Volleyball",
-   "sport": "Volleyball",
-   "period": "Set",
-   "start": "2026-10-21T17:00:00-05:00",
-   "venue": "Tom Drake Coliseum, Wallace State",
-   "home": "wallace",
-   "away": "calhoun",
-   "status": "Final",
-   "score": {
-    "home": 3,
-    "away": 0
-   },
-   "line": {
-    "home": [
-     25,
-     25,
-     25
-    ],
-    "away": [
-     23,
-     12,
-     18
-    ]
-   },
-   "source": {
-    "name": "Wallace State Athletics box score",
-    "url": "https://athletics.wallacestate.edu/sports/wvball/2026-27/boxscores/20261021_t3cs.xml"
-   },
-   "note": "Avenged a September loss at Calhoun. Eleventh straight win."
-  },
-  {
-   "id": "ws-vb-2026-10-22",
-   "school": "wallace",
-   "label": "Wallace State Volleyball",
-   "sport": "Volleyball",
-   "period": "Set",
-   "start": "2026-10-22T12:00:00-05:00",
-   "timeTBA": true,
-   "venue": "Tom Drake Coliseum, Wallace State",
-   "home": "wallace",
-   "away": "southern-union",
-   "status": "Final",
-   "score": {
-    "home": 3,
-    "away": 0
-   },
-   "line": {
-    "home": [
-     25,
-     25,
-     25
-    ],
-    "away": [
-     23,
-     4,
-     16
-    ]
-   },
-   "note": "One of two matches with Southern Union that day.",
-   "source": {
-    "name": "Wallace State Athletics box score",
-    "url": "https://athletics.wallacestate.edu/sports/wvball/2026-27/boxscores/20261022_dhq7.xml"
-   }
-  },
-  {
-   "id": "ws-vb-2026-10-22b",
-   "school": "wallace",
-   "label": "Wallace State Volleyball",
-   "sport": "Volleyball",
-   "period": "Set",
-   "start": "2026-10-22T12:00:00-05:00",
-   "timeTBA": true,
-   "venue": "Tom Drake Coliseum, Wallace State",
-   "home": "wallace",
-   "away": "southern-union",
-   "status": "Final",
-   "score": {
-    "home": 3,
-    "away": 0
-   },
-   "line": {
-    "home": [
-     25,
-     25,
-     25
-    ],
-    "away": [
-     14,
-     12,
-     10
-    ]
-   },
-   "note": "One of two matches with Southern Union that day.",
-   "source": {
-    "name": "Wallace State Athletics box score",
-    "url": "https://athletics.wallacestate.edu/sports/wvball/2026-27/boxscores/20261022_vw3v.xml"
-   }
-  },
-  {
-   "id": "wp-vb-2026-10-28",
-   "school": "west-point",
-   "label": "West Point High Volleyball",
-   "sport": "Volleyball",
-   "period": "Set",
-   "start": "2026-10-28T10:30:00-05:00",
-   "venue": "Birmingham CrossPlex, Birmingham",
-   "home": "west-point",
-   "away": "satsuma",
-   "status": "Final",
-   "score": {
-    "home": 3,
-    "away": 0
-   },
-   "line": {
-    "home": [
-     25,
-     25,
-     25
-    ],
-    "away": [
-     17,
-     23,
-     10
-    ]
-   },
-   "note": "AHSAA Class 4A state quarterfinal at a neutral site. West Point then fell to top ranked Guntersville in three sets in the semifinals and finished the season 40 and 11.",
-   "source": {
-    "name": "The Cullman Times",
-    "url": "https://cullmantimes.com/2026/10/28/sweet-sixteen-no-2-addison-downs-top-ranked-meek-for-16th-state-volleyball-title/"
-   }
-  },
-  {
-   "id": "cs-vb-2026-10-28",
-   "school": "cold-springs",
-   "label": "Cold Springs High Volleyball",
-   "sport": "Volleyball",
-   "period": "Set",
-   "start": "2026-10-28T13:30:00-05:00",
-   "venue": "Birmingham CrossPlex, Birmingham",
-   "home": "cold-springs",
-   "away": "ariton",
-   "status": "Final",
-   "score": {
-    "home": 0,
-    "away": 3
-   },
-   "line": {
-    "home": [
-     16,
-     23,
-     19
-    ],
-    "away": [
-     25,
-     25,
-     25
-    ]
-   },
-   "note": "AHSAA Class 2A state quarterfinal at a neutral site. It was Cold Springs' first state tournament trip since 1996, and the Eagles finished the season 18 and 21.",
-   "source": {
-    "name": "The Cullman Times",
-    "url": "https://cullmantimes.com/2026/10/28/sweet-sixteen-no-2-addison-downs-top-ranked-meek-for-16th-state-volleyball-title/"
-   }
-  },
-  {
-   "id": "chs-1030",
-   "school": "cullman",
-   "label": "Cullman High Football",
-   "sport": "Football",
-   "period": "Q",
-   "start": "2026-10-30T19:00:00-05:00",
-   "venue": "West Morgan, Trinity",
-   "home": "west-morgan",
-   "away": "cullman",
-   "status": "Final",
-   "score": {
-    "home": 35,
-    "away": 13
-   },
-   "line": null,
-   "note": "Nonregion season finale. Cullman finished 3 and 7; West Morgan improved to 7 and 3 and hosts a playoff game Nov 6.",
-   "source": {
-    "name": "The Cullman Tribune",
-    "url": "https://www.cullmantribune.com/2026/10/30/prep-football-cullman-closes-season-with-35-13-loss-at-west-morgan/"
-   }
-  },
-  {
-   "id": "gh-1030",
-   "school": "good-hope",
-   "label": "Good Hope High Football",
-   "sport": "Football",
-   "period": "Q",
-   "start": "2026-10-30T19:00:00-05:00",
-   "venue": "Scottsboro",
-   "home": "scottsboro",
-   "away": "good-hope",
-   "status": "Final",
-   "score": {
-    "home": 49,
-    "away": 14
-   },
-   "line": null,
-   "note": "Class 4A, Region 8 finale. Good Hope finished 7 and 3 and third in the region, so the playoffs open on the road Nov 6. Scottsboro finished 10 and 0 as region champion.",
-   "source": {
-    "name": "The Cullman Tribune",
-    "url": "https://www.cullmantribune.com/2026/10/30/prep-football-good-hope-falls-to-no-2-scottsboro-49-14-in-regular-season-finale/"
-   }
-  },
-  {
-   "id": "cs-1029",
-   "school": "cold-springs",
-   "label": "Cold Springs High Football",
-   "sport": "Football",
-   "period": "Q",
-   "start": "2026-10-29T19:00:00-05:00",
-   "venue": "Cold Springs, Bremen",
-   "home": "cold-springs",
-   "away": "tanner",
-   "status": "Final",
-   "score": {
-    "home": 57,
-    "away": 20
-   },
-   "line": null,
-   "note": "Senior night and regular season finale. Cold Springs finished 9 and 1, its first nine win season since 1993, and hosts a Class 2A first round playoff game on Nov. 6.",
-   "source": {
-    "name": "The Cullman Tribune",
-    "url": "https://www.cullmantribune.com/2026/10/29/prep-football-johnson-scores-3-touchdowns-as-no-10-cold-springs-defeats-tanner-57-20/"
-   }
-  },
-  {
-   "id": "hp-1030",
-   "school": "holly-pond",
-   "label": "Holly Pond High Football",
-   "sport": "Football",
-   "period": "Q",
-   "start": "2026-10-30T19:00:00-05:00",
-   "venue": "Falkville",
-   "home": "falkville",
-   "away": "holly-pond",
-   "status": "Final",
-   "score": {
-    "home": 38,
-    "away": 6
-   },
-   "line": {
-    "home": [
-     6,
-     8,
-     16,
-     8
-    ],
-    "away": [
-     0,
-     0,
-     6,
-     0
-    ]
-   },
-   "note": "Season finale. Holly Pond finished 2 and 8; Falkville ended at 5 and 5.",
-   "source": {
-    "name": "The Cullman Tribune",
-    "url": "https://www.cullmantribune.com/2026/10/31/prep-football-holly-pond-ends-season-with-38-6-loss-at-falkville/"
-   }
-  },
-  {
-   "id": "vhs-1106",
-   "school": "vinemont",
-   "label": "Vinemont High Football",
-   "sport": "Football",
-   "period": "Q",
-   "start": "2026-11-06T19:00:00-06:00",
-   "venue": "Central, Florence",
-   "home": "central-florence",
-   "away": "vinemont",
-   "status": "Upcoming",
-   "score": null,
-   "line": null,
-   "note": "Class 3A playoffs, first round, after an open week. Kickoff time not confirmed yet.",
-   "source": {
-    "name": "The Cullman Tribune",
-    "url": "https://www.cullmantribune.com/2026/10/23/prep-football-vinemont-rallies-past-susan-moore-12-7-clinches-7th-straight-playoff-berth/"
-   }
-  }
- ]
+  "updated": "2026-11-05T22:40:18-06:00",
+  "teams": {
+    "cullman": {
+      "name": "Cullman",
+      "initials": "C",
+      "colors": [
+        "#111111",
+        "#c9a227"
+      ],
+      "text": "#ffffff"
+    },
+    "hanceville": {
+      "name": "Hanceville",
+      "initials": "H",
+      "colors": [
+        "#3b1466",
+        "#c0c4cc"
+      ],
+      "text": "#ffffff"
+    },
+    "good-hope": {
+      "name": "Good Hope",
+      "initials": "GH",
+      "colors": [
+        "#b3001e",
+        "#ffffff"
+      ],
+      "text": "#ffffff"
+    },
+    "vinemont": {
+      "name": "Vinemont",
+      "initials": "V",
+      "colors": [
+        "#b3001e",
+        "#ffffff"
+      ],
+      "text": "#ffffff"
+    },
+    "fairview": {
+      "name": "Fairview",
+      "initials": "F",
+      "colors": [
+        "#4b1f7a",
+        "#c9a227"
+      ],
+      "text": "#ffffff"
+    },
+    "holly-pond": {
+      "name": "Holly Pond",
+      "initials": "HP",
+      "colors": [
+        "#0b6b3a",
+        "#ffffff"
+      ],
+      "text": "#ffffff"
+    },
+    "west-point": {
+      "name": "West Point",
+      "initials": "WP",
+      "colors": [
+        "#6b1020",
+        "#ffffff"
+      ],
+      "text": "#ffffff"
+    },
+    "cold-springs": {
+      "name": "Cold Springs",
+      "initials": "CS",
+      "colors": [
+        "#0b3c8c",
+        "#c9a227"
+      ],
+      "text": "#ffffff"
+    },
+    "wallace": {
+      "name": "Wallace State",
+      "initials": "WS",
+      "colors": [
+        "#0f3068",
+        "#c94f03"
+      ],
+      "text": "#ffffff"
+    },
+    "parker": {
+      "name": "Parker",
+      "initials": "P",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "jackson-olin": {
+      "name": "Jackson Olin",
+      "initials": "JO",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "hokes-bluff": {
+      "name": "Hokes Bluff",
+      "initials": "HB",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "oneonta": {
+      "name": "Oneonta",
+      "initials": "O",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "cherokee-county": {
+      "name": "Cherokee County",
+      "initials": "CC",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "hayden": {
+      "name": "Hayden",
+      "initials": "H",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "glencoe": {
+      "name": "Glencoe",
+      "initials": "G",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "susan-moore": {
+      "name": "Susan Moore",
+      "initials": "SM",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "crossville": {
+      "name": "Crossville",
+      "initials": "C",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "etowah": {
+      "name": "Etowah",
+      "initials": "E",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "lawrence-county": {
+      "name": "Lawrence County",
+      "initials": "LC",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "deshler": {
+      "name": "Deshler",
+      "initials": "D",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "southeastern": {
+      "name": "Southeastern",
+      "initials": "S",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "carbon-hill": {
+      "name": "Carbon Hill",
+      "initials": "CH",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "lbw": {
+      "name": "Lurleen B. Wallace",
+      "initials": "LBW",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "illinois-central": {
+      "name": "Illinois Central",
+      "initials": "IC",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "calhoun": {
+      "name": "Calhoun",
+      "initials": "C",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "reid-state": {
+      "name": "Reid State",
+      "initials": "RS",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "southern-union": {
+      "name": "Southern Union",
+      "initials": "SU",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "satsuma": {
+      "name": "Satsuma",
+      "initials": "S",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "ariton": {
+      "name": "Ariton",
+      "initials": "A",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "west-morgan": {
+      "name": "West Morgan",
+      "initials": "WM",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "falkville": {
+      "name": "Falkville",
+      "initials": "F",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "scottsboro": {
+      "name": "Scottsboro",
+      "initials": "S",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "tanner": {
+      "name": "Tanner",
+      "initials": "T",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "elkmont": {
+      "name": "Elkmont",
+      "initials": "E",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "central-florence": {
+      "name": "Central Florence",
+      "initials": "CF",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "pisgah": {
+      "name": "Pisgah",
+      "initials": "P",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "fairfield": {
+      "name": "Fairfield",
+      "initials": "F",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    }
+  },
+  "games": [
+    {
+      "id": "chs-1016",
+      "school": "cullman",
+      "label": "Cullman High Football",
+      "sport": "Football",
+      "period": "Q",
+      "start": "2026-10-16T19:00:00-05:00",
+      "venue": "Woodard Stadium, Cullman",
+      "home": "cullman",
+      "away": "parker",
+      "status": "Final",
+      "score": {
+        "home": 24,
+        "away": 42
+      },
+      "line": null,
+      "note": "Class 5A, Region 5.",
+      "source": {
+        "name": "The Cullman Tribune",
+        "url": "https://www.cullmantribune.com/2026/10/16/prep-football-cullmans-3rd-quarter-rally-falls-short-in-42-24-loss-to-parker/"
+      }
+    },
+    {
+      "id": "chs-1023",
+      "school": "cullman",
+      "label": "Cullman High Football",
+      "sport": "Football",
+      "period": "Q",
+      "start": "2026-10-23T19:00:00-05:00",
+      "venue": "Jackson Olin",
+      "home": "jackson-olin",
+      "away": "cullman",
+      "status": "Final",
+      "score": {
+        "home": 13,
+        "away": 42
+      },
+      "line": {
+        "home": [
+          7,
+          0,
+          6,
+          0
+        ],
+        "away": [
+          7,
+          14,
+          14,
+          7
+        ]
+      },
+      "note": "Class 5A, Region 5. Snapped a five game losing streak. Cullman is 3 and 6.",
+      "source": {
+        "name": "The Cullman Tribune",
+        "url": "https://www.cullmantribune.com/2026/10/23/prep-football-cullman-pulls-away-from-jackson-olin-for-42-13-road-win/"
+      }
+    },
+    {
+      "id": "hhs-fb-2026-10-15",
+      "school": "hanceville",
+      "label": "Hanceville High Football",
+      "sport": "Football",
+      "period": "Q",
+      "start": "2026-10-15T19:00:00-05:00",
+      "venue": "Ray Talley Stadium, Hanceville",
+      "home": "hanceville",
+      "away": "hokes-bluff",
+      "status": "Final",
+      "score": {
+        "home": 8,
+        "away": 49
+      },
+      "line": null,
+      "note": "Class 3A, Region 6. Moved to Thursday for fall break.",
+      "source": {
+        "name": "The Cullman Times",
+        "url": "https://cullmantimes.com/2026/10/15/prep-football-fairview-cruises-to-win-over-crossville-hanceville-falls-to-hokes-bluff/"
+      }
+    },
+    {
+      "id": "hhs-fb-2026-10-23",
+      "school": "hanceville",
+      "label": "Hanceville High Football",
+      "sport": "Football",
+      "period": "Q",
+      "start": "2026-10-23T19:00:00-05:00",
+      "venue": "Ray Talley Stadium, Hanceville",
+      "home": "hanceville",
+      "away": "oneonta",
+      "status": "Final",
+      "score": {
+        "home": 0,
+        "away": 62
+      },
+      "line": {
+        "home": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "away": [
+          35,
+          21,
+          0,
+          6
+        ]
+      },
+      "note": "Class 3A, Region 6 finale.",
+      "source": {
+        "name": "The Cullman Tribune",
+        "url": "https://www.cullmantribune.com/2026/10/23/prep-football-oneonta-shuts-out-hanceville-62-0/"
+      }
+    },
+    {
+      "id": "hhs-fb-2026-10-30",
+      "school": "hanceville",
+      "label": "Hanceville High Football",
+      "sport": "Football",
+      "period": "Q",
+      "start": "2026-10-30T19:00:00-05:00",
+      "venue": "Elkmont",
+      "home": "elkmont",
+      "away": "hanceville",
+      "status": "Final",
+      "score": {
+        "home": 48,
+        "away": 8
+      },
+      "line": null,
+      "source": {
+        "name": "The Cullman Tribune",
+        "url": "https://www.cullmantribune.com/2026/10/30/prep-football-hanceville-closes-season-with-48-8-loss-at-elkmont/"
+      },
+      "note": "Season finale. Hanceville finished 0 and 10; Elkmont closed at 2 and 8."
+    },
+    {
+      "id": "gh-1016",
+      "school": "good-hope",
+      "label": "Good Hope High Football",
+      "sport": "Football",
+      "period": "Q",
+      "start": "2026-10-16T19:00:00-05:00",
+      "venue": "Cherokee County, Centre",
+      "home": "cherokee-county",
+      "away": "good-hope",
+      "status": "Final",
+      "score": {
+        "home": 40,
+        "away": 21
+      },
+      "line": {
+        "home": [
+          7,
+          13,
+          7,
+          13
+        ],
+        "away": [
+          7,
+          7,
+          7,
+          0
+        ]
+      },
+      "note": "Class 4A, Region 8. Reported score.",
+      "source": {
+        "name": "The Cullman Tribune",
+        "url": "https://www.cullmantribune.com/2026/10/16/prep-football-good-hopes-6-game-winning-streak-ends-with-40-21-loss-at-cherokee-county/"
+      }
+    },
+    {
+      "id": "gh-1023",
+      "school": "good-hope",
+      "label": "Good Hope High Football",
+      "sport": "Football",
+      "period": "Q",
+      "start": "2026-10-23T19:00:00-05:00",
+      "venue": "Good Hope",
+      "home": "good-hope",
+      "away": "hayden",
+      "status": "Final",
+      "score": {
+        "home": 42,
+        "away": 7
+      },
+      "line": null,
+      "note": "Class 4A, Region 8. Senior night. Good Hope is 7 and 2.",
+      "source": {
+        "name": "The Cullman Tribune",
+        "url": "https://www.cullmantribune.com/2026/10/23/prep-football-good-hope-rolls-past-hayden-42-7-on-senior-night/"
+      }
+    },
+    {
+      "id": "vhs-1016",
+      "school": "vinemont",
+      "label": "Vinemont High Football",
+      "sport": "Football",
+      "period": "Q",
+      "start": "2026-10-16T19:00:00-05:00",
+      "venue": "Glencoe",
+      "home": "glencoe",
+      "away": "vinemont",
+      "status": "Final",
+      "score": {
+        "home": 21,
+        "away": 28
+      },
+      "line": null,
+      "note": "Class 3A, Region 6.",
+      "source": {
+        "name": "The Cullman Tribune",
+        "url": "https://www.cullmantribune.com/2026/10/16/prep-football-vinemont-holds-off-glencoe-comeback-for-28-21-region-win/"
+      }
+    },
+    {
+      "id": "vhs-1023",
+      "school": "vinemont",
+      "label": "Vinemont High Football",
+      "sport": "Football",
+      "period": "Q",
+      "start": "2026-10-23T19:00:00-05:00",
+      "venue": "Vinemont",
+      "home": "vinemont",
+      "away": "susan-moore",
+      "status": "Final",
+      "score": {
+        "home": 12,
+        "away": 7
+      },
+      "line": null,
+      "note": "Senior night. Clinched a seventh straight playoff berth.",
+      "source": {
+        "name": "The Cullman Tribune",
+        "url": "https://www.cullmantribune.com/2026/10/23/prep-football-vinemont-rallies-past-susan-moore-12-7-clinches-7th-straight-playoff-berth/"
+      }
+    },
+    {
+      "id": "fhs-1015",
+      "school": "fairview",
+      "label": "Fairview High Football",
+      "sport": "Football",
+      "period": "Q",
+      "start": "2026-10-15T19:00:00-05:00",
+      "venue": "Dafford Smith Stadium, Fairview",
+      "home": "fairview",
+      "away": "crossville",
+      "status": "Final",
+      "score": {
+        "home": 41,
+        "away": 6
+      },
+      "line": null,
+      "note": "Class 4A, Region 8. Fairview is off on October 23.",
+      "source": {
+        "name": "The Cullman Times",
+        "url": "https://cullmantimes.com/2026/10/15/prep-football-fairview-cruises-to-win-over-crossville-hanceville-falls-to-hokes-bluff/"
+      }
+    },
+    {
+      "id": "fhs-1030",
+      "school": "fairview",
+      "label": "Fairview High Football",
+      "sport": "Football",
+      "period": "Q",
+      "start": "2026-10-30T19:00:00-05:00",
+      "venue": "Cherokee County, Centre",
+      "home": "cherokee-county",
+      "away": "fairview",
+      "status": "Final",
+      "score": {
+        "home": 42,
+        "away": 14
+      },
+      "line": {
+        "home": [
+          14,
+          14,
+          14,
+          0
+        ],
+        "away": [
+          14,
+          0,
+          0,
+          0
+        ]
+      },
+      "note": "Class 4A, Region 8 finale. Fairview finished 5 and 4 overall and 4 and 4 in the region. Cherokee County earned the No. 2 seed and hosts a playoff game Nov 6.",
+      "source": {
+        "name": "The Cullman Tribune",
+        "url": "https://www.cullmantribune.com/2026/10/31/prep-football-fairviews-season-ends-with-42-14-loss-to-cherokee-county/"
+      }
+    },
+    {
+      "id": "hp-1016",
+      "school": "holly-pond",
+      "label": "Holly Pond High Football",
+      "sport": "Football",
+      "period": "Q",
+      "start": "2026-10-16T19:00:00-05:00",
+      "venue": "Susan Moore, Blountsville",
+      "home": "susan-moore",
+      "away": "holly-pond",
+      "status": "Final",
+      "score": {
+        "home": 17,
+        "away": 16
+      },
+      "line": {
+        "home": [
+          8,
+          0,
+          6,
+          3
+        ],
+        "away": [
+          0,
+          16,
+          0,
+          0
+        ]
+      },
+      "note": "Class 3A, Region 6. Reported score.",
+      "source": {
+        "name": "The Cullman Tribune",
+        "url": "https://www.cullmantribune.com/2026/10/16/prep-football-holly-pond-comes-up-short-in-region-matchup-with-susan-moore-17-16/"
+      }
+    },
+    {
+      "id": "hp-1023",
+      "school": "holly-pond",
+      "label": "Holly Pond High Football",
+      "sport": "Football",
+      "period": "Q",
+      "start": "2026-10-23T19:00:00-05:00",
+      "venue": "Holly Pond",
+      "home": "holly-pond",
+      "away": "etowah",
+      "status": "Final",
+      "score": {
+        "home": 12,
+        "away": 43
+      },
+      "line": {
+        "home": [
+          0,
+          6,
+          0,
+          6
+        ],
+        "away": [
+          15,
+          7,
+          14,
+          7
+        ]
+      },
+      "note": "Class 3A, Region 6 finale. Holly Pond is 2 and 7.",
+      "source": {
+        "name": "The Cullman Tribune",
+        "url": "https://www.cullmantribune.com/2026/10/23/prep-football-etowah-tops-holly-pond-43-12/"
+      }
+    },
+    {
+      "id": "wp-1016",
+      "school": "west-point",
+      "label": "West Point High Football",
+      "sport": "Football",
+      "period": "Q",
+      "start": "2026-10-16T19:00:00-05:00",
+      "venue": "Lawrence County, Moulton",
+      "home": "lawrence-county",
+      "away": "west-point",
+      "status": "Final",
+      "score": {
+        "home": 35,
+        "away": 31
+      },
+      "line": {
+        "home": [
+          8,
+          7,
+          12,
+          8
+        ],
+        "away": [
+          7,
+          10,
+          7,
+          7
+        ]
+      },
+      "note": "Class 4A, Region 7. Reported score.",
+      "source": {
+        "name": "The Cullman Tribune",
+        "url": "https://www.cullmantribune.com/2026/10/16/prep-football-west-point-loses-late-lead-in-35-31-setback-at-lawrence-county/"
+      }
+    },
+    {
+      "id": "wp-1023",
+      "school": "west-point",
+      "label": "West Point High Football",
+      "sport": "Football",
+      "period": "Q",
+      "start": "2026-10-23T19:00:00-05:00",
+      "venue": "Warrior Field, West Point",
+      "home": "west-point",
+      "away": "deshler",
+      "status": "Final",
+      "score": {
+        "home": 14,
+        "away": 55
+      },
+      "line": null,
+      "note": "Class 4A, Region 7 and season finale. Deshler won the region.",
+      "source": {
+        "name": "The Cullman Tribune",
+        "url": "https://www.cullmantribune.com/2026/10/23/prep-football-deshler-cruises-past-west-point-for-55-14-win/"
+      }
+    },
+    {
+      "id": "cs-1016",
+      "school": "cold-springs",
+      "label": "Cold Springs High Football",
+      "sport": "Football",
+      "period": "Q",
+      "start": "2026-10-16T19:00:00-05:00",
+      "venue": "Cold Springs",
+      "home": "cold-springs",
+      "away": "southeastern",
+      "status": "Final",
+      "score": {
+        "home": 48,
+        "away": 21
+      },
+      "line": null,
+      "note": "Class 2A, Region 5. Cold Springs clinched a home playoff game.",
+      "source": {
+        "name": "The Cullman Times",
+        "url": "https://cullmantimes.com/2026/10/16/prep-football-cold-springs-knocks-off-southeastern-48-21-secures-home-playoff-game/"
+      }
+    },
+    {
+      "id": "cs-1023",
+      "school": "cold-springs",
+      "label": "Cold Springs High Football",
+      "sport": "Football",
+      "period": "Q",
+      "start": "2026-10-23T19:00:00-05:00",
+      "venue": "Carbon Hill",
+      "home": "carbon-hill",
+      "away": "cold-springs",
+      "status": "Final",
+      "score": {
+        "home": 6,
+        "away": 56
+      },
+      "line": null,
+      "note": "Class 2A, Region 5. Cold Springs is 8 and 1.",
+      "source": {
+        "name": "The Cullman Tribune",
+        "url": "https://www.cullmantribune.com/2026/10/23/prep-football-cold-springs-thrashes-carbon-hill-56-6-improving-to-8-1/"
+      }
+    },
+    {
+      "id": "ws-vb-2026-10-16b",
+      "school": "wallace",
+      "label": "Wallace State Volleyball",
+      "sport": "Volleyball",
+      "period": "Set",
+      "start": "2026-10-16T18:00:00-05:00",
+      "venue": "Tom Drake Coliseum, Wallace State",
+      "home": "wallace",
+      "away": "lbw",
+      "status": "Final",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "line": {
+        "home": [
+          25,
+          25,
+          25
+        ],
+        "away": [
+          15,
+          16,
+          17
+        ]
+      },
+      "note": "Wallace State Lions Invitational.",
+      "source": {
+        "name": "Wallace State Athletics box score",
+        "url": "https://athletics.wallacestate.edu/sports/wvball/2026-27/boxscores/20261016_3u43.xml"
+      }
+    },
+    {
+      "id": "ws-vb-2026-10-17",
+      "school": "wallace",
+      "label": "Wallace State Volleyball",
+      "sport": "Volleyball",
+      "period": "Set",
+      "start": "2026-10-17T11:00:00-05:00",
+      "venue": "Tom Drake Coliseum, Wallace State",
+      "home": "wallace",
+      "away": "illinois-central",
+      "status": "Final",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "line": {
+        "home": [
+          25,
+          26,
+          25
+        ],
+        "away": [
+          15,
+          24,
+          17
+        ]
+      },
+      "note": "Wallace State Lions Invitational.",
+      "source": {
+        "name": "Wallace State Athletics box score",
+        "url": "https://athletics.wallacestate.edu/sports/wvball/2026-27/boxscores/20261017_k54d.xml"
+      }
+    },
+    {
+      "id": "ws-vb-2026-10-17b",
+      "school": "wallace",
+      "label": "Wallace State Volleyball",
+      "sport": "Volleyball",
+      "period": "Set",
+      "start": "2026-10-17T15:00:00-05:00",
+      "venue": "Tom Drake Coliseum, Wallace State",
+      "home": "wallace",
+      "away": "reid-state",
+      "status": "Final",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "line": {
+        "home": [
+          25,
+          25,
+          25
+        ],
+        "away": [
+          9,
+          11,
+          22
+        ]
+      },
+      "note": "Wallace State Lions Invitational.",
+      "source": {
+        "name": "Wallace State Athletics box score",
+        "url": "https://athletics.wallacestate.edu/sports/wvball/2026-27/boxscores/20261017_1j4e.xml"
+      }
+    },
+    {
+      "id": "ws-vb-2026-10-21",
+      "school": "wallace",
+      "label": "Wallace State Volleyball",
+      "sport": "Volleyball",
+      "period": "Set",
+      "start": "2026-10-21T17:00:00-05:00",
+      "venue": "Tom Drake Coliseum, Wallace State",
+      "home": "wallace",
+      "away": "calhoun",
+      "status": "Final",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "line": {
+        "home": [
+          25,
+          25,
+          25
+        ],
+        "away": [
+          23,
+          12,
+          18
+        ]
+      },
+      "source": {
+        "name": "Wallace State Athletics box score",
+        "url": "https://athletics.wallacestate.edu/sports/wvball/2026-27/boxscores/20261021_t3cs.xml"
+      },
+      "note": "Avenged a September loss at Calhoun. Eleventh straight win."
+    },
+    {
+      "id": "ws-vb-2026-10-22",
+      "school": "wallace",
+      "label": "Wallace State Volleyball",
+      "sport": "Volleyball",
+      "period": "Set",
+      "start": "2026-10-22T12:00:00-05:00",
+      "timeTBA": true,
+      "venue": "Tom Drake Coliseum, Wallace State",
+      "home": "wallace",
+      "away": "southern-union",
+      "status": "Final",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "line": {
+        "home": [
+          25,
+          25,
+          25
+        ],
+        "away": [
+          23,
+          4,
+          16
+        ]
+      },
+      "note": "One of two matches with Southern Union that day.",
+      "source": {
+        "name": "Wallace State Athletics box score",
+        "url": "https://athletics.wallacestate.edu/sports/wvball/2026-27/boxscores/20261022_dhq7.xml"
+      }
+    },
+    {
+      "id": "ws-vb-2026-10-22b",
+      "school": "wallace",
+      "label": "Wallace State Volleyball",
+      "sport": "Volleyball",
+      "period": "Set",
+      "start": "2026-10-22T12:00:00-05:00",
+      "timeTBA": true,
+      "venue": "Tom Drake Coliseum, Wallace State",
+      "home": "wallace",
+      "away": "southern-union",
+      "status": "Final",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "line": {
+        "home": [
+          25,
+          25,
+          25
+        ],
+        "away": [
+          14,
+          12,
+          10
+        ]
+      },
+      "note": "One of two matches with Southern Union that day.",
+      "source": {
+        "name": "Wallace State Athletics box score",
+        "url": "https://athletics.wallacestate.edu/sports/wvball/2026-27/boxscores/20261022_vw3v.xml"
+      }
+    },
+    {
+      "id": "wp-vb-2026-10-28",
+      "school": "west-point",
+      "label": "West Point High Volleyball",
+      "sport": "Volleyball",
+      "period": "Set",
+      "start": "2026-10-28T10:30:00-05:00",
+      "venue": "Birmingham CrossPlex, Birmingham",
+      "home": "west-point",
+      "away": "satsuma",
+      "status": "Final",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "line": {
+        "home": [
+          25,
+          25,
+          25
+        ],
+        "away": [
+          17,
+          23,
+          10
+        ]
+      },
+      "note": "AHSAA Class 4A state quarterfinal at a neutral site. West Point then fell to top ranked Guntersville in three sets in the semifinals and finished the season 40 and 11.",
+      "source": {
+        "name": "The Cullman Times",
+        "url": "https://cullmantimes.com/2026/10/28/sweet-sixteen-no-2-addison-downs-top-ranked-meek-for-16th-state-volleyball-title/"
+      }
+    },
+    {
+      "id": "cs-vb-2026-10-28",
+      "school": "cold-springs",
+      "label": "Cold Springs High Volleyball",
+      "sport": "Volleyball",
+      "period": "Set",
+      "start": "2026-10-28T13:30:00-05:00",
+      "venue": "Birmingham CrossPlex, Birmingham",
+      "home": "cold-springs",
+      "away": "ariton",
+      "status": "Final",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "line": {
+        "home": [
+          16,
+          23,
+          19
+        ],
+        "away": [
+          25,
+          25,
+          25
+        ]
+      },
+      "note": "AHSAA Class 2A state quarterfinal at a neutral site. It was Cold Springs' first state tournament trip since 1996, and the Eagles finished the season 18 and 21.",
+      "source": {
+        "name": "The Cullman Times",
+        "url": "https://cullmantimes.com/2026/10/28/sweet-sixteen-no-2-addison-downs-top-ranked-meek-for-16th-state-volleyball-title/"
+      }
+    },
+    {
+      "id": "chs-1030",
+      "school": "cullman",
+      "label": "Cullman High Football",
+      "sport": "Football",
+      "period": "Q",
+      "start": "2026-10-30T19:00:00-05:00",
+      "venue": "West Morgan, Trinity",
+      "home": "west-morgan",
+      "away": "cullman",
+      "status": "Final",
+      "score": {
+        "home": 35,
+        "away": 13
+      },
+      "line": null,
+      "note": "Nonregion season finale. Cullman finished 3 and 7; West Morgan improved to 7 and 3 and hosts a playoff game Nov 6.",
+      "source": {
+        "name": "The Cullman Tribune",
+        "url": "https://www.cullmantribune.com/2026/10/30/prep-football-cullman-closes-season-with-35-13-loss-at-west-morgan/"
+      }
+    },
+    {
+      "id": "gh-1030",
+      "school": "good-hope",
+      "label": "Good Hope High Football",
+      "sport": "Football",
+      "period": "Q",
+      "start": "2026-10-30T19:00:00-05:00",
+      "venue": "Scottsboro",
+      "home": "scottsboro",
+      "away": "good-hope",
+      "status": "Final",
+      "score": {
+        "home": 49,
+        "away": 14
+      },
+      "line": null,
+      "note": "Class 4A, Region 8 finale. Good Hope finished 7 and 3 and third in the region, so the playoffs open on the road Nov 6. Scottsboro finished 10 and 0 as region champion.",
+      "source": {
+        "name": "The Cullman Tribune",
+        "url": "https://www.cullmantribune.com/2026/10/30/prep-football-good-hope-falls-to-no-2-scottsboro-49-14-in-regular-season-finale/"
+      }
+    },
+    {
+      "id": "cs-1029",
+      "school": "cold-springs",
+      "label": "Cold Springs High Football",
+      "sport": "Football",
+      "period": "Q",
+      "start": "2026-10-29T19:00:00-05:00",
+      "venue": "Cold Springs, Bremen",
+      "home": "cold-springs",
+      "away": "tanner",
+      "status": "Final",
+      "score": {
+        "home": 57,
+        "away": 20
+      },
+      "line": null,
+      "note": "Senior night and regular season finale. Cold Springs finished 9 and 1, its first nine win season since 1993, and hosts a Class 2A first round playoff game on Nov. 6.",
+      "source": {
+        "name": "The Cullman Tribune",
+        "url": "https://www.cullmantribune.com/2026/10/29/prep-football-johnson-scores-3-touchdowns-as-no-10-cold-springs-defeats-tanner-57-20/"
+      }
+    },
+    {
+      "id": "hp-1030",
+      "school": "holly-pond",
+      "label": "Holly Pond High Football",
+      "sport": "Football",
+      "period": "Q",
+      "start": "2026-10-30T19:00:00-05:00",
+      "venue": "Falkville",
+      "home": "falkville",
+      "away": "holly-pond",
+      "status": "Final",
+      "score": {
+        "home": 38,
+        "away": 6
+      },
+      "line": {
+        "home": [
+          6,
+          8,
+          16,
+          8
+        ],
+        "away": [
+          0,
+          0,
+          6,
+          0
+        ]
+      },
+      "note": "Season finale. Holly Pond finished 2 and 8; Falkville ended at 5 and 5.",
+      "source": {
+        "name": "The Cullman Tribune",
+        "url": "https://www.cullmantribune.com/2026/10/31/prep-football-holly-pond-ends-season-with-38-6-loss-at-falkville/"
+      }
+    },
+    {
+      "id": "vhs-1106",
+      "school": "vinemont",
+      "label": "Vinemont High Football",
+      "sport": "Football",
+      "period": "Q",
+      "start": "2026-11-06T19:00:00-06:00",
+      "venue": "Central, Florence",
+      "home": "central-florence",
+      "away": "vinemont",
+      "status": "Upcoming",
+      "score": null,
+      "line": null,
+      "note": "Class 3A playoffs, first round. Vinemont (6 and 4) visits Central Florence (8 and 2). Kickoff 7 p.m.",
+      "source": {
+        "name": "The Cullman Times",
+        "url": "https://cullmantimes.com/2026/11/03/prep-football-local-teams-prepare-for-playoff-matchups/"
+      }
+    },
+    {
+      "id": "cs-1106",
+      "school": "cold-springs",
+      "label": "Cold Springs High Football",
+      "sport": "Football",
+      "period": "Q",
+      "start": "2026-11-06T19:00:00-06:00",
+      "venue": "Cold Springs, Bremen",
+      "home": "cold-springs",
+      "away": "pisgah",
+      "status": "Upcoming",
+      "score": null,
+      "line": null,
+      "note": "Class 2A playoffs, first round. No. 10 Cold Springs (9 and 1) hosts Pisgah (5 and 5) in its first home playoff game since 2003. Kickoff 7 p.m.",
+      "source": {
+        "name": "The Cullman Times",
+        "url": "https://cullmantimes.com/2026/11/03/prep-football-local-teams-prepare-for-playoff-matchups/"
+      }
+    },
+    {
+      "id": "gh-1106",
+      "school": "good-hope",
+      "label": "Good Hope High Football",
+      "sport": "Football",
+      "period": "Q",
+      "start": "2026-11-06T19:00:00-06:00",
+      "venue": "Fairfield",
+      "home": "fairfield",
+      "away": "good-hope",
+      "status": "Upcoming",
+      "score": null,
+      "line": null,
+      "note": "Class 4A playoffs, first round. Good Hope (7 and 3) visits Fairfield (6 and 4). Kickoff 7 p.m.",
+      "source": {
+        "name": "The Cullman Times",
+        "url": "https://cullmantimes.com/2026/11/03/prep-football-local-teams-prepare-for-playoff-matchups/"
+      }
+    }
+  ]
 }
