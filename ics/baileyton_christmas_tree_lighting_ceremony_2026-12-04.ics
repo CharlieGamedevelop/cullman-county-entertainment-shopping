@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cullman County Entertainment and Shopping//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:baileyton_christmas_tree_lighting_ceremony-20261204@cullman-county-en
+ tertainment-shopping
+DTSTAMP:20261106T120000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Baileyton Christmas Tree Lighting Ceremony
+LOCATION:Baileyton Town Park\, 390 Fire Station Road\, Baileyton\, AL
+DESCRIPTION:Baileyton lights its Christmas tree at Town Park. Gates open 
+ at 4:30 p.m.\, the ceremony begins at 6 p.m.\, and Santa Claus will be th
+ ere for pictures with children. Time: Gates 4:30 PM\; ceremony 6:00 PM. h
+ ttps://www.cullmantribune.com/2026/11/05/baileytons-harvest-at-the-park-b
+ rings-a-stars-hollow-kind-of-magic-to-cullman-county/
+URL:https://www.cullmantribune.com/2026/11/05/baileytons-harvest-at-the-p
+ ark-brings-a-stars-hollow-kind-of-magic-to-cullman-county/
+END:VEVENT
+END:VCALENDAR

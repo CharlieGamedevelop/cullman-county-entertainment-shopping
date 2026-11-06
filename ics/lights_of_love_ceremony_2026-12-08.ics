@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cullman County Entertainment and Shopping//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:lights_of_love_ceremony-20261208@cullman-county-entertainment-shoppin
+ g
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=America/Chicago:20261208T180000
+DTEND;TZID=America/Chicago:20261208T200000
+SUMMARY:Lights of Love Ceremony
+LOCATION:Christ Hall at St. John's Evangelical Protestant Church\, 512 2n
+ d Avenue SE\, Cullman\, AL
+DESCRIPTION:The Cullman Regional Foundation hosts the Dr. Herman C. Ensor
+  Lights of Love Ceremony. Tribute lights on the Cullman Regional Christma
+ s tree honor loved ones and support hospital care\, with gifts received b
+ y Dec. 4 included in the program. Time: 6:00 PM. https://cullmantimes.com
+ /2026/11/06/lights-of-love-ceremony-returns-dec-8/
+URL:https://cullmantimes.com/2026/11/06/lights-of-love-ceremony-returns-d
+ ec-8/
+END:VEVENT
+END:VCALENDAR

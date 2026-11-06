@@ -1,23 +1,5 @@
 [
   {
-    "name": "Much Ado About Nothing at Wallace State",
-    "start": "2026-11-06",
-    "end": "2026-11-08",
-    "time": "7:00 PM Nov. 6 and 7, 2:00 PM Nov. 8",
-    "venue": "Betty Leeth Haynes Theatre, Wallace State Community College, 801 Main Street NW",
-    "town": "Hanceville",
-    "host": "Wallace State Theatre",
-    "cost": "$10 donation for adults, $5 for students and children under 12",
-    "summary": "Wallace State Theatre sets Shakespeare's comedy in the World War II era, with music and dances from the 1940s.",
-    "url": "https://www.cullmantribune.com/2026/10/21/wallace-state-releases-performing-arts-schedule-for-2026-2027-season/",
-    "group": "Arts, Music and Theater",
-    "tags": [
-      "theater",
-      "wallace state",
-      "shakespeare"
-    ]
-  },
-  {
     "name": "Sydni Helms-Hipp Memorial Barrel Race",
     "start": "2026-11-06",
     "end": "2026-11-07",
@@ -37,56 +19,41 @@
     ]
   },
   {
-    "name": "Farm Kids Club: Kitchen Scrap Garden",
-    "start": "2026-11-07",
-    "time": "10:00 AM to 11:30 AM",
-    "venue": "North Alabama Agriplex, 1714 Tally Ho Street",
-    "town": "Cullman",
-    "host": "North Alabama Agriplex",
-    "summary": "Kids learn how to start a garden from kitchen scraps.",
-    "url": "https://events.timely.fun/b8354ob3/event/78497587/20261107100000",
-    "group": "Classes and Community",
+    "name": "Much Ado About Nothing at Wallace State",
+    "start": "2026-11-06",
+    "end": "2026-11-08",
+    "time": "7:00 PM Nov. 6 and 7, 2:00 PM Nov. 8",
+    "venue": "Betty Leeth Haynes Theatre, Wallace State Community College, 801 Main Street NW",
+    "town": "Hanceville",
+    "host": "Wallace State Theatre",
+    "cost": "$10 donation for adults, $5 for students and children under 12",
+    "summary": "Wallace State Theatre sets Shakespeare's comedy in the World War II era, with music and dances from the 1940s.",
+    "url": "https://www.cullmantribune.com/2026/10/21/wallace-state-releases-performing-arts-schedule-for-2026-2027-season/",
+    "group": "Arts, Music and Theater",
     "tags": [
-      "kids",
-      "gardening",
-      "class"
+      "theater",
+      "wallace state",
+      "shakespeare"
     ]
   },
   {
-    "name": "Ms. Senior Cullman County Pageant",
+    "name": "16th Annual Mud Creek Arts and Crafts Festival",
     "start": "2026-11-07",
-    "time": "2:00 PM",
-    "venue": "Fairview High School Auditorium, 841 Welcome Road",
-    "town": "Fairview",
-    "host": "Ms. Senior Cullman County Pageant",
-    "cost": "$10 ages 13 and up; $5 ages 6 to 12",
-    "summary": "Eight contestants compete for Ms. Senior Cullman County (ages 60 to 69) and Ms. Super Senior Cullman County (ages 70 and up). Scoring covers interview, fashion and an onstage question, and People's Choice donations support LEAD and First Source for Women.",
-    "url": "https://www.cullmantribune.com/2026/10/03/ms-senior-cullman-county-pageant-introduces-contestants-ahead-of-nov-7-event/",
-    "group": "Classes and Community",
+    "time": "9:00 AM to 4:00 PM",
+    "venue": "Commercial Street, centered at 106 Commercial Street NE",
+    "town": "Hanceville",
+    "host": "Friends of the Festival",
+    "summary": "Historic downtown Hanceville fills with handmade crafts, gifts, food trucks and bounce houses for the kids. Admission is free, the festival goes on rain or shine, and downtown shops usually stay open during the day.",
+    "url": "https://www.cullmantribune.com/2026/10/24/16th-annual-mud-creek-arts-crafts-festival-set-for-nov-7/",
+    "group": "Fairs and Festivals",
+    "cost": "Free",
     "tags": [
-      "pageant",
-      "seniors",
-      "fairview",
-      "fundraiser"
-    ]
-  },
-  {
-    "name": "Holly Pond Lions Club Pancake Breakfast",
-    "start": "2026-11-07",
-    "time": "6:00 AM to 9:00 AM",
-    "venue": "Holly Pond Lions Club Building, 221 Lyons Park Road",
-    "town": "Holly Pond",
-    "host": "Holly Pond Lions Club",
-    "cost": "Donation",
-    "summary": "Pancakes, bacon, sausage and coffee or juice for eat in or takeout. Proceeds help the Lions Club project fund and the food pantry between Town Hall and the Fire Department.",
-    "url": "https://cullmantimes.com/2026/11/03/calendar-of-events/",
-    "group": "Classes and Community",
-    "tags": [
-      "pancakes",
-      "breakfast",
-      "holly pond",
-      "fundraiser",
-      "lions"
+      "arts and crafts",
+      "festival",
+      "shopping",
+      "family",
+      "free",
+      "hanceville"
     ]
   },
   {
@@ -126,41 +93,56 @@
     ]
   },
   {
-    "name": "16th Annual Mud Creek Arts and Crafts Festival",
+    "name": "Farm Kids Club: Kitchen Scrap Garden",
     "start": "2026-11-07",
-    "time": "9:00 AM to 4:00 PM",
-    "venue": "Commercial Street, centered at 106 Commercial Street NE",
-    "town": "Hanceville",
-    "host": "Friends of the Festival",
-    "summary": "Historic downtown Hanceville fills with handmade crafts, gifts, food trucks and bounce houses for the kids. Admission is free, the festival goes on rain or shine, and downtown shops usually stay open during the day.",
-    "url": "https://www.cullmantribune.com/2026/10/24/16th-annual-mud-creek-arts-crafts-festival-set-for-nov-7/",
-    "group": "Fairs and Festivals",
-    "cost": "Free",
+    "time": "10:00 AM to 11:30 AM",
+    "venue": "North Alabama Agriplex, 1714 Tally Ho Street",
+    "town": "Cullman",
+    "host": "North Alabama Agriplex",
+    "summary": "Kids learn how to start a garden from kitchen scraps.",
+    "url": "https://events.timely.fun/b8354ob3/event/78497587/20261107100000",
+    "group": "Classes and Community",
     "tags": [
-      "arts and crafts",
-      "festival",
-      "shopping",
-      "family",
-      "free",
-      "hanceville"
+      "kids",
+      "gardening",
+      "class"
     ]
   },
   {
-    "name": "Dial M for Murder Auditions",
-    "start": "2026-11-08",
-    "time": "2:00 PM to 6:00 PM",
-    "venue": "Clark Street Theatre, Third Avenue NE and Clark Street NE (behind City Hall)",
-    "town": "Cullman",
-    "host": "Cullman Community Theatre",
-    "cost": "Free to audition",
-    "summary": "Cullman Community Theatre is casting adults ages 18 and up for its first suspense thriller, Dial M for Murder. Auditions run Sunday afternoon at the Clark Street Theatre. Crew help is welcome too through the theatre's behind the scenes interest form.",
-    "url": "https://www.cullmantribune.com/2026/11/03/cullman-community-theatre-invites-voices-to-bring-christmas-magic-to-christkindlmarkt/",
-    "group": "Arts, Music and Theater",
+    "name": "Holly Pond Lions Club Pancake Breakfast",
+    "start": "2026-11-07",
+    "time": "6:00 AM to 9:00 AM",
+    "venue": "Holly Pond Lions Club Building, 221 Lyons Park Road",
+    "town": "Holly Pond",
+    "host": "Holly Pond Lions Club",
+    "cost": "Donation",
+    "summary": "Pancakes, bacon, sausage and coffee or juice for eat in or takeout. Proceeds help the Lions Club project fund and the food pantry between Town Hall and the Fire Department.",
+    "url": "https://cullmantimes.com/2026/11/03/calendar-of-events/",
+    "group": "Classes and Community",
     "tags": [
-      "theater",
-      "auditions",
-      "community theatre",
-      "cullman"
+      "pancakes",
+      "breakfast",
+      "holly pond",
+      "fundraiser",
+      "lions"
+    ]
+  },
+  {
+    "name": "Ms. Senior Cullman County Pageant",
+    "start": "2026-11-07",
+    "time": "2:00 PM",
+    "venue": "Fairview High School Auditorium, 841 Welcome Road",
+    "town": "Fairview",
+    "host": "Ms. Senior Cullman County Pageant",
+    "cost": "$10 ages 13 and up; $5 ages 6 to 12",
+    "summary": "Eight contestants compete for Ms. Senior Cullman County (ages 60 to 69) and Ms. Super Senior Cullman County (ages 70 and up). Scoring covers interview, fashion and an onstage question, and People's Choice donations support LEAD and First Source for Women.",
+    "url": "https://www.cullmantribune.com/2026/10/03/ms-senior-cullman-county-pageant-introduces-contestants-ahead-of-nov-7-event/",
+    "group": "Classes and Community",
+    "tags": [
+      "pageant",
+      "seniors",
+      "fairview",
+      "fundraiser"
     ]
   },
   {
@@ -180,6 +162,24 @@
       "omniplex",
       "auction",
       "family"
+    ]
+  },
+  {
+    "name": "Dial M for Murder Auditions",
+    "start": "2026-11-08",
+    "time": "2:00 PM to 6:00 PM",
+    "venue": "Clark Street Theatre, Third Avenue NE and Clark Street NE (behind City Hall)",
+    "town": "Cullman",
+    "host": "Cullman Community Theatre",
+    "cost": "Free to audition",
+    "summary": "Cullman Community Theatre is casting adults ages 18 and up for its first suspense thriller, Dial M for Murder. Auditions run Sunday afternoon at the Clark Street Theatre. Crew help is welcome too through the theatre's behind the scenes interest form.",
+    "url": "https://www.cullmantribune.com/2026/11/03/cullman-community-theatre-invites-voices-to-bring-christmas-magic-to-christkindlmarkt/",
+    "group": "Arts, Music and Theater",
+    "tags": [
+      "theater",
+      "auditions",
+      "community theatre",
+      "cullman"
     ]
   },
   {
@@ -297,21 +297,21 @@
     ]
   },
   {
-    "name": "Vintage Postcard Collection at Shirley Burden Public Library",
+    "name": "40th Annual Ho! Ho! Ho!",
     "start": "2026-11-14",
-    "time": "10:00 AM to 11:00 AM",
-    "venue": "Shirley Burden Public Library, 201 Commercial Street",
-    "town": "Hanceville",
-    "host": "Shirley Burden Public Library",
-    "cost": "Free",
-    "summary": "A longtime Hanceville resident shares a vintage postcard collection with the public, including local cards, military cards, old voter receipts and cards from around the world.",
-    "url": "https://cullmantimes.com/2026/11/03/calendar-of-events/",
-    "group": "Classes and Community",
+    "time": "9:00 AM to 2:00 PM",
+    "venue": "Cullman Caring for Kids, 402 Arnold Street NE",
+    "town": "Cullman",
+    "host": "Cullman Caring for Kids",
+    "cost": "See Cullman Caring for Kids for entry details",
+    "summary": "Cullman Caring for Kids hosts its 40th annual Ho! Ho! Ho! Christmas show. The long running holiday car, truck and motorcycle fundraiser helps local kids in need.",
+    "url": "https://events.timely.fun/b8354ob3/event/78509827/20261114090000",
+    "group": "Fairs and Festivals",
     "tags": [
-      "library",
-      "history",
-      "hanceville",
-      "free",
+      "car show",
+      "christmas",
+      "fundraiser",
+      "caring for kids",
       "family"
     ]
   },
@@ -332,21 +332,21 @@
     ]
   },
   {
-    "name": "40th Annual Ho! Ho! Ho!",
+    "name": "Vintage Postcard Collection at Shirley Burden Public Library",
     "start": "2026-11-14",
-    "time": "9:00 AM to 2:00 PM",
-    "venue": "Cullman Caring for Kids, 402 Arnold Street NE",
-    "town": "Cullman",
-    "host": "Cullman Caring for Kids",
-    "cost": "See Cullman Caring for Kids for entry details",
-    "summary": "Cullman Caring for Kids hosts its 40th annual Ho! Ho! Ho! Christmas show. The long running holiday car, truck and motorcycle fundraiser helps local kids in need.",
-    "url": "https://events.timely.fun/b8354ob3/event/78509827/20261114090000",
-    "group": "Fairs and Festivals",
+    "time": "10:00 AM to 11:00 AM",
+    "venue": "Shirley Burden Public Library, 201 Commercial Street",
+    "town": "Hanceville",
+    "host": "Shirley Burden Public Library",
+    "cost": "Free",
+    "summary": "A longtime Hanceville resident shares a vintage postcard collection with the public, including local cards, military cards, old voter receipts and cards from around the world.",
+    "url": "https://cullmantimes.com/2026/11/03/calendar-of-events/",
+    "group": "Classes and Community",
     "tags": [
-      "car show",
-      "christmas",
-      "fundraiser",
-      "caring for kids",
+      "library",
+      "history",
+      "hanceville",
+      "free",
       "family"
     ]
   },
@@ -370,21 +370,6 @@
     ]
   },
   {
-    "name": "Run Run Rudolph",
-    "start": "2026-11-19",
-    "time": "5:00 PM to 8:00 PM",
-    "venue": "Sportsman Lake Park, 1544 Sportsman Lake Road NW",
-    "town": "Cullman",
-    "host": "Cullman Parks and Recreation",
-    "summary": "A holiday evening event at Sportsman Lake Park.",
-    "url": "https://events.timely.fun/b8354ob3/event/78487342/20261119170000",
-    "group": "Outdoors and Motorsports",
-    "tags": [
-      "run",
-      "christmas"
-    ]
-  },
-  {
     "name": "Christkindlmarkt Grand Opening and Pyramid Lighting",
     "start": "2026-11-19",
     "time": "6:00 PM",
@@ -401,6 +386,21 @@
       "family",
       "free",
       "downtown"
+    ]
+  },
+  {
+    "name": "Run Run Rudolph",
+    "start": "2026-11-19",
+    "time": "5:00 PM to 8:00 PM",
+    "venue": "Sportsman Lake Park, 1544 Sportsman Lake Road NW",
+    "town": "Cullman",
+    "host": "Cullman Parks and Recreation",
+    "summary": "A holiday evening event at Sportsman Lake Park.",
+    "url": "https://events.timely.fun/b8354ob3/event/78487342/20261119170000",
+    "group": "Outdoors and Motorsports",
+    "tags": [
+      "run",
+      "christmas"
     ]
   },
   {
@@ -423,6 +423,23 @@
     ]
   },
   {
+    "name": "Christkindlmarkt Parade and Tree Lighting",
+    "start": "2026-11-20",
+    "time": "6:30 PM parade, 8:00 PM tree lighting",
+    "venue": "Depot Park and downtown Cullman, 107 Arnold Street NW",
+    "town": "Cullman",
+    "host": "Cullman Christkindlmarkt",
+    "summary": "The Christkindlmarkt Parade rolls through downtown at 6:30 p.m. The Christmas tree lighting, light show and fireworks follow at 8 p.m. Free to watch.",
+    "url": "https://www.cullmanchristkindlmarkt.com/",
+    "group": "Fairs and Festivals",
+    "tags": [
+      "christmas",
+      "parade",
+      "family",
+      "christkindlmarkt"
+    ]
+  },
+  {
     "name": "24th Annual Winter Wonderland",
     "start": "2026-11-20",
     "time": "5:00 PM to 9:00 PM",
@@ -440,20 +457,19 @@
     ]
   },
   {
-    "name": "Christkindlmarkt Parade and Tree Lighting",
-    "start": "2026-11-20",
-    "time": "6:30 PM parade, 8:00 PM tree lighting",
-    "venue": "Depot Park and downtown Cullman, 107 Arnold Street NW",
+    "name": "Drive Through Food Bank at Spirit Life Church",
+    "start": "2026-11-21",
+    "time": "9:00 AM to 11:00 AM",
+    "venue": "Spirit Life Church, 1650 St. Joseph Drive NW",
     "town": "Cullman",
-    "host": "Cullman Christkindlmarkt",
-    "summary": "The Christkindlmarkt Parade rolls through downtown at 6:30 p.m. The Christmas tree lighting, light show and fireworks follow at 8 p.m. Free to watch.",
-    "url": "https://www.cullmanchristkindlmarkt.com/",
-    "group": "Fairs and Festivals",
+    "host": "Spirit Life Church / Cullman Area Chamber calendar",
+    "summary": "Drive through for a free box of food. No ID is required. Complete a one page form once a year that says you need food help. Volunteers load the box into your vehicle. Held the third Saturday of the month from 9 to 11 a.m. Call 256-739-3326 with questions.",
+    "url": "https://business.cullmanchamber.org/events/details/drive-through-food-bank-11-21-2026-23789",
+    "group": "Classes and Community",
     "tags": [
-      "christmas",
-      "parade",
-      "family",
-      "christkindlmarkt"
+      "food bank",
+      "community",
+      "free"
     ]
   },
   {
@@ -489,22 +505,6 @@
     ]
   },
   {
-    "name": "Drive Through Food Bank at Spirit Life Church",
-    "start": "2026-11-21",
-    "time": "9:00 AM to 11:00 AM",
-    "venue": "Spirit Life Church, 1650 St. Joseph Drive NW",
-    "town": "Cullman",
-    "host": "Spirit Life Church / Cullman Area Chamber calendar",
-    "summary": "Drive through for a free box of food. No ID is required. Complete a one page form once a year that says you need food help. Volunteers load the box into your vehicle. Held the third Saturday of the month from 9 to 11 a.m. Call 256-739-3326 with questions.",
-    "url": "https://business.cullmanchamber.org/events/details/drive-through-food-bank-11-21-2026-23789",
-    "group": "Classes and Community",
-    "tags": [
-      "food bank",
-      "community",
-      "free"
-    ]
-  },
-  {
     "name": "Festival of Trees",
     "start": "2026-12-03",
     "time": "5:00 PM",
@@ -519,6 +519,44 @@
       "christmas",
       "holiday",
       "family",
+      "free"
+    ]
+  },
+  {
+    "name": "Baileyton Christmas Tree Lighting Ceremony",
+    "start": "2026-12-04",
+    "time": "Gates 4:30 PM; ceremony 6:00 PM",
+    "venue": "Baileyton Town Park, 390 Fire Station Road",
+    "town": "Baileyton",
+    "host": "Town of Baileyton",
+    "cost": "Free",
+    "summary": "Baileyton lights its Christmas tree at Town Park. Gates open at 4:30 p.m., the ceremony begins at 6 p.m., and Santa Claus will be there for pictures with children.",
+    "url": "https://www.cullmantribune.com/2026/11/05/baileytons-harvest-at-the-park-brings-a-stars-hollow-kind-of-magic-to-cullman-county/",
+    "group": "Fairs and Festivals",
+    "tags": [
+      "christmas",
+      "tree lighting",
+      "baileyton",
+      "free",
+      "family"
+    ]
+  },
+  {
+    "name": "Lights of Love Ceremony",
+    "start": "2026-12-08",
+    "time": "6:00 PM",
+    "venue": "Christ Hall at St. John's Evangelical Protestant Church, 512 2nd Avenue SE",
+    "town": "Cullman",
+    "host": "Cullman Regional Foundation",
+    "cost": "Free to attend; tribute lights start at $20",
+    "summary": "The Cullman Regional Foundation hosts the Dr. Herman C. Ensor Lights of Love Ceremony. Tribute lights on the Cullman Regional Christmas tree honor loved ones and support hospital care, with gifts received by Dec. 4 included in the program.",
+    "url": "https://cullmantimes.com/2026/11/06/lights-of-love-ceremony-returns-dec-8/",
+    "group": "Classes and Community",
+    "tags": [
+      "lights of love",
+      "cullman regional",
+      "foundation",
+      "christmas",
       "free"
     ]
   },
