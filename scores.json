@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T12:36:33-06:00",
+  "updated": "2026-11-06T13:44:36-06:00",
   "teams": {
     "cullman": {
       "name": "Cullman",
@@ -337,6 +337,24 @@
     "fairfield": {
       "name": "Fairfield",
       "initials": "F",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "snead": {
+      "name": "Snead State",
+      "initials": "SS",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "itawamba": {
+      "name": "Itawamba",
+      "initials": "ICC",
       "colors": [
         "#4a5160",
         "#d5d9e0"
@@ -1232,6 +1250,47 @@
       "source": {
         "name": "The Cullman Times",
         "url": "https://cullmantimes.com/2026/11/03/prep-football-local-teams-prepare-for-playoff-matchups/"
+      }
+    },
+    {
+      "id": "ws-mbb-2026-11-05",
+      "school": "wallace",
+      "label": "Wallace State Men's Basketball",
+      "sport": "Basketball",
+      "period": "Q",
+      "start": "2026-11-05T18:00:00-06:00",
+      "venue": "Tom Drake Coliseum, Wallace State",
+      "home": "wallace",
+      "away": "snead",
+      "status": "Final",
+      "score": {
+        "home": 97,
+        "away": 90
+      },
+      "line": null,
+      "note": "Season home opener. Wallace State opened the 2026-27 men's basketball season with a 97 to 90 win over Snead State.",
+      "source": {
+        "name": "Alabama Community College Conference schedule / box score",
+        "url": "https://athletics.wallacestate.edu/sports/mbkb/2026-27/boxscores/20261105_3s9m.xml"
+      }
+    },
+    {
+      "id": "ws-mbb-2026-11-07",
+      "school": "wallace",
+      "label": "Wallace State Men's Basketball",
+      "sport": "Basketball",
+      "period": "Q",
+      "start": "2026-11-07T15:00:00-06:00",
+      "venue": "Tom Drake Coliseum, Wallace State",
+      "home": "wallace",
+      "away": "itawamba",
+      "status": "Upcoming",
+      "score": null,
+      "line": null,
+      "note": "Home tipoff 3 p.m. Saturday at Tom Drake Coliseum.",
+      "source": {
+        "name": "Alabama Community College Conference schedule",
+        "url": "https://www.acccathletics.com/sports/mbkb/2026-27/schedule?teamId=2kof8sv9y7jn3iwt"
       }
     }
   ]

@@ -37,6 +37,37 @@
     ]
   },
   {
+    "id": "wallace-mbb-opens-snead-97-90",
+    "date": "2026-11-06",
+    "top": false,
+    "category": "Sports",
+    "graphic": "🏀",
+    "headline": "Wallace State men open basketball season with a 97 to 90 win over Snead State",
+    "summary": "The Lions beat the Parsons at Tom Drake Coliseum on Thursday night and host Itawamba Community College at 3 p.m. Saturday.",
+    "body": [
+      "Wallace State men's basketball opened the 2026-27 season with a home win. On Thursday, Nov. 5, the Lions defeated Snead State 97 to 90 at Tom Drake Coliseum in Hanceville.",
+      "The result is listed as final on the Alabama Community College Conference schedule and on the Wallace State and Snead State box score pages. Quarter by quarter scoring was not posted in the sources we checked.",
+      "Next up, Wallace State hosts Itawamba Community College on Saturday, Nov. 7, at 3 p.m. at Tom Drake Coliseum. Tipoff times can shift slightly, so check the conference schedule before you go.",
+      "County high school football playoff openers are still on tap for Friday night at 7 p.m., with Cold Springs hosting Pisgah, Good Hope visiting Fairfield, and Vinemont visiting Central Florence."
+    ],
+    "sources": [
+      {
+        "name": "Alabama Community College Conference: Wallace State 2026-27 men's basketball schedule (lists W, 97-90 vs Snead State on Nov. 5)",
+        "url": "https://www.acccathletics.com/sports/mbkb/2026-27/schedule?teamId=2kof8sv9y7jn3iwt"
+      },
+      {
+        "name": "Wallace State Athletics box score: Snead State at Wallace State, Nov. 5, 2026",
+        "url": "https://athletics.wallacestate.edu/sports/mbkb/2026-27/boxscores/20261105_3s9m.xml"
+      }
+    ],
+    "tags": [
+      "wallace state",
+      "basketball",
+      "snead state",
+      "itawamba"
+    ]
+  },
+  {
     "id": "woodland-trade-box-cullman",
     "date": "2026-11-06",
     "top": false,
