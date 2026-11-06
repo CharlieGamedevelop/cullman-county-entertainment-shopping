@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cullman County Entertainment and Shopping//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:cullman_aquatics_society_meeting-20261108@cullman-county-entertainmen
+ t-shopping
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=America/Chicago:20261108T143000
+DTEND;TZID=America/Chicago:20261108T163000
+SUMMARY:Cullman Aquatics Society Meeting
+LOCATION:Cullman OmniPlex conference room\, 1634 Field of Miracles Drive 
+ SW\, Cullman\, AL
+DESCRIPTION:The Cullman Aquatics Society welcomes beginners and longtime 
+ hobbyists to its open meeting. Guests can meet fellow aquarium keepers\, 
+ learn about freshwater and saltwater setups\, and join a cash auction of 
+ fish\, plants\, and accessories. Time: 2:30 PM. https://www.cullmantribun
+ e.com/2026/11/06/aquatic-hobbyist-cullman-aquatics-society-has-a-place-fo
+ r-you-event-set-for-nov-8/
+URL:https://www.cullmantribune.com/2026/11/06/aquatic-hobbyist-cullman-aq
+ uatics-society-has-a-place-for-you-event-set-for-nov-8/
+END:VEVENT
+END:VCALENDAR
