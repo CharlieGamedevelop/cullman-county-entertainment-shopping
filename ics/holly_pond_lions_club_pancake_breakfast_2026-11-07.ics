@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cullman County Entertainment and Shopping//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:holly_pond_lions_club_pancake_breakfast-20261107@cullman-county-enter
+ tainment-shopping
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=America/Chicago:20261107T060000
+DTEND;TZID=America/Chicago:20261107T090000
+SUMMARY:Holly Pond Lions Club Pancake Breakfast
+LOCATION:Holly Pond Lions Club Building\, 221 Lyons Park Road\, Holly Pon
+ d\, AL
+DESCRIPTION:Pancakes\, bacon\, sausage and coffee or juice for eat in or 
+ takeout. Proceeds help the Lions Club project fund and the food pantry be
+ tween Town Hall and the Fire Department. Time: 6:00 AM to 9:00 AM. https:
+ //cullmantimes.com/2026/11/03/calendar-of-events/
+URL:https://cullmantimes.com/2026/11/03/calendar-of-events/
+END:VEVENT
+END:VCALENDAR

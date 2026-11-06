@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cullman County Entertainment and Shopping//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:wreaths_across_america_ceremonies-20261219@cullman-county-entertainme
+ nt-shopping
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=America/Chicago:20261219T100000
+DTEND;TZID=America/Chicago:20261219T120000
+SUMMARY:Wreaths Across America Ceremonies
+LOCATION:Cullman Public Cemetery and Cullman Memory Gardens\, Cullman\, A
+ L
+DESCRIPTION:The public is invited to wreath laying ceremonies honoring lo
+ cal veterans. Ceremony at 10 a.m. at Cullman Public Cemetery and at 2 p.m
+ . at Cullman Memory Gardens. Sponsors can still fund wreaths for $17 each
+ . Time: 10:00 AM at Cullman Public Cemetery\; 2:00 PM at Cullman Memory G
+ ardens. https://cullmantimes.com/2026/11/03/wreaths-across-america-seekin
+ g-sponsors/
+URL:https://cullmantimes.com/2026/11/03/wreaths-across-america-seeking-sp
+ onsors/
+END:VEVENT
+END:VCALENDAR

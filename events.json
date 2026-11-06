@@ -109,6 +109,25 @@
     ]
   },
   {
+    "name": "Holly Pond Lions Club Pancake Breakfast",
+    "start": "2026-11-07",
+    "time": "6:00 AM to 9:00 AM",
+    "venue": "Holly Pond Lions Club Building, 221 Lyons Park Road",
+    "town": "Holly Pond",
+    "host": "Holly Pond Lions Club",
+    "cost": "Donation",
+    "summary": "Pancakes, bacon, sausage and coffee or juice for eat in or takeout. Proceeds help the Lions Club project fund and the food pantry between Town Hall and the Fire Department.",
+    "url": "https://cullmantimes.com/2026/11/03/calendar-of-events/",
+    "group": "Classes and Community",
+    "tags": [
+      "pancakes",
+      "breakfast",
+      "holly pond",
+      "fundraiser",
+      "lions"
+    ]
+  },
+  {
     "name": "Sportsworld Adult Old School Skate",
     "start": "2026-11-08",
     "time": "6:00 PM to 9:00 PM",
@@ -218,6 +237,63 @@
       "crafts",
       "christmas",
       "shopping"
+    ]
+  },
+  {
+    "name": "Vintage Postcard Collection at Shirley Burden Public Library",
+    "start": "2026-11-14",
+    "time": "10:00 AM to 11:00 AM",
+    "venue": "Shirley Burden Public Library, 201 Commercial Street",
+    "town": "Hanceville",
+    "host": "Shirley Burden Public Library",
+    "cost": "Free",
+    "summary": "A longtime Hanceville resident shares a vintage postcard collection with the public, including local cards, military cards, old voter receipts and cards from around the world.",
+    "url": "https://cullmantimes.com/2026/11/03/calendar-of-events/",
+    "group": "Classes and Community",
+    "tags": [
+      "library",
+      "history",
+      "hanceville",
+      "free",
+      "family"
+    ]
+  },
+  {
+    "name": "The Great Christmas Pickle Hunt",
+    "start": "2026-11-15",
+    "time": "12:00 PM to 4:00 PM",
+    "venue": "Participating Cullman Chamber member businesses, downtown Cullman",
+    "town": "Cullman",
+    "host": "Cullman Area Chamber of Commerce",
+    "cost": "Free",
+    "summary": "Find hidden Christmas pickles at participating Chamber businesses, scan the QR code, snap a selfie for the prize drawing, then return each pickle so the next hunter can play. Keep hunting at more shops for more entries.",
+    "url": "https://business.cullmanchamber.org/events/details/the-great-christmas-pickle-hunt-24053",
+    "group": "Fairs and Festivals",
+    "tags": [
+      "christmas",
+      "family",
+      "free",
+      "downtown",
+      "chamber"
+    ]
+  },
+  {
+    "name": "Christkindlmarkt Grand Opening and Pyramid Lighting",
+    "start": "2026-11-19",
+    "time": "6:00 PM",
+    "venue": "Depot Park, downtown Cullman",
+    "town": "Cullman",
+    "host": "Cullman Christkindlmarkt",
+    "cost": "Free",
+    "summary": "Cullman Christkindlmarkt opens the season with the Lighting of the Christmas Pyramid, led by the Cullman Community Band. Free admission.",
+    "url": "https://www.cullmanchristkindlmarkt.com/",
+    "group": "Fairs and Festivals",
+    "tags": [
+      "christmas",
+      "christkindlmarkt",
+      "family",
+      "free",
+      "downtown"
     ]
   },
   {
@@ -387,6 +463,25 @@
       "seniors",
       "christmas",
       "free"
+    ]
+  },
+  {
+    "name": "Wreaths Across America Ceremonies",
+    "start": "2026-12-19",
+    "time": "10:00 AM at Cullman Public Cemetery; 2:00 PM at Cullman Memory Gardens",
+    "venue": "Cullman Public Cemetery and Cullman Memory Gardens",
+    "town": "Cullman",
+    "host": "Dripping Springs Chapter, Daughters of the American Revolution",
+    "cost": "Free to attend; wreath sponsorships $17",
+    "summary": "The public is invited to wreath laying ceremonies honoring local veterans. Ceremony at 10 a.m. at Cullman Public Cemetery and at 2 p.m. at Cullman Memory Gardens. Sponsors can still fund wreaths for $17 each.",
+    "url": "https://cullmantimes.com/2026/11/03/wreaths-across-america-seeking-sponsors/",
+    "group": "Classes and Community",
+    "tags": [
+      "veterans",
+      "wreaths",
+      "ceremony",
+      "free",
+      "christmas"
     ]
   },
   {
