@@ -1,0 +1,10 @@
+{
+  "name": "cullman-county-entertainment-shopping",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "generate:communities": "node scripts/generate-community-directory.mjs",
+    "validate:feeds": "node scripts/validate-community-feeds.mjs",
+    "check:links": "node scripts/check-links.mjs"
+  }
+}

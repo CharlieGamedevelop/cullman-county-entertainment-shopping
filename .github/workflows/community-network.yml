@@ -1,0 +1,27 @@
+name: Community Network Validation
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Validate community network JSON
+        run: node scripts/validate-community-feeds.mjs
+
+      - name: Generate community directory
+        run: node scripts/generate-community-directory.mjs
+
+      - name: Check base page integrity
+        run: node scripts/check-links.mjs
