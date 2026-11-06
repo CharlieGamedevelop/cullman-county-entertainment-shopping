@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cullman County Entertainment and Shopping//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ms_senior_cullman_county_pageant-20261107@cullman-county-entertainmen
+ t-shopping
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=America/Chicago:20261107T140000
+DTEND;TZID=America/Chicago:20261107T160000
+SUMMARY:Ms. Senior Cullman County Pageant
+LOCATION:Fairview High School Auditorium\, 841 Welcome Road\, Fairview\, 
+ AL
+DESCRIPTION:Eight contestants compete for Ms. Senior Cullman County (ages
+  60 to 69) and Ms. Super Senior Cullman County (ages 70 and up). Scoring 
+ covers interview\, fashion and an onstage question\, and People's Choice 
+ donations support LEAD and First Source for Women. Time: 2:00 PM. https:/
+ /www.cullmantribune.com/2026/10/03/ms-senior-cullman-county-pageant-intro
+ duces-contestants-ahead-of-nov-7-event/
+URL:https://www.cullmantribune.com/2026/10/03/ms-senior-cullman-county-pa
+ geant-introduces-contestants-ahead-of-nov-7-event/
+END:VEVENT
+END:VCALENDAR

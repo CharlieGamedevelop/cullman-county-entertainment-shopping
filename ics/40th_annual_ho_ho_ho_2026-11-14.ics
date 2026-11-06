@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cullman County Entertainment and Shopping//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:40th_annual_ho_ho_ho-20261114@cullman-county-entertainment-shopping
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=America/Chicago:20261114T090000
+DTEND;TZID=America/Chicago:20261114T140000
+SUMMARY:40th Annual Ho! Ho! Ho!
+LOCATION:Cullman Caring for Kids\, 402 Arnold Street NE\, Cullman\, AL
+DESCRIPTION:Cullman Caring for Kids hosts its 40th annual Ho! Ho! Ho! Chr
+ istmas show. The long running holiday car\, truck and motorcycle fundrais
+ er helps local kids in need. Time: 9:00 AM to 2:00 PM. https://events.tim
+ ely.fun/b8354ob3/event/78509827/20261114090000
+URL:https://events.timely.fun/b8354ob3/event/78509827/20261114090000
+END:VEVENT
+END:VCALENDAR
