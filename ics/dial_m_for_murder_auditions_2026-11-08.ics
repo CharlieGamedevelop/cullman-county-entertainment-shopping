@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cullman County Entertainment and Shopping//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dial_m_for_murder_auditions-20261108@cullman-county-entertainment-sho
+ pping
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=America/Chicago:20261108T140000
+DTEND;TZID=America/Chicago:20261108T180000
+SUMMARY:Dial M for Murder Auditions
+LOCATION:Clark Street Theatre\, Third Avenue NE and Clark Street NE (behi
+ nd City Hall)\, Cullman\, AL
+DESCRIPTION:Cullman Community Theatre is casting adults ages 18 and up fo
+ r its first suspense thriller\, Dial M for Murder. Auditions run Sunday a
+ fternoon at the Clark Street Theatre. Crew help is welcome too through th
+ e theatre's behind the scenes interest form. Time: 2:00 PM to 6:00 PM. ht
+ tps://www.cullmantribune.com/2026/11/03/cullman-community-theatre-invites
+ -voices-to-bring-christmas-magic-to-christkindlmarkt/
+URL:https://www.cullmantribune.com/2026/11/03/cullman-community-theatre-i
+ nvites-voices-to-bring-christmas-magic-to-christkindlmarkt/
+END:VEVENT
+END:VCALENDAR
