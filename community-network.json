@@ -1,0 +1,122 @@
+[
+  {
+    "municipality": "Hanceville",
+    "slug": "hanceville",
+    "repo": "hanceville-al-portal",
+    "status": "planned",
+    "feedUrl": "https://charliegamedevelop.github.io/hanceville-al-portal/feed.json",
+    "website": "https://charliegamedevelop.github.io/hanceville-al-portal/"
+  },
+  {
+    "municipality": "Cullman",
+    "slug": "cullman",
+    "repo": "cullman-city-portal",
+    "status": "planned",
+    "feedUrl": "https://charliegamedevelop.github.io/cullman-city-portal/feed.json",
+    "website": "https://charliegamedevelop.github.io/cullman-city-portal/"
+  },
+  {
+    "municipality": "Good Hope",
+    "slug": "goodhope",
+    "repo": "goodhope-al-portal",
+    "status": "planned",
+    "feedUrl": "https://charliegamedevelop.github.io/goodhope-al-portal/feed.json",
+    "website": "https://charliegamedevelop.github.io/goodhope-al-portal/"
+  },
+  {
+    "municipality": "South Vinemont",
+    "slug": "vinemont",
+    "repo": "vinemont-al-portal",
+    "status": "planned",
+    "feedUrl": "https://charliegamedevelop.github.io/vinemont-al-portal/feed.json",
+    "website": "https://charliegamedevelop.github.io/vinemont-al-portal/"
+  },
+  {
+    "municipality": "Fairview",
+    "slug": "fairview",
+    "repo": "fairview-al-portal",
+    "status": "planned",
+    "feedUrl": "https://charliegamedevelop.github.io/fairview-al-portal/feed.json",
+    "website": "https://charliegamedevelop.github.io/fairview-al-portal/"
+  },
+  {
+    "municipality": "West Point",
+    "slug": "westpoint",
+    "repo": "westpoint-al-portal",
+    "status": "planned",
+    "feedUrl": "https://charliegamedevelop.github.io/westpoint-al-portal/feed.json",
+    "website": "https://charliegamedevelop.github.io/westpoint-al-portal/"
+  },
+  {
+    "municipality": "Holly Pond",
+    "slug": "hollypond",
+    "repo": "hollypond-al-portal",
+    "status": "planned",
+    "feedUrl": "https://charliegamedevelop.github.io/hollypond-al-portal/feed.json",
+    "website": "https://charliegamedevelop.github.io/hollypond-al-portal/"
+  },
+  {
+    "municipality": "Cold Springs / Bremen",
+    "slug": "coldsprings",
+    "repo": "coldsprings-al-portal",
+    "status": "planned",
+    "feedUrl": "https://charliegamedevelop.github.io/coldsprings-al-portal/feed.json",
+    "website": "https://charliegamedevelop.github.io/coldsprings-al-portal/"
+  },
+  {
+    "municipality": "Baileyton",
+    "slug": "baileyton",
+    "repo": "baileyton-al-portal",
+    "status": "planned",
+    "feedUrl": "https://charliegamedevelop.github.io/baileyton-al-portal/feed.json",
+    "website": "https://charliegamedevelop.github.io/baileyton-al-portal/"
+  },
+  {
+    "municipality": "Berlin",
+    "slug": "berlin",
+    "repo": "berlin-al-portal",
+    "status": "planned",
+    "feedUrl": "https://charliegamedevelop.github.io/berlin-al-portal/feed.json",
+    "website": "https://charliegamedevelop.github.io/berlin-al-portal/"
+  },
+  {
+    "municipality": "Colony",
+    "slug": "colony",
+    "repo": "colony-al-portal",
+    "status": "planned",
+    "feedUrl": "https://charliegamedevelop.github.io/colony-al-portal/feed.json",
+    "website": "https://charliegamedevelop.github.io/colony-al-portal/"
+  },
+  {
+    "municipality": "Dodge City",
+    "slug": "dodgecity",
+    "repo": "dodgecity-al-portal",
+    "status": "planned",
+    "feedUrl": "https://charliegamedevelop.github.io/dodgecity-al-portal/feed.json",
+    "website": "https://charliegamedevelop.github.io/dodgecity-al-portal/"
+  },
+  {
+    "municipality": "Garden City",
+    "slug": "gardencity",
+    "repo": "gardencity-al-portal",
+    "status": "planned",
+    "feedUrl": "https://charliegamedevelop.github.io/gardencity-al-portal/feed.json",
+    "website": "https://charliegamedevelop.github.io/gardencity-al-portal/"
+  },
+  {
+    "municipality": "Arab (Cullman portion)",
+    "slug": "arab",
+    "repo": "arab-al-portal",
+    "status": "planned",
+    "feedUrl": "https://charliegamedevelop.github.io/arab-al-portal/feed.json",
+    "website": "https://charliegamedevelop.github.io/arab-al-portal/"
+  },
+  {
+    "municipality": "Crane Hill / Smith Lake",
+    "slug": "smithlake",
+    "repo": "smithlake-al-portal",
+    "status": "planned",
+    "feedUrl": "https://charliegamedevelop.github.io/smithlake-al-portal/feed.json",
+    "website": "https://charliegamedevelop.github.io/smithlake-al-portal/"
+  }
+]

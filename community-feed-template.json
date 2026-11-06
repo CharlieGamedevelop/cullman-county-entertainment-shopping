@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "format": "county-community-feed-v1",
+  "description": "Municipal story feed schema for the countywide aggregate network.",
+  "items": [
+    {
+      "title": "Example story headline",
+      "url": "https://example.com/story/example-story",
+      "municipality": "Hanceville",
+      "publishedAt": "2026-11-06T18:00:00Z",
+      "summary": "A short, factual summary suitable for syndication.",
+      "category": "Community",
+      "tags": ["events", "schools", "government"],
+      "image": "https://example.com/images/example-story.jpg",
+      "sourceName": "Hanceville community site",
+      "sourceUrl": "https://example.com/",
+      "status": "published"
+    }
+  ]
+}
