@@ -3,7 +3,7 @@
 var FB='';// Facebook Page slot: stays empty until the Page exists, and every Facebook link is skipped while empty
 var EMAIL='shoplocalhanceville@gmail.com';
 var PAGES=[
- {k:'events',f:'events.html',t:'Events',ic:'\ud83d\udcc5',j:'events.json',g:'group',o:['Fairs and Festivals','Fall Fun and Halloween','Arts, Music and Theater','Outdoors and Motorsports','Classes and Community']},
+ {k:'events',f:'events.html',t:'Events',ic:'\ud83d\udcc5',j:'events.json',g:'group',o:['Fairs and Festivals','Arts, Music and Theater','Outdoors and Motorsports','Classes and Community']},
  {k:'fun',f:'fun.html',t:'Things to Do',ic:'\ud83c\udfa1',j:'fun.json',g:'group',o:['Landmarks and History','Parks and Outdoors','Lake Life','Family Fun','Festivals Through the Year','Fun Facts'],info:1},
  {k:'eats',f:'eats.html',t:'Local Eats',ic:'\ud83c\udf7d\ufe0f',j:'eats.json',g:'group',o:['Restaurants and Cafes','Barbecue and Southern','Pubs, Grills and Breweries','Coffee, Sweets and Treats']},
  {k:'shops',f:'shops.html',t:'Shops',ic:'\ud83d\udecd\ufe0f',j:'shops.json',g:'group',o:['Boutiques and Clothing','Gifts, Books and Specialty','Antiques, Vintage and Thrift','Furniture and Home','Outdoors and Hardware']},
