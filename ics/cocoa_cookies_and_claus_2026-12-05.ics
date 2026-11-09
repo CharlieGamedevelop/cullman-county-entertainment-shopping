@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cullman County Entertainment and Shopping//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:cocoa_cookies_and_claus-20261205@cullman-county-entertainment-shoppin
+ g
+DTSTAMP:20261109T120000Z
+DTSTART;TZID=America/Chicago:20261205T110000
+DTEND;TZID=America/Chicago:20261205T130000
+SUMMARY:Cocoa\, Cookies and Claus
+LOCATION:The Cullman Tribune office\, 219 2nd Avenue SE\, Cullman\, AL
+DESCRIPTION:Families can enjoy hot chocolate and cookies and visit with S
+ anta Claus at The Cullman Tribune office. A Tribune photographer will tak
+ e a free photo with Santa\, and guests are welcome to snap their own pict
+ ures too. Time: 11:00 AM to 1:00 PM. https://www.cullmantribune.com/2026/
+ 11/09/the-cullman-tribune-invites-community-to-cocoa-cookies-and-claus-de
+ c-5/
+URL:https://www.cullmantribune.com/2026/11/09/the-cullman-tribune-invites
+ -community-to-cocoa-cookies-and-claus-dec-5/
+END:VEVENT
+END:VCALENDAR

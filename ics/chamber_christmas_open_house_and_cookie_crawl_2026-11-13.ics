@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cullman County Entertainment and Shopping//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:chamber_christmas_open_house_and_cookie_crawl-20261113@cullman-county
+ -entertainment-shopping
+DTSTAMP:20261109T120000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261115
+SUMMARY:Chamber Christmas Open House and Cookie Crawl
+LOCATION:Cullman Area Chamber of Commerce\, 301 2nd Avenue SW\, Cullman\,
+  AL
+DESCRIPTION:The Chamber's annual Christmas Open House starts Friday\, Nov
+ . 13\, when Santa Claus visits the Chamber building on U.S. 31 from 4 to 
+ 6 p.m. and families pick up themed cookie boxes. On Saturday\, participat
+ ing shops in the downtown warehouse district hand out fresh holiday cooki
+ es for the Cookie Crawl. The Great Christmas Pickle Hunt follows on Sunda
+ y. Time: Fri 4 PM to 6 PM with Santa at the Chamber\; Sat Cookie Crawl du
+ ring shop hours. https://cullmantimes.com/2026/11/08/shop-local-chamber-o
+ f-commerce-christmas-open-house-kicks-off-friday-nov-13/
+URL:https://cullmantimes.com/2026/11/08/shop-local-chamber-of-commerce-ch
+ ristmas-open-house-kicks-off-friday-nov-13/
+END:VEVENT
+END:VCALENDAR

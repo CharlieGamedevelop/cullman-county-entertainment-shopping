@@ -68,6 +68,63 @@
   ]
  },
  {
+  "id": "chamber-christmas-open-house-nov-13",
+  "date": "2026-11-09",
+  "top": false,
+  "category": "Business",
+  "graphic": "🎁",
+  "headline": "Chamber Christmas Open House brings Santa and a cookie crawl to Cullman this weekend",
+  "summary": "Santa visits the Cullman Area Chamber of Commerce on Friday, Nov. 13, from 4 to 6 p.m. Downtown shops serve holiday cookies on Saturday, and the Christmas Pickle Hunt follows on Sunday.",
+  "body": [
+   "The Cullman Area Chamber of Commerce kicks off its annual Christmas Open House on Friday, Nov. 13. Santa Claus will greet families at the Chamber building on U.S. 31 from 4 to 6 p.m., and families can pick up themed cookie boxes for the next day's Cookie Crawl.",
+   "On Saturday, Nov. 14, participating businesses in the downtown warehouse district will welcome shoppers with fresh holiday cookies. It is a good chance to browse local shops and start a Christmas list close to home.",
+   "On Sunday, Nov. 15, participating businesses will hide holiday pickles in their stores for the Great Christmas Pickle Hunt, giving shoppers a chance to win prizes. Sips and Strokes in Cullman also plans a free Craft the Halls Christmas art lesson for children that afternoon at 2 p.m.",
+   "The Chamber is located at 301 2nd Avenue SW in Cullman. Check our events page for the open house and Pickle Hunt details."
+  ],
+  "sources": [
+   {
+    "name": "The Cullman Times: Shop Local: Chamber of Commerce Christmas Open House kicks off Friday, Nov. 13 (Nov. 8, 2026)",
+    "url": "https://cullmantimes.com/2026/11/08/shop-local-chamber-of-commerce-christmas-open-house-kicks-off-friday-nov-13/"
+   },
+   {
+    "name": "Cullman Area Chamber of Commerce: The Great Christmas Pickle Hunt",
+    "url": "https://business.cullmanchamber.org/events/details/the-great-christmas-pickle-hunt-24053"
+   }
+  ],
+  "tags": [
+   "christmas",
+   "shop local",
+   "chamber",
+   "downtown"
+  ]
+ },
+ {
+  "id": "cocoa-cookies-and-claus-dec-5",
+  "date": "2026-11-09",
+  "top": false,
+  "category": "Around the County",
+  "graphic": "☕",
+  "headline": "The Cullman Tribune invites families to Cocoa, Cookies and Claus on Dec. 5",
+  "summary": "The free holiday event runs from 11 a.m. to 1 p.m. on Saturday, Dec. 5, at the Tribune office on Second Avenue SE, with cocoa, cookies and free photos with Santa.",
+  "body": [
+   "The Cullman Tribune is hosting a free Christmas event called Cocoa, Cookies and Claus on Saturday, Dec. 5, from 11 a.m. to 1 p.m.",
+   "The event will be held at the Tribune office at 219 Second Avenue SE in Cullman. Guests can enjoy hot chocolate and cookies while visiting with Santa Claus.",
+   "A Tribune photographer will take a free photo of each family with Santa, and guests are also welcome to take their own pictures. The newspaper calls the event its Christmas gift to the community, and everyone is invited."
+  ],
+  "sources": [
+   {
+    "name": "The Cullman Tribune: The Cullman Tribune invites community to Cocoa, Cookies and Claus Dec. 5 (Nov. 9, 2026)",
+    "url": "https://www.cullmantribune.com/2026/11/09/the-cullman-tribune-invites-community-to-cocoa-cookies-and-claus-dec-5/"
+   }
+  ],
+  "tags": [
+   "christmas",
+   "santa",
+   "family",
+   "free"
+  ]
+ },
+ {
   "id": "cold-springs-cross-country-fourth-straight-state-title",
   "date": "2026-11-08",
   "top": false,
