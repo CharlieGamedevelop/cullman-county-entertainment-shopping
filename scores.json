@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T13:44:36-06:00",
+  "updated": "2026-11-09T06:39:06-06:00",
   "teams": {
     "cullman": {
       "name": "Cullman",
@@ -355,6 +355,78 @@
     "itawamba": {
       "name": "Itawamba",
       "initials": "ICC",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "lexington": {
+      "name": "Lexington",
+      "initials": "L",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "fayette-county": {
+      "name": "Fayette County",
+      "initials": "FC",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "gulf-coast": {
+      "name": "Gulf Coast State",
+      "initials": "GC",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "chipola": {
+      "name": "Chipola",
+      "initials": "C",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "bevill-state": {
+      "name": "Bevill State",
+      "initials": "BS",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "albany-tech": {
+      "name": "Albany Tech",
+      "initials": "AT",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "pellissippi": {
+      "name": "Pellissippi State",
+      "initials": "PS",
+      "colors": [
+        "#4a5160",
+        "#d5d9e0"
+      ],
+      "text": "#ffffff"
+    },
+    "east-mississippi": {
+      "name": "East Mississippi",
+      "initials": "EM",
       "colors": [
         "#4a5160",
         "#d5d9e0"
@@ -1205,13 +1277,16 @@
       "venue": "Central, Florence",
       "home": "central-florence",
       "away": "vinemont",
-      "status": "Upcoming",
-      "score": null,
+      "status": "Final",
+      "score": {
+        "home": 8,
+        "away": 16
+      },
       "line": null,
-      "note": "Class 3A playoffs, first round. Vinemont (6 and 4) visits Central Florence (8 and 2). Kickoff 7 p.m.",
+      "note": "Class 3A playoffs, first round. Vinemont improved to 7 and 4 with its first playoff win since 1993.",
       "source": {
         "name": "The Cullman Times",
-        "url": "https://cullmantimes.com/2026/11/03/prep-football-local-teams-prepare-for-playoff-matchups/"
+        "url": "https://cullmantimes.com/2026/11/06/prep-football-3a-playoffs-vinemont-takes-down-central-florence-for-1st-postseason-win-since-1993/"
       }
     },
     {
@@ -1224,13 +1299,16 @@
       "venue": "Cold Springs, Bremen",
       "home": "cold-springs",
       "away": "pisgah",
-      "status": "Upcoming",
-      "score": null,
+      "status": "Final",
+      "score": {
+        "home": 42,
+        "away": 34
+      },
       "line": null,
-      "note": "Class 2A playoffs, first round. No. 10 Cold Springs (9 and 1) hosts Pisgah (5 and 5) in its first home playoff game since 2003. Kickoff 7 p.m.",
+      "note": "Class 2A playoffs, first round. Cold Springs improved to 10 and 1 and won its first playoff game since 1993 on a touchdown and 2 point conversion with 27 seconds left.",
       "source": {
-        "name": "The Cullman Times",
-        "url": "https://cullmantimes.com/2026/11/03/prep-football-local-teams-prepare-for-playoff-matchups/"
+        "name": "The Cullman Tribune",
+        "url": "https://www.cullmantribune.com/2026/11/06/prep-football-playoffs-day-scores-with-27-seconds-left-to-lift-cold-springs-past-pisgah-42-34/"
       }
     },
     {
@@ -1243,13 +1321,16 @@
       "venue": "Fairfield",
       "home": "fairfield",
       "away": "good-hope",
-      "status": "Upcoming",
-      "score": null,
+      "status": "Final",
+      "score": {
+        "home": 21,
+        "away": 24
+      },
       "line": null,
-      "note": "Class 4A playoffs, first round. Good Hope (7 and 3) visits Fairfield (6 and 4). Kickoff 7 p.m.",
+      "note": "Class 4A playoffs, first round. Good Hope won in double overtime on a 34 yard field goal and improved to 8 and 3.",
       "source": {
-        "name": "The Cullman Times",
-        "url": "https://cullmantimes.com/2026/11/03/prep-football-local-teams-prepare-for-playoff-matchups/"
+        "name": "The Cullman Tribune",
+        "url": "https://www.cullmantribune.com/2026/11/06/prep-football-playoffs-prewetts-field-goal-lifts-good-hope-past-fairfield-24-21-in-double-ot/"
       }
     },
     {
@@ -1284,13 +1365,174 @@
       "venue": "Tom Drake Coliseum, Wallace State",
       "home": "wallace",
       "away": "itawamba",
+      "status": "Final",
+      "score": {
+        "home": 56,
+        "away": 80
+      },
+      "line": null,
+      "note": "Itawamba won at Tom Drake Coliseum. Final 80 to 56, confirmed by the Wallace State schedule and Itawamba Athletics.",
+      "source": {
+        "name": "Wallace State Athletics men's basketball schedule",
+        "url": "https://athletics.wallacestate.edu/sports/mbkb/2026-27/schedule"
+      }
+    },
+    {
+      "id": "cs-1113",
+      "school": "cold-springs",
+      "label": "Cold Springs High Football",
+      "sport": "Football",
+      "period": "Q",
+      "start": "2026-11-13T19:00:00-06:00",
+      "venue": "Lexington",
+      "home": "lexington",
+      "away": "cold-springs",
       "status": "Upcoming",
       "score": null,
       "line": null,
-      "note": "Home tipoff 3 p.m. Saturday at Tom Drake Coliseum.",
+      "note": "Class 2A playoffs, second round. Cold Springs (10 and 1) visits Lexington (10 and 1). Kickoff 7 p.m.",
       "source": {
-        "name": "Alabama Community College Conference schedule",
-        "url": "https://www.acccathletics.com/sports/mbkb/2026-27/schedule?teamId=2kof8sv9y7jn3iwt"
+        "name": "WAKA 8 and AHSAA: second round schedule",
+        "url": "https://www.waka.com/2026/11/08/schedule-set-for-ahsaa-second-round-football-playoffs/"
+      }
+    },
+    {
+      "id": "gh-1113",
+      "school": "good-hope",
+      "label": "Good Hope High Football",
+      "sport": "Football",
+      "period": "Q",
+      "start": "2026-11-13T19:00:00-06:00",
+      "venue": "Good Hope",
+      "home": "good-hope",
+      "away": "deshler",
+      "status": "Upcoming",
+      "score": null,
+      "line": null,
+      "note": "Class 4A playoffs, second round. Good Hope (8 and 3) hosts Deshler (9 and 2). Kickoff 7 p.m.",
+      "source": {
+        "name": "WAKA 8 and AHSAA: second round schedule",
+        "url": "https://www.waka.com/2026/11/08/schedule-set-for-ahsaa-second-round-football-playoffs/"
+      }
+    },
+    {
+      "id": "vhs-1113",
+      "school": "vinemont",
+      "label": "Vinemont High Football",
+      "sport": "Football",
+      "period": "Q",
+      "start": "2026-11-13T19:00:00-06:00",
+      "venue": "Vinemont",
+      "home": "vinemont",
+      "away": "fayette-county",
+      "status": "Upcoming",
+      "score": null,
+      "line": null,
+      "note": "Class 3A playoffs, second round. Vinemont (7 and 4) hosts Fayette County (9 and 2), its first home playoff game in 33 years. Kickoff 7 p.m.",
+      "source": {
+        "name": "WAKA 8 and AHSAA: second round schedule",
+        "url": "https://www.waka.com/2026/11/08/schedule-set-for-ahsaa-second-round-football-playoffs/"
+      }
+    },
+    {
+      "id": "ws-wbb-2026-11-06",
+      "school": "wallace",
+      "label": "Wallace State Women's Basketball",
+      "sport": "Basketball",
+      "period": "Q",
+      "start": "2026-11-06T17:00:00-06:00",
+      "venue": "Chipola Classic, Marianna, Fla.",
+      "home": "gulf-coast",
+      "away": "wallace",
+      "status": "Final",
+      "score": {
+        "home": 75,
+        "away": 60
+      },
+      "line": null,
+      "note": "Chipola Classic.",
+      "source": {
+        "name": "Wallace State Athletics women's basketball schedule",
+        "url": "https://athletics.wallacestate.edu/sports/wbkb/2026-27/schedule"
+      }
+    },
+    {
+      "id": "ws-wbb-2026-11-07",
+      "school": "wallace",
+      "label": "Wallace State Women's Basketball",
+      "sport": "Basketball",
+      "period": "Q",
+      "start": "2026-11-07T15:00:00-06:00",
+      "venue": "Chipola College, Marianna, Fla.",
+      "home": "chipola",
+      "away": "wallace",
+      "status": "Final",
+      "score": {
+        "home": 73,
+        "away": 61
+      },
+      "line": null,
+      "note": "Chipola Classic.",
+      "source": {
+        "name": "Wallace State Athletics women's basketball schedule",
+        "url": "https://athletics.wallacestate.edu/sports/wbkb/2026-27/schedule"
+      }
+    },
+    {
+      "id": "ws-wbb-2026-11-16",
+      "school": "wallace",
+      "label": "Wallace State Women's Basketball",
+      "sport": "Basketball",
+      "period": "Q",
+      "start": "2026-11-16T16:30:00-06:00",
+      "venue": "Pellissippi State, Knoxville, Tenn.",
+      "home": "pellissippi",
+      "away": "wallace",
+      "status": "Upcoming",
+      "score": null,
+      "line": null,
+      "note": "Road game. Tip time 4:30 p.m.",
+      "source": {
+        "name": "Wallace State Athletics women's basketball schedule",
+        "url": "https://athletics.wallacestate.edu/sports/wbkb/2026-27/schedule"
+      }
+    },
+    {
+      "id": "ws-mbb-2026-11-12",
+      "school": "wallace",
+      "label": "Wallace State Men's Basketball",
+      "sport": "Basketball",
+      "period": "Q",
+      "start": "2026-11-12T18:00:00-06:00",
+      "venue": "Bevill State",
+      "home": "bevill-state",
+      "away": "wallace",
+      "status": "Upcoming",
+      "score": null,
+      "line": null,
+      "note": "Road game. Tipoff 6 p.m.",
+      "source": {
+        "name": "Wallace State Athletics men's basketball schedule",
+        "url": "https://athletics.wallacestate.edu/sports/mbkb/2026-27/schedule"
+      }
+    },
+    {
+      "id": "ws-mbb-2026-11-14",
+      "school": "wallace",
+      "label": "Wallace State Men's Basketball",
+      "sport": "Basketball",
+      "period": "Q",
+      "start": "2026-11-14T15:00:00-06:00",
+      "venue": "Tom Drake Coliseum, Wallace State",
+      "home": "wallace",
+      "away": "albany-tech",
+      "status": "Upcoming",
+      "score": null,
+      "line": null,
+      "note": "Home game. Tipoff 3 p.m.",
+      "source": {
+        "name": "Wallace State Athletics men's basketball schedule",
+        "url": "https://athletics.wallacestate.edu/sports/mbkb/2026-27/schedule"
       }
     }
   ]

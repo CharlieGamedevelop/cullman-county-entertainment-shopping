@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cullman County Entertainment and Shopping//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:adoration_sodality_day_of_recollection_retreat-20261119@cullman-count
+ y-entertainment-shopping
+DTSTAMP:20261109T120000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Adoration Sodality Day of Recollection Retreat
+LOCATION:Shrine of the Most Blessed Sacrament\, 3224 County Road 548\, Ha
+ nceville\, AL
+DESCRIPTION:The Poor Clares host a day of recollection with Mass\, confes
+ sion\, prayer and the rosary with the sisters\, and a Eucharistic Healing
+  Service. Father Daniel Klimek\, a Marian theologian and author\, is the 
+ featured speaker. Time: See the Shrine page for the schedule. https://cul
+ lmantimes.com/2026/11/07/calendar-of-events/
+URL:https://cullmantimes.com/2026/11/07/calendar-of-events/
+END:VEVENT
+END:VCALENDAR

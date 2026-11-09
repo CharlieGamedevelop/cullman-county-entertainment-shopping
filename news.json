@@ -1,31 +1,35 @@
 [
   {
-    "id": "playoff-friday-nov-6-cold-springs-good-hope-vinemont",
-    "date": "2026-11-05",
+    "id": "playoff-round-one-results-nov-6",
+    "date": "2026-11-09",
     "top": true,
     "category": "Sports",
     "graphic": "🏈",
-    "headline": "Three Cullman County teams open the football playoffs Friday night",
-    "summary": "Cold Springs hosts Pisgah at home, while Good Hope travels to Fairfield and Vinemont visits Central Florence. Kickoffs are at 7 p.m.",
+    "headline": "All three Cullman County teams win their playoff openers and play again Friday",
+    "summary": "Cold Springs, Good Hope and Vinemont each advanced on Friday night. All three second round games kick off at 7 p.m. this Friday, Nov. 13.",
     "body": [
-      "Playoff football is here. Three Cullman County high school teams tip off the AHSAA postseason on Friday night, Nov. 6, and each kickoff is set for 7 p.m.",
-      "No. 10 Cold Springs finished the regular season 9 and 1 and hosts Pisgah (5 and 5) in Class 2A at Cold Springs High School in Bremen. It is the Eagles' first home playoff game since 2003. Cold Springs wrapped the regular season with a 57 to 20 win over Tanner on Oct. 29.",
-      "Good Hope finished 7 and 3 and opens Class 4A on the road at Fairfield (6 and 4). The Raiders placed third in Class 4A Region 8 after a 49 to 14 loss at undefeated Scottsboro on Oct. 30.",
-      "Vinemont (6 and 4) visits Central Florence (8 and 2) in Class 3A. The Eagles earned a seventh straight playoff berth and allowed 170 points in the regular season, their fewest since 2009.",
-      "Neighboring Addison also hosts a Class 1A opener, but Addison is in Winston County, so that game stays off our Game Center. Finals will post here once local news confirms them. For tickets and campus details, check each school's own pages."
+      "Cullman County went three for three in the first round of the AHSAA football playoffs on Friday night, Nov. 6.",
+      "Cold Springs beat Pisgah 42 to 34 in Class 2A in Bremen. Ethan Day ran 10 yards for the go ahead touchdown with 27 seconds left and then ran in the 2 point conversion. It was the first playoff win for the Eagles since 1993, and they improved to 10 and 1. Cold Springs now travels to Lexington (10 and 1) on Friday, Nov. 13.",
+      "Good Hope won 24 to 21 at Fairfield in double overtime in Class 4A. The Raiders led 14 to 0 in the fourth quarter before Fairfield tied it and forced overtime. Junior kicker Chase Prewett made a 34 yard field goal in the second overtime after an interception. Good Hope improved to 8 and 3 and hosts Deshler (9 and 2) on Friday.",
+      "Vinemont beat Central Florence 16 to 8 in Class 3A for the program's first postseason win since 1993 and finished the night at 7 and 4. The Eagles host Fayette County (9 and 2) on Friday, their first home playoff game in 33 years.",
+      "All second round kickoffs are at 7 p.m. For tickets and game details, check each school's own pages. Neighboring Addison is in Winston County, so that game stays off our Game Center."
     ],
     "sources": [
       {
-        "name": "The Cullman Times: Local teams prepare for playoff matchups (Nov. 3, 2026)",
-        "url": "https://cullmantimes.com/2026/11/03/prep-football-local-teams-prepare-for-playoff-matchups/"
+        "name": "The Cullman Tribune: Day scores with 27 seconds left to lift Cold Springs past Pisgah 42 to 34 (Nov. 6, 2026)",
+        "url": "https://www.cullmantribune.com/2026/11/06/prep-football-playoffs-day-scores-with-27-seconds-left-to-lift-cold-springs-past-pisgah-42-34/"
       },
       {
-        "name": "AHSAA: 2026 playoff brackets are set",
-        "url": "https://www.ahsaa.com/Media/AHSAANOW/News-Articles/the-2026-ahsaa-playoff-brackets-are-set"
+        "name": "The Cullman Tribune: Prewett's field goal lifts Good Hope past Fairfield 24 to 21 in double overtime (Nov. 6, 2026)",
+        "url": "https://www.cullmantribune.com/2026/11/06/prep-football-playoffs-prewetts-field-goal-lifts-good-hope-past-fairfield-24-21-in-double-ot/"
       },
       {
-        "name": "The Cullman Tribune: Cold Springs finishes 9 and 1 (Nov. 3, 2026)",
-        "url": "https://www.cullmantribune.com/2026/11/03/prep-football-cold-springs-finishes-9-1-as-cullman-county-teams-close-regular-season/"
+        "name": "The Cullman Times: Vinemont takes down Central Florence for first postseason win since 1993 (Nov. 6, 2026)",
+        "url": "https://cullmantimes.com/2026/11/06/prep-football-3a-playoffs-vinemont-takes-down-central-florence-for-1st-postseason-win-since-1993/"
+      },
+      {
+        "name": "WAKA 8: Schedule set for AHSAA second round football playoffs (Nov. 8, 2026)",
+        "url": "https://www.waka.com/2026/11/08/schedule-set-for-ahsaa-second-round-football-playoffs/"
       }
     ],
     "tags": [
@@ -34,6 +38,168 @@
       "cold springs",
       "good hope",
       "vinemont"
+    ]
+  },
+  {
+    "id": "cold-springs-cross-country-fourth-straight-state-title",
+    "date": "2026-11-08",
+    "top": false,
+    "category": "Sports",
+    "graphic": "🏃",
+    "headline": "Cold Springs girls win a fourth straight state cross country title",
+    "summary": "Gemma and Reese Swidecki finished first and second in the Class 1A to 2A girls race at Oakville Indian Mounds Park on Saturday, Nov. 7.",
+    "body": [
+      "Cold Springs seventh grader Gemma Swidecki won the Class 1A to 2A girls state cross country championship on Saturday, Nov. 7, in Oakville. Her older sister Reese, last year's champion, finished second.",
+      "Gemma ran the 5 kilometer course in a personal best 18 minutes, 51.2 seconds. Reese, a freshman, finished in 19 minutes, 27.4 seconds. Cold Springs won the team title with 36 points to Sand Rock's 55, and all five Eagles who counted toward the score finished in the top 17.",
+      "The Cold Springs boys placed second with 88 points, behind Sand Rock's 80.",
+      "Cullman's boys finished fourth and its girls sixth in Class 5A. Vinemont had a runner in the top 10 of each Class 3A race, and the Holly Pond girls placed 10th as a team. In all, 56 runners from nine Cullman County schools finished the state meet."
+    ],
+    "sources": [
+      {
+        "name": "The Cullman Tribune: Swidecki sisters finish 1, 2 as Cold Springs wins fourth straight state title (Nov. 8, 2026)",
+        "url": "https://www.cullmantribune.com/2026/11/08/prep-cross-country-swidecki-sisters-finish-1-2-as-cold-springs-wins-fourth-straight-state-title/"
+      }
+    ],
+    "tags": [
+      "cross country",
+      "state title",
+      "cold springs"
+    ]
+  },
+  {
+    "id": "cullman-lake-rules-ordinance-first-reading-nov-9",
+    "date": "2026-11-09",
+    "top": false,
+    "category": "City Hall",
+    "graphic": "🏛️",
+    "headline": "Cullman City Council to hear a lake protection proposal with a $2,500 minimum fine",
+    "summary": "Ordinance 2026-56 is scheduled for a first reading Monday, Nov. 9. It would update rules at Lake Catoma, Lake George and Duck River Reservoir and is not yet law.",
+    "body": [
+      "The Cullman City Council is scheduled to give Ordinance No. 2026-56 a first reading on Monday, Nov. 9. The proposal updates rules for Lake Catoma, Lake George and Duck River Reservoir, which are part of the city's drinking water supply.",
+      "The city's 2007 ordinance set fines from $50 to $500 per violation. The proposal sets a minimum of $2,500 per violation after a conviction. Fines would depend on the damage, repeat violations and the threat to public safety, and a person could also be required to restore the protected buffer.",
+      "The protected strip along the water would be 25 feet at Lake George, 35 feet at Lake Catoma and 100 feet at Duck River Reservoir. Lake Catoma owners could keep mowing the buffer during three short windows a year, now with grass left at least 4 inches high and clippings taken outside the buffer. The 25 horsepower boat motor limit stays, and a boat with a larger motor attached could not operate on the lakes even if the motor is off.",
+      "Council President Kim Hall said many of the existing rules are nearly 20 years old and were written before Duck River Reservoir joined the water system. The ordinance is a proposal until the Council votes on it."
+    ],
+    "sources": [
+      {
+        "name": "The Cullman Tribune: Cullman proposes $2.5K minimum fine for lake violations (Nov. 8, 2026)",
+        "url": "https://www.cullmantribune.com/2026/11/08/cullman-proposes-2-5k-minimum-fine-for-lake-violations-but-many-catoma-rules-date-to-2007/"
+      }
+    ],
+    "tags": [
+      "city council",
+      "lake catoma",
+      "ordinance",
+      "water"
+    ]
+  },
+  {
+    "id": "cullman-compost-pickup-returns-nov-14",
+    "date": "2026-11-08",
+    "top": false,
+    "category": "City Hall",
+    "graphic": "🌱",
+    "headline": "City of Cullman brings back free compost pickup on Saturday, Nov. 14",
+    "summary": "Residents can pick up compost at the city's sanitation sites starting Nov. 14 for a small fee, three years after the program was paused.",
+    "body": [
+      "The City of Cullman sanitation department plans to relaunch its compost pickup service on Saturday, Nov. 14, Superintendent Sam Dillender told the City Council on Oct. 26.",
+      "The city paused the program three years ago because it was not satisfied with the quality of its compost. New equipment now produces cleaner material, and an independent third party verified it as high quality.",
+      "Compost can be picked up at the city sanitation facilities in Welti or on Convent Road during normal business hours. Fees are $25 for most cars and trucks, $50 for trailers 16 to 18 feet long, $100 for dump trailers and $200 for dump trucks.",
+      "The program is fed by the city's leaf vacuum service, which runs through Jan. 29, 2027. Residents can put unbagged leaves by the road near their trash carts. Dillender estimated crews will collect about 1,000 loads."
+    ],
+    "sources": [
+      {
+        "name": "The Cullman Times: City of Cullman revives composting program (Nov. 8, 2026)",
+        "url": "https://cullmantimes.com/2026/11/08/city-of-cullman-revives-composting-program/"
+      }
+    ],
+    "tags": [
+      "compost",
+      "sanitation",
+      "leaf vacuum"
+    ]
+  },
+  {
+    "id": "veterans-hall-of-fame-induction-nov-17",
+    "date": "2026-11-07",
+    "top": false,
+    "category": "Around the County",
+    "graphic": "🎖️",
+    "headline": "Cullman Veterans Hall of Fame will induct a new class on Tuesday, Nov. 17",
+    "summary": "The fourth annual ceremony and dinner is at Loft 212. Doors open at 5:30 p.m. and the program starts at 6:15 p.m.",
+    "body": [
+      "The Cullman Veterans Hall of Fame will induct a new class on Tuesday, Nov. 17. The ceremony and dinner takes place at Loft 212 in downtown Cullman. Doors open at 5:30 p.m. and the event begins at 6:15 p.m.",
+      "Committee lead Col. Don Fallin said the hall of fame recognizes veterans who served honorably, showed great character and kept serving their community. He said Cullman has more than 7,000 veterans and that this is the fourth year of the program.",
+      "People who want to attend can reach out to a local service organization or contact the committee lead using the details in the Tribune article."
+    ],
+    "sources": [
+      {
+        "name": "The Cullman Tribune: New members of Cullman Veterans Hall of Fame to be honored Nov. 17 (Nov. 7, 2026)",
+        "url": "https://www.cullmantribune.com/2026/11/07/new-members-of-cullman-veterans-hall-of-fame-to-be-honored-nov-17/"
+      }
+    ],
+    "tags": [
+      "veterans",
+      "hall of fame",
+      "loft 212"
+    ]
+  },
+  {
+    "id": "bella-balle-condominiums-downtown-cullman",
+    "date": "2026-11-07",
+    "top": false,
+    "category": "Business",
+    "graphic": "🏗️",
+    "headline": "Construction begins on Bella Balle Condominiums in downtown Cullman",
+    "summary": "The three story building will add four condominiums and ground floor commercial space near Fourth Street SE. Builders expect the work to take 12 to 14 months.",
+    "body": [
+      "Construction has started on Bella Balle Condominiums, a three story development in downtown Cullman, according to the Cullman Economic Development Agency.",
+      "Public real estate listings place the building at 208 Fourth St. SE, next to Hele Bowls and 412 Public House. Plans call for commercial space on the first floor and two condominiums on each of the second and third floors. One unit has already sold to a local family.",
+      "Advertised asking prices range from $649,900 to $699,900. Those are listing prices, not confirmed sale prices. The agency has not named a tenant for the first floor space or given a total investment figure."
+    ],
+    "sources": [
+      {
+        "name": "The Cullman Tribune: Construction begins on Bella Balle Condominiums in downtown Cullman (Nov. 7, 2026)",
+        "url": "https://www.cullmantribune.com/2026/11/07/construction-begins-on-bella-balle-condominiums-in-downtown-cullman/"
+      }
+    ],
+    "tags": [
+      "downtown",
+      "development",
+      "condominiums"
+    ]
+  },
+  {
+    "id": "wallace-state-basketball-weekend-nov-7",
+    "date": "2026-11-09",
+    "top": false,
+    "category": "Sports",
+    "graphic": "🏀",
+    "headline": "Wallace State basketball teams fall to Itawamba and Chipola on Saturday",
+    "summary": "The Lions men lost 80 to 56 at home to Itawamba, and the women lost 73 to 61 at Chipola after a 75 to 60 loss to Gulf Coast State on Friday.",
+    "body": [
+      "Itawamba Community College beat the Wallace State men 80 to 56 on Saturday, Nov. 7, at Tom Drake Coliseum in Hanceville. Itawamba improved to 2 and 0. The Lions had opened the season with a 97 to 90 win over Snead State on Nov. 5.",
+      "The Wallace State women played two games at the Chipola Classic in Marianna, Florida. Gulf Coast State won 75 to 60 on Friday, Nov. 6, and Chipola won 73 to 61 on Saturday, Nov. 7.",
+      "Next up, the men visit Bevill State on Thursday, Nov. 12, at 6 p.m. and host Albany Technical College on Saturday, Nov. 14, at 3 p.m. The women play at Pellissippi State on Monday, Nov. 16, at 4:30 p.m."
+    ],
+    "sources": [
+      {
+        "name": "Wallace State Athletics: men's basketball schedule",
+        "url": "https://athletics.wallacestate.edu/sports/mbkb/2026-27/schedule"
+      },
+      {
+        "name": "Wallace State Athletics: women's basketball schedule",
+        "url": "https://athletics.wallacestate.edu/sports/wbkb/2026-27/schedule"
+      },
+      {
+        "name": "Itawamba Athletics men's basketball: final from Hanceville, 80 to 56 (Nov. 7, 2026)",
+        "url": "https://www.letsgoicc.com/sports/mbkb/index"
+      }
+    ],
+    "tags": [
+      "wallace state",
+      "basketball",
+      "lions"
     ]
   },
   {

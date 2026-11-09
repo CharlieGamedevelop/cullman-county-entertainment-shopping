@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cullman County Entertainment and Shopping//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:free_thanksgiving_to_go_lunch_at_spirit_life_church-20261114@cullman-
+ county-entertainment-shopping
+DTSTAMP:20261109T120000Z
+DTSTART;TZID=America/Chicago:20261114T090000
+DTEND;TZID=America/Chicago:20261114T110000
+SUMMARY:Free Thanksgiving To Go Lunch at Spirit Life Church
+LOCATION:Spirit Life Church\, 1650 St. Joseph Drive NW\, Cullman\, AL
+DESCRIPTION:Spirit Life Church invites the community to pick up a free Th
+ anksgiving to go lunch on Saturday morning. Time: 9:00 AM to 11:00 AM. ht
+ tps://cullmantimes.com/2026/11/07/calendar-of-events/
+URL:https://cullmantimes.com/2026/11/07/calendar-of-events/
+END:VEVENT
+END:VCALENDAR

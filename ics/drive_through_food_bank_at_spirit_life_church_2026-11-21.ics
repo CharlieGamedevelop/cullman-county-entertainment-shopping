@@ -23,7 +23,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:drive_through_food_bank_at_spirit_life_church-20261121@cullman-county
  -entertainment-shopping
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T120000Z
 DTSTART;TZID=America/Chicago:20261121T090000
 DTEND;TZID=America/Chicago:20261121T110000
 SUMMARY:Drive Through Food Bank at Spirit Life Church

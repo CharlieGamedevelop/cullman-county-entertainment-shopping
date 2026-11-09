@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cullman County Entertainment and Shopping//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:cullman_veterans_hall_of_fame_induction_ceremony_and_dinner-20261117@
+ cullman-county-entertainment-shopping
+DTSTAMP:20261109T120000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Cullman Veterans Hall of Fame Induction Ceremony and Dinner
+LOCATION:Loft 212\, 212 4th Street SW\, Cullman\, AL
+DESCRIPTION:The fourth annual Cullman Veterans Hall of Fame induction hon
+ ors veterans who served the country and then kept serving their community
+ . To attend\, reach out to a local service organization or the committee 
+ lead named in the Tribune article. Time: Doors 5:30 PM\, program 6:15 PM.
+  https://www.cullmantribune.com/2026/11/07/new-members-of-cullman-veteran
+ s-hall-of-fame-to-be-honored-nov-17/
+URL:https://www.cullmantribune.com/2026/11/07/new-members-of-cullman-vete
+ rans-hall-of-fame-to-be-honored-nov-17/
+END:VEVENT
+END:VCALENDAR
