@@ -144,21 +144,6 @@
  },
  {
   "category": "Restaurants",
-  "name": "Augusta's Sports Grill",
-  "service": "Sports grill",
-  "town": "Cullman",
-  "address": "609 Graham St SW, Cullman, AL 35055",
-  "phone": "(256) 775-9445",
-  "summary": "A sports grill on Graham St SW in Cullman. Stop in for a meal.",
-  "tags": [
-   "cullman",
-   "restaurants",
-   "sports grill"
-  ],
-  "group": "Pubs, Grills and Breweries"
- },
- {
-  "category": "Restaurants",
   "name": "Azul Tequila Mexican Cantina",
   "service": "Mexican restaurant",
   "town": "Hanceville",
