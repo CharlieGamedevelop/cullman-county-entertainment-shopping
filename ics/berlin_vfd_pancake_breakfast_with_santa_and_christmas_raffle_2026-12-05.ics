@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cullman County Entertainment and Shopping//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:berlin_vfd_pancake_breakfast_with_santa_and_christmas_raffle-20261205
+ @cullman-county-entertainment-shopping
+DTSTAMP:20261113T120000Z
+DTSTART;TZID=America/Chicago:20261205T070000
+DTEND;TZID=America/Chicago:20261205T100000
+SUMMARY:Berlin VFD Pancake Breakfast with Santa and Christmas Raffle
+LOCATION:Berlin Community Center\, 3309 U.S. Highway 278\, Berlin\, AL
+DESCRIPTION:Enjoy pancakes with bacon or sausage and a drink\, visit with
+  Santa and enter the Christmas raffle\, with prizes that include a go kar
+ t\, a mini bike\, a kids' ride-on mower and a Blackstone griddle. All raf
+ fle money supports the department's Christmas for Kids program. Call Berl
+ in Town Hall at 256-736-3138 for details. Time: 7:00 AM to 10:00 AM. http
+ s://www.cullmantribune.com/2026/11/13/berlin-vfd-hosting-breakfast-with-s
+ anta-christmas-raffle-dec-5/
+URL:https://www.cullmantribune.com/2026/11/13/berlin-vfd-hosting-breakfas
+ t-with-santa-christmas-raffle-dec-5/
+END:VEVENT
+END:VCALENDAR

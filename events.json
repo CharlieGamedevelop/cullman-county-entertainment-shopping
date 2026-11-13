@@ -33,6 +33,26 @@
   ]
  },
  {
+  "name": "Chamber Christmas Open House and Cookie Crawl",
+  "start": "2026-11-13",
+  "end": "2026-11-14",
+  "time": "Fri 4 PM to 6 PM with Santa at the Chamber; Sat Cookie Crawl during shop hours",
+  "venue": "Cullman Area Chamber of Commerce, 301 2nd Avenue SW",
+  "town": "Cullman",
+  "host": "Cullman Area Chamber of Commerce",
+  "cost": "Free",
+  "summary": "The Chamber's annual Christmas Open House starts Friday, Nov. 13, when Santa Claus visits the Chamber building on U.S. 31 from 4 to 6 p.m. and families pick up themed cookie boxes. On Saturday, participating shops in the downtown warehouse district hand out fresh holiday cookies for the Cookie Crawl. The Great Christmas Pickle Hunt follows on Sunday.",
+  "url": "https://cullmantimes.com/2026/11/08/shop-local-chamber-of-commerce-christmas-open-house-kicks-off-friday-nov-13/",
+  "group": "Fairs and Festivals",
+  "tags": [
+   "christmas",
+   "shop local",
+   "santa",
+   "chamber",
+   "free"
+  ]
+ },
+ {
   "name": "40th Annual Ho! Ho! Ho!",
   "start": "2026-11-14",
   "time": "9:00 AM to 2:00 PM",
@@ -102,6 +122,25 @@
    "free",
    "community",
    "church"
+  ]
+ },
+ {
+  "name": "Pleasant Grove Cemetery Community Cleanup and Fish Fry",
+  "start": "2026-11-14",
+  "time": "8:00 AM cleanup, fish fry at 11:00 AM",
+  "venue": "Pleasant Grove Cemetery (Colony Community Cemetery)",
+  "town": "Colony",
+  "host": "Town of Colony",
+  "cost": "Free",
+  "summary": "The Town of Colony invites neighbors to help clean up Pleasant Grove Cemetery on Saturday morning. A fish fry follows the cleanup at 11 a.m. Dress warm, since a freeze is expected that morning.",
+  "url": "https://www.cullmantribune.com/2026/11/12/colony-council-approves-library-repairs-bank-resolution-announces-holiday-events/",
+  "group": "Classes and Community",
+  "tags": [
+   "colony",
+   "cleanup",
+   "fish fry",
+   "community",
+   "volunteer"
   ]
  },
  {
@@ -329,6 +368,44 @@
   ]
  },
  {
+  "name": "Cocoa, Cookies and Claus",
+  "start": "2026-12-05",
+  "time": "11:00 AM to 1:00 PM",
+  "venue": "The Cullman Tribune office, 219 2nd Avenue SE",
+  "town": "Cullman",
+  "host": "The Cullman Tribune",
+  "cost": "Free",
+  "summary": "Families can enjoy hot chocolate and cookies and visit with Santa Claus at The Cullman Tribune office. A Tribune photographer will take a free photo with Santa, and guests are welcome to snap their own pictures too.",
+  "url": "https://www.cullmantribune.com/2026/11/09/the-cullman-tribune-invites-community-to-cocoa-cookies-and-claus-dec-5/",
+  "group": "Classes and Community",
+  "tags": [
+   "christmas",
+   "santa",
+   "family",
+   "free"
+  ]
+ },
+ {
+  "name": "Berlin VFD Pancake Breakfast with Santa and Christmas Raffle",
+  "start": "2026-12-05",
+  "time": "7:00 AM to 10:00 AM",
+  "venue": "Berlin Community Center, 3309 U.S. Highway 278",
+  "town": "Berlin",
+  "host": "Berlin Volunteer Fire Department",
+  "cost": "Plates by donation; raffle tickets $5 each or six for $20",
+  "summary": "Enjoy pancakes with bacon or sausage and a drink, visit with Santa and enter the Christmas raffle, with prizes that include a go kart, a mini bike, a kids' ride-on mower and a Blackstone griddle. All raffle money supports the department's Christmas for Kids program. Call Berlin Town Hall at 256-736-3138 for details.",
+  "url": "https://www.cullmantribune.com/2026/11/13/berlin-vfd-hosting-breakfast-with-santa-christmas-raffle-dec-5/",
+  "group": "Classes and Community",
+  "tags": [
+   "christmas",
+   "santa",
+   "breakfast",
+   "berlin",
+   "fundraiser",
+   "family"
+  ]
+ },
+ {
   "name": "Lights of Love Ceremony",
   "start": "2026-12-08",
   "time": "6:00 PM",
@@ -363,6 +440,44 @@
    "concert",
    "free",
    "wallace state"
+  ]
+ },
+ {
+  "name": "Good Hope Christmas Parade and Christmas in the Park",
+  "start": "2026-12-12",
+  "time": "Parade 11:00 AM; Christmas in the Park follows",
+  "venue": "Parade from Good Hope High School football field along County Road 437 to Good Hope City Hall; Christmas in the Park at Good Hope Municipal Park",
+  "town": "Good Hope",
+  "host": "City of Good Hope",
+  "cost": "Free",
+  "summary": "This year's theme is Be the Light. The parade steps off at 11 a.m. from the Good Hope High School football field and ends at City Hall, where Christmas in the Park continues at Municipal Park with Santa and free food from the city. Parade entries line up at 10 a.m.; call City Hall at 256-739-3757 for details.",
+  "url": "https://www.cullmantribune.com/2026/11/13/good-hope-christmas-parade-christmas-in-the-park-set-for-dec-12/",
+  "group": "Fairs and Festivals",
+  "tags": [
+   "christmas",
+   "parade",
+   "good hope",
+   "free",
+   "family"
+  ]
+ },
+ {
+  "name": "Fairview Christmas Festival, Tinsel Tree Trail and Parade",
+  "start": "2026-12-12",
+  "time": "Festival and caroling 5:00 PM; parade follows",
+  "venue": "Fairview Town Park",
+  "town": "Fairview",
+  "host": "Town of Fairview and Fairview High School",
+  "cost": "Free to attend",
+  "summary": "Fairview's holiday day includes an all ages fun run and a 5K earlier in the day, then an evening festival with caroling at 5 p.m. and a parade with floats, the marching band and Santa. The new Tinsel Tree Trail at the town park features trees decorated by local families and businesses.",
+  "url": "https://www.cullmantribune.com/2026/11/13/fairview-seeks-tree-sponsors-for-tinsel-tree-trail-at-town-park/",
+  "group": "Fairs and Festivals",
+  "tags": [
+   "christmas",
+   "parade",
+   "fairview",
+   "free",
+   "family"
   ]
  },
  {
@@ -414,82 +529,6 @@
    "fundraiser",
    "golf",
    "nonprofit"
-  ]
- },
- {
-  "name": "Chamber Christmas Open House and Cookie Crawl",
-  "start": "2026-11-13",
-  "end": "2026-11-14",
-  "time": "Fri 4 PM to 6 PM with Santa at the Chamber; Sat Cookie Crawl during shop hours",
-  "venue": "Cullman Area Chamber of Commerce, 301 2nd Avenue SW",
-  "town": "Cullman",
-  "host": "Cullman Area Chamber of Commerce",
-  "cost": "Free",
-  "summary": "The Chamber's annual Christmas Open House starts Friday, Nov. 13, when Santa Claus visits the Chamber building on U.S. 31 from 4 to 6 p.m. and families pick up themed cookie boxes. On Saturday, participating shops in the downtown warehouse district hand out fresh holiday cookies for the Cookie Crawl. The Great Christmas Pickle Hunt follows on Sunday.",
-  "url": "https://cullmantimes.com/2026/11/08/shop-local-chamber-of-commerce-christmas-open-house-kicks-off-friday-nov-13/",
-  "group": "Fairs and Festivals",
-  "tags": [
-   "christmas",
-   "shop local",
-   "santa",
-   "chamber",
-   "free"
-  ]
- },
- {
-  "name": "Cocoa, Cookies and Claus",
-  "start": "2026-12-05",
-  "time": "11:00 AM to 1:00 PM",
-  "venue": "The Cullman Tribune office, 219 2nd Avenue SE",
-  "town": "Cullman",
-  "host": "The Cullman Tribune",
-  "cost": "Free",
-  "summary": "Families can enjoy hot chocolate and cookies and visit with Santa Claus at The Cullman Tribune office. A Tribune photographer will take a free photo with Santa, and guests are welcome to snap their own pictures too.",
-  "url": "https://www.cullmantribune.com/2026/11/09/the-cullman-tribune-invites-community-to-cocoa-cookies-and-claus-dec-5/",
-  "group": "Classes and Community",
-  "tags": [
-   "christmas",
-   "santa",
-   "family",
-   "free"
-  ]
- },
- {
-  "name": "Pleasant Grove Cemetery Community Cleanup and Fish Fry",
-  "start": "2026-11-14",
-  "time": "8:00 AM cleanup, fish fry at 11:00 AM",
-  "venue": "Pleasant Grove Cemetery (Colony Community Cemetery)",
-  "town": "Colony",
-  "host": "Town of Colony",
-  "cost": "Free",
-  "summary": "The Town of Colony invites neighbors to help clean up Pleasant Grove Cemetery on Saturday morning. A fish fry follows the cleanup at 11 a.m. Dress warm, since a freeze is expected that morning.",
-  "url": "https://www.cullmantribune.com/2026/11/12/colony-council-approves-library-repairs-bank-resolution-announces-holiday-events/",
-  "group": "Classes and Community",
-  "tags": [
-   "colony",
-   "cleanup",
-   "fish fry",
-   "community",
-   "volunteer"
-  ]
- },
- {
-  "name": "Good Hope Christmas Parade and Christmas in the Park",
-  "start": "2026-12-12",
-  "time": "Parade 11:00 AM; Christmas in the Park follows",
-  "venue": "Parade from Good Hope High School football field along County Road 437 to Good Hope City Hall; Christmas in the Park at Good Hope Municipal Park",
-  "town": "Good Hope",
-  "host": "City of Good Hope",
-  "cost": "Free",
-  "summary": "This year's theme is Be the Light. The parade steps off at 11 a.m. from the Good Hope High School football field and ends at City Hall, where Christmas in the Park continues at Municipal Park with Santa and free food from the city. Parade entries line up at 10 a.m.; call City Hall at 256-739-3757 for details.",
-  "url": "https://www.cullmantribune.com/2026/11/13/good-hope-christmas-parade-christmas-in-the-park-set-for-dec-12/",
-  "group": "Fairs and Festivals",
-  "tags": [
-   "christmas",
-   "parade",
-   "good hope",
-   "free",
-   "family"
   ]
  }
 ]

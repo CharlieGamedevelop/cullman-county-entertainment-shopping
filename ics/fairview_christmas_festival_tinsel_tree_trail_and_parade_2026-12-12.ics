@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cullman County Entertainment and Shopping//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:fairview_christmas_festival_tinsel_tree_trail_and_parade-20261212@cul
+ lman-county-entertainment-shopping
+DTSTAMP:20261113T120000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Fairview Christmas Festival\, Tinsel Tree Trail and Parade
+LOCATION:Fairview Town Park\, Fairview\, AL
+DESCRIPTION:Fairview's holiday day includes an all ages fun run and a 5K 
+ earlier in the day\, then an evening festival with caroling at 5 p.m. and
+  a parade with floats\, the marching band and Santa. The new Tinsel Tree 
+ Trail at the town park features trees decorated by local families and bus
+ inesses. Time: Festival and caroling 5:00 PM\; parade follows. https://ww
+ w.cullmantribune.com/2026/11/13/fairview-seeks-tree-sponsors-for-tinsel-t
+ ree-trail-at-town-park/
+URL:https://www.cullmantribune.com/2026/11/13/fairview-seeks-tree-sponsor
+ s-for-tinsel-tree-trail-at-town-park/
+END:VEVENT
+END:VCALENDAR
