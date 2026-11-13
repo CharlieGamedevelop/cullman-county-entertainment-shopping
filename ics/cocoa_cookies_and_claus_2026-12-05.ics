@@ -23,7 +23,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:cocoa_cookies_and_claus-20261205@cullman-county-entertainment-shoppin
  g
-DTSTAMP:20261109T120000Z
+DTSTAMP:20261112T120000Z
 DTSTART;TZID=America/Chicago:20261205T110000
 DTEND;TZID=America/Chicago:20261205T130000
 SUMMARY:Cocoa\, Cookies and Claus

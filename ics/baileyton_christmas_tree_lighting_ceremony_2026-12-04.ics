@@ -23,7 +23,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:baileyton_christmas_tree_lighting_ceremony-20261204@cullman-county-en
  tertainment-shopping
-DTSTAMP:20261109T120000Z
+DTSTAMP:20261112T120000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Baileyton Christmas Tree Lighting Ceremony

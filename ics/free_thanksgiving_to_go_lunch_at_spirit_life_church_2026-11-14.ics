@@ -23,7 +23,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:free_thanksgiving_to_go_lunch_at_spirit_life_church-20261114@cullman-
  county-entertainment-shopping
-DTSTAMP:20261109T120000Z
+DTSTAMP:20261112T120000Z
 DTSTART;TZID=America/Chicago:20261114T090000
 DTEND;TZID=America/Chicago:20261114T110000
 SUMMARY:Free Thanksgiving To Go Lunch at Spirit Life Church

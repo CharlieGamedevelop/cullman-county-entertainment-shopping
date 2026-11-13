@@ -1,5 +1,158 @@
 [
  {
+  "id": "freeze-watch-nov-13-14",
+  "date": "2026-11-12",
+  "top": false,
+  "category": "Weather",
+  "graphic": "🥶",
+  "headline": "Freeze Watch for Cullman County late Friday night into Saturday morning",
+  "summary": "The National Weather Service in Huntsville says lows could reach 27 degrees. Cover tender plants and protect outdoor pipes, and bundle up for Friday night football.",
+  "body": [
+   "The National Weather Service in Huntsville issued a Freeze Watch on Thursday night, Nov. 12, that includes Cullman County. The watch runs until 8 a.m. Saturday, Nov. 14.",
+   "Forecasters say temperatures could drop as low as 27 degrees across north Alabama from late Friday night through Saturday morning. A freeze like that can kill sensitive plants and damage unprotected outdoor plumbing.",
+   "Take time Friday to cover or bring in tender plants, protect outdoor faucets and pipes, and check on pets and neighbors. If you are headed to one of Friday's playoff games, dress in warm layers since it will get cold quickly after dark.",
+   "For the latest details, check the National Weather Service in Huntsville."
+  ],
+  "sources": [
+   {
+    "name": "National Weather Service Huntsville: Freeze Watch for Cullman County (issued Nov. 12, 2026, 9:23 p.m.)",
+    "url": "https://forecast.weather.gov/MapClick.php?lat=34.1748&lon=-86.8436"
+   }
+  ],
+  "tags": [
+   "weather",
+   "freeze",
+   "nws"
+  ]
+ },
+ {
+  "id": "walker-barnett-sworn-in-commission",
+  "date": "2026-11-12",
+  "top": false,
+  "category": "Government",
+  "graphic": "🏛️",
+  "headline": "Kenneth Walker and Richard Barnett join the Cullman County Commission",
+  "summary": "The two new commissioners took the oath on Wednesday, Nov. 11. Their first work session is Tuesday, Nov. 17, at 4 p.m. at the courthouse.",
+  "body": [
+   "Kenneth Walker and Richard Barnett were sworn in on Wednesday morning, Nov. 11, as the newest members of the Cullman County Commission.",
+   "Walker, who led the Commission as chairman from 2012 to 2020, now represents District 1. Barnett represents District 2. They take over from Commissioners Kerry Watson and Garry Marchman, who each served 12 years.",
+   "The new members join Chairman Jeff Clemons, Commissioner Kelly Duke of District 3 and Commissioner Corey Freeman of District 4.",
+   "The next Commission work session is Tuesday, Nov. 17, at 4 p.m., followed by the regular meeting at 6 p.m. Both meetings are in the Commission meeting room at the Cullman County Courthouse and are open to the public."
+  ],
+  "sources": [
+   {
+    "name": "The Cullman Tribune: Walker, Barnett sworn in as newest Cullman County commissioners (Nov. 11, 2026)",
+    "url": "https://www.cullmantribune.com/2026/11/11/walker-barnett-sworn-in-as-newest-cullman-county-commissioners/"
+   }
+  ],
+  "tags": [
+   "county commission",
+   "government"
+  ]
+ },
+ {
+  "id": "cold-springs-girls-fourth-straight-xc-title",
+  "date": "2026-11-10",
+  "top": false,
+  "category": "Sports",
+  "graphic": "🏃",
+  "headline": "Cold Springs girls win a fourth straight state cross country title",
+  "summary": "The Cold Springs girls took the Class 1A and 2A crown at Saturday's state meet, and the Cold Springs boys finished second.",
+  "body": [
+   "Cold Springs girls cross country won its fourth state championship in a row at the state meet on Saturday, Nov. 7, taking the Class 1A and 2A title with 36 points. Sand Rock was next with 55.",
+   "Cold Springs runners placed first and second in the race, which sealed a comfortable team win.",
+   "The Cold Springs boys earned a runner up trophy in the same class, finishing eight points behind Sand Rock.",
+   "Other county schools were well represented too. Cullman's girls placed sixth in Class 5A and Holly Pond's girls finished 10th in Class 3A, and runners from Vinemont, Good Hope, Fairview, West Point and Cullman Christian also competed. Runners in the top 15 earned All State honors. Congratulations to everyone who ran."
+  ],
+  "sources": [
+   {
+    "name": "The Cullman Times: Cold Springs girls win 4th straight title at state XC meet (Nov. 10, 2026)",
+    "url": "https://cullmantimes.com/2026/11/10/blue-blue-blue-blue-and-gold-cold-springs-girls-win-4th-straight-title-at-state-xc-meet/"
+   }
+  ],
+  "tags": [
+   "cross country",
+   "cold springs",
+   "high school sports"
+  ]
+ },
+ {
+  "id": "cullman-theatre-best-in-show-giant-peach",
+  "date": "2026-11-12",
+  "top": false,
+  "category": "Entertainment",
+  "graphic": "🎭",
+  "headline": "Cullman High Theatre wins Best in Show and stages James and the Giant Peach this weekend",
+  "summary": "The Cullman High one act won Best in Show at the District 3 Trumbauer festival and heads to state at UAB in December. Local audiences can see it Nov. 13 and 14.",
+  "body": [
+   "Cullman High School Theatre hosted the District 3 Walter Trumbauer High School Theatre Festival on Nov. 7 and won Best in Show for its one act production of James and the Giant Peach, based on the Roald Dahl children's book.",
+   "The win sends the group to the Walter Trumbauer State Festival at the University of Alabama at Birmingham on Dec. 4 and 5. Director Wayne Cook told The Tribune the program has won Best in Show at state three of the last four years.",
+   "A student designed the colorful set to look like a children's pop up book, and the show also earned awards for its cast and its sound design.",
+   "You can see the show at home on Nov. 13 and 14. Check our events page for times and the venue."
+  ],
+  "sources": [
+   {
+    "name": "The Cullman Tribune: Best in Show: Cullman Theatre wins for James and the Giant Peach; see it Nov. 13 to 14 (Nov. 12, 2026)",
+    "url": "https://www.cullmantribune.com/2026/11/12/best-in-show-cullman-theatre-wins-for-james-and-the-giant-peach-see-it-nov-13-14/"
+   }
+  ],
+  "tags": [
+   "theatre",
+   "cullman high",
+   "family"
+  ]
+ },
+ {
+  "id": "veterans-day-tip-off-classic-results",
+  "date": "2026-11-12",
+  "top": false,
+  "category": "Sports",
+  "graphic": "🏀",
+  "headline": "County teams win six of eight games at the Veterans Day Tip Off Classic",
+  "summary": "West Point swept Oakman, Vinemont's boys moved to 3 and 0, and Cullman's boys plus the Holly Pond and Good Hope girls also won at Tom Drake Coliseum.",
+  "body": [
+   "High school basketball season is rolling. Local teams won six of the eight varsity games at the Veterans Day Tip Off Classic on Wednesday, Nov. 11, at Wallace State's Tom Drake Coliseum in Hanceville.",
+   "West Point swept Oakman. The boys erased a six point halftime deficit and won 72 to 46, and the girls won their season opener 61 to 24.",
+   "Vinemont's boys beat Wilson 66 to 48 with four players in double figures to improve to 3 and 0.",
+   "Cullman's boys and the Holly Pond and Good Hope girls also picked up wins."
+  ],
+  "sources": [
+   {
+    "name": "The Cullman Tribune: West Point sweeps Oakman, Vinemont improves to 3 and 0 at Veterans Day Tip Off Classic (Nov. 12, 2026)",
+    "url": "https://www.cullmantribune.com/2026/11/12/prep-basketball-west-point-sweeps-oakman-vinemont-improves-to-3-0-at-veterans-day-tip-off-classic/"
+   }
+  ],
+  "tags": [
+   "basketball",
+   "high school sports"
+  ]
+ },
+ {
+  "id": "hunt-family-foundation-good-hope-parks",
+  "date": "2026-11-12",
+  "top": false,
+  "category": "Community",
+  "graphic": "⚾",
+  "headline": "Hunt Family Foundation gives $1,500 to Good Hope parks",
+  "summary": "The gift honors John E. Hunt, longtime director of Cullman Parks, Recreation and Sports Tourism, and will help with scholarships and equipment.",
+  "body": [
+   "The Hunt Family Foundation presented a $1,500 donation to Good Hope's parks at the Good Hope City Council meeting on Monday, Nov. 9. The money will go toward scholarships and equipment.",
+   "The foundation honors John E. Hunt, who led the City of Cullman Parks, Recreation and Sports Tourism department for more than 22 years. During his time the department added Heritage Park, the Field of Miracles and the Cullman Wellness and Aquatic Center. He retired in 2014 and passed away in 2020.",
+   "The family raises money each year through the John E. Hunt Memorial Golf Tournament at Cross Creek Golf Course, which held its sixth tournament in August. It is a kind way to keep helping local kids get in the game."
+  ],
+  "sources": [
+   {
+    "name": "The Cullman Tribune: Hunt Family Foundation gives $1.5K to Good Hope parks in memory of longtime parks director (Nov. 12, 2026)",
+    "url": "https://www.cullmantribune.com/2026/11/12/hunt-family-foundation-gives-1-5k-to-good-hope-parks-in-memory-of-longtime-parks-director/"
+   }
+  ],
+  "tags": [
+   "parks",
+   "good hope",
+   "nonprofit"
+  ]
+ },
+ {
   "id": "playoff-round-one-results-nov-6",
   "date": "2026-11-09",
   "top": true,

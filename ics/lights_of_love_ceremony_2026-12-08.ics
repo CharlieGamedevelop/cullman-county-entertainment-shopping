@@ -23,7 +23,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:lights_of_love_ceremony-20261208@cullman-county-entertainment-shoppin
  g
-DTSTAMP:20261109T120000Z
+DTSTAMP:20261112T120000Z
 DTSTART;TZID=America/Chicago:20261208T180000
 DTEND;TZID=America/Chicago:20261208T200000
 SUMMARY:Lights of Love Ceremony
