@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cullman County Entertainment and Shopping//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:good_hope_christmas_parade_and_christmas_in_the_park-20261212@cullman
+ -county-entertainment-shopping
+DTSTAMP:20261113T120000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Good Hope Christmas Parade and Christmas in the Park
+LOCATION:Parade from Good Hope High School football field along County Ro
+ ad 437 to Good Hope City Hall\; Christmas in the Park at Good Hope Munici
+ pal Park\, Good Hope\, AL
+DESCRIPTION:This year's theme is Be the Light. The parade steps off at 11
+  a.m. from the Good Hope High School football field and ends at City Hall
+ \, where Christmas in the Park continues at Municipal Park with Santa and
+  free food from the city. Parade entries line up at 10 a.m.\; call City H
+ all at 256-739-3757 for details. Time: Parade 11:00 AM\; Christmas in the
+  Park follows. https://www.cullmantribune.com/2026/11/13/good-hope-christ
+ mas-parade-christmas-in-the-park-set-for-dec-12/
+URL:https://www.cullmantribune.com/2026/11/13/good-hope-christmas-parade-
+ christmas-in-the-park-set-for-dec-12/
+END:VEVENT
+END:VCALENDAR
