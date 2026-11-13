@@ -453,5 +453,24 @@
    "family",
    "free"
   ]
+ },
+ {
+  "name": "Pleasant Grove Cemetery Community Cleanup and Fish Fry",
+  "start": "2026-11-14",
+  "time": "8:00 AM cleanup, fish fry at 11:00 AM",
+  "venue": "Pleasant Grove Cemetery (Colony Community Cemetery)",
+  "town": "Colony",
+  "host": "Town of Colony",
+  "cost": "Free",
+  "summary": "The Town of Colony invites neighbors to help clean up Pleasant Grove Cemetery on Saturday morning. A fish fry follows the cleanup at 11 a.m. Dress warm, since a freeze is expected that morning.",
+  "url": "https://www.cullmantribune.com/2026/11/12/colony-council-approves-library-repairs-bank-resolution-announces-holiday-events/",
+  "group": "Classes and Community",
+  "tags": [
+   "colony",
+   "cleanup",
+   "fish fry",
+   "community",
+   "volunteer"
+  ]
  }
 ]

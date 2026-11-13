@@ -23,7 +23,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:wreaths_across_america_ceremonies-20261219@cullman-county-entertainme
  nt-shopping
-DTSTAMP:20261112T120000Z
+DTSTAMP:20261113T120000Z
 DTSTART;TZID=America/Chicago:20261219T100000
 DTEND;TZID=America/Chicago:20261219T120000
 SUMMARY:Wreaths Across America Ceremonies

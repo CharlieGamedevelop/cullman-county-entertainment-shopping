@@ -23,7 +23,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:chamber_christmas_open_house_and_cookie_crawl-20261113@cullman-county
  -entertainment-shopping
-DTSTAMP:20261112T120000Z
+DTSTAMP:20261113T120000Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261115
 SUMMARY:Chamber Christmas Open House and Cookie Crawl

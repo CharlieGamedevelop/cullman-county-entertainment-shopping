@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T06:39:06-06:00",
+  "updated": "2026-11-13T06:55:00-06:00",
   "teams": {
     "cullman": {
       "name": "Cullman",
@@ -1507,8 +1507,11 @@
       "venue": "Bevill State",
       "home": "bevill-state",
       "away": "wallace",
-      "status": "Upcoming",
-      "score": null,
+      "status": "Final",
+      "score": {
+        "home": 100,
+        "away": 90
+      },
       "line": null,
       "note": "Road game. Tipoff 6 p.m.",
       "source": {

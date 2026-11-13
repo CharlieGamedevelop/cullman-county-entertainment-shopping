@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cullman County Entertainment and Shopping//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pleasant_grove_cemetery_community_cleanup_and_fish_fry-20261114@cullm
+ an-county-entertainment-shopping
+DTSTAMP:20261113T120000Z
+DTSTART;TZID=America/Chicago:20261114T080000
+DTEND;TZID=America/Chicago:20261114T100000
+SUMMARY:Pleasant Grove Cemetery Community Cleanup and Fish Fry
+LOCATION:Pleasant Grove Cemetery (Colony Community Cemetery)\, Colony\, A
+ L
+DESCRIPTION:The Town of Colony invites neighbors to help clean up Pleasan
+ t Grove Cemetery on Saturday morning. A fish fry follows the cleanup at 1
+ 1 a.m. Dress warm\, since a freeze is expected that morning. Time: 8:00 A
+ M cleanup\, fish fry at 11:00 AM. https://www.cullmantribune.com/2026/11/
+ 12/colony-council-approves-library-repairs-bank-resolution-announces-holi
+ day-events/
+URL:https://www.cullmantribune.com/2026/11/12/colony-council-approves-lib
+ rary-repairs-bank-resolution-announces-holiday-events/
+END:VEVENT
+END:VCALENDAR

@@ -23,7 +23,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:christkindlmarkt_grand_opening_and_pyramid_lighting-20261119@cullman-
  county-entertainment-shopping
-DTSTAMP:20261112T120000Z
+DTSTAMP:20261113T120000Z
 DTSTART;TZID=America/Chicago:20261119T180000
 DTEND;TZID=America/Chicago:20261119T200000
 SUMMARY:Christkindlmarkt Grand Opening and Pyramid Lighting
